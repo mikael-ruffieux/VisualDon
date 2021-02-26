@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Page HTML</title>
+    <style>
+        ellipse:hover {
+            fill: red;
+        }
+
+        rect:hover {
+            fill: green;
+        }
+
+        text:hover {
+            text-transform: lowercase;
+        }
+    </style>
+</head>
+<body>
+    <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg" transform="translate(30, 50)" id="svg">
+        <g>
+            <rect width="100%" height="100%" fill="blue" />
+    
+            <ellipse cx="150" cy="100" rx="100" ry="60" fill="yellow" />
+    
+            <text id="text" x="150" y="120" font-size="60" text-anchor="middle" fill="blue" font-family="sans-serif" font-weight="bold">IKEA</text>
+        </g>
+    </svg>
+    <script>
+        const svg = document.getElementById('svg');
+
+        svg.addEventListener("click", function () {
+            document.getElementById('text').innerHTML = "Hello!";
+        });
+
+    </script>
+    
+</body>
+</html>
