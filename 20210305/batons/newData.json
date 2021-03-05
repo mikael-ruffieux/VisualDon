@@ -1,0 +1,8739 @@
+[
+    {
+        "commune": "Aeugst am Albis",
+        "productionPotentielle": 13.43
+    },
+    {
+        "commune": "Affoltern am Albis",
+        "productionPotentielle": 50.06
+    },
+    {
+        "commune": "Bonstetten",
+        "productionPotentielle": 19.66
+    },
+    {
+        "commune": "Hausen am Albis",
+        "productionPotentielle": 23.67
+    },
+    {
+        "commune": "Hedingen",
+        "productionPotentielle": 19.14
+    },
+    {
+        "commune": "Kappel am Albis",
+        "productionPotentielle": 9.47
+    },
+    {
+        "commune": "Knonau",
+        "productionPotentielle": 13.18
+    },
+    {
+        "commune": "Maschwanden",
+        "productionPotentielle": 6.12
+    },
+    {
+        "commune": "Mettmenstetten",
+        "productionPotentielle": 30.41
+    },
+    {
+        "commune": "Obfelden",
+        "productionPotentielle": 24.82
+    },
+    {
+        "commune": "Ottenbach",
+        "productionPotentielle": 15.96
+    },
+    {
+        "commune": "Rifferswil",
+        "productionPotentielle": 9.55
+    },
+    {
+        "commune": "Stallikon",
+        "productionPotentielle": 16.73
+    },
+    {
+        "commune": "Wettswil am Albis",
+        "productionPotentielle": 19.45
+    },
+    {
+        "commune": "Adlikon",
+        "productionPotentielle": 7.06
+    },
+    {
+        "commune": "Benken (ZH)",
+        "productionPotentielle": 8.9
+    },
+    {
+        "commune": "Berg am Irchel",
+        "productionPotentielle": 6.1
+    },
+    {
+        "commune": "Buch am Irchel",
+        "productionPotentielle": 9.65
+    },
+    {
+        "commune": "Dachsen",
+        "productionPotentielle": 10.66
+    },
+    {
+        "commune": "Dorf",
+        "productionPotentielle": 5.12
+    },
+    {
+        "commune": "Feuerthalen",
+        "productionPotentielle": 15.51
+    },
+    {
+        "commune": "Flaach",
+        "productionPotentielle": 12.91
+    },
+    {
+        "commune": "Flurlingen",
+        "productionPotentielle": 8.85
+    },
+    {
+        "commune": "Andelfingen",
+        "productionPotentielle": 16.54
+    },
+    {
+        "commune": "Henggart",
+        "productionPotentielle": 10.54
+    },
+    {
+        "commune": "Humlikon",
+        "productionPotentielle": 4.04
+    },
+    {
+        "commune": "Kleinandelfingen",
+        "productionPotentielle": 16.5
+    },
+    {
+        "commune": "Laufen-Uhwiesen",
+        "productionPotentielle": 11.35
+    },
+    {
+        "commune": "Marthalen",
+        "productionPotentielle": 22.02
+    },
+    {
+        "commune": "Ossingen",
+        "productionPotentielle": 16.18
+    },
+    {
+        "commune": "Rheinau",
+        "productionPotentielle": 12.05
+    },
+    {
+        "commune": "Thalheim an der Thur",
+        "productionPotentielle": 8.94
+    },
+    {
+        "commune": "Trüllikon",
+        "productionPotentielle": 11.37
+    },
+    {
+        "commune": "Truttikon",
+        "productionPotentielle": 4.98
+    },
+    {
+        "commune": "Volken",
+        "productionPotentielle": 3.3
+    },
+    {
+        "commune": "Bachenbülach",
+        "productionPotentielle": 20.79
+    },
+    {
+        "commune": "Bassersdorf",
+        "productionPotentielle": 37.67
+    },
+    {
+        "commune": "Bülach",
+        "productionPotentielle": 70.63
+    },
+    {
+        "commune": "Dietlikon",
+        "productionPotentielle": 38.14
+    },
+    {
+        "commune": "Eglisau",
+        "productionPotentielle": 23.49
+    },
+    {
+        "commune": "Embrach",
+        "productionPotentielle": 45.23
+    },
+    {
+        "commune": "Freienstein-Teufen",
+        "productionPotentielle": 11.57
+    },
+    {
+        "commune": "Glattfelden",
+        "productionPotentielle": 21.15
+    },
+    {
+        "commune": "Hochfelden",
+        "productionPotentielle": 9.85
+    },
+    {
+        "commune": "Höri",
+        "productionPotentielle": 14.91
+    },
+    {
+        "commune": "Hüntwangen",
+        "productionPotentielle": 8.3
+    },
+    {
+        "commune": "Kloten",
+        "productionPotentielle": 113.84
+    },
+    {
+        "commune": "Lufingen",
+        "productionPotentielle": 9.88
+    },
+    {
+        "commune": "Nürensdorf",
+        "productionPotentielle": 30.35
+    },
+    {
+        "commune": "Oberembrach",
+        "productionPotentielle": 10.21
+    },
+    {
+        "commune": "Opfikon",
+        "productionPotentielle": 50.91
+    },
+    {
+        "commune": "Rafz",
+        "productionPotentielle": 29.73
+    },
+    {
+        "commune": "Rorbas",
+        "productionPotentielle": 10.02
+    },
+    {
+        "commune": "Wallisellen",
+        "productionPotentielle": 61.57
+    },
+    {
+        "commune": "Wasterkingen",
+        "productionPotentielle": 3.98
+    },
+    {
+        "commune": "Wil (ZH)",
+        "productionPotentielle": 13.59
+    },
+    {
+        "commune": "Winkel",
+        "productionPotentielle": 19.91
+    },
+    {
+        "commune": "Bachs",
+        "productionPotentielle": 6.92
+    },
+    {
+        "commune": "Boppelsen",
+        "productionPotentielle": 8.46
+    },
+    {
+        "commune": "Buchs (ZH)",
+        "productionPotentielle": 33.08
+    },
+    {
+        "commune": "Dällikon",
+        "productionPotentielle": 24.21
+    },
+    {
+        "commune": "Dänikon",
+        "productionPotentielle": 7.52
+    },
+    {
+        "commune": "Dielsdorf",
+        "productionPotentielle": 33.18
+    },
+    {
+        "commune": "Hüttikon",
+        "productionPotentielle": 3.74
+    },
+    {
+        "commune": "Neerach",
+        "productionPotentielle": 16.6
+    },
+    {
+        "commune": "Niederglatt",
+        "productionPotentielle": 19.21
+    },
+    {
+        "commune": "Niederhasli",
+        "productionPotentielle": 39.68
+    },
+    {
+        "commune": "Niederweningen",
+        "productionPotentielle": 16.29
+    },
+    {
+        "commune": "Oberglatt",
+        "productionPotentielle": 23.12
+    },
+    {
+        "commune": "Oberweningen",
+        "productionPotentielle": 8.46
+    },
+    {
+        "commune": "Otelfingen",
+        "productionPotentielle": 29.4
+    },
+    {
+        "commune": "Regensberg",
+        "productionPotentielle": 2.24
+    },
+    {
+        "commune": "Regensdorf",
+        "productionPotentielle": 87.36
+    },
+    {
+        "commune": "Rümlang",
+        "productionPotentielle": 48.9
+    },
+    {
+        "commune": "Schleinikon",
+        "productionPotentielle": 5.81
+    },
+    {
+        "commune": "Schöfflisdorf",
+        "productionPotentielle": 7.93
+    },
+    {
+        "commune": "Stadel",
+        "productionPotentielle": 17.97
+    },
+    {
+        "commune": "Steinmaur",
+        "productionPotentielle": 21.28
+    },
+    {
+        "commune": "Weiach",
+        "productionPotentielle": 9.9
+    },
+    {
+        "commune": "Bäretswil",
+        "productionPotentielle": 33.47
+    },
+    {
+        "commune": "Bubikon",
+        "productionPotentielle": 43.04
+    },
+    {
+        "commune": "Dürnten",
+        "productionPotentielle": 36.61
+    },
+    {
+        "commune": "Fischenthal",
+        "productionPotentielle": 17.45
+    },
+    {
+        "commune": "Gossau (ZH)",
+        "productionPotentielle": 49.79
+    },
+    {
+        "commune": "Grüningen",
+        "productionPotentielle": 22.26
+    },
+    {
+        "commune": "Hinwil",
+        "productionPotentielle": 84.82
+    },
+    {
+        "commune": "Rüti (ZH)",
+        "productionPotentielle": 48.81
+    },
+    {
+        "commune": "Seegräben",
+        "productionPotentielle": 8.71
+    },
+    {
+        "commune": "Wald (ZH)",
+        "productionPotentielle": 53.58
+    },
+    {
+        "commune": "Wetzikon (ZH)",
+        "productionPotentielle": 94.35
+    },
+    {
+        "commune": "Adliswil",
+        "productionPotentielle": 46.76
+    },
+    {
+        "commune": "Kilchberg (ZH)",
+        "productionPotentielle": 24.25
+    },
+    {
+        "commune": "Langnau am Albis",
+        "productionPotentielle": 24.14
+    },
+    {
+        "commune": "Oberrieden",
+        "productionPotentielle": 13.7
+    },
+    {
+        "commune": "Richterswil",
+        "productionPotentielle": 41.77
+    },
+    {
+        "commune": "Rüschlikon",
+        "productionPotentielle": 19.38
+    },
+    {
+        "commune": "Thalwil",
+        "productionPotentielle": 41.82
+    },
+    {
+        "commune": "Erlenbach (ZH)",
+        "productionPotentielle": 19.9
+    },
+    {
+        "commune": "Herrliberg",
+        "productionPotentielle": 27.71
+    },
+    {
+        "commune": "Hombrechtikon",
+        "productionPotentielle": 40.46
+    },
+    {
+        "commune": "Küsnacht (ZH)",
+        "productionPotentielle": 53.75
+    },
+    {
+        "commune": "Männedorf",
+        "productionPotentielle": 32.3
+    },
+    {
+        "commune": "Meilen",
+        "productionPotentielle": 48.98
+    },
+    {
+        "commune": "Oetwil am See",
+        "productionPotentielle": 24.1
+    },
+    {
+        "commune": "Stäfa",
+        "productionPotentielle": 49.49
+    },
+    {
+        "commune": "Uetikon am See",
+        "productionPotentielle": 23.46
+    },
+    {
+        "commune": "Zumikon",
+        "productionPotentielle": 22.75
+    },
+    {
+        "commune": "Zollikon",
+        "productionPotentielle": 38.29
+    },
+    {
+        "commune": "Fehraltorf",
+        "productionPotentielle": 34.51
+    },
+    {
+        "commune": "Hittnau",
+        "productionPotentielle": 22.99
+    },
+    {
+        "commune": "Lindau",
+        "productionPotentielle": 31.7
+    },
+    {
+        "commune": "Pfäffikon",
+        "productionPotentielle": 55.28
+    },
+    {
+        "commune": "Russikon",
+        "productionPotentielle": 27.32
+    },
+    {
+        "commune": "Weisslingen",
+        "productionPotentielle": 20.77
+    },
+    {
+        "commune": "Wila",
+        "productionPotentielle": 13.74
+    },
+    {
+        "commune": "Wildberg",
+        "productionPotentielle": 10.17
+    },
+    {
+        "commune": "Dübendorf",
+        "productionPotentielle": 91.84
+    },
+    {
+        "commune": "Egg",
+        "productionPotentielle": 39.34
+    },
+    {
+        "commune": "Fällanden",
+        "productionPotentielle": 28.18
+    },
+    {
+        "commune": "Greifensee",
+        "productionPotentielle": 13.45
+    },
+    {
+        "commune": "Maur",
+        "productionPotentielle": 41.12
+    },
+    {
+        "commune": "Mönchaltorf",
+        "productionPotentielle": 21.31
+    },
+    {
+        "commune": "Schwerzenbach",
+        "productionPotentielle": 18.4
+    },
+    {
+        "commune": "Uster",
+        "productionPotentielle": 121.41
+    },
+    {
+        "commune": "Volketswil",
+        "productionPotentielle": 81.94
+    },
+    {
+        "commune": "Wangen-Brüttisellen",
+        "productionPotentielle": 37.66
+    },
+    {
+        "commune": "Altikon",
+        "productionPotentielle": 8.9
+    },
+    {
+        "commune": "Brütten",
+        "productionPotentielle": 13.87
+    },
+    {
+        "commune": "Dägerlen",
+        "productionPotentielle": 9.12
+    },
+    {
+        "commune": "Dättlikon",
+        "productionPotentielle": 4.58
+    },
+    {
+        "commune": "Dinhard",
+        "productionPotentielle": 12.22
+    },
+    {
+        "commune": "Ellikon an der Thur",
+        "productionPotentielle": 17.58
+    },
+    {
+        "commune": "Elsau",
+        "productionPotentielle": 20.23
+    },
+    {
+        "commune": "Hagenbuch",
+        "productionPotentielle": 9.24
+    },
+    {
+        "commune": "Hettlingen",
+        "productionPotentielle": 15.93
+    },
+    {
+        "commune": "Neftenbach",
+        "productionPotentielle": 37.25
+    },
+    {
+        "commune": "Pfungen",
+        "productionPotentielle": 19.83
+    },
+    {
+        "commune": "Rickenbach (ZH)",
+        "productionPotentielle": 16.64
+    },
+    {
+        "commune": "Schlatt (ZH)",
+        "productionPotentielle": 6.73
+    },
+    {
+        "commune": "Seuzach",
+        "productionPotentielle": 31.5
+    },
+    {
+        "commune": "Turbenthal",
+        "productionPotentielle": 26.21
+    },
+    {
+        "commune": "Winterthur",
+        "productionPotentielle": 356.4
+    },
+    {
+        "commune": "Zell (ZH)",
+        "productionPotentielle": 26.65
+    },
+    {
+        "commune": "Aesch (ZH)",
+        "productionPotentielle": 9.01
+    },
+    {
+        "commune": "Birmensdorf (ZH)",
+        "productionPotentielle": 28.94
+    },
+    {
+        "commune": "Dietikon",
+        "productionPotentielle": 84.98
+    },
+    {
+        "commune": "Geroldswil",
+        "productionPotentielle": 15.1
+    },
+    {
+        "commune": "Oberengstringen",
+        "productionPotentielle": 15.29
+    },
+    {
+        "commune": "Oetwil an der Limmat",
+        "productionPotentielle": 8.13
+    },
+    {
+        "commune": "Schlieren",
+        "productionPotentielle": 66.06
+    },
+    {
+        "commune": "Uitikon",
+        "productionPotentielle": 18.72
+    },
+    {
+        "commune": "Unterengstringen",
+        "productionPotentielle": 14.27
+    },
+    {
+        "commune": "Urdorf",
+        "productionPotentielle": 38.56
+    },
+    {
+        "commune": "Weiningen (ZH)",
+        "productionPotentielle": 17.49
+    },
+    {
+        "commune": "Zürich",
+        "productionPotentielle": 865.54
+    },
+    {
+        "commune": "Stammheim",
+        "productionPotentielle": 34.51
+    },
+    {
+        "commune": "Wädenswil",
+        "productionPotentielle": 96.35
+    },
+    {
+        "commune": "Elgg",
+        "productionPotentielle": 35.43
+    },
+    {
+        "commune": "Horgen",
+        "productionPotentielle": 72.49
+    },
+    {
+        "commune": "Illnau-Effretikon",
+        "productionPotentielle": 73.85
+    },
+    {
+        "commune": "Bauma",
+        "productionPotentielle": 32.51
+    },
+    {
+        "commune": "Wiesendangen",
+        "productionPotentielle": 38.77
+    },
+    {
+        "commune": "Aarberg",
+        "productionPotentielle": 35.55
+    },
+    {
+        "commune": "Bargen (BE)",
+        "productionPotentielle": 12.36
+    },
+    {
+        "commune": "Grossaffoltern",
+        "productionPotentielle": 31.47
+    },
+    {
+        "commune": "Kallnach",
+        "productionPotentielle": 30.26
+    },
+    {
+        "commune": "Kappelen",
+        "productionPotentielle": 18.28
+    },
+    {
+        "commune": "Lyss",
+        "productionPotentielle": 88.8
+    },
+    {
+        "commune": "Meikirch",
+        "productionPotentielle": 19.87
+    },
+    {
+        "commune": "Radelfingen",
+        "productionPotentielle": 16.06
+    },
+    {
+        "commune": "Rapperswil (BE)",
+        "productionPotentielle": 35.7
+    },
+    {
+        "commune": "Schüpfen",
+        "productionPotentielle": 34.87
+    },
+    {
+        "commune": "Seedorf (BE)",
+        "productionPotentielle": 34.39
+    },
+    {
+        "commune": "Aarwangen",
+        "productionPotentielle": 28.96
+    },
+    {
+        "commune": "Auswil",
+        "productionPotentielle": 6.54
+    },
+    {
+        "commune": "Bannwil",
+        "productionPotentielle": 7.81
+    },
+    {
+        "commune": "Bleienbach",
+        "productionPotentielle": 9.95
+    },
+    {
+        "commune": "Busswil bei Melchnau",
+        "productionPotentielle": 2.92
+    },
+    {
+        "commune": "Gondiswil",
+        "productionPotentielle": 10.87
+    },
+    {
+        "commune": "Langenthal",
+        "productionPotentielle": 105.22
+    },
+    {
+        "commune": "Lotzwil",
+        "productionPotentielle": 19.2
+    },
+    {
+        "commune": "Madiswil",
+        "productionPotentielle": 35.77
+    },
+    {
+        "commune": "Melchnau",
+        "productionPotentielle": 16.02
+    },
+    {
+        "commune": "Oeschenbach",
+        "productionPotentielle": 3.86
+    },
+    {
+        "commune": "Reisiswil",
+        "productionPotentielle": 2.09
+    },
+    {
+        "commune": "Roggwil (BE)",
+        "productionPotentielle": 32.99
+    },
+    {
+        "commune": "Rohrbach",
+        "productionPotentielle": 14.69
+    },
+    {
+        "commune": "Rohrbachgraben",
+        "productionPotentielle": 5.8
+    },
+    {
+        "commune": "Rütschelen",
+        "productionPotentielle": 5.66
+    },
+    {
+        "commune": "Schwarzhäusern",
+        "productionPotentielle": 5.14
+    },
+    {
+        "commune": "Thunstetten",
+        "productionPotentielle": 33.48
+    },
+    {
+        "commune": "Ursenbach",
+        "productionPotentielle": 10.82
+    },
+    {
+        "commune": "Wynau",
+        "productionPotentielle": 12.04
+    },
+    {
+        "commune": "Bern",
+        "productionPotentielle": 436.35
+    },
+    {
+        "commune": "Bolligen",
+        "productionPotentielle": 33.63
+    },
+    {
+        "commune": "Bremgarten bei Bern",
+        "productionPotentielle": 17.08
+    },
+    {
+        "commune": "Kirchlindach",
+        "productionPotentielle": 23.43
+    },
+    {
+        "commune": "Köniz",
+        "productionPotentielle": 169.35
+    },
+    {
+        "commune": "Muri bei Bern",
+        "productionPotentielle": 55.64
+    },
+    {
+        "commune": "Oberbalm",
+        "productionPotentielle": 12.26
+    },
+    {
+        "commune": "Stettlen",
+        "productionPotentielle": 17.18
+    },
+    {
+        "commune": "Vechigen",
+        "productionPotentielle": 38.87
+    },
+    {
+        "commune": "Wohlen bei Bern",
+        "productionPotentielle": 60.57
+    },
+    {
+        "commune": "Zollikofen",
+        "productionPotentielle": 44.3
+    },
+    {
+        "commune": "Ittigen",
+        "productionPotentielle": 44.18
+    },
+    {
+        "commune": "Ostermundigen",
+        "productionPotentielle": 50.97
+    },
+    {
+        "commune": "Biel/Bienne",
+        "productionPotentielle": 192.35
+    },
+    {
+        "commune": "Evilard",
+        "productionPotentielle": 14.3
+    },
+    {
+        "commune": "Arch",
+        "productionPotentielle": 12.25
+    },
+    {
+        "commune": "Büetigen",
+        "productionPotentielle": 9.01
+    },
+    {
+        "commune": "Büren an der Aare",
+        "productionPotentielle": 27.78
+    },
+    {
+        "commune": "Diessbach bei Büren",
+        "productionPotentielle": 11.84
+    },
+    {
+        "commune": "Dotzigen",
+        "productionPotentielle": 12.78
+    },
+    {
+        "commune": "Lengnau (BE)",
+        "productionPotentielle": 27.13
+    },
+    {
+        "commune": "Leuzigen",
+        "productionPotentielle": 13.7
+    },
+    {
+        "commune": "Meienried",
+        "productionPotentielle": 1.02
+    },
+    {
+        "commune": "Meinisberg",
+        "productionPotentielle": 10.95
+    },
+    {
+        "commune": "Oberwil bei Büren",
+        "productionPotentielle": 9.74
+    },
+    {
+        "commune": "Pieterlen",
+        "productionPotentielle": 23.4
+    },
+    {
+        "commune": "Rüti bei Büren",
+        "productionPotentielle": 10.8
+    },
+    {
+        "commune": "Wengi",
+        "productionPotentielle": 9.39
+    },
+    {
+        "commune": "Aefligen",
+        "productionPotentielle": 9.68
+    },
+    {
+        "commune": "Alchenstorf",
+        "productionPotentielle": 7.57
+    },
+    {
+        "commune": "Bäriswil",
+        "productionPotentielle": 6.57
+    },
+    {
+        "commune": "Burgdorf",
+        "productionPotentielle": 101.21
+    },
+    {
+        "commune": "Ersigen",
+        "productionPotentielle": 22.8
+    },
+    {
+        "commune": "Hasle bei Burgdorf",
+        "productionPotentielle": 31.05
+    },
+    {
+        "commune": "Heimiswil",
+        "productionPotentielle": 20.04
+    },
+    {
+        "commune": "Hellsau",
+        "productionPotentielle": 2.35
+    },
+    {
+        "commune": "Hindelbank",
+        "productionPotentielle": 20.15
+    },
+    {
+        "commune": "Höchstetten",
+        "productionPotentielle": 3.84
+    },
+    {
+        "commune": "Kernenried",
+        "productionPotentielle": 5.72
+    },
+    {
+        "commune": "Kirchberg (BE)",
+        "productionPotentielle": 40.3
+    },
+    {
+        "commune": "Koppigen",
+        "productionPotentielle": 20.54
+    },
+    {
+        "commune": "Krauchthal",
+        "productionPotentielle": 19.79
+    },
+    {
+        "commune": "Lyssach",
+        "productionPotentielle": 21.53
+    },
+    {
+        "commune": "Oberburg",
+        "productionPotentielle": 23
+    },
+    {
+        "commune": "Rüdtligen-Alchenflüh",
+        "productionPotentielle": 16.94
+    },
+    {
+        "commune": "Rumendingen",
+        "productionPotentielle": 2.6
+    },
+    {
+        "commune": "Rüti bei Lyssach",
+        "productionPotentielle": 1.84
+    },
+    {
+        "commune": "Willadingen",
+        "productionPotentielle": 2.82
+    },
+    {
+        "commune": "Wynigen",
+        "productionPotentielle": 23.37
+    },
+    {
+        "commune": "Corgémont",
+        "productionPotentielle": 16.11
+    },
+    {
+        "commune": "Cormoret",
+        "productionPotentielle": 5.72
+    },
+    {
+        "commune": "Cortébert",
+        "productionPotentielle": 7.52
+    },
+    {
+        "commune": "Courtelary",
+        "productionPotentielle": 14.44
+    },
+    {
+        "commune": "La Ferrière",
+        "productionPotentielle": 8.47
+    },
+    {
+        "commune": "Mont-Tramelan",
+        "productionPotentielle": 2.95
+    },
+    {
+        "commune": "Orvin",
+        "productionPotentielle": 12.07
+    },
+    {
+        "commune": "Renan (BE)",
+        "productionPotentielle": 9.12
+    },
+    {
+        "commune": "Romont (BE)",
+        "productionPotentielle": 2.2
+    },
+    {
+        "commune": "Saint-Imier",
+        "productionPotentielle": 26.56
+    },
+    {
+        "commune": "Sonceboz-Sombeval",
+        "productionPotentielle": 14.46
+    },
+    {
+        "commune": "Sonvilier",
+        "productionPotentielle": 14.23
+    },
+    {
+        "commune": "Tramelan",
+        "productionPotentielle": 35.38
+    },
+    {
+        "commune": "Villeret",
+        "productionPotentielle": 8.69
+    },
+    {
+        "commune": "Sauge",
+        "productionPotentielle": 7.94
+    },
+    {
+        "commune": "Péry-La Heutte",
+        "productionPotentielle": 13.36
+    },
+    {
+        "commune": "Brüttelen",
+        "productionPotentielle": 9.14
+    },
+    {
+        "commune": "Erlach",
+        "productionPotentielle": 10.06
+    },
+    {
+        "commune": "Finsterhennen",
+        "productionPotentielle": 6.47
+    },
+    {
+        "commune": "Gals",
+        "productionPotentielle": 12.15
+    },
+    {
+        "commune": "Gampelen",
+        "productionPotentielle": 15.46
+    },
+    {
+        "commune": "Ins",
+        "productionPotentielle": 37.62
+    },
+    {
+        "commune": "Lüscherz",
+        "productionPotentielle": 5.34
+    },
+    {
+        "commune": "Müntschemier",
+        "productionPotentielle": 24.21
+    },
+    {
+        "commune": "Siselen",
+        "productionPotentielle": 8.08
+    },
+    {
+        "commune": "Treiten",
+        "productionPotentielle": 5.64
+    },
+    {
+        "commune": "Tschugg",
+        "productionPotentielle": 5.22
+    },
+    {
+        "commune": "Vinelz",
+        "productionPotentielle": 9.52
+    },
+    {
+        "commune": "Bätterkinden",
+        "productionPotentielle": 30.23
+    },
+    {
+        "commune": "Deisswil bei Münchenbuchsee",
+        "productionPotentielle": 2.56
+    },
+    {
+        "commune": "Diemerswil",
+        "productionPotentielle": 3.57
+    },
+    {
+        "commune": "Fraubrunnen",
+        "productionPotentielle": 49.77
+    },
+    {
+        "commune": "Jegenstorf",
+        "productionPotentielle": 34.73
+    },
+    {
+        "commune": "Iffwil",
+        "productionPotentielle": 5.11
+    },
+    {
+        "commune": "Mattstetten",
+        "productionPotentielle": 5.31
+    },
+    {
+        "commune": "Moosseedorf",
+        "productionPotentielle": 30.03
+    },
+    {
+        "commune": "Münchenbuchsee",
+        "productionPotentielle": 50.46
+    },
+    {
+        "commune": "Urtenen-Schönbühl",
+        "productionPotentielle": 27.86
+    },
+    {
+        "commune": "Utzenstorf",
+        "productionPotentielle": 43.76
+    },
+    {
+        "commune": "Wiggiswil",
+        "productionPotentielle": 1.82
+    },
+    {
+        "commune": "Wiler bei Utzenstorf",
+        "productionPotentielle": 9.43
+    },
+    {
+        "commune": "Zielebach",
+        "productionPotentielle": 3.36
+    },
+    {
+        "commune": "Zuzwil (BE)",
+        "productionPotentielle": 5.75
+    },
+    {
+        "commune": "Adelboden",
+        "productionPotentielle": 44.07
+    },
+    {
+        "commune": "Aeschi bei Spiez",
+        "productionPotentielle": 24.38
+    },
+    {
+        "commune": "Frutigen",
+        "productionPotentielle": 65.62
+    },
+    {
+        "commune": "Kandergrund",
+        "productionPotentielle": 8.88
+    },
+    {
+        "commune": "Kandersteg",
+        "productionPotentielle": 13.64
+    },
+    {
+        "commune": "Krattigen",
+        "productionPotentielle": 7.62
+    },
+    {
+        "commune": "Reichenbach im Kandertal",
+        "productionPotentielle": 45.6
+    },
+    {
+        "commune": "Beatenberg",
+        "productionPotentielle": 16.74
+    },
+    {
+        "commune": "Bönigen",
+        "productionPotentielle": 14.56
+    },
+    {
+        "commune": "Brienz (BE)",
+        "productionPotentielle": 33.12
+    },
+    {
+        "commune": "Brienzwiler",
+        "productionPotentielle": 6.35
+    },
+    {
+        "commune": "Därligen",
+        "productionPotentielle": 2.18
+    },
+    {
+        "commune": "Grindelwald",
+        "productionPotentielle": 65.18
+    },
+    {
+        "commune": "Gsteigwiler",
+        "productionPotentielle": 3.25
+    },
+    {
+        "commune": "Gündlischwand",
+        "productionPotentielle": 2.49
+    },
+    {
+        "commune": "Habkern",
+        "productionPotentielle": 14.11
+    },
+    {
+        "commune": "Hofstetten bei Brienz",
+        "productionPotentielle": 7.55
+    },
+    {
+        "commune": "Interlaken",
+        "productionPotentielle": 34.17
+    },
+    {
+        "commune": "Iseltwald",
+        "productionPotentielle": 4.07
+    },
+    {
+        "commune": "Lauterbrunnen",
+        "productionPotentielle": 30.91
+    },
+    {
+        "commune": "Leissigen",
+        "productionPotentielle": 5.96
+    },
+    {
+        "commune": "Lütschental",
+        "productionPotentielle": 2.23
+    },
+    {
+        "commune": "Matten bei Interlaken",
+        "productionPotentielle": 21.89
+    },
+    {
+        "commune": "Niederried bei Interlaken",
+        "productionPotentielle": 3.17
+    },
+    {
+        "commune": "Oberried am Brienzersee",
+        "productionPotentielle": 5.68
+    },
+    {
+        "commune": "Ringgenberg (BE)",
+        "productionPotentielle": 18.36
+    },
+    {
+        "commune": "Saxeten",
+        "productionPotentielle": 1.89
+    },
+    {
+        "commune": "Schwanden bei Brienz",
+        "productionPotentielle": 5.99
+    },
+    {
+        "commune": "Unterseen",
+        "productionPotentielle": 29.98
+    },
+    {
+        "commune": "Wilderswil",
+        "productionPotentielle": 18.56
+    },
+    {
+        "commune": "Arni (BE)",
+        "productionPotentielle": 12.07
+    },
+    {
+        "commune": "Biglen",
+        "productionPotentielle": 16.64
+    },
+    {
+        "commune": "Bowil",
+        "productionPotentielle": 13.8
+    },
+    {
+        "commune": "Brenzikofen",
+        "productionPotentielle": 4.51
+    },
+    {
+        "commune": "Freimettigen",
+        "productionPotentielle": 3.68
+    },
+    {
+        "commune": "Grosshöchstetten",
+        "productionPotentielle": 26.05
+    },
+    {
+        "commune": "Häutligen",
+        "productionPotentielle": 3.06
+    },
+    {
+        "commune": "Herbligen",
+        "productionPotentielle": 5.39
+    },
+    {
+        "commune": "Kiesen",
+        "productionPotentielle": 8.1
+    },
+    {
+        "commune": "Konolfingen",
+        "productionPotentielle": 38.16
+    },
+    {
+        "commune": "Landiswil",
+        "productionPotentielle": 8.93
+    },
+    {
+        "commune": "Linden",
+        "productionPotentielle": 15.83
+    },
+    {
+        "commune": "Mirchel",
+        "productionPotentielle": 5.21
+    },
+    {
+        "commune": "Münsingen",
+        "productionPotentielle": 66.11
+    },
+    {
+        "commune": "Niederhünigen",
+        "productionPotentielle": 4.78
+    },
+    {
+        "commune": "Oberdiessbach",
+        "productionPotentielle": 28.88
+    },
+    {
+        "commune": "Oberthal",
+        "productionPotentielle": 9.92
+    },
+    {
+        "commune": "Oppligen",
+        "productionPotentielle": 5.34
+    },
+    {
+        "commune": "Rubigen",
+        "productionPotentielle": 18.92
+    },
+    {
+        "commune": "Walkringen",
+        "productionPotentielle": 19.2
+    },
+    {
+        "commune": "Worb",
+        "productionPotentielle": 65.09
+    },
+    {
+        "commune": "Zäziwil",
+        "productionPotentielle": 12.5
+    },
+    {
+        "commune": "Oberhünigen",
+        "productionPotentielle": 3.23
+    },
+    {
+        "commune": "Allmendingen",
+        "productionPotentielle": 5.81
+    },
+    {
+        "commune": "Wichtrach",
+        "productionPotentielle": 27.27
+    },
+    {
+        "commune": "Clavaleyres",
+        "productionPotentielle": 0.94
+    },
+    {
+        "commune": "Ferenbalm",
+        "productionPotentielle": 15.9
+    },
+    {
+        "commune": "Frauenkappelen",
+        "productionPotentielle": 11.95
+    },
+    {
+        "commune": "Gurbrü",
+        "productionPotentielle": 3.89
+    },
+    {
+        "commune": "Kriechenwil",
+        "productionPotentielle": 5.36
+    },
+    {
+        "commune": "Laupen",
+        "productionPotentielle": 19.31
+    },
+    {
+        "commune": "Mühleberg",
+        "productionPotentielle": 38.81
+    },
+    {
+        "commune": "Münchenwiler",
+        "productionPotentielle": 5.56
+    },
+    {
+        "commune": "Neuenegg",
+        "productionPotentielle": 44.88
+    },
+    {
+        "commune": "Wileroltigen",
+        "productionPotentielle": 4.72
+    },
+    {
+        "commune": "Belprahon",
+        "productionPotentielle": 3.09
+    },
+    {
+        "commune": "Champoz",
+        "productionPotentielle": 2.48
+    },
+    {
+        "commune": "Corcelles (BE)",
+        "productionPotentielle": 2.96
+    },
+    {
+        "commune": "Court",
+        "productionPotentielle": 13.24
+    },
+    {
+        "commune": "Crémines",
+        "productionPotentielle": 6.25
+    },
+    {
+        "commune": "Eschert",
+        "productionPotentielle": 3.25
+    },
+    {
+        "commune": "Grandval",
+        "productionPotentielle": 4.07
+    },
+    {
+        "commune": "Loveresse",
+        "productionPotentielle": 3.79
+    },
+    {
+        "commune": "Moutier",
+        "productionPotentielle": 37.56
+    },
+    {
+        "commune": "Perrefitte",
+        "productionPotentielle": 4
+    },
+    {
+        "commune": "Reconvilier",
+        "productionPotentielle": 18.73
+    },
+    {
+        "commune": "Roches (BE)",
+        "productionPotentielle": 1.69
+    },
+    {
+        "commune": "Saicourt",
+        "productionPotentielle": 8.27
+    },
+    {
+        "commune": "Saules (BE)",
+        "productionPotentielle": 2.08
+    },
+    {
+        "commune": "Schelten",
+        "productionPotentielle": 0.64
+    },
+    {
+        "commune": "Seehof",
+        "productionPotentielle": 1.44
+    },
+    {
+        "commune": "Sorvilier",
+        "productionPotentielle": 3.51
+    },
+    {
+        "commune": "Tavannes",
+        "productionPotentielle": 23.02
+    },
+    {
+        "commune": "Rebévelier",
+        "productionPotentielle": 1.17
+    },
+    {
+        "commune": "Petit-Val",
+        "productionPotentielle": 8.62
+    },
+    {
+        "commune": "Valbirse",
+        "productionPotentielle": 31.07
+    },
+    {
+        "commune": "La Neuveville",
+        "productionPotentielle": 18.03
+    },
+    {
+        "commune": "Nods",
+        "productionPotentielle": 11.13
+    },
+    {
+        "commune": "Plateau de Diesse",
+        "productionPotentielle": 22.26
+    },
+    {
+        "commune": "Aegerten",
+        "productionPotentielle": 10.85
+    },
+    {
+        "commune": "Bellmund",
+        "productionPotentielle": 9.28
+    },
+    {
+        "commune": "Brügg",
+        "productionPotentielle": 33.19
+    },
+    {
+        "commune": "Bühl",
+        "productionPotentielle": 5.51
+    },
+    {
+        "commune": "Epsach",
+        "productionPotentielle": 3.79
+    },
+    {
+        "commune": "Hagneck",
+        "productionPotentielle": 3.86
+    },
+    {
+        "commune": "Hermrigen",
+        "productionPotentielle": 3.41
+    },
+    {
+        "commune": "Jens",
+        "productionPotentielle": 7.02
+    },
+    {
+        "commune": "Ipsach",
+        "productionPotentielle": 14.56
+    },
+    {
+        "commune": "Ligerz",
+        "productionPotentielle": 3.44
+    },
+    {
+        "commune": "Merzligen",
+        "productionPotentielle": 3.8
+    },
+    {
+        "commune": "Mörigen",
+        "productionPotentielle": 6.76
+    },
+    {
+        "commune": "Nidau",
+        "productionPotentielle": 21.92
+    },
+    {
+        "commune": "Orpund",
+        "productionPotentielle": 14.88
+    },
+    {
+        "commune": "Port",
+        "productionPotentielle": 16.64
+    },
+    {
+        "commune": "Safnern",
+        "productionPotentielle": 15.09
+    },
+    {
+        "commune": "Scheuren",
+        "productionPotentielle": 4.95
+    },
+    {
+        "commune": "Schwadernau",
+        "productionPotentielle": 7.76
+    },
+    {
+        "commune": "Studen (BE)",
+        "productionPotentielle": 19.61
+    },
+    {
+        "commune": "Sutz-Lattrigen",
+        "productionPotentielle": 10.96
+    },
+    {
+        "commune": "Täuffelen",
+        "productionPotentielle": 18.17
+    },
+    {
+        "commune": "Walperswil",
+        "productionPotentielle": 11.1
+    },
+    {
+        "commune": "Worben",
+        "productionPotentielle": 16.46
+    },
+    {
+        "commune": "Twann-Tüscherz",
+        "productionPotentielle": 8.8
+    },
+    {
+        "commune": "Därstetten",
+        "productionPotentielle": 15.7
+    },
+    {
+        "commune": "Diemtigen",
+        "productionPotentielle": 39.29
+    },
+    {
+        "commune": "Erlenbach im Simmental",
+        "productionPotentielle": 28.04
+    },
+    {
+        "commune": "Oberwil im Simmental",
+        "productionPotentielle": 21.39
+    },
+    {
+        "commune": "Reutigen",
+        "productionPotentielle": 8.65
+    },
+    {
+        "commune": "Spiez",
+        "productionPotentielle": 65.57
+    },
+    {
+        "commune": "Wimmis",
+        "productionPotentielle": 20.28
+    },
+    {
+        "commune": "Stocken-Höfen",
+        "productionPotentielle": 7.94
+    },
+    {
+        "commune": "Guttannen",
+        "productionPotentielle": 4.11
+    },
+    {
+        "commune": "Hasliberg",
+        "productionPotentielle": 27.18
+    },
+    {
+        "commune": "Innertkirchen",
+        "productionPotentielle": 15.8
+    },
+    {
+        "commune": "Meiringen",
+        "productionPotentielle": 34.82
+    },
+    {
+        "commune": "Schattenhalb",
+        "productionPotentielle": 5.75
+    },
+    {
+        "commune": "Boltigen",
+        "productionPotentielle": 29.98
+    },
+    {
+        "commune": "Lenk",
+        "productionPotentielle": 50.89
+    },
+    {
+        "commune": "St. Stephan",
+        "productionPotentielle": 24.37
+    },
+    {
+        "commune": "Zweisimmen",
+        "productionPotentielle": 46.3
+    },
+    {
+        "commune": "Gsteig",
+        "productionPotentielle": 18.2
+    },
+    {
+        "commune": "Lauenen",
+        "productionPotentielle": 15.14
+    },
+    {
+        "commune": "Saanen",
+        "productionPotentielle": 115.01
+    },
+    {
+        "commune": "Guggisberg",
+        "productionPotentielle": 26.32
+    },
+    {
+        "commune": "Rüschegg",
+        "productionPotentielle": 20.18
+    },
+    {
+        "commune": "Schwarzenburg",
+        "productionPotentielle": 71.67
+    },
+    {
+        "commune": "Belp",
+        "productionPotentielle": 61.92
+    },
+    {
+        "commune": "Burgistein",
+        "productionPotentielle": 11.64
+    },
+    {
+        "commune": "Gerzensee",
+        "productionPotentielle": 10.78
+    },
+    {
+        "commune": "Gurzelen",
+        "productionPotentielle": 8.32
+    },
+    {
+        "commune": "Jaberg",
+        "productionPotentielle": 2.66
+    },
+    {
+        "commune": "Kaufdorf",
+        "productionPotentielle": 6.8
+    },
+    {
+        "commune": "Kehrsatz",
+        "productionPotentielle": 17.03
+    },
+    {
+        "commune": "Kirchdorf (BE)",
+        "productionPotentielle": 20
+    },
+    {
+        "commune": "Niedermuhlern",
+        "productionPotentielle": 8.02
+    },
+    {
+        "commune": "Riggisberg",
+        "productionPotentielle": 32.43
+    },
+    {
+        "commune": "Rüeggisberg",
+        "productionPotentielle": 28.99
+    },
+    {
+        "commune": "Seftigen",
+        "productionPotentielle": 16.08
+    },
+    {
+        "commune": "Toffen",
+        "productionPotentielle": 17.21
+    },
+    {
+        "commune": "Uttigen",
+        "productionPotentielle": 14.07
+    },
+    {
+        "commune": "Wattenwil",
+        "productionPotentielle": 18.63
+    },
+    {
+        "commune": "Wald (BE)",
+        "productionPotentielle": 17.29
+    },
+    {
+        "commune": "Thurnen",
+        "productionPotentielle": 15.28
+    },
+    {
+        "commune": "Eggiwil",
+        "productionPotentielle": 29.46
+    },
+    {
+        "commune": "Langnau im Emmental",
+        "productionPotentielle": 70.61
+    },
+    {
+        "commune": "Lauperswil",
+        "productionPotentielle": 31.39
+    },
+    {
+        "commune": "Röthenbach im Emmental",
+        "productionPotentielle": 15.47
+    },
+    {
+        "commune": "Rüderswil",
+        "productionPotentielle": 25.28
+    },
+    {
+        "commune": "Schangnau",
+        "productionPotentielle": 12.31
+    },
+    {
+        "commune": "Signau",
+        "productionPotentielle": 27.76
+    },
+    {
+        "commune": "Trub",
+        "productionPotentielle": 17.64
+    },
+    {
+        "commune": "Trubschachen",
+        "productionPotentielle": 11.23
+    },
+    {
+        "commune": "Amsoldingen",
+        "productionPotentielle": 5.86
+    },
+    {
+        "commune": "Blumenstein",
+        "productionPotentielle": 10.31
+    },
+    {
+        "commune": "Buchholterberg",
+        "productionPotentielle": 18.69
+    },
+    {
+        "commune": "Eriz",
+        "productionPotentielle": 6.19
+    },
+    {
+        "commune": "Fahrni",
+        "productionPotentielle": 9.07
+    },
+    {
+        "commune": "Heiligenschwendi",
+        "productionPotentielle": 6.12
+    },
+    {
+        "commune": "Heimberg",
+        "productionPotentielle": 34.45
+    },
+    {
+        "commune": "Hilterfingen",
+        "productionPotentielle": 16.5
+    },
+    {
+        "commune": "Homberg",
+        "productionPotentielle": 5.81
+    },
+    {
+        "commune": "Horrenbach-Buchen",
+        "productionPotentielle": 3.95
+    },
+    {
+        "commune": "Oberhofen am Thunersee",
+        "productionPotentielle": 12.35
+    },
+    {
+        "commune": "Oberlangenegg",
+        "productionPotentielle": 6.52
+    },
+    {
+        "commune": "Pohlern",
+        "productionPotentielle": 2.13
+    },
+    {
+        "commune": "Sigriswil",
+        "productionPotentielle": 41.49
+    },
+    {
+        "commune": "Steffisburg",
+        "productionPotentielle": 77.17
+    },
+    {
+        "commune": "Teuffenthal (BE)",
+        "productionPotentielle": 2.36
+    },
+    {
+        "commune": "Thierachern",
+        "productionPotentielle": 14.78
+    },
+    {
+        "commune": "Thun",
+        "productionPotentielle": 201.28
+    },
+    {
+        "commune": "Uebeschi",
+        "productionPotentielle": 6.68
+    },
+    {
+        "commune": "Uetendorf",
+        "productionPotentielle": 48.86
+    },
+    {
+        "commune": "Unterlangenegg",
+        "productionPotentielle": 11.21
+    },
+    {
+        "commune": "Wachseldorn",
+        "productionPotentielle": 3.6
+    },
+    {
+        "commune": "Zwieselberg",
+        "productionPotentielle": 3.48
+    },
+    {
+        "commune": "Forst-Längenbühl",
+        "productionPotentielle": 7.1
+    },
+    {
+        "commune": "Affoltern im Emmental",
+        "productionPotentielle": 16.84
+    },
+    {
+        "commune": "Dürrenroth",
+        "productionPotentielle": 16.64
+    },
+    {
+        "commune": "Eriswil",
+        "productionPotentielle": 13.76
+    },
+    {
+        "commune": "Huttwil",
+        "productionPotentielle": 48.33
+    },
+    {
+        "commune": "Lützelflüh",
+        "productionPotentielle": 43.14
+    },
+    {
+        "commune": "Rüegsau",
+        "productionPotentielle": 26.71
+    },
+    {
+        "commune": "Sumiswald",
+        "productionPotentielle": 56.66
+    },
+    {
+        "commune": "Trachselwald",
+        "productionPotentielle": 12.96
+    },
+    {
+        "commune": "Walterswil (BE)",
+        "productionPotentielle": 8.51
+    },
+    {
+        "commune": "Wyssachen",
+        "productionPotentielle": 14.96
+    },
+    {
+        "commune": "Attiswil",
+        "productionPotentielle": 13.45
+    },
+    {
+        "commune": "Berken",
+        "productionPotentielle": 1.22
+    },
+    {
+        "commune": "Bettenhausen",
+        "productionPotentielle": 6.32
+    },
+    {
+        "commune": "Farnern",
+        "productionPotentielle": 2.89
+    },
+    {
+        "commune": "Graben",
+        "productionPotentielle": 3.39
+    },
+    {
+        "commune": "Heimenhausen",
+        "productionPotentielle": 10.48
+    },
+    {
+        "commune": "Herzogenbuchsee",
+        "productionPotentielle": 47
+    },
+    {
+        "commune": "Inkwil",
+        "productionPotentielle": 6.22
+    },
+    {
+        "commune": "Niederbipp",
+        "productionPotentielle": 62.61
+    },
+    {
+        "commune": "Niederönz",
+        "productionPotentielle": 13.67
+    },
+    {
+        "commune": "Oberbipp",
+        "productionPotentielle": 18.97
+    },
+    {
+        "commune": "Ochlenberg",
+        "productionPotentielle": 10.01
+    },
+    {
+        "commune": "Rumisberg",
+        "productionPotentielle": 4.91
+    },
+    {
+        "commune": "Seeberg",
+        "productionPotentielle": 19.18
+    },
+    {
+        "commune": "Thörigen",
+        "productionPotentielle": 10.65
+    },
+    {
+        "commune": "Walliswil bei Niederbipp",
+        "productionPotentielle": 2.71
+    },
+    {
+        "commune": "Walliswil bei Wangen",
+        "productionPotentielle": 5.92
+    },
+    {
+        "commune": "Wangen an der Aare",
+        "productionPotentielle": 20.75
+    },
+    {
+        "commune": "Wangenried",
+        "productionPotentielle": 4.12
+    },
+    {
+        "commune": "Wiedlisbach",
+        "productionPotentielle": 23.6
+    },
+    {
+        "commune": "Doppleschwand",
+        "productionPotentielle": 6.06
+    },
+    {
+        "commune": "Entlebuch",
+        "productionPotentielle": 34.03
+    },
+    {
+        "commune": "Flühli",
+        "productionPotentielle": 27.41
+    },
+    {
+        "commune": "Hasle (LU)",
+        "productionPotentielle": 18.1
+    },
+    {
+        "commune": "Romoos",
+        "productionPotentielle": 9.63
+    },
+    {
+        "commune": "Schüpfheim",
+        "productionPotentielle": 37.34
+    },
+    {
+        "commune": "Werthenstein",
+        "productionPotentielle": 21.05
+    },
+    {
+        "commune": "Escholzmatt-Marbach",
+        "productionPotentielle": 46.76
+    },
+    {
+        "commune": "Aesch (LU)",
+        "productionPotentielle": 12.87
+    },
+    {
+        "commune": "Ballwil",
+        "productionPotentielle": 23.03
+    },
+    {
+        "commune": "Emmen",
+        "productionPotentielle": 128.2
+    },
+    {
+        "commune": "Ermensee",
+        "productionPotentielle": 9.77
+    },
+    {
+        "commune": "Eschenbach (LU)",
+        "productionPotentielle": 27.53
+    },
+    {
+        "commune": "Hitzkirch",
+        "productionPotentielle": 55.05
+    },
+    {
+        "commune": "Hochdorf",
+        "productionPotentielle": 59.01
+    },
+    {
+        "commune": "Hohenrain",
+        "productionPotentielle": 31.9
+    },
+    {
+        "commune": "Inwil",
+        "productionPotentielle": 24.49
+    },
+    {
+        "commune": "Rain",
+        "productionPotentielle": 21.19
+    },
+    {
+        "commune": "Römerswil",
+        "productionPotentielle": 23.37
+    },
+    {
+        "commune": "Rothenburg",
+        "productionPotentielle": 55.59
+    },
+    {
+        "commune": "Schongau",
+        "productionPotentielle": 15.7
+    },
+    {
+        "commune": "Adligenswil",
+        "productionPotentielle": 23.75
+    },
+    {
+        "commune": "Buchrain",
+        "productionPotentielle": 25.12
+    },
+    {
+        "commune": "Dierikon",
+        "productionPotentielle": 13.02
+    },
+    {
+        "commune": "Ebikon",
+        "productionPotentielle": 47.18
+    },
+    {
+        "commune": "Gisikon",
+        "productionPotentielle": 5.28
+    },
+    {
+        "commune": "Greppen",
+        "productionPotentielle": 4.83
+    },
+    {
+        "commune": "Honau",
+        "productionPotentielle": 2.87
+    },
+    {
+        "commune": "Horw",
+        "productionPotentielle": 40.98
+    },
+    {
+        "commune": "Kriens",
+        "productionPotentielle": 78.95
+    },
+    {
+        "commune": "Luzern",
+        "productionPotentielle": 197.35
+    },
+    {
+        "commune": "Malters",
+        "productionPotentielle": 47.92
+    },
+    {
+        "commune": "Meggen",
+        "productionPotentielle": 29.71
+    },
+    {
+        "commune": "Meierskappel",
+        "productionPotentielle": 11.42
+    },
+    {
+        "commune": "Root",
+        "productionPotentielle": 36.48
+    },
+    {
+        "commune": "Schwarzenberg",
+        "productionPotentielle": 13.32
+    },
+    {
+        "commune": "Udligenswil",
+        "productionPotentielle": 14.95
+    },
+    {
+        "commune": "Vitznau",
+        "productionPotentielle": 7.91
+    },
+    {
+        "commune": "Weggis",
+        "productionPotentielle": 27.63
+    },
+    {
+        "commune": "Beromünster",
+        "productionPotentielle": 68.97
+    },
+    {
+        "commune": "Büron",
+        "productionPotentielle": 18.47
+    },
+    {
+        "commune": "Buttisholz",
+        "productionPotentielle": 34.1
+    },
+    {
+        "commune": "Eich",
+        "productionPotentielle": 12.41
+    },
+    {
+        "commune": "Geuensee",
+        "productionPotentielle": 14.16
+    },
+    {
+        "commune": "Grosswangen",
+        "productionPotentielle": 34.61
+    },
+    {
+        "commune": "Hildisrieden",
+        "productionPotentielle": 19.75
+    },
+    {
+        "commune": "Knutwil",
+        "productionPotentielle": 20.16
+    },
+    {
+        "commune": "Mauensee",
+        "productionPotentielle": 10.77
+    },
+    {
+        "commune": "Neuenkirch",
+        "productionPotentielle": 44.9
+    },
+    {
+        "commune": "Nottwil",
+        "productionPotentielle": 23.05
+    },
+    {
+        "commune": "Oberkirch",
+        "productionPotentielle": 25.42
+    },
+    {
+        "commune": "Rickenbach (LU)",
+        "productionPotentielle": 27.73
+    },
+    {
+        "commune": "Ruswil",
+        "productionPotentielle": 65.56
+    },
+    {
+        "commune": "Schenkon",
+        "productionPotentielle": 18.18
+    },
+    {
+        "commune": "Schlierbach",
+        "productionPotentielle": 9.46
+    },
+    {
+        "commune": "Sempach",
+        "productionPotentielle": 24.88
+    },
+    {
+        "commune": "Sursee",
+        "productionPotentielle": 63.1
+    },
+    {
+        "commune": "Triengen",
+        "productionPotentielle": 44.57
+    },
+    {
+        "commune": "Wolhusen",
+        "productionPotentielle": 22.97
+    },
+    {
+        "commune": "Alberswil",
+        "productionPotentielle": 7.07
+    },
+    {
+        "commune": "Altbüron",
+        "productionPotentielle": 12.11
+    },
+    {
+        "commune": "Altishofen",
+        "productionPotentielle": 27.08
+    },
+    {
+        "commune": "Dagmersellen",
+        "productionPotentielle": 50.44
+    },
+    {
+        "commune": "Egolzwil",
+        "productionPotentielle": 13.17
+    },
+    {
+        "commune": "Ettiswil",
+        "productionPotentielle": 23.56
+    },
+    {
+        "commune": "Fischbach",
+        "productionPotentielle": 9.26
+    },
+    {
+        "commune": "Grossdietwil",
+        "productionPotentielle": 11.51
+    },
+    {
+        "commune": "Hergiswil bei Willisau",
+        "productionPotentielle": 20.31
+    },
+    {
+        "commune": "Luthern",
+        "productionPotentielle": 18.91
+    },
+    {
+        "commune": "Menznau",
+        "productionPotentielle": 36.61
+    },
+    {
+        "commune": "Nebikon",
+        "productionPotentielle": 20.41
+    },
+    {
+        "commune": "Pfaffnau",
+        "productionPotentielle": 29
+    },
+    {
+        "commune": "Reiden",
+        "productionPotentielle": 56.78
+    },
+    {
+        "commune": "Roggliswil",
+        "productionPotentielle": 7.83
+    },
+    {
+        "commune": "Schötz",
+        "productionPotentielle": 34.09
+    },
+    {
+        "commune": "Ufhusen",
+        "productionPotentielle": 13.48
+    },
+    {
+        "commune": "Wauwil",
+        "productionPotentielle": 15.63
+    },
+    {
+        "commune": "Wikon",
+        "productionPotentielle": 17.63
+    },
+    {
+        "commune": "Zell (LU)",
+        "productionPotentielle": 23.4
+    },
+    {
+        "commune": "Willisau",
+        "productionPotentielle": 75.26
+    },
+    {
+        "commune": "Altdorf (UR)",
+        "productionPotentielle": 40.98
+    },
+    {
+        "commune": "Andermatt",
+        "productionPotentielle": 17.36
+    },
+    {
+        "commune": "Attinghausen",
+        "productionPotentielle": 8.16
+    },
+    {
+        "commune": "Bürglen (UR)",
+        "productionPotentielle": 23.47
+    },
+    {
+        "commune": "Erstfeld",
+        "productionPotentielle": 15.05
+    },
+    {
+        "commune": "Flüelen",
+        "productionPotentielle": 7.9
+    },
+    {
+        "commune": "Göschenen",
+        "productionPotentielle": 3.75
+    },
+    {
+        "commune": "Gurtnellen",
+        "productionPotentielle": 5.17
+    },
+    {
+        "commune": "Hospental",
+        "productionPotentielle": 4.42
+    },
+    {
+        "commune": "Isenthal",
+        "productionPotentielle": 3.38
+    },
+    {
+        "commune": "Realp",
+        "productionPotentielle": 4.08
+    },
+    {
+        "commune": "Schattdorf",
+        "productionPotentielle": 30.61
+    },
+    {
+        "commune": "Seedorf (UR)",
+        "productionPotentielle": 8.3
+    },
+    {
+        "commune": "Seelisberg",
+        "productionPotentielle": 6.35
+    },
+    {
+        "commune": "Silenen",
+        "productionPotentielle": 10.59
+    },
+    {
+        "commune": "Sisikon",
+        "productionPotentielle": 1.53
+    },
+    {
+        "commune": "Spiringen",
+        "productionPotentielle": 12.1
+    },
+    {
+        "commune": "Unterschächen",
+        "productionPotentielle": 8.51
+    },
+    {
+        "commune": "Wassen",
+        "productionPotentielle": 4.28
+    },
+    {
+        "commune": "Einsiedeln",
+        "productionPotentielle": 98.83
+    },
+    {
+        "commune": "Gersau",
+        "productionPotentielle": 11.9
+    },
+    {
+        "commune": "Feusisberg",
+        "productionPotentielle": 25.74
+    },
+    {
+        "commune": "Freienbach",
+        "productionPotentielle": 60.84
+    },
+    {
+        "commune": "Wollerau",
+        "productionPotentielle": 25.74
+    },
+    {
+        "commune": "Küssnacht (SZ)",
+        "productionPotentielle": 68.34
+    },
+    {
+        "commune": "Altendorf",
+        "productionPotentielle": 33.9
+    },
+    {
+        "commune": "Galgenen",
+        "productionPotentielle": 24.72
+    },
+    {
+        "commune": "Innerthal",
+        "productionPotentielle": 2.34
+    },
+    {
+        "commune": "Lachen",
+        "productionPotentielle": 27.12
+    },
+    {
+        "commune": "Reichenburg",
+        "productionPotentielle": 18.63
+    },
+    {
+        "commune": "Schübelbach",
+        "productionPotentielle": 35.64
+    },
+    {
+        "commune": "Tuggen",
+        "productionPotentielle": 25.27
+    },
+    {
+        "commune": "Vorderthal",
+        "productionPotentielle": 7.07
+    },
+    {
+        "commune": "Wangen (SZ)",
+        "productionPotentielle": 29.35
+    },
+    {
+        "commune": "Alpthal",
+        "productionPotentielle": 5.35
+    },
+    {
+        "commune": "Arth",
+        "productionPotentielle": 49.21
+    },
+    {
+        "commune": "Illgau",
+        "productionPotentielle": 5.27
+    },
+    {
+        "commune": "Ingenbohl",
+        "productionPotentielle": 36.89
+    },
+    {
+        "commune": "Lauerz",
+        "productionPotentielle": 5.54
+    },
+    {
+        "commune": "Morschach",
+        "productionPotentielle": 10.32
+    },
+    {
+        "commune": "Muotathal",
+        "productionPotentielle": 19.91
+    },
+    {
+        "commune": "Oberiberg",
+        "productionPotentielle": 9.95
+    },
+    {
+        "commune": "Riemenstalden",
+        "productionPotentielle": 1.04
+    },
+    {
+        "commune": "Rothenthurm",
+        "productionPotentielle": 19.45
+    },
+    {
+        "commune": "Sattel",
+        "productionPotentielle": 15.54
+    },
+    {
+        "commune": "Schwyz",
+        "productionPotentielle": 88.73
+    },
+    {
+        "commune": "Steinen",
+        "productionPotentielle": 19.75
+    },
+    {
+        "commune": "Steinerberg",
+        "productionPotentielle": 7.3
+    },
+    {
+        "commune": "Unteriberg",
+        "productionPotentielle": 15.89
+    },
+    {
+        "commune": "Alpnach",
+        "productionPotentielle": 39.09
+    },
+    {
+        "commune": "Engelberg",
+        "productionPotentielle": 28.5
+    },
+    {
+        "commune": "Giswil",
+        "productionPotentielle": 31.5
+    },
+    {
+        "commune": "Kerns",
+        "productionPotentielle": 41.82
+    },
+    {
+        "commune": "Lungern",
+        "productionPotentielle": 18.13
+    },
+    {
+        "commune": "Sachseln",
+        "productionPotentielle": 28.24
+    },
+    {
+        "commune": "Sarnen",
+        "productionPotentielle": 71.76
+    },
+    {
+        "commune": "Beckenried",
+        "productionPotentielle": 12.03
+    },
+    {
+        "commune": "Buochs",
+        "productionPotentielle": 22.37
+    },
+    {
+        "commune": "Dallenwil",
+        "productionPotentielle": 11.08
+    },
+    {
+        "commune": "Emmetten",
+        "productionPotentielle": 6.14
+    },
+    {
+        "commune": "Ennetbürgen",
+        "productionPotentielle": 22.03
+    },
+    {
+        "commune": "Ennetmoos",
+        "productionPotentielle": 12.82
+    },
+    {
+        "commune": "Hergiswil (NW)",
+        "productionPotentielle": 16.2
+    },
+    {
+        "commune": "Oberdorf (NW)",
+        "productionPotentielle": 17.68
+    },
+    {
+        "commune": "Stans",
+        "productionPotentielle": 39.08
+    },
+    {
+        "commune": "Stansstad",
+        "productionPotentielle": 14.22
+    },
+    {
+        "commune": "Wolfenschiessen",
+        "productionPotentielle": 11.48
+    },
+    {
+        "commune": "Glarus Nord",
+        "productionPotentielle": 109.84
+    },
+    {
+        "commune": "Glarus Süd",
+        "productionPotentielle": 86.73
+    },
+    {
+        "commune": "Glarus",
+        "productionPotentielle": 57.97
+    },
+    {
+        "commune": "Baar",
+        "productionPotentielle": 100.92
+    },
+    {
+        "commune": "Cham",
+        "productionPotentielle": 70.59
+    },
+    {
+        "commune": "Hünenberg",
+        "productionPotentielle": 48.39
+    },
+    {
+        "commune": "Menzingen",
+        "productionPotentielle": 32.51
+    },
+    {
+        "commune": "Neuheim",
+        "productionPotentielle": 15.06
+    },
+    {
+        "commune": "Oberägeri",
+        "productionPotentielle": 33.07
+    },
+    {
+        "commune": "Risch",
+        "productionPotentielle": 48.82
+    },
+    {
+        "commune": "Steinhausen",
+        "productionPotentielle": 36.81
+    },
+    {
+        "commune": "Unterägeri",
+        "productionPotentielle": 37.79
+    },
+    {
+        "commune": "Walchwil",
+        "productionPotentielle": 16.23
+    },
+    {
+        "commune": "Zug",
+        "productionPotentielle": 88.18
+    },
+    {
+        "commune": "Châtillon (FR)",
+        "productionPotentielle": 3.32
+    },
+    {
+        "commune": "Cugy (FR)",
+        "productionPotentielle": 17.9
+    },
+    {
+        "commune": "Fétigny",
+        "productionPotentielle": 8.83
+    },
+    {
+        "commune": "Gletterens",
+        "productionPotentielle": 9.82
+    },
+    {
+        "commune": "Lully (FR)",
+        "productionPotentielle": 9.2
+    },
+    {
+        "commune": "Ménières",
+        "productionPotentielle": 6.39
+    },
+    {
+        "commune": "Montagny (FR)",
+        "productionPotentielle": 23.47
+    },
+    {
+        "commune": "Nuvilly",
+        "productionPotentielle": 5.78
+    },
+    {
+        "commune": "Prévondavaux",
+        "productionPotentielle": 1.11
+    },
+    {
+        "commune": "Saint-Aubin (FR)",
+        "productionPotentielle": 19.81
+    },
+    {
+        "commune": "Sévaz",
+        "productionPotentielle": 10.02
+    },
+    {
+        "commune": "Surpierre",
+        "productionPotentielle": 15.34
+    },
+    {
+        "commune": "Vallon",
+        "productionPotentielle": 4.84
+    },
+    {
+        "commune": "Les Montets",
+        "productionPotentielle": 16.4
+    },
+    {
+        "commune": "Delley-Portalban",
+        "productionPotentielle": 11.64
+    },
+    {
+        "commune": "Belmont-Broye",
+        "productionPotentielle": 59.07
+    },
+    {
+        "commune": "Estavayer",
+        "productionPotentielle": 80.74
+    },
+    {
+        "commune": "Cheyres-Châbles",
+        "productionPotentielle": 19.19
+    },
+    {
+        "commune": "Auboranges",
+        "productionPotentielle": 3.48
+    },
+    {
+        "commune": "Billens-Hennens",
+        "productionPotentielle": 8.19
+    },
+    {
+        "commune": "Chapelle (Glâne)",
+        "productionPotentielle": 3.05
+    },
+    {
+        "commune": "Le Châtelard",
+        "productionPotentielle": 7.34
+    },
+    {
+        "commune": "Châtonnaye",
+        "productionPotentielle": 8.68
+    },
+    {
+        "commune": "Ecublens (FR)",
+        "productionPotentielle": 5.92
+    },
+    {
+        "commune": "Grangettes",
+        "productionPotentielle": 3.34
+    },
+    {
+        "commune": "Massonnens",
+        "productionPotentielle": 6.8
+    },
+    {
+        "commune": "Mézières (FR)",
+        "productionPotentielle": 12.77
+    },
+    {
+        "commune": "Montet (Glâne)",
+        "productionPotentielle": 3.52
+    },
+    {
+        "commune": "Romont (FR)",
+        "productionPotentielle": 49.5
+    },
+    {
+        "commune": "Rue",
+        "productionPotentielle": 18.24
+    },
+    {
+        "commune": "Siviriez",
+        "productionPotentielle": 31.46
+    },
+    {
+        "commune": "Ursy",
+        "productionPotentielle": 27.47
+    },
+    {
+        "commune": "Vuisternens-devant-Romont",
+        "productionPotentielle": 35.36
+    },
+    {
+        "commune": "Villorsonnens",
+        "productionPotentielle": 20.65
+    },
+    {
+        "commune": "Torny",
+        "productionPotentielle": 11.22
+    },
+    {
+        "commune": "Villaz",
+        "productionPotentielle": 24.33
+    },
+    {
+        "commune": "Haut-Intyamon",
+        "productionPotentielle": 20.99
+    },
+    {
+        "commune": "Pont-en-Ogoz",
+        "productionPotentielle": 18.7
+    },
+    {
+        "commune": "Botterens",
+        "productionPotentielle": 4.51
+    },
+    {
+        "commune": "Broc",
+        "productionPotentielle": 15.01
+    },
+    {
+        "commune": "Bulle",
+        "productionPotentielle": 127.95
+    },
+    {
+        "commune": "Châtel-sur-Montsalvens",
+        "productionPotentielle": 2.75
+    },
+    {
+        "commune": "Corbières",
+        "productionPotentielle": 9.51
+    },
+    {
+        "commune": "Crésuz",
+        "productionPotentielle": 4.52
+    },
+    {
+        "commune": "Echarlens",
+        "productionPotentielle": 8.02
+    },
+    {
+        "commune": "Grandvillard",
+        "productionPotentielle": 10.5
+    },
+    {
+        "commune": "Gruyères",
+        "productionPotentielle": 20.25
+    },
+    {
+        "commune": "Hauteville",
+        "productionPotentielle": 7
+    },
+    {
+        "commune": "Jaun",
+        "productionPotentielle": 11.61
+    },
+    {
+        "commune": "Marsens",
+        "productionPotentielle": 17.95
+    },
+    {
+        "commune": "Morlon",
+        "productionPotentielle": 3.94
+    },
+    {
+        "commune": "Le Pâquier (FR)",
+        "productionPotentielle": 9.81
+    },
+    {
+        "commune": "Pont-la-Ville",
+        "productionPotentielle": 6.76
+    },
+    {
+        "commune": "Riaz",
+        "productionPotentielle": 18.78
+    },
+    {
+        "commune": "La Roche",
+        "productionPotentielle": 17.49
+    },
+    {
+        "commune": "Sâles",
+        "productionPotentielle": 24.91
+    },
+    {
+        "commune": "Sorens",
+        "productionPotentielle": 14.76
+    },
+    {
+        "commune": "Vaulruz",
+        "productionPotentielle": 14.13
+    },
+    {
+        "commune": "Vuadens",
+        "productionPotentielle": 26.69
+    },
+    {
+        "commune": "Bas-Intyamon",
+        "productionPotentielle": 15.86
+    },
+    {
+        "commune": "Val-de-Charmey",
+        "productionPotentielle": 30.68
+    },
+    {
+        "commune": "Autigny",
+        "productionPotentielle": 8.78
+    },
+    {
+        "commune": "Avry",
+        "productionPotentielle": 23.11
+    },
+    {
+        "commune": "Belfaux",
+        "productionPotentielle": 18.58
+    },
+    {
+        "commune": "Chénens",
+        "productionPotentielle": 7.15
+    },
+    {
+        "commune": "Corminboeuf",
+        "productionPotentielle": 19.27
+    },
+    {
+        "commune": "Cottens (FR)",
+        "productionPotentielle": 12.01
+    },
+    {
+        "commune": "Ferpicloz",
+        "productionPotentielle": 2.77
+    },
+    {
+        "commune": "Fribourg",
+        "productionPotentielle": 105.92
+    },
+    {
+        "commune": "Givisiez",
+        "productionPotentielle": 33.02
+    },
+    {
+        "commune": "Granges-Paccot",
+        "productionPotentielle": 25.45
+    },
+    {
+        "commune": "Grolley",
+        "productionPotentielle": 17.19
+    },
+    {
+        "commune": "Marly",
+        "productionPotentielle": 39.95
+    },
+    {
+        "commune": "Matran",
+        "productionPotentielle": 18.82
+    },
+    {
+        "commune": "Neyruz (FR)",
+        "productionPotentielle": 14.08
+    },
+    {
+        "commune": "Pierrafortscha",
+        "productionPotentielle": 4.25
+    },
+    {
+        "commune": "Ponthaux",
+        "productionPotentielle": 7.06
+    },
+    {
+        "commune": "Le Mouret",
+        "productionPotentielle": 29.48
+    },
+    {
+        "commune": "Treyvaux",
+        "productionPotentielle": 16.71
+    },
+    {
+        "commune": "Villars-sur-Glâne",
+        "productionPotentielle": 46.81
+    },
+    {
+        "commune": "Villarsel-sur-Marly",
+        "productionPotentielle": 1.49
+    },
+    {
+        "commune": "Hauterive (FR)",
+        "productionPotentielle": 24.97
+    },
+    {
+        "commune": "La Brillaz",
+        "productionPotentielle": 15.92
+    },
+    {
+        "commune": "La Sonnaz",
+        "productionPotentielle": 10.21
+    },
+    {
+        "commune": "Gibloux",
+        "productionPotentielle": 66.47
+    },
+    {
+        "commune": "Prez",
+        "productionPotentielle": 22.58
+    },
+    {
+        "commune": "Bois-d'Amont",
+        "productionPotentielle": 19.64
+    },
+    {
+        "commune": "Courgevaux",
+        "productionPotentielle": 8.99
+    },
+    {
+        "commune": "Courtepin",
+        "productionPotentielle": 41.87
+    },
+    {
+        "commune": "Cressier (FR)",
+        "productionPotentielle": 9.84
+    },
+    {
+        "commune": "Fräschels",
+        "productionPotentielle": 8.51
+    },
+    {
+        "commune": "Galmiz",
+        "productionPotentielle": 7.81
+    },
+    {
+        "commune": "Gempenach",
+        "productionPotentielle": 5.61
+    },
+    {
+        "commune": "Greng",
+        "productionPotentielle": 2.03
+    },
+    {
+        "commune": "Gurmels",
+        "productionPotentielle": 37.98
+    },
+    {
+        "commune": "Kerzers",
+        "productionPotentielle": 50.48
+    },
+    {
+        "commune": "Kleinbösingen",
+        "productionPotentielle": 5.14
+    },
+    {
+        "commune": "Meyriez",
+        "productionPotentielle": 3.52
+    },
+    {
+        "commune": "Misery-Courtion",
+        "productionPotentielle": 17.23
+    },
+    {
+        "commune": "Muntelier",
+        "productionPotentielle": 6.76
+    },
+    {
+        "commune": "Murten",
+        "productionPotentielle": 57.36
+    },
+    {
+        "commune": "Ried bei Kerzers",
+        "productionPotentielle": 39.43
+    },
+    {
+        "commune": "Ulmiz",
+        "productionPotentielle": 5.25
+    },
+    {
+        "commune": "Mont-Vully",
+        "productionPotentielle": 41.2
+    },
+    {
+        "commune": "Brünisried",
+        "productionPotentielle": 6.5
+    },
+    {
+        "commune": "Düdingen",
+        "productionPotentielle": 68.64
+    },
+    {
+        "commune": "Giffers",
+        "productionPotentielle": 12.53
+    },
+    {
+        "commune": "Bösingen",
+        "productionPotentielle": 30.63
+    },
+    {
+        "commune": "Heitenried",
+        "productionPotentielle": 13.6
+    },
+    {
+        "commune": "Plaffeien",
+        "productionPotentielle": 40.68
+    },
+    {
+        "commune": "Plasselb",
+        "productionPotentielle": 10.14
+    },
+    {
+        "commune": "Rechthalten",
+        "productionPotentielle": 12.28
+    },
+    {
+        "commune": "St. Silvester",
+        "productionPotentielle": 9.36
+    },
+    {
+        "commune": "St. Ursen",
+        "productionPotentielle": 19.4
+    },
+    {
+        "commune": "Schmitten (FR)",
+        "productionPotentielle": 34.99
+    },
+    {
+        "commune": "Tafers",
+        "productionPotentielle": 73.19
+    },
+    {
+        "commune": "Tentlingen",
+        "productionPotentielle": 10.63
+    },
+    {
+        "commune": "Ueberstorf",
+        "productionPotentielle": 23.6
+    },
+    {
+        "commune": "Wünnewil-Flamatt",
+        "productionPotentielle": 33.63
+    },
+    {
+        "commune": "Attalens",
+        "productionPotentielle": 24.03
+    },
+    {
+        "commune": "Bossonnens",
+        "productionPotentielle": 11.51
+    },
+    {
+        "commune": "Châtel-Saint-Denis",
+        "productionPotentielle": 56.69
+    },
+    {
+        "commune": "Granges (Veveyse)",
+        "productionPotentielle": 9.53
+    },
+    {
+        "commune": "Remaufens",
+        "productionPotentielle": 9.04
+    },
+    {
+        "commune": "Saint-Martin (FR)",
+        "productionPotentielle": 13.42
+    },
+    {
+        "commune": "Semsales",
+        "productionPotentielle": 17.11
+    },
+    {
+        "commune": "Le Flon",
+        "productionPotentielle": 13.04
+    },
+    {
+        "commune": "La Verrerie",
+        "productionPotentielle": 17.8
+    },
+    {
+        "commune": "Egerkingen",
+        "productionPotentielle": 29.61
+    },
+    {
+        "commune": "Härkingen",
+        "productionPotentielle": 24.57
+    },
+    {
+        "commune": "Kestenholz",
+        "productionPotentielle": 15.51
+    },
+    {
+        "commune": "Neuendorf",
+        "productionPotentielle": 35.79
+    },
+    {
+        "commune": "Niederbuchsiten",
+        "productionPotentielle": 9.43
+    },
+    {
+        "commune": "Oberbuchsiten",
+        "productionPotentielle": 16.96
+    },
+    {
+        "commune": "Oensingen",
+        "productionPotentielle": 47.86
+    },
+    {
+        "commune": "Wolfwil",
+        "productionPotentielle": 19.52
+    },
+    {
+        "commune": "Aedermannsdorf",
+        "productionPotentielle": 6.6
+    },
+    {
+        "commune": "Balsthal",
+        "productionPotentielle": 37.21
+    },
+    {
+        "commune": "Herbetswil",
+        "productionPotentielle": 5.18
+    },
+    {
+        "commune": "Holderbank (SO)",
+        "productionPotentielle": 5.68
+    },
+    {
+        "commune": "Laupersdorf",
+        "productionPotentielle": 14.46
+    },
+    {
+        "commune": "Matzendorf",
+        "productionPotentielle": 13.51
+    },
+    {
+        "commune": "Mümliswil-Ramiswil",
+        "productionPotentielle": 20.51
+    },
+    {
+        "commune": "Welschenrohr-Gänsbrunnen",
+        "productionPotentielle": 10.77
+    },
+    {
+        "commune": "Biezwil",
+        "productionPotentielle": 4.27
+    },
+    {
+        "commune": "Lüterkofen-Ichertswil",
+        "productionPotentielle": 7.64
+    },
+    {
+        "commune": "Lüterswil-Gächliwil",
+        "productionPotentielle": 4.46
+    },
+    {
+        "commune": "Messen",
+        "productionPotentielle": 16.51
+    },
+    {
+        "commune": "Schnottwil",
+        "productionPotentielle": 11
+    },
+    {
+        "commune": "Unterramsern",
+        "productionPotentielle": 2.61
+    },
+    {
+        "commune": "Lüsslingen-Nennigkofen",
+        "productionPotentielle": 11.96
+    },
+    {
+        "commune": "Buchegg",
+        "productionPotentielle": 27.83
+    },
+    {
+        "commune": "Bättwil",
+        "productionPotentielle": 8.43
+    },
+    {
+        "commune": "Büren (SO)",
+        "productionPotentielle": 6.55
+    },
+    {
+        "commune": "Dornach",
+        "productionPotentielle": 29.49
+    },
+    {
+        "commune": "Gempen",
+        "productionPotentielle": 7.25
+    },
+    {
+        "commune": "Hochwald",
+        "productionPotentielle": 9.58
+    },
+    {
+        "commune": "Hofstetten-Flüh",
+        "productionPotentielle": 17.45
+    },
+    {
+        "commune": "Metzerlen-Mariastein",
+        "productionPotentielle": 8.62
+    },
+    {
+        "commune": "Nuglar-St. Pantaleon",
+        "productionPotentielle": 9.65
+    },
+    {
+        "commune": "Rodersdorf",
+        "productionPotentielle": 8.66
+    },
+    {
+        "commune": "Seewen",
+        "productionPotentielle": 9.88
+    },
+    {
+        "commune": "Witterswil",
+        "productionPotentielle": 9.48
+    },
+    {
+        "commune": "Hauenstein-Ifenthal",
+        "productionPotentielle": 3.18
+    },
+    {
+        "commune": "Kienberg",
+        "productionPotentielle": 5.8
+    },
+    {
+        "commune": "Lostorf",
+        "productionPotentielle": 25.85
+    },
+    {
+        "commune": "Niedergösgen",
+        "productionPotentielle": 23.1
+    },
+    {
+        "commune": "Obergösgen",
+        "productionPotentielle": 12.11
+    },
+    {
+        "commune": "Stüsslingen",
+        "productionPotentielle": 10.23
+    },
+    {
+        "commune": "Trimbach",
+        "productionPotentielle": 25.79
+    },
+    {
+        "commune": "Winznau",
+        "productionPotentielle": 11.24
+    },
+    {
+        "commune": "Wisen (SO)",
+        "productionPotentielle": 3.75
+    },
+    {
+        "commune": "Erlinsbach (SO)",
+        "productionPotentielle": 19.67
+    },
+    {
+        "commune": "Aeschi (SO)",
+        "productionPotentielle": 9.82
+    },
+    {
+        "commune": "Biberist",
+        "productionPotentielle": 60.93
+    },
+    {
+        "commune": "Bolken",
+        "productionPotentielle": 4.05
+    },
+    {
+        "commune": "Deitingen",
+        "productionPotentielle": 20.72
+    },
+    {
+        "commune": "Derendingen",
+        "productionPotentielle": 33.58
+    },
+    {
+        "commune": "Etziken",
+        "productionPotentielle": 8.46
+    },
+    {
+        "commune": "Gerlafingen",
+        "productionPotentielle": 34.19
+    },
+    {
+        "commune": "Halten",
+        "productionPotentielle": 5.87
+    },
+    {
+        "commune": "Horriwil",
+        "productionPotentielle": 6.86
+    },
+    {
+        "commune": "Hüniken",
+        "productionPotentielle": 1.32
+    },
+    {
+        "commune": "Kriegstetten",
+        "productionPotentielle": 8.4
+    },
+    {
+        "commune": "Lohn-Ammannsegg",
+        "productionPotentielle": 18.76
+    },
+    {
+        "commune": "Luterbach",
+        "productionPotentielle": 27.42
+    },
+    {
+        "commune": "Obergerlafingen",
+        "productionPotentielle": 10.88
+    },
+    {
+        "commune": "Oekingen",
+        "productionPotentielle": 6.05
+    },
+    {
+        "commune": "Recherswil",
+        "productionPotentielle": 13.35
+    },
+    {
+        "commune": "Subingen",
+        "productionPotentielle": 23.2
+    },
+    {
+        "commune": "Zuchwil",
+        "productionPotentielle": 46.76
+    },
+    {
+        "commune": "Drei Höfe",
+        "productionPotentielle": 6.69
+    },
+    {
+        "commune": "Balm bei Günsberg",
+        "productionPotentielle": 2.2
+    },
+    {
+        "commune": "Bellach",
+        "productionPotentielle": 35.7
+    },
+    {
+        "commune": "Bettlach",
+        "productionPotentielle": 27.28
+    },
+    {
+        "commune": "Feldbrunnen-St. Niklaus",
+        "productionPotentielle": 4.89
+    },
+    {
+        "commune": "Flumenthal",
+        "productionPotentielle": 7.83
+    },
+    {
+        "commune": "Grenchen",
+        "productionPotentielle": 87.03
+    },
+    {
+        "commune": "Günsberg",
+        "productionPotentielle": 8.55
+    },
+    {
+        "commune": "Hubersdorf",
+        "productionPotentielle": 4.44
+    },
+    {
+        "commune": "Kammersrohr",
+        "productionPotentielle": 0.61
+    },
+    {
+        "commune": "Langendorf",
+        "productionPotentielle": 18.36
+    },
+    {
+        "commune": "Lommiswil",
+        "productionPotentielle": 10.02
+    },
+    {
+        "commune": "Oberdorf (SO)",
+        "productionPotentielle": 11.62
+    },
+    {
+        "commune": "Riedholz",
+        "productionPotentielle": 17.86
+    },
+    {
+        "commune": "Rüttenen",
+        "productionPotentielle": 9.12
+    },
+    {
+        "commune": "Selzach",
+        "productionPotentielle": 28.78
+    },
+    {
+        "commune": "Boningen",
+        "productionPotentielle": 6.26
+    },
+    {
+        "commune": "Däniken",
+        "productionPotentielle": 31.25
+    },
+    {
+        "commune": "Dulliken",
+        "productionPotentielle": 28.18
+    },
+    {
+        "commune": "Eppenberg-Wöschnau",
+        "productionPotentielle": 4.35
+    },
+    {
+        "commune": "Fulenbach",
+        "productionPotentielle": 13.2
+    },
+    {
+        "commune": "Gretzenbach",
+        "productionPotentielle": 21.16
+    },
+    {
+        "commune": "Gunzgen",
+        "productionPotentielle": 14.03
+    },
+    {
+        "commune": "Hägendorf",
+        "productionPotentielle": 34.16
+    },
+    {
+        "commune": "Kappel (SO)",
+        "productionPotentielle": 14.61
+    },
+    {
+        "commune": "Olten",
+        "productionPotentielle": 73.82
+    },
+    {
+        "commune": "Rickenbach (SO)",
+        "productionPotentielle": 13.04
+    },
+    {
+        "commune": "Schönenwerd",
+        "productionPotentielle": 26.26
+    },
+    {
+        "commune": "Starrkirch-Wil",
+        "productionPotentielle": 7.33
+    },
+    {
+        "commune": "Walterswil (SO)",
+        "productionPotentielle": 7.25
+    },
+    {
+        "commune": "Wangen bei Olten",
+        "productionPotentielle": 27.96
+    },
+    {
+        "commune": "Solothurn",
+        "productionPotentielle": 74.94
+    },
+    {
+        "commune": "Bärschwil",
+        "productionPotentielle": 5.96
+    },
+    {
+        "commune": "Beinwil (SO)",
+        "productionPotentielle": 4.48
+    },
+    {
+        "commune": "Breitenbach",
+        "productionPotentielle": 22.74
+    },
+    {
+        "commune": "Büsserach",
+        "productionPotentielle": 16.21
+    },
+    {
+        "commune": "Erschwil",
+        "productionPotentielle": 5.33
+    },
+    {
+        "commune": "Fehren",
+        "productionPotentielle": 3.53
+    },
+    {
+        "commune": "Grindel",
+        "productionPotentielle": 2.88
+    },
+    {
+        "commune": "Himmelried",
+        "productionPotentielle": 6.69
+    },
+    {
+        "commune": "Kleinlützel",
+        "productionPotentielle": 11.47
+    },
+    {
+        "commune": "Meltingen",
+        "productionPotentielle": 4.26
+    },
+    {
+        "commune": "Nunningen",
+        "productionPotentielle": 13.92
+    },
+    {
+        "commune": "Zullwil",
+        "productionPotentielle": 4.55
+    },
+    {
+        "commune": "Basel",
+        "productionPotentielle": 421.63
+    },
+    {
+        "commune": "Bettingen",
+        "productionPotentielle": 5.15
+    },
+    {
+        "commune": "Riehen",
+        "productionPotentielle": 63.57
+    },
+    {
+        "commune": "Aesch (BL)",
+        "productionPotentielle": 45.11
+    },
+    {
+        "commune": "Allschwil",
+        "productionPotentielle": 71.42
+    },
+    {
+        "commune": "Arlesheim",
+        "productionPotentielle": 41.89
+    },
+    {
+        "commune": "Biel-Benken",
+        "productionPotentielle": 20.63
+    },
+    {
+        "commune": "Binningen",
+        "productionPotentielle": 42.6
+    },
+    {
+        "commune": "Birsfelden",
+        "productionPotentielle": 39.07
+    },
+    {
+        "commune": "Bottmingen",
+        "productionPotentielle": 23.25
+    },
+    {
+        "commune": "Ettingen",
+        "productionPotentielle": 20.36
+    },
+    {
+        "commune": "Münchenstein",
+        "productionPotentielle": 66.36
+    },
+    {
+        "commune": "Muttenz",
+        "productionPotentielle": 90.69
+    },
+    {
+        "commune": "Oberwil (BL)",
+        "productionPotentielle": 47.99
+    },
+    {
+        "commune": "Pfeffingen",
+        "productionPotentielle": 10.14
+    },
+    {
+        "commune": "Reinach (BL)",
+        "productionPotentielle": 69.25
+    },
+    {
+        "commune": "Schönenbuch",
+        "productionPotentielle": 8.12
+    },
+    {
+        "commune": "Therwil",
+        "productionPotentielle": 37.66
+    },
+    {
+        "commune": "Blauen",
+        "productionPotentielle": 5.32
+    },
+    {
+        "commune": "Brislach",
+        "productionPotentielle": 12.77
+    },
+    {
+        "commune": "Burg im Leimental",
+        "productionPotentielle": 1.1
+    },
+    {
+        "commune": "Dittingen",
+        "productionPotentielle": 4.72
+    },
+    {
+        "commune": "Duggingen",
+        "productionPotentielle": 8.7
+    },
+    {
+        "commune": "Grellingen",
+        "productionPotentielle": 9.03
+    },
+    {
+        "commune": "Laufen",
+        "productionPotentielle": 34.83
+    },
+    {
+        "commune": "Liesberg",
+        "productionPotentielle": 13.62
+    },
+    {
+        "commune": "Nenzlingen",
+        "productionPotentielle": 3.45
+    },
+    {
+        "commune": "Roggenburg",
+        "productionPotentielle": 3.77
+    },
+    {
+        "commune": "Röschenz",
+        "productionPotentielle": 11.04
+    },
+    {
+        "commune": "Wahlen",
+        "productionPotentielle": 8.31
+    },
+    {
+        "commune": "Zwingen",
+        "productionPotentielle": 17.87
+    },
+    {
+        "commune": "Arisdorf",
+        "productionPotentielle": 12.59
+    },
+    {
+        "commune": "Augst",
+        "productionPotentielle": 6.46
+    },
+    {
+        "commune": "Bubendorf",
+        "productionPotentielle": 27.54
+    },
+    {
+        "commune": "Frenkendorf",
+        "productionPotentielle": 25.83
+    },
+    {
+        "commune": "Füllinsdorf",
+        "productionPotentielle": 27.63
+    },
+    {
+        "commune": "Giebenach",
+        "productionPotentielle": 4.63
+    },
+    {
+        "commune": "Hersberg",
+        "productionPotentielle": 2.04
+    },
+    {
+        "commune": "Lausen",
+        "productionPotentielle": 21.49
+    },
+    {
+        "commune": "Liestal",
+        "productionPotentielle": 68.66
+    },
+    {
+        "commune": "Lupsingen",
+        "productionPotentielle": 7.1
+    },
+    {
+        "commune": "Pratteln",
+        "productionPotentielle": 95.59
+    },
+    {
+        "commune": "Ramlinsburg",
+        "productionPotentielle": 4.16
+    },
+    {
+        "commune": "Seltisberg",
+        "productionPotentielle": 7.68
+    },
+    {
+        "commune": "Ziefen",
+        "productionPotentielle": 11.34
+    },
+    {
+        "commune": "Anwil",
+        "productionPotentielle": 5.17
+    },
+    {
+        "commune": "Böckten",
+        "productionPotentielle": 5.31
+    },
+    {
+        "commune": "Buckten",
+        "productionPotentielle": 5.05
+    },
+    {
+        "commune": "Buus",
+        "productionPotentielle": 8.76
+    },
+    {
+        "commune": "Diepflingen",
+        "productionPotentielle": 3.13
+    },
+    {
+        "commune": "Gelterkinden",
+        "productionPotentielle": 31.61
+    },
+    {
+        "commune": "Häfelfingen",
+        "productionPotentielle": 2.8
+    },
+    {
+        "commune": "Hemmiken",
+        "productionPotentielle": 3.74
+    },
+    {
+        "commune": "Itingen",
+        "productionPotentielle": 12.17
+    },
+    {
+        "commune": "Känerkinden",
+        "productionPotentielle": 3.57
+    },
+    {
+        "commune": "Kilchberg (BL)",
+        "productionPotentielle": 1.64
+    },
+    {
+        "commune": "Läufelfingen",
+        "productionPotentielle": 11.42
+    },
+    {
+        "commune": "Maisprach",
+        "productionPotentielle": 7.48
+    },
+    {
+        "commune": "Nusshof",
+        "productionPotentielle": 1.96
+    },
+    {
+        "commune": "Oltingen",
+        "productionPotentielle": 4.86
+    },
+    {
+        "commune": "Ormalingen",
+        "productionPotentielle": 16.62
+    },
+    {
+        "commune": "Rickenbach (BL)",
+        "productionPotentielle": 4.64
+    },
+    {
+        "commune": "Rothenfluh",
+        "productionPotentielle": 5.97
+    },
+    {
+        "commune": "Rümlingen",
+        "productionPotentielle": 3.33
+    },
+    {
+        "commune": "Rünenberg",
+        "productionPotentielle": 6.2
+    },
+    {
+        "commune": "Sissach",
+        "productionPotentielle": 37.82
+    },
+    {
+        "commune": "Tecknau",
+        "productionPotentielle": 3.48
+    },
+    {
+        "commune": "Tenniken",
+        "productionPotentielle": 6.24
+    },
+    {
+        "commune": "Thürnen",
+        "productionPotentielle": 6.23
+    },
+    {
+        "commune": "Wenslingen",
+        "productionPotentielle": 6.87
+    },
+    {
+        "commune": "Wintersingen",
+        "productionPotentielle": 5.28
+    },
+    {
+        "commune": "Wittinsburg",
+        "productionPotentielle": 3.91
+    },
+    {
+        "commune": "Zeglingen",
+        "productionPotentielle": 5.69
+    },
+    {
+        "commune": "Zunzgen",
+        "productionPotentielle": 12.89
+    },
+    {
+        "commune": "Arboldswil",
+        "productionPotentielle": 4.09
+    },
+    {
+        "commune": "Bennwil",
+        "productionPotentielle": 5.81
+    },
+    {
+        "commune": "Bretzwil",
+        "productionPotentielle": 6.42
+    },
+    {
+        "commune": "Diegten",
+        "productionPotentielle": 11.98
+    },
+    {
+        "commune": "Eptingen",
+        "productionPotentielle": 6.34
+    },
+    {
+        "commune": "Hölstein",
+        "productionPotentielle": 12.79
+    },
+    {
+        "commune": "Lampenberg",
+        "productionPotentielle": 3.92
+    },
+    {
+        "commune": "Langenbruck",
+        "productionPotentielle": 8.07
+    },
+    {
+        "commune": "Lauwil",
+        "productionPotentielle": 2.85
+    },
+    {
+        "commune": "Liedertswil",
+        "productionPotentielle": 1.31
+    },
+    {
+        "commune": "Niederdorf",
+        "productionPotentielle": 10.41
+    },
+    {
+        "commune": "Oberdorf (BL)",
+        "productionPotentielle": 12.47
+    },
+    {
+        "commune": "Reigoldswil",
+        "productionPotentielle": 10.13
+    },
+    {
+        "commune": "Titterten",
+        "productionPotentielle": 3.81
+    },
+    {
+        "commune": "Waldenburg",
+        "productionPotentielle": 4.79
+    },
+    {
+        "commune": "Gächlingen",
+        "productionPotentielle": 9.93
+    },
+    {
+        "commune": "Löhningen",
+        "productionPotentielle": 11.7
+    },
+    {
+        "commune": "Neunkirch",
+        "productionPotentielle": 19.27
+    },
+    {
+        "commune": "Büttenhardt",
+        "productionPotentielle": 3.42
+    },
+    {
+        "commune": "Dörflingen",
+        "productionPotentielle": 8.74
+    },
+    {
+        "commune": "Lohn (SH)",
+        "productionPotentielle": 6.3
+    },
+    {
+        "commune": "Stetten (SH)",
+        "productionPotentielle": 7.66
+    },
+    {
+        "commune": "Thayngen",
+        "productionPotentielle": 46.94
+    },
+    {
+        "commune": "Bargen (SH)",
+        "productionPotentielle": 2.79
+    },
+    {
+        "commune": "Beringen",
+        "productionPotentielle": 35.69
+    },
+    {
+        "commune": "Buchberg",
+        "productionPotentielle": 7.42
+    },
+    {
+        "commune": "Merishausen",
+        "productionPotentielle": 7.49
+    },
+    {
+        "commune": "Neuhausen am Rheinfall",
+        "productionPotentielle": 39.12
+    },
+    {
+        "commune": "Rüdlingen",
+        "productionPotentielle": 6.8
+    },
+    {
+        "commune": "Schaffhausen",
+        "productionPotentielle": 162.92
+    },
+    {
+        "commune": "Beggingen",
+        "productionPotentielle": 8.63
+    },
+    {
+        "commune": "Schleitheim",
+        "productionPotentielle": 22.17
+    },
+    {
+        "commune": "Siblingen",
+        "productionPotentielle": 9.48
+    },
+    {
+        "commune": "Buch (SH)",
+        "productionPotentielle": 4.49
+    },
+    {
+        "commune": "Hemishofen",
+        "productionPotentielle": 5.38
+    },
+    {
+        "commune": "Ramsen",
+        "productionPotentielle": 18.54
+    },
+    {
+        "commune": "Stein am Rhein",
+        "productionPotentielle": 22.41
+    },
+    {
+        "commune": "Hallau",
+        "productionPotentielle": 23.07
+    },
+    {
+        "commune": "Oberhallau",
+        "productionPotentielle": 7.06
+    },
+    {
+        "commune": "Trasadingen",
+        "productionPotentielle": 7.56
+    },
+    {
+        "commune": "Wilchingen",
+        "productionPotentielle": 22.04
+    },
+    {
+        "commune": "Herisau",
+        "productionPotentielle": 72.05
+    },
+    {
+        "commune": "Hundwil",
+        "productionPotentielle": 11.55
+    },
+    {
+        "commune": "Schönengrund",
+        "productionPotentielle": 4.41
+    },
+    {
+        "commune": "Schwellbrunn",
+        "productionPotentielle": 14.94
+    },
+    {
+        "commune": "Stein (AR)",
+        "productionPotentielle": 13.08
+    },
+    {
+        "commune": "Urnäsch",
+        "productionPotentielle": 22.8
+    },
+    {
+        "commune": "Waldstatt",
+        "productionPotentielle": 13.2
+    },
+    {
+        "commune": "Bühler",
+        "productionPotentielle": 12.33
+    },
+    {
+        "commune": "Gais",
+        "productionPotentielle": 23.42
+    },
+    {
+        "commune": "Speicher",
+        "productionPotentielle": 21.38
+    },
+    {
+        "commune": "Teufen (AR)",
+        "productionPotentielle": 33.16
+    },
+    {
+        "commune": "Trogen",
+        "productionPotentielle": 12.32
+    },
+    {
+        "commune": "Grub (AR)",
+        "productionPotentielle": 6.33
+    },
+    {
+        "commune": "Heiden",
+        "productionPotentielle": 23.87
+    },
+    {
+        "commune": "Lutzenberg",
+        "productionPotentielle": 6.43
+    },
+    {
+        "commune": "Rehetobel",
+        "productionPotentielle": 11.5
+    },
+    {
+        "commune": "Reute (AR)",
+        "productionPotentielle": 5.31
+    },
+    {
+        "commune": "Wald (AR)",
+        "productionPotentielle": 7.98
+    },
+    {
+        "commune": "Walzenhausen",
+        "productionPotentielle": 13.11
+    },
+    {
+        "commune": "Wolfhalden",
+        "productionPotentielle": 13.81
+    },
+    {
+        "commune": "Appenzell",
+        "productionPotentielle": 39.51
+    },
+    {
+        "commune": "Gonten",
+        "productionPotentielle": 15.83
+    },
+    {
+        "commune": "Rüte",
+        "productionPotentielle": 27.75
+    },
+    {
+        "commune": "Schlatt-Haslen",
+        "productionPotentielle": 13.37
+    },
+    {
+        "commune": "Schwende",
+        "productionPotentielle": 14.74
+    },
+    {
+        "commune": "Oberegg",
+        "productionPotentielle": 16.23
+    },
+    {
+        "commune": "Häggenschwil",
+        "productionPotentielle": 15.25
+    },
+    {
+        "commune": "Muolen",
+        "productionPotentielle": 17.07
+    },
+    {
+        "commune": "St. Gallen",
+        "productionPotentielle": 250.01
+    },
+    {
+        "commune": "Wittenbach",
+        "productionPotentielle": 40.35
+    },
+    {
+        "commune": "Berg (SG)",
+        "productionPotentielle": 7.11
+    },
+    {
+        "commune": "Eggersriet",
+        "productionPotentielle": 13.62
+    },
+    {
+        "commune": "Goldach",
+        "productionPotentielle": 41.1
+    },
+    {
+        "commune": "Mörschwil",
+        "productionPotentielle": 23.15
+    },
+    {
+        "commune": "Rorschach",
+        "productionPotentielle": 25.7
+    },
+    {
+        "commune": "Rorschacherberg",
+        "productionPotentielle": 21.11
+    },
+    {
+        "commune": "Steinach",
+        "productionPotentielle": 22.94
+    },
+    {
+        "commune": "Tübach",
+        "productionPotentielle": 11.47
+    },
+    {
+        "commune": "Untereggen",
+        "productionPotentielle": 7.17
+    },
+    {
+        "commune": "Au (SG)",
+        "productionPotentielle": 43.68
+    },
+    {
+        "commune": "Balgach",
+        "productionPotentielle": 32.06
+    },
+    {
+        "commune": "Berneck",
+        "productionPotentielle": 27.54
+    },
+    {
+        "commune": "Diepoldsau",
+        "productionPotentielle": 46.76
+    },
+    {
+        "commune": "Rheineck",
+        "productionPotentielle": 17.6
+    },
+    {
+        "commune": "St. Margrethen",
+        "productionPotentielle": 41.71
+    },
+    {
+        "commune": "Thal",
+        "productionPotentielle": 52.87
+    },
+    {
+        "commune": "Widnau",
+        "productionPotentielle": 56.59
+    },
+    {
+        "commune": "Altstätten",
+        "productionPotentielle": 95.77
+    },
+    {
+        "commune": "Eichberg",
+        "productionPotentielle": 10.91
+    },
+    {
+        "commune": "Marbach (SG)",
+        "productionPotentielle": 16.37
+    },
+    {
+        "commune": "Oberriet (SG)",
+        "productionPotentielle": 94.35
+    },
+    {
+        "commune": "Rebstein",
+        "productionPotentielle": 24.73
+    },
+    {
+        "commune": "Rüthi (SG)",
+        "productionPotentielle": 21.68
+    },
+    {
+        "commune": "Buchs (SG)",
+        "productionPotentielle": 65.01
+    },
+    {
+        "commune": "Gams",
+        "productionPotentielle": 28.8
+    },
+    {
+        "commune": "Grabs",
+        "productionPotentielle": 49.79
+    },
+    {
+        "commune": "Sennwald",
+        "productionPotentielle": 69.76
+    },
+    {
+        "commune": "Sevelen",
+        "productionPotentielle": 36.11
+    },
+    {
+        "commune": "Wartau",
+        "productionPotentielle": 39.64
+    },
+    {
+        "commune": "Bad Ragaz",
+        "productionPotentielle": 33.3
+    },
+    {
+        "commune": "Flums",
+        "productionPotentielle": 40.95
+    },
+    {
+        "commune": "Mels",
+        "productionPotentielle": 52.28
+    },
+    {
+        "commune": "Pfäfers",
+        "productionPotentielle": 15.66
+    },
+    {
+        "commune": "Quarten",
+        "productionPotentielle": 16.41
+    },
+    {
+        "commune": "Sargans",
+        "productionPotentielle": 30.7
+    },
+    {
+        "commune": "Vilters-Wangs",
+        "productionPotentielle": 30.81
+    },
+    {
+        "commune": "Walenstadt",
+        "productionPotentielle": 34.72
+    },
+    {
+        "commune": "Amden",
+        "productionPotentielle": 21.01
+    },
+    {
+        "commune": "Benken (SG)",
+        "productionPotentielle": 26.12
+    },
+    {
+        "commune": "Kaltbrunn",
+        "productionPotentielle": 30.58
+    },
+    {
+        "commune": "Schänis",
+        "productionPotentielle": 28.54
+    },
+    {
+        "commune": "Weesen",
+        "productionPotentielle": 9.31
+    },
+    {
+        "commune": "Schmerikon",
+        "productionPotentielle": 21.98
+    },
+    {
+        "commune": "Uznach",
+        "productionPotentielle": 34.3
+    },
+    {
+        "commune": "Rapperswil-Jona",
+        "productionPotentielle": 108.82
+    },
+    {
+        "commune": "Gommiswald",
+        "productionPotentielle": 40.65
+    },
+    {
+        "commune": "Eschenbach (SG)",
+        "productionPotentielle": 74.03
+    },
+    {
+        "commune": "Ebnat-Kappel",
+        "productionPotentielle": 36.76
+    },
+    {
+        "commune": "Wildhaus-Alt St. Johann",
+        "productionPotentielle": 47.16
+    },
+    {
+        "commune": "Nesslau",
+        "productionPotentielle": 46.33
+    },
+    {
+        "commune": "Hemberg",
+        "productionPotentielle": 13.87
+    },
+    {
+        "commune": "Lichtensteig",
+        "productionPotentielle": 8.4
+    },
+    {
+        "commune": "Oberhelfenschwil",
+        "productionPotentielle": 11.36
+    },
+    {
+        "commune": "Neckertal",
+        "productionPotentielle": 42.04
+    },
+    {
+        "commune": "Wattwil",
+        "productionPotentielle": 56.83
+    },
+    {
+        "commune": "Kirchberg (SG)",
+        "productionPotentielle": 71.47
+    },
+    {
+        "commune": "Lütisburg",
+        "productionPotentielle": 15.64
+    },
+    {
+        "commune": "Mosnang",
+        "productionPotentielle": 30.25
+    },
+    {
+        "commune": "Bütschwil-Ganterschwil",
+        "productionPotentielle": 42.49
+    },
+    {
+        "commune": "Degersheim",
+        "productionPotentielle": 25.86
+    },
+    {
+        "commune": "Flawil",
+        "productionPotentielle": 48.37
+    },
+    {
+        "commune": "Jonschwil",
+        "productionPotentielle": 40.18
+    },
+    {
+        "commune": "Oberuzwil",
+        "productionPotentielle": 34.27
+    },
+    {
+        "commune": "Uzwil",
+        "productionPotentielle": 71.84
+    },
+    {
+        "commune": "Niederbüren",
+        "productionPotentielle": 21.03
+    },
+    {
+        "commune": "Niederhelfenschwil",
+        "productionPotentielle": 28.22
+    },
+    {
+        "commune": "Oberbüren",
+        "productionPotentielle": 41.66
+    },
+    {
+        "commune": "Zuzwil (SG)",
+        "productionPotentielle": 33.6
+    },
+    {
+        "commune": "Wil (SG)",
+        "productionPotentielle": 118.14
+    },
+    {
+        "commune": "Andwil (SG)",
+        "productionPotentielle": 15.26
+    },
+    {
+        "commune": "Gaiserwald",
+        "productionPotentielle": 39.43
+    },
+    {
+        "commune": "Gossau (SG)",
+        "productionPotentielle": 113.49
+    },
+    {
+        "commune": "Waldkirch",
+        "productionPotentielle": 41.43
+    },
+    {
+        "commune": "Vaz/Obervaz",
+        "productionPotentielle": 51.07
+    },
+    {
+        "commune": "Lantsch/Lenz",
+        "productionPotentielle": 9.45
+    },
+    {
+        "commune": "Schmitten (GR)",
+        "productionPotentielle": 3.86
+    },
+    {
+        "commune": "Albula/Alvra",
+        "productionPotentielle": 23.48
+    },
+    {
+        "commune": "Surses",
+        "productionPotentielle": 47.96
+    },
+    {
+        "commune": "Bergün Filisur",
+        "productionPotentielle": 15.32
+    },
+    {
+        "commune": "Brusio",
+        "productionPotentielle": 10.79
+    },
+    {
+        "commune": "Poschiavo",
+        "productionPotentielle": 38.73
+    },
+    {
+        "commune": "Falera",
+        "productionPotentielle": 15.72
+    },
+    {
+        "commune": "Laax",
+        "productionPotentielle": 27.03
+    },
+    {
+        "commune": "Sagogn",
+        "productionPotentielle": 7.77
+    },
+    {
+        "commune": "Schluein",
+        "productionPotentielle": 8.41
+    },
+    {
+        "commune": "Vals",
+        "productionPotentielle": 15.27
+    },
+    {
+        "commune": "Lumnezia",
+        "productionPotentielle": 48.5
+    },
+    {
+        "commune": "Ilanz/Glion",
+        "productionPotentielle": 60.44
+    },
+    {
+        "commune": "Fürstenau",
+        "productionPotentielle": 2.74
+    },
+    {
+        "commune": "Rothenbrunnen",
+        "productionPotentielle": 2.54
+    },
+    {
+        "commune": "Scharans",
+        "productionPotentielle": 7.68
+    },
+    {
+        "commune": "Sils im Domleschg",
+        "productionPotentielle": 7.04
+    },
+    {
+        "commune": "Cazis",
+        "productionPotentielle": 26.82
+    },
+    {
+        "commune": "Flerden",
+        "productionPotentielle": 4.13
+    },
+    {
+        "commune": "Masein",
+        "productionPotentielle": 4.14
+    },
+    {
+        "commune": "Thusis",
+        "productionPotentielle": 20.56
+    },
+    {
+        "commune": "Tschappina",
+        "productionPotentielle": 6.38
+    },
+    {
+        "commune": "Urmein",
+        "productionPotentielle": 4.28
+    },
+    {
+        "commune": "Safiental",
+        "productionPotentielle": 23.2
+    },
+    {
+        "commune": "Domleschg",
+        "productionPotentielle": 22.98
+    },
+    {
+        "commune": "Avers",
+        "productionPotentielle": 6.42
+    },
+    {
+        "commune": "Sufers",
+        "productionPotentielle": 2.83
+    },
+    {
+        "commune": "Andeer",
+        "productionPotentielle": 9.06
+    },
+    {
+        "commune": "Rongellen",
+        "productionPotentielle": 0.4
+    },
+    {
+        "commune": "Zillis-Reischen",
+        "productionPotentielle": 4.49
+    },
+    {
+        "commune": "Ferrera",
+        "productionPotentielle": 2.28
+    },
+    {
+        "commune": "Rheinwald",
+        "productionPotentielle": 16.75
+    },
+    {
+        "commune": "Muntogna da Schons",
+        "productionPotentielle": 9.08
+    },
+    {
+        "commune": "Bonaduz",
+        "productionPotentielle": 17.28
+    },
+    {
+        "commune": "Domat/Ems",
+        "productionPotentielle": 45.76
+    },
+    {
+        "commune": "Rhäzüns",
+        "productionPotentielle": 9.28
+    },
+    {
+        "commune": "Felsberg",
+        "productionPotentielle": 11.72
+    },
+    {
+        "commune": "Flims",
+        "productionPotentielle": 39.55
+    },
+    {
+        "commune": "Tamins",
+        "productionPotentielle": 8.31
+    },
+    {
+        "commune": "Trin",
+        "productionPotentielle": 12.88
+    },
+    {
+        "commune": "Zernez",
+        "productionPotentielle": 17.51
+    },
+    {
+        "commune": "Samnaun",
+        "productionPotentielle": 10.7
+    },
+    {
+        "commune": "Scuol",
+        "productionPotentielle": 58.19
+    },
+    {
+        "commune": "Valsot",
+        "productionPotentielle": 13.69
+    },
+    {
+        "commune": "Bever",
+        "productionPotentielle": 7.45
+    },
+    {
+        "commune": "Celerina/Schlarigna",
+        "productionPotentielle": 19.84
+    },
+    {
+        "commune": "Madulain",
+        "productionPotentielle": 4.04
+    },
+    {
+        "commune": "Pontresina",
+        "productionPotentielle": 19.53
+    },
+    {
+        "commune": "La Punt-Chamues-ch",
+        "productionPotentielle": 10.86
+    },
+    {
+        "commune": "Samedan",
+        "productionPotentielle": 27.51
+    },
+    {
+        "commune": "St. Moritz",
+        "productionPotentielle": 45.3
+    },
+    {
+        "commune": "S-chanf",
+        "productionPotentielle": 11.56
+    },
+    {
+        "commune": "Sils im Engadin/Segl",
+        "productionPotentielle": 12.95
+    },
+    {
+        "commune": "Silvaplana",
+        "productionPotentielle": 16.69
+    },
+    {
+        "commune": "Zuoz",
+        "productionPotentielle": 15.97
+    },
+    {
+        "commune": "Bregaglia",
+        "productionPotentielle": 27.39
+    },
+    {
+        "commune": "Buseno",
+        "productionPotentielle": 1.99
+    },
+    {
+        "commune": "Castaneda",
+        "productionPotentielle": 2.74
+    },
+    {
+        "commune": "Rossa",
+        "productionPotentielle": 2.71
+    },
+    {
+        "commune": "Santa Maria in Calanca",
+        "productionPotentielle": 3.09
+    },
+    {
+        "commune": "Lostallo",
+        "productionPotentielle": 5.3
+    },
+    {
+        "commune": "Mesocco",
+        "productionPotentielle": 17.71
+    },
+    {
+        "commune": "Soazza",
+        "productionPotentielle": 2.74
+    },
+    {
+        "commune": "Cama",
+        "productionPotentielle": 3.51
+    },
+    {
+        "commune": "Grono",
+        "productionPotentielle": 11.32
+    },
+    {
+        "commune": "Roveredo (GR)",
+        "productionPotentielle": 15.26
+    },
+    {
+        "commune": "San Vittore",
+        "productionPotentielle": 12.08
+    },
+    {
+        "commune": "Calanca",
+        "productionPotentielle": 4.61
+    },
+    {
+        "commune": "Val Müstair",
+        "productionPotentielle": 27.66
+    },
+    {
+        "commune": "Davos",
+        "productionPotentielle": 98.36
+    },
+    {
+        "commune": "Fideris",
+        "productionPotentielle": 12.15
+    },
+    {
+        "commune": "Furna",
+        "productionPotentielle": 7.55
+    },
+    {
+        "commune": "Jenaz",
+        "productionPotentielle": 13.06
+    },
+    {
+        "commune": "Klosters",
+        "productionPotentielle": 60.81
+    },
+    {
+        "commune": "Conters im Prättigau",
+        "productionPotentielle": 4.91
+    },
+    {
+        "commune": "Küblis",
+        "productionPotentielle": 9.53
+    },
+    {
+        "commune": "Luzein",
+        "productionPotentielle": 31.91
+    },
+    {
+        "commune": "Chur",
+        "productionPotentielle": 138.3
+    },
+    {
+        "commune": "Churwalden",
+        "productionPotentielle": 28.81
+    },
+    {
+        "commune": "Arosa",
+        "productionPotentielle": 57.11
+    },
+    {
+        "commune": "Tschiertschen-Praden",
+        "productionPotentielle": 7.13
+    },
+    {
+        "commune": "Trimmis",
+        "productionPotentielle": 21.43
+    },
+    {
+        "commune": "Untervaz",
+        "productionPotentielle": 19.47
+    },
+    {
+        "commune": "Zizers",
+        "productionPotentielle": 25.12
+    },
+    {
+        "commune": "Fläsch",
+        "productionPotentielle": 5.71
+    },
+    {
+        "commune": "Jenins",
+        "productionPotentielle": 6.47
+    },
+    {
+        "commune": "Maienfeld",
+        "productionPotentielle": 21.97
+    },
+    {
+        "commune": "Malans",
+        "productionPotentielle": 17.41
+    },
+    {
+        "commune": "Landquart",
+        "productionPotentielle": 60.19
+    },
+    {
+        "commune": "Grüsch",
+        "productionPotentielle": 24.89
+    },
+    {
+        "commune": "Schiers",
+        "productionPotentielle": 24
+    },
+    {
+        "commune": "Seewis im Prättigau",
+        "productionPotentielle": 17.82
+    },
+    {
+        "commune": "Breil/Brigels",
+        "productionPotentielle": 39.85
+    },
+    {
+        "commune": "Disentis/Mustér",
+        "productionPotentielle": 27.03
+    },
+    {
+        "commune": "Medel (Lucmagn)",
+        "productionPotentielle": 7.92
+    },
+    {
+        "commune": "Sumvitg",
+        "productionPotentielle": 21.15
+    },
+    {
+        "commune": "Tujetsch",
+        "productionPotentielle": 26.05
+    },
+    {
+        "commune": "Trun",
+        "productionPotentielle": 19.12
+    },
+    {
+        "commune": "Obersaxen Mundaun",
+        "productionPotentielle": 32.46
+    },
+    {
+        "commune": "Aarau",
+        "productionPotentielle": 93.45
+    },
+    {
+        "commune": "Biberstein",
+        "productionPotentielle": 8.45
+    },
+    {
+        "commune": "Buchs (AG)",
+        "productionPotentielle": 40.08
+    },
+    {
+        "commune": "Densbüren",
+        "productionPotentielle": 7.41
+    },
+    {
+        "commune": "Erlinsbach (AG)",
+        "productionPotentielle": 21.29
+    },
+    {
+        "commune": "Gränichen",
+        "productionPotentielle": 40.19
+    },
+    {
+        "commune": "Hirschthal",
+        "productionPotentielle": 12.41
+    },
+    {
+        "commune": "Küttigen",
+        "productionPotentielle": 29.57
+    },
+    {
+        "commune": "Muhen",
+        "productionPotentielle": 24.6
+    },
+    {
+        "commune": "Oberentfelden",
+        "productionPotentielle": 42.27
+    },
+    {
+        "commune": "Suhr",
+        "productionPotentielle": 48.83
+    },
+    {
+        "commune": "Unterentfelden",
+        "productionPotentielle": 25.68
+    },
+    {
+        "commune": "Baden",
+        "productionPotentielle": 77.27
+    },
+    {
+        "commune": "Bellikon",
+        "productionPotentielle": 10.11
+    },
+    {
+        "commune": "Bergdietikon",
+        "productionPotentielle": 17.87
+    },
+    {
+        "commune": "Birmenstorf (AG)",
+        "productionPotentielle": 19.89
+    },
+    {
+        "commune": "Ennetbaden",
+        "productionPotentielle": 10.5
+    },
+    {
+        "commune": "Fislisbach",
+        "productionPotentielle": 23.11
+    },
+    {
+        "commune": "Freienwil",
+        "productionPotentielle": 6.24
+    },
+    {
+        "commune": "Gebenstorf",
+        "productionPotentielle": 22.63
+    },
+    {
+        "commune": "Killwangen",
+        "productionPotentielle": 9.36
+    },
+    {
+        "commune": "Künten",
+        "productionPotentielle": 10.7
+    },
+    {
+        "commune": "Mägenwil",
+        "productionPotentielle": 19.45
+    },
+    {
+        "commune": "Mellingen",
+        "productionPotentielle": 26.54
+    },
+    {
+        "commune": "Neuenhof",
+        "productionPotentielle": 20.87
+    },
+    {
+        "commune": "Niederrohrdorf",
+        "productionPotentielle": 14.9
+    },
+    {
+        "commune": "Oberrohrdorf",
+        "productionPotentielle": 17.44
+    },
+    {
+        "commune": "Obersiggenthal",
+        "productionPotentielle": 28.37
+    },
+    {
+        "commune": "Remetschwil",
+        "productionPotentielle": 12.48
+    },
+    {
+        "commune": "Spreitenbach",
+        "productionPotentielle": 52.63
+    },
+    {
+        "commune": "Stetten (AG)",
+        "productionPotentielle": 15.87
+    },
+    {
+        "commune": "Turgi",
+        "productionPotentielle": 9.42
+    },
+    {
+        "commune": "Untersiggenthal",
+        "productionPotentielle": 30.5
+    },
+    {
+        "commune": "Wettingen",
+        "productionPotentielle": 66.5
+    },
+    {
+        "commune": "Wohlenschwil",
+        "productionPotentielle": 9.63
+    },
+    {
+        "commune": "Würenlingen",
+        "productionPotentielle": 36.56
+    },
+    {
+        "commune": "Würenlos",
+        "productionPotentielle": 28
+    },
+    {
+        "commune": "Ehrendingen",
+        "productionPotentielle": 20.82
+    },
+    {
+        "commune": "Arni (AG)",
+        "productionPotentielle": 9.92
+    },
+    {
+        "commune": "Berikon",
+        "productionPotentielle": 21.32
+    },
+    {
+        "commune": "Bremgarten (AG)",
+        "productionPotentielle": 45.54
+    },
+    {
+        "commune": "Büttikon",
+        "productionPotentielle": 6.15
+    },
+    {
+        "commune": "Dottikon",
+        "productionPotentielle": 21.63
+    },
+    {
+        "commune": "Eggenwil",
+        "productionPotentielle": 6.88
+    },
+    {
+        "commune": "Fischbach-Göslikon",
+        "productionPotentielle": 10.34
+    },
+    {
+        "commune": "Hägglingen",
+        "productionPotentielle": 17.87
+    },
+    {
+        "commune": "Jonen",
+        "productionPotentielle": 13.51
+    },
+    {
+        "commune": "Niederwil (AG)",
+        "productionPotentielle": 17.3
+    },
+    {
+        "commune": "Oberlunkhofen",
+        "productionPotentielle": 11.5
+    },
+    {
+        "commune": "Oberwil-Lieli",
+        "productionPotentielle": 16.18
+    },
+    {
+        "commune": "Rudolfstetten-Friedlisberg",
+        "productionPotentielle": 18.57
+    },
+    {
+        "commune": "Sarmenstorf",
+        "productionPotentielle": 20.47
+    },
+    {
+        "commune": "Tägerig",
+        "productionPotentielle": 7.94
+    },
+    {
+        "commune": "Uezwil",
+        "productionPotentielle": 3.88
+    },
+    {
+        "commune": "Unterlunkhofen",
+        "productionPotentielle": 8.39
+    },
+    {
+        "commune": "Villmergen",
+        "productionPotentielle": 59.36
+    },
+    {
+        "commune": "Widen",
+        "productionPotentielle": 17.92
+    },
+    {
+        "commune": "Wohlen (AG)",
+        "productionPotentielle": 82.15
+    },
+    {
+        "commune": "Zufikon",
+        "productionPotentielle": 18.6
+    },
+    {
+        "commune": "Islisberg",
+        "productionPotentielle": 3.81
+    },
+    {
+        "commune": "Auenstein",
+        "productionPotentielle": 10.56
+    },
+    {
+        "commune": "Birr",
+        "productionPotentielle": 26.76
+    },
+    {
+        "commune": "Birrhard",
+        "productionPotentielle": 6.63
+    },
+    {
+        "commune": "Bözen",
+        "productionPotentielle": 7.19
+    },
+    {
+        "commune": "Brugg",
+        "productionPotentielle": 62.18
+    },
+    {
+        "commune": "Effingen",
+        "productionPotentielle": 6.67
+    },
+    {
+        "commune": "Elfingen",
+        "productionPotentielle": 3.27
+    },
+    {
+        "commune": "Habsburg",
+        "productionPotentielle": 2.74
+    },
+    {
+        "commune": "Hausen (AG)",
+        "productionPotentielle": 14.05
+    },
+    {
+        "commune": "Lupfig",
+        "productionPotentielle": 29.46
+    },
+    {
+        "commune": "Mandach",
+        "productionPotentielle": 4.06
+    },
+    {
+        "commune": "Mönthal",
+        "productionPotentielle": 4.09
+    },
+    {
+        "commune": "Mülligen",
+        "productionPotentielle": 6.33
+    },
+    {
+        "commune": "Remigen",
+        "productionPotentielle": 8.5
+    },
+    {
+        "commune": "Riniken",
+        "productionPotentielle": 7.77
+    },
+    {
+        "commune": "Rüfenach",
+        "productionPotentielle": 10.32
+    },
+    {
+        "commune": "Thalheim (AG)",
+        "productionPotentielle": 8.03
+    },
+    {
+        "commune": "Veltheim (AG)",
+        "productionPotentielle": 12.58
+    },
+    {
+        "commune": "Villigen",
+        "productionPotentielle": 21.4
+    },
+    {
+        "commune": "Villnachern",
+        "productionPotentielle": 8.44
+    },
+    {
+        "commune": "Windisch",
+        "productionPotentielle": 33
+    },
+    {
+        "commune": "Bözberg",
+        "productionPotentielle": 17.1
+    },
+    {
+        "commune": "Schinznach",
+        "productionPotentielle": 23.28
+    },
+    {
+        "commune": "Beinwil am See",
+        "productionPotentielle": 20.61
+    },
+    {
+        "commune": "Birrwil",
+        "productionPotentielle": 9.44
+    },
+    {
+        "commune": "Burg (AG)",
+        "productionPotentielle": 5.43
+    },
+    {
+        "commune": "Dürrenäsch",
+        "productionPotentielle": 14.51
+    },
+    {
+        "commune": "Gontenschwil",
+        "productionPotentielle": 24.66
+    },
+    {
+        "commune": "Holziken",
+        "productionPotentielle": 7.96
+    },
+    {
+        "commune": "Leimbach (AG)",
+        "productionPotentielle": 5.39
+    },
+    {
+        "commune": "Leutwil",
+        "productionPotentielle": 7.39
+    },
+    {
+        "commune": "Menziken",
+        "productionPotentielle": 35.91
+    },
+    {
+        "commune": "Oberkulm",
+        "productionPotentielle": 19.88
+    },
+    {
+        "commune": "Reinach (AG)",
+        "productionPotentielle": 56.38
+    },
+    {
+        "commune": "Schlossrued",
+        "productionPotentielle": 9.76
+    },
+    {
+        "commune": "Schmiedrued",
+        "productionPotentielle": 13.78
+    },
+    {
+        "commune": "Schöftland",
+        "productionPotentielle": 23.5
+    },
+    {
+        "commune": "Teufenthal (AG)",
+        "productionPotentielle": 11.27
+    },
+    {
+        "commune": "Unterkulm",
+        "productionPotentielle": 23.02
+    },
+    {
+        "commune": "Zetzwil",
+        "productionPotentielle": 11.4
+    },
+    {
+        "commune": "Eiken",
+        "productionPotentielle": 20.49
+    },
+    {
+        "commune": "Frick",
+        "productionPotentielle": 39.77
+    },
+    {
+        "commune": "Gansingen",
+        "productionPotentielle": 9.9
+    },
+    {
+        "commune": "Gipf-Oberfrick",
+        "productionPotentielle": 21.5
+    },
+    {
+        "commune": "Herznach",
+        "productionPotentielle": 12.39
+    },
+    {
+        "commune": "Hornussen",
+        "productionPotentielle": 8.34
+    },
+    {
+        "commune": "Kaisten",
+        "productionPotentielle": 26.73
+    },
+    {
+        "commune": "Laufenburg",
+        "productionPotentielle": 29.7
+    },
+    {
+        "commune": "Münchwilen (AG)",
+        "productionPotentielle": 8.55
+    },
+    {
+        "commune": "Oberhof",
+        "productionPotentielle": 6.53
+    },
+    {
+        "commune": "Oeschgen",
+        "productionPotentielle": 8.25
+    },
+    {
+        "commune": "Schwaderloch",
+        "productionPotentielle": 5.58
+    },
+    {
+        "commune": "Sisseln",
+        "productionPotentielle": 13.75
+    },
+    {
+        "commune": "Ueken",
+        "productionPotentielle": 6.38
+    },
+    {
+        "commune": "Wittnau",
+        "productionPotentielle": 10.49
+    },
+    {
+        "commune": "Wölflinswil",
+        "productionPotentielle": 10.9
+    },
+    {
+        "commune": "Zeihen",
+        "productionPotentielle": 9.09
+    },
+    {
+        "commune": "Mettauertal",
+        "productionPotentielle": 22.74
+    },
+    {
+        "commune": "Ammerswil",
+        "productionPotentielle": 5.17
+    },
+    {
+        "commune": "Boniswil",
+        "productionPotentielle": 10.06
+    },
+    {
+        "commune": "Brunegg",
+        "productionPotentielle": 8.51
+    },
+    {
+        "commune": "Dintikon",
+        "productionPotentielle": 17.4
+    },
+    {
+        "commune": "Egliswil",
+        "productionPotentielle": 12.01
+    },
+    {
+        "commune": "Fahrwangen",
+        "productionPotentielle": 13.89
+    },
+    {
+        "commune": "Hallwil",
+        "productionPotentielle": 7.73
+    },
+    {
+        "commune": "Hendschiken",
+        "productionPotentielle": 10.35
+    },
+    {
+        "commune": "Holderbank (AG)",
+        "productionPotentielle": 8.65
+    },
+    {
+        "commune": "Hunzenschwil",
+        "productionPotentielle": 27.02
+    },
+    {
+        "commune": "Lenzburg",
+        "productionPotentielle": 63.12
+    },
+    {
+        "commune": "Meisterschwanden",
+        "productionPotentielle": 18.78
+    },
+    {
+        "commune": "Möriken-Wildegg",
+        "productionPotentielle": 29.51
+    },
+    {
+        "commune": "Niederlenz",
+        "productionPotentielle": 25.66
+    },
+    {
+        "commune": "Othmarsingen",
+        "productionPotentielle": 18.05
+    },
+    {
+        "commune": "Rupperswil",
+        "productionPotentielle": 35.84
+    },
+    {
+        "commune": "Schafisheim",
+        "productionPotentielle": 33.52
+    },
+    {
+        "commune": "Seengen",
+        "productionPotentielle": 24.11
+    },
+    {
+        "commune": "Seon",
+        "productionPotentielle": 38.43
+    },
+    {
+        "commune": "Staufen",
+        "productionPotentielle": 15.44
+    },
+    {
+        "commune": "Abtwil",
+        "productionPotentielle": 6.64
+    },
+    {
+        "commune": "Aristau",
+        "productionPotentielle": 14.51
+    },
+    {
+        "commune": "Auw",
+        "productionPotentielle": 18.07
+    },
+    {
+        "commune": "Beinwil (Freiamt)",
+        "productionPotentielle": 13.62
+    },
+    {
+        "commune": "Besenbüren",
+        "productionPotentielle": 5.79
+    },
+    {
+        "commune": "Bettwil",
+        "productionPotentielle": 7.33
+    },
+    {
+        "commune": "Boswil",
+        "productionPotentielle": 26.12
+    },
+    {
+        "commune": "Bünzen",
+        "productionPotentielle": 14.38
+    },
+    {
+        "commune": "Buttwil",
+        "productionPotentielle": 9.71
+    },
+    {
+        "commune": "Dietwil",
+        "productionPotentielle": 9.4
+    },
+    {
+        "commune": "Geltwil",
+        "productionPotentielle": 3.12
+    },
+    {
+        "commune": "Kallern",
+        "productionPotentielle": 4.65
+    },
+    {
+        "commune": "Merenschwand",
+        "productionPotentielle": 30.12
+    },
+    {
+        "commune": "Mühlau",
+        "productionPotentielle": 10.14
+    },
+    {
+        "commune": "Muri (AG)",
+        "productionPotentielle": 49.39
+    },
+    {
+        "commune": "Oberrüti",
+        "productionPotentielle": 11.56
+    },
+    {
+        "commune": "Rottenschwil",
+        "productionPotentielle": 6.39
+    },
+    {
+        "commune": "Sins",
+        "productionPotentielle": 44.87
+    },
+    {
+        "commune": "Waltenschwil",
+        "productionPotentielle": 18.99
+    },
+    {
+        "commune": "Hellikon",
+        "productionPotentielle": 9.01
+    },
+    {
+        "commune": "Kaiseraugst",
+        "productionPotentielle": 35.15
+    },
+    {
+        "commune": "Magden",
+        "productionPotentielle": 20.27
+    },
+    {
+        "commune": "Möhlin",
+        "productionPotentielle": 74.72
+    },
+    {
+        "commune": "Mumpf",
+        "productionPotentielle": 6.89
+    },
+    {
+        "commune": "Obermumpf",
+        "productionPotentielle": 7.16
+    },
+    {
+        "commune": "Olsberg",
+        "productionPotentielle": 3.73
+    },
+    {
+        "commune": "Rheinfelden",
+        "productionPotentielle": 59.19
+    },
+    {
+        "commune": "Schupfart",
+        "productionPotentielle": 8.02
+    },
+    {
+        "commune": "Stein (AG)",
+        "productionPotentielle": 23
+    },
+    {
+        "commune": "Wallbach",
+        "productionPotentielle": 16.06
+    },
+    {
+        "commune": "Wegenstetten",
+        "productionPotentielle": 10.81
+    },
+    {
+        "commune": "Zeiningen",
+        "productionPotentielle": 17.07
+    },
+    {
+        "commune": "Zuzgen",
+        "productionPotentielle": 9.16
+    },
+    {
+        "commune": "Aarburg",
+        "productionPotentielle": 34.3
+    },
+    {
+        "commune": "Bottenwil",
+        "productionPotentielle": 6.44
+    },
+    {
+        "commune": "Brittnau",
+        "productionPotentielle": 28.53
+    },
+    {
+        "commune": "Kirchleerau",
+        "productionPotentielle": 7.53
+    },
+    {
+        "commune": "Kölliken",
+        "productionPotentielle": 36.74
+    },
+    {
+        "commune": "Moosleerau",
+        "productionPotentielle": 6.79
+    },
+    {
+        "commune": "Murgenthal",
+        "productionPotentielle": 22.58
+    },
+    {
+        "commune": "Oftringen",
+        "productionPotentielle": 74.96
+    },
+    {
+        "commune": "Reitnau",
+        "productionPotentielle": 17.28
+    },
+    {
+        "commune": "Rothrist",
+        "productionPotentielle": 66.48
+    },
+    {
+        "commune": "Safenwil",
+        "productionPotentielle": 28.49
+    },
+    {
+        "commune": "Staffelbach",
+        "productionPotentielle": 11.89
+    },
+    {
+        "commune": "Strengelbach",
+        "productionPotentielle": 24.38
+    },
+    {
+        "commune": "Uerkheim",
+        "productionPotentielle": 11.16
+    },
+    {
+        "commune": "Vordemwald",
+        "productionPotentielle": 13.38
+    },
+    {
+        "commune": "Wiliberg",
+        "productionPotentielle": 2.01
+    },
+    {
+        "commune": "Zofingen",
+        "productionPotentielle": 64.34
+    },
+    {
+        "commune": "Baldingen",
+        "productionPotentielle": 3.1
+    },
+    {
+        "commune": "Böbikon",
+        "productionPotentielle": 1.92
+    },
+    {
+        "commune": "Böttstein",
+        "productionPotentielle": 25.66
+    },
+    {
+        "commune": "Döttingen",
+        "productionPotentielle": 25.82
+    },
+    {
+        "commune": "Endingen",
+        "productionPotentielle": 17.34
+    },
+    {
+        "commune": "Fisibach",
+        "productionPotentielle": 6.26
+    },
+    {
+        "commune": "Full-Reuenthal",
+        "productionPotentielle": 11.03
+    },
+    {
+        "commune": "Kaiserstuhl",
+        "productionPotentielle": 1.9
+    },
+    {
+        "commune": "Klingnau",
+        "productionPotentielle": 21.76
+    },
+    {
+        "commune": "Koblenz",
+        "productionPotentielle": 11.52
+    },
+    {
+        "commune": "Leibstadt",
+        "productionPotentielle": 20.06
+    },
+    {
+        "commune": "Lengnau (AG)",
+        "productionPotentielle": 19.88
+    },
+    {
+        "commune": "Leuggern",
+        "productionPotentielle": 19.36
+    },
+    {
+        "commune": "Mellikon",
+        "productionPotentielle": 3.7
+    },
+    {
+        "commune": "Rekingen (AG)",
+        "productionPotentielle": 8.55
+    },
+    {
+        "commune": "Rietheim",
+        "productionPotentielle": 3.52
+    },
+    {
+        "commune": "Rümikon",
+        "productionPotentielle": 2.18
+    },
+    {
+        "commune": "Schneisingen",
+        "productionPotentielle": 12.22
+    },
+    {
+        "commune": "Siglistorf",
+        "productionPotentielle": 4.65
+    },
+    {
+        "commune": "Tegerfelden",
+        "productionPotentielle": 10.06
+    },
+    {
+        "commune": "Wislikofen",
+        "productionPotentielle": 4.47
+    },
+    {
+        "commune": "Bad Zurzach",
+        "productionPotentielle": 23.93
+    },
+    {
+        "commune": "Arbon",
+        "productionPotentielle": 74.07
+    },
+    {
+        "commune": "Dozwil",
+        "productionPotentielle": 5.75
+    },
+    {
+        "commune": "Egnach",
+        "productionPotentielle": 55.67
+    },
+    {
+        "commune": "Hefenhofen",
+        "productionPotentielle": 15.13
+    },
+    {
+        "commune": "Horn",
+        "productionPotentielle": 14.22
+    },
+    {
+        "commune": "Kesswil",
+        "productionPotentielle": 13.6
+    },
+    {
+        "commune": "Roggwil (TG)",
+        "productionPotentielle": 27.42
+    },
+    {
+        "commune": "Romanshorn",
+        "productionPotentielle": 61.07
+    },
+    {
+        "commune": "Salmsach",
+        "productionPotentielle": 16.21
+    },
+    {
+        "commune": "Sommeri",
+        "productionPotentielle": 7.53
+    },
+    {
+        "commune": "Uttwil",
+        "productionPotentielle": 11.15
+    },
+    {
+        "commune": "Amriswil",
+        "productionPotentielle": 79.14
+    },
+    {
+        "commune": "Bischofszell",
+        "productionPotentielle": 42.14
+    },
+    {
+        "commune": "Erlen",
+        "productionPotentielle": 35.13
+    },
+    {
+        "commune": "Hauptwil-Gottshaus",
+        "productionPotentielle": 18.99
+    },
+    {
+        "commune": "Hohentannen",
+        "productionPotentielle": 9.89
+    },
+    {
+        "commune": "Kradolf-Schönenberg",
+        "productionPotentielle": 27.44
+    },
+    {
+        "commune": "Sulgen",
+        "productionPotentielle": 33.18
+    },
+    {
+        "commune": "Zihlschlacht-Sitterdorf",
+        "productionPotentielle": 25.12
+    },
+    {
+        "commune": "Basadingen-Schlattingen",
+        "productionPotentielle": 33.51
+    },
+    {
+        "commune": "Diessenhofen",
+        "productionPotentielle": 26.48
+    },
+    {
+        "commune": "Schlatt (TG)",
+        "productionPotentielle": 20.23
+    },
+    {
+        "commune": "Aadorf",
+        "productionPotentielle": 61.15
+    },
+    {
+        "commune": "Felben-Wellhausen",
+        "productionPotentielle": 20.97
+    },
+    {
+        "commune": "Frauenfeld",
+        "productionPotentielle": 145.71
+    },
+    {
+        "commune": "Gachnang",
+        "productionPotentielle": 28.32
+    },
+    {
+        "commune": "Hüttlingen",
+        "productionPotentielle": 9.97
+    },
+    {
+        "commune": "Matzingen",
+        "productionPotentielle": 21.23
+    },
+    {
+        "commune": "Neunforn",
+        "productionPotentielle": 12.83
+    },
+    {
+        "commune": "Stettfurt",
+        "productionPotentielle": 11.29
+    },
+    {
+        "commune": "Thundorf",
+        "productionPotentielle": 17.04
+    },
+    {
+        "commune": "Uesslingen-Buch",
+        "productionPotentielle": 15.3
+    },
+    {
+        "commune": "Warth-Weiningen",
+        "productionPotentielle": 12.1
+    },
+    {
+        "commune": "Altnau",
+        "productionPotentielle": 17.65
+    },
+    {
+        "commune": "Bottighofen",
+        "productionPotentielle": 10.3
+    },
+    {
+        "commune": "Ermatingen",
+        "productionPotentielle": 21.62
+    },
+    {
+        "commune": "Gottlieben",
+        "productionPotentielle": 2.28
+    },
+    {
+        "commune": "Güttingen",
+        "productionPotentielle": 18.43
+    },
+    {
+        "commune": "Kemmental",
+        "productionPotentielle": 38.4
+    },
+    {
+        "commune": "Kreuzlingen",
+        "productionPotentielle": 91.2
+    },
+    {
+        "commune": "Langrickenbach",
+        "productionPotentielle": 17.18
+    },
+    {
+        "commune": "Lengwil",
+        "productionPotentielle": 18.54
+    },
+    {
+        "commune": "Münsterlingen",
+        "productionPotentielle": 18.25
+    },
+    {
+        "commune": "Tägerwilen",
+        "productionPotentielle": 43.8
+    },
+    {
+        "commune": "Wäldi",
+        "productionPotentielle": 19.74
+    },
+    {
+        "commune": "Affeltrangen",
+        "productionPotentielle": 29.87
+    },
+    {
+        "commune": "Bettwiesen",
+        "productionPotentielle": 9.57
+    },
+    {
+        "commune": "Bichelsee-Balterswil",
+        "productionPotentielle": 22.17
+    },
+    {
+        "commune": "Braunau",
+        "productionPotentielle": 9.46
+    },
+    {
+        "commune": "Eschlikon",
+        "productionPotentielle": 32.04
+    },
+    {
+        "commune": "Fischingen",
+        "productionPotentielle": 27.83
+    },
+    {
+        "commune": "Lommis",
+        "productionPotentielle": 12.69
+    },
+    {
+        "commune": "Münchwilen (TG)",
+        "productionPotentielle": 34.4
+    },
+    {
+        "commune": "Rickenbach (TG)",
+        "productionPotentielle": 12.59
+    },
+    {
+        "commune": "Schönholzerswilen",
+        "productionPotentielle": 13.67
+    },
+    {
+        "commune": "Sirnach",
+        "productionPotentielle": 45.45
+    },
+    {
+        "commune": "Tobel-Tägerschen",
+        "productionPotentielle": 15.22
+    },
+    {
+        "commune": "Wängi",
+        "productionPotentielle": 40.79
+    },
+    {
+        "commune": "Wilen (TG)",
+        "productionPotentielle": 11.63
+    },
+    {
+        "commune": "Wuppenau",
+        "productionPotentielle": 16.08
+    },
+    {
+        "commune": "Berlingen",
+        "productionPotentielle": 4.94
+    },
+    {
+        "commune": "Eschenz",
+        "productionPotentielle": 16.96
+    },
+    {
+        "commune": "Herdern",
+        "productionPotentielle": 14.42
+    },
+    {
+        "commune": "Homburg",
+        "productionPotentielle": 27.61
+    },
+    {
+        "commune": "Hüttwilen",
+        "productionPotentielle": 22.09
+    },
+    {
+        "commune": "Mammern",
+        "productionPotentielle": 6.6
+    },
+    {
+        "commune": "Müllheim",
+        "productionPotentielle": 22.85
+    },
+    {
+        "commune": "Pfyn",
+        "productionPotentielle": 20.01
+    },
+    {
+        "commune": "Raperswilen",
+        "productionPotentielle": 8.22
+    },
+    {
+        "commune": "Salenstein",
+        "productionPotentielle": 10.18
+    },
+    {
+        "commune": "Steckborn",
+        "productionPotentielle": 21.03
+    },
+    {
+        "commune": "Wagenhausen",
+        "productionPotentielle": 18.17
+    },
+    {
+        "commune": "Amlikon-Bissegg",
+        "productionPotentielle": 21.59
+    },
+    {
+        "commune": "Berg (TG)",
+        "productionPotentielle": 31.38
+    },
+    {
+        "commune": "Birwinken",
+        "productionPotentielle": 17.98
+    },
+    {
+        "commune": "Bürglen (TG)",
+        "productionPotentielle": 37.58
+    },
+    {
+        "commune": "Bussnang",
+        "productionPotentielle": 29.74
+    },
+    {
+        "commune": "Märstetten",
+        "productionPotentielle": 27.71
+    },
+    {
+        "commune": "Weinfelden",
+        "productionPotentielle": 82.98
+    },
+    {
+        "commune": "Wigoltingen",
+        "productionPotentielle": 31.93
+    },
+    {
+        "commune": "Arbedo-Castione",
+        "productionPotentielle": 29.29
+    },
+    {
+        "commune": "Bellinzona",
+        "productionPotentielle": 272.23
+    },
+    {
+        "commune": "Cadenazzo",
+        "productionPotentielle": 31.64
+    },
+    {
+        "commune": "Isone",
+        "productionPotentielle": 5.74
+    },
+    {
+        "commune": "Lumino",
+        "productionPotentielle": 10.32
+    },
+    {
+        "commune": "Sant'Antonino",
+        "productionPotentielle": 34.83
+    },
+    {
+        "commune": "Acquarossa",
+        "productionPotentielle": 23.01
+    },
+    {
+        "commune": "Blenio",
+        "productionPotentielle": 28.85
+    },
+    {
+        "commune": "Serravalle",
+        "productionPotentielle": 23.06
+    },
+    {
+        "commune": "Airolo",
+        "productionPotentielle": 24.51
+    },
+    {
+        "commune": "Bedretto",
+        "productionPotentielle": 3.76
+    },
+    {
+        "commune": "Bodio",
+        "productionPotentielle": 5.75
+    },
+    {
+        "commune": "Dalpe",
+        "productionPotentielle": 3.92
+    },
+    {
+        "commune": "Faido",
+        "productionPotentielle": 40.34
+    },
+    {
+        "commune": "Giornico",
+        "productionPotentielle": 6.74
+    },
+    {
+        "commune": "Personico",
+        "productionPotentielle": 2.57
+    },
+    {
+        "commune": "Pollegio",
+        "productionPotentielle": 5.02
+    },
+    {
+        "commune": "Prato (Leventina)",
+        "productionPotentielle": 3.6
+    },
+    {
+        "commune": "Quinto",
+        "productionPotentielle": 19.83
+    },
+    {
+        "commune": "Ascona",
+        "productionPotentielle": 45.89
+    },
+    {},
+    {
+        "commune": "Brione sopra Minusio",
+        "productionPotentielle": 8.11
+    },
+    {
+        "commune": "Brissago",
+        "productionPotentielle": 23.19
+    },
+    {},
+    {},
+    {
+        "commune": "Gordola",
+        "productionPotentielle": 31.96
+    },
+    {
+        "commune": "Lavertezzo",
+        "productionPotentielle": 13.05
+    },
+    {
+        "commune": "Locarno",
+        "productionPotentielle": 86.71
+    },
+    {
+        "commune": "Losone",
+        "productionPotentielle": 45.84
+    },
+    {
+        "commune": "Mergoscia",
+        "productionPotentielle": 5.5
+    },
+    {
+        "commune": "Minusio",
+        "productionPotentielle": 36.77
+    },
+    {
+        "commune": "Muralto",
+        "productionPotentielle": 11.74
+    },
+    {
+        "commune": "Orselina",
+        "productionPotentielle": 9.32
+    },
+    {
+        "commune": "Ronco sopra Ascona",
+        "productionPotentielle": 11.28
+    },
+    {},
+    {
+        "commune": "Tenero-Contra",
+        "productionPotentielle": 19.6
+    },
+    {},
+    {
+        "commune": "Onsernone",
+        "productionPotentielle": 14.16
+    },
+    {
+        "commune": "Cugnasco-Gerra",
+        "productionPotentielle": 23.74
+    },
+    {
+        "commune": "Agno",
+        "productionPotentielle": 27.9
+    },
+    {
+        "commune": "Aranno",
+        "productionPotentielle": 3.37
+    },
+    {
+        "commune": "Arogno",
+        "productionPotentielle": 9.38
+    },
+    {
+        "commune": "Astano",
+        "productionPotentielle": 4.63
+    },
+    {
+        "commune": "Bedano",
+        "productionPotentielle": 14.89
+    },
+    {
+        "commune": "Bedigliora",
+        "productionPotentielle": 6.24
+    },
+    {
+        "commune": "Bioggio",
+        "productionPotentielle": 35.93
+    },
+    {
+        "commune": "Bissone",
+        "productionPotentielle": 4.39
+    },
+    {
+        "commune": "Brusino Arsizio",
+        "productionPotentielle": 4.89
+    },
+    {
+        "commune": "Cademario",
+        "productionPotentielle": 7.58
+    },
+    {
+        "commune": "Cadempino",
+        "productionPotentielle": 10.01
+    },
+    {
+        "commune": "Canobbio",
+        "productionPotentielle": 12.77
+    },
+    {
+        "commune": "Caslano",
+        "productionPotentielle": 25.4
+    },
+    {
+        "commune": "Comano",
+        "productionPotentielle": 15.82
+    },
+    {
+        "commune": "Croglio",
+        "productionPotentielle": 10.44
+    },
+    {
+        "commune": "Cureglia",
+        "productionPotentielle": 8.94
+    },
+    {
+        "commune": "Curio",
+        "productionPotentielle": 5.28
+    },
+    {
+        "commune": "Grancia",
+        "productionPotentielle": 8.75
+    },
+    {
+        "commune": "Gravesano",
+        "productionPotentielle": 9.33
+    },
+    {
+        "commune": "Lamone",
+        "productionPotentielle": 14.78
+    },
+    {
+        "commune": "Lugano",
+        "productionPotentielle": 277.29
+    },
+    {
+        "commune": "Magliaso",
+        "productionPotentielle": 14.09
+    },
+    {
+        "commune": "Manno",
+        "productionPotentielle": 19.39
+    },
+    {
+        "commune": "Maroggia",
+        "productionPotentielle": 4.91
+    },
+    {
+        "commune": "Massagno",
+        "productionPotentielle": 14.71
+    },
+    {
+        "commune": "Melano",
+        "productionPotentielle": 8.06
+    },
+    {
+        "commune": "Melide",
+        "productionPotentielle": 7.28
+    },
+    {
+        "commune": "Mezzovico-Vira",
+        "productionPotentielle": 18.79
+    },
+    {
+        "commune": "Miglieglia",
+        "productionPotentielle": 3.12
+    },
+    {
+        "commune": "Monteggio",
+        "productionPotentielle": 12.6
+    },
+    {
+        "commune": "Morcote",
+        "productionPotentielle": 8.88
+    },
+    {
+        "commune": "Muzzano",
+        "productionPotentielle": 13.95
+    },
+    {
+        "commune": "Neggio",
+        "productionPotentielle": 3.49
+    },
+    {
+        "commune": "Novaggio",
+        "productionPotentielle": 7.93
+    },
+    {
+        "commune": "Origlio",
+        "productionPotentielle": 11.2
+    },
+    {
+        "commune": "Paradiso",
+        "productionPotentielle": 8.12
+    },
+    {
+        "commune": "Ponte Capriasca",
+        "productionPotentielle": 10.67
+    },
+    {
+        "commune": "Ponte Tresa",
+        "productionPotentielle": 4.53
+    },
+    {
+        "commune": "Porza",
+        "productionPotentielle": 14
+    },
+    {
+        "commune": "Pura",
+        "productionPotentielle": 11.54
+    },
+    {
+        "commune": "Rovio",
+        "productionPotentielle": 6.89
+    },
+    {
+        "commune": "Savosa",
+        "productionPotentielle": 11.38
+    },
+    {
+        "commune": "Sessa",
+        "productionPotentielle": 8.1
+    },
+    {
+        "commune": "Sorengo",
+        "productionPotentielle": 10.15
+    },
+    {
+        "commune": "Capriasca",
+        "productionPotentielle": 50.6
+    },
+    {
+        "commune": "Torricella-Taverne",
+        "productionPotentielle": 24.7
+    },
+    {
+        "commune": "Vernate",
+        "productionPotentielle": 5.06
+    },
+    {
+        "commune": "Vezia",
+        "productionPotentielle": 12.46
+    },
+    {
+        "commune": "Vico Morcote",
+        "productionPotentielle": 5.06
+    },
+    {
+        "commune": "Collina d'Oro",
+        "productionPotentielle": 40.04
+    },
+    {
+        "commune": "Alto Malcantone",
+        "productionPotentielle": 15.23
+    },
+    {
+        "commune": "Monteceneri",
+        "productionPotentielle": 40.47
+    },
+    {
+        "commune": "Balerna",
+        "productionPotentielle": 44.2
+    },
+    {
+        "commune": "Castel San Pietro",
+        "productionPotentielle": 22.97
+    },
+    {
+        "commune": "Chiasso",
+        "productionPotentielle": 41.78
+    },
+    {
+        "commune": "Coldrerio",
+        "productionPotentielle": 21.2
+    },
+    {
+        "commune": "Mendrisio",
+        "productionPotentielle": 141.52
+    },
+    {
+        "commune": "Morbio Inferiore",
+        "productionPotentielle": 27.44
+    },
+    {
+        "commune": "Novazzano",
+        "productionPotentielle": 30.75
+    },
+    {
+        "commune": "Riva San Vitale",
+        "productionPotentielle": 20.28
+    },
+    {
+        "commune": "Stabio",
+        "productionPotentielle": 70.57
+    },
+    {
+        "commune": "Vacallo",
+        "productionPotentielle": 16.99
+    },
+    {
+        "commune": "Breggia",
+        "productionPotentielle": 21.58
+    },
+    {
+        "commune": "Biasca",
+        "productionPotentielle": 39.3
+    },
+    {
+        "commune": "Riviera",
+        "productionPotentielle": 30.39
+    },
+    {
+        "commune": "Bosco/Gurin",
+        "productionPotentielle": 2.04
+    },
+    {
+        "commune": "Campo (Vallemaggia)",
+        "productionPotentielle": 3.69
+    },
+    {
+        "commune": "Cerentino",
+        "productionPotentielle": 1.4
+    },
+    {
+        "commune": "Cevio",
+        "productionPotentielle": 8.67
+    },
+    {
+        "commune": "Linescio",
+        "productionPotentielle": 0.87
+    },
+    {
+        "commune": "Maggia",
+        "productionPotentielle": 24.55
+    },
+    {
+        "commune": "Lavizzara",
+        "productionPotentielle": 10.43
+    },
+    {
+        "commune": "Avegno Gordevio",
+        "productionPotentielle": 14.06
+    },
+    {
+        "commune": "Terre di Pedemonte",
+        "productionPotentielle": 20.38
+    },
+    {
+        "commune": "Centovalli",
+        "productionPotentielle": 15.87
+    },
+    {
+        "commune": "Gambarogno",
+        "productionPotentielle": 62.4
+    },
+    {
+        "commune": "Verzasca",
+        "productionPotentielle": 12.04
+    },
+    {
+        "commune": "Aigle",
+        "productionPotentielle": 72.88
+    },
+    {
+        "commune": "Bex",
+        "productionPotentielle": 59.14
+    },
+    {
+        "commune": "Chessel",
+        "productionPotentielle": 4.68
+    },
+    {
+        "commune": "Corbeyrier",
+        "productionPotentielle": 5.5
+    },
+    {
+        "commune": "Gryon",
+        "productionPotentielle": 24.11
+    },
+    {
+        "commune": "Lavey-Morcles",
+        "productionPotentielle": 6.65
+    },
+    {
+        "commune": "Leysin",
+        "productionPotentielle": 29.89
+    },
+    {
+        "commune": "Noville",
+        "productionPotentielle": 13.06
+    },
+    {
+        "commune": "Ollon",
+        "productionPotentielle": 79.59
+    },
+    {
+        "commune": "Ormont-Dessous",
+        "productionPotentielle": 27.79
+    },
+    {
+        "commune": "Ormont-Dessus",
+        "productionPotentielle": 33.88
+    },
+    {
+        "commune": "Rennaz",
+        "productionPotentielle": 12.87
+    },
+    {
+        "commune": "Roche (VD)",
+        "productionPotentielle": 13.67
+    },
+    {
+        "commune": "Villeneuve (VD)",
+        "productionPotentielle": 35.19
+    },
+    {
+        "commune": "Yvorne",
+        "productionPotentielle": 18.95
+    },
+    {
+        "commune": "Apples",
+        "productionPotentielle": 13.07
+    },
+    {
+        "commune": "Aubonne",
+        "productionPotentielle": 32.14
+    },
+    {
+        "commune": "Ballens",
+        "productionPotentielle": 6.44
+    },
+    {
+        "commune": "Berolle",
+        "productionPotentielle": 3.79
+    },
+    {
+        "commune": "Bière",
+        "productionPotentielle": 22.09
+    },
+    {
+        "commune": "Bougy-Villars",
+        "productionPotentielle": 4.34
+    },
+    {
+        "commune": "Féchy",
+        "productionPotentielle": 7.61
+    },
+    {
+        "commune": "Gimel",
+        "productionPotentielle": 14.87
+    },
+    {
+        "commune": "Longirod",
+        "productionPotentielle": 5.5
+    },
+    {
+        "commune": "Marchissy",
+        "productionPotentielle": 4.69
+    },
+    {
+        "commune": "Mollens (VD)",
+        "productionPotentielle": 4.85
+    },
+    {
+        "commune": "Saint-George",
+        "productionPotentielle": 8.51
+    },
+    {
+        "commune": "Saint-Livres",
+        "productionPotentielle": 6.65
+    },
+    {
+        "commune": "Saint-Oyens",
+        "productionPotentielle": 3.57
+    },
+    {
+        "commune": "Saubraz",
+        "productionPotentielle": 3.33
+    },
+    {
+        "commune": "Avenches",
+        "productionPotentielle": 44.1
+    },
+    {
+        "commune": "Cudrefin",
+        "productionPotentielle": 19.03
+    },
+    {
+        "commune": "Faoug",
+        "productionPotentielle": 7.36
+    },
+    {
+        "commune": "Vully-les-Lacs",
+        "productionPotentielle": 34.71
+    },
+    {
+        "commune": "Bettens",
+        "productionPotentielle": 4.84
+    },
+    {
+        "commune": "Bournens",
+        "productionPotentielle": 3.8
+    },
+    {
+        "commune": "Boussens",
+        "productionPotentielle": 7.17
+    },
+    {
+        "commune": "La Chaux (Cossonay)",
+        "productionPotentielle": 4.7
+    },
+    {
+        "commune": "Chavannes-le-Veyron",
+        "productionPotentielle": 2.76
+    },
+    {
+        "commune": "Chevilly",
+        "productionPotentielle": 3.49
+    },
+    {
+        "commune": "Cossonay",
+        "productionPotentielle": 21.23
+    },
+    {
+        "commune": "Cottens (VD)",
+        "productionPotentielle": 4.5
+    },
+    {
+        "commune": "Cuarnens",
+        "productionPotentielle": 6.18
+    },
+    {
+        "commune": "Daillens",
+        "productionPotentielle": 13.51
+    },
+    {
+        "commune": "Dizy",
+        "productionPotentielle": 3.44
+    },
+    {
+        "commune": "Eclépens",
+        "productionPotentielle": 19.16
+    },
+    {
+        "commune": "Ferreyres",
+        "productionPotentielle": 3.68
+    },
+    {
+        "commune": "Gollion",
+        "productionPotentielle": 7.61
+    },
+    {
+        "commune": "Grancy",
+        "productionPotentielle": 5.14
+    },
+    {
+        "commune": "L'Isle",
+        "productionPotentielle": 11.26
+    },
+    {
+        "commune": "Lussery-Villars",
+        "productionPotentielle": 4.19
+    },
+    {
+        "commune": "Mauraz",
+        "productionPotentielle": 0.88
+    },
+    {
+        "commune": "Mex (VD)",
+        "productionPotentielle": 12.43
+    },
+    {
+        "commune": "Moiry",
+        "productionPotentielle": 3.63
+    },
+    {
+        "commune": "Mont-la-Ville",
+        "productionPotentielle": 5.43
+    },
+    {
+        "commune": "Montricher",
+        "productionPotentielle": 11.25
+    },
+    {
+        "commune": "Orny",
+        "productionPotentielle": 4.98
+    },
+    {
+        "commune": "Pampigny",
+        "productionPotentielle": 11.06
+    },
+    {
+        "commune": "Penthalaz",
+        "productionPotentielle": 18.12
+    },
+    {
+        "commune": "Penthaz",
+        "productionPotentielle": 11.03
+    },
+    {
+        "commune": "Pompaples",
+        "productionPotentielle": 5.73
+    },
+    {
+        "commune": "La Sarraz",
+        "productionPotentielle": 14
+    },
+    {
+        "commune": "Senarclens",
+        "productionPotentielle": 5.33
+    },
+    {
+        "commune": "Sévery",
+        "productionPotentielle": 3.7
+    },
+    {
+        "commune": "Sullens",
+        "productionPotentielle": 7.52
+    },
+    {
+        "commune": "Vufflens-la-Ville",
+        "productionPotentielle": 11.87
+    },
+    {
+        "commune": "Assens",
+        "productionPotentielle": 10.81
+    },
+    {
+        "commune": "Bercher",
+        "productionPotentielle": 11.25
+    },
+    {
+        "commune": "Bioley-Orjulaz",
+        "productionPotentielle": 5.38
+    },
+    {
+        "commune": "Bottens",
+        "productionPotentielle": 10.41
+    },
+    {
+        "commune": "Bretigny-sur-Morrens",
+        "productionPotentielle": 4.91
+    },
+    {
+        "commune": "Cugy (VD)",
+        "productionPotentielle": 15.73
+    },
+    {
+        "commune": "Echallens",
+        "productionPotentielle": 29.15
+    },
+    {
+        "commune": "Essertines-sur-Yverdon",
+        "productionPotentielle": 10.98
+    },
+    {
+        "commune": "Etagnières",
+        "productionPotentielle": 9.3
+    },
+    {
+        "commune": "Fey",
+        "productionPotentielle": 6.29
+    },
+    {
+        "commune": "Froideville",
+        "productionPotentielle": 13.39
+    },
+    {
+        "commune": "Morrens (VD)",
+        "productionPotentielle": 7.32
+    },
+    {
+        "commune": "Oulens-sous-Echallens",
+        "productionPotentielle": 6.45
+    },
+    {
+        "commune": "Pailly",
+        "productionPotentielle": 6.7
+    },
+    {
+        "commune": "Penthéréaz",
+        "productionPotentielle": 5.4
+    },
+    {
+        "commune": "Poliez-Pittet",
+        "productionPotentielle": 6.72
+    },
+    {
+        "commune": "Rueyres",
+        "productionPotentielle": 4.42
+    },
+    {
+        "commune": "Saint-Barthélemy (VD)",
+        "productionPotentielle": 6.47
+    },
+    {
+        "commune": "Villars-le-Terroir",
+        "productionPotentielle": 10.16
+    },
+    {
+        "commune": "Vuarrens",
+        "productionPotentielle": 10.38
+    },
+    {
+        "commune": "Montilliez",
+        "productionPotentielle": 16.74
+    },
+    {
+        "commune": "Goumoëns",
+        "productionPotentielle": 10.71
+    },
+    {
+        "commune": "Bonvillars",
+        "productionPotentielle": 14.49
+    },
+    {
+        "commune": "Bullet",
+        "productionPotentielle": 8.61
+    },
+    {
+        "commune": "Champagne",
+        "productionPotentielle": 7.31
+    },
+    {
+        "commune": "Concise",
+        "productionPotentielle": 7.35
+    },
+    {
+        "commune": "Corcelles-près-Concise",
+        "productionPotentielle": 3.05
+    },
+    {
+        "commune": "Fiez",
+        "productionPotentielle": 4.15
+    },
+    {
+        "commune": "Fontaines-sur-Grandson",
+        "productionPotentielle": 2.24
+    },
+    {
+        "commune": "Giez",
+        "productionPotentielle": 4.5
+    },
+    {
+        "commune": "Grandevent",
+        "productionPotentielle": 2.29
+    },
+    {
+        "commune": "Grandson",
+        "productionPotentielle": 21.21
+    },
+    {
+        "commune": "Mauborget",
+        "productionPotentielle": 2
+    },
+    {
+        "commune": "Mutrux",
+        "productionPotentielle": 2.07
+    },
+    {
+        "commune": "Novalles",
+        "productionPotentielle": 1.78
+    },
+    {
+        "commune": "Onnens (VD)",
+        "productionPotentielle": 13.31
+    },
+    {
+        "commune": "Provence",
+        "productionPotentielle": 8.1
+    },
+    {
+        "commune": "Sainte-Croix",
+        "productionPotentielle": 35.05
+    },
+    {
+        "commune": "Tévenon",
+        "productionPotentielle": 7.12
+    },
+    {
+        "commune": "Belmont-sur-Lausanne",
+        "productionPotentielle": 14.75
+    },
+    {
+        "commune": "Cheseaux-sur-Lausanne",
+        "productionPotentielle": 23.15
+    },
+    {
+        "commune": "Crissier",
+        "productionPotentielle": 60.69
+    },
+    {
+        "commune": "Epalinges",
+        "productionPotentielle": 37.31
+    },
+    {
+        "commune": "Jouxtens-Mézery",
+        "productionPotentielle": 9.69
+    },
+    {
+        "commune": "Lausanne",
+        "productionPotentielle": 326.86
+    },
+    {
+        "commune": "Le Mont-sur-Lausanne",
+        "productionPotentielle": 60.32
+    },
+    {
+        "commune": "Paudex",
+        "productionPotentielle": 5.56
+    },
+    {
+        "commune": "Prilly",
+        "productionPotentielle": 34.08
+    },
+    {
+        "commune": "Pully",
+        "productionPotentielle": 56.78
+    },
+    {
+        "commune": "Renens (VD)",
+        "productionPotentielle": 61.96
+    },
+    {
+        "commune": "Romanel-sur-Lausanne",
+        "productionPotentielle": 21.27
+    },
+    {
+        "commune": "Chexbres",
+        "productionPotentielle": 9.95
+    },
+    {
+        "commune": "Forel (Lavaux)",
+        "productionPotentielle": 24.98
+    },
+    {
+        "commune": "Lutry",
+        "productionPotentielle": 47.38
+    },
+    {
+        "commune": "Puidoux",
+        "productionPotentielle": 33.65
+    },
+    {
+        "commune": "Rivaz",
+        "productionPotentielle": 1.78
+    },
+    {
+        "commune": "Saint-Saphorin (Lavaux)",
+        "productionPotentielle": 2.28
+    },
+    {
+        "commune": "Savigny",
+        "productionPotentielle": 29.56
+    },
+    {
+        "commune": "Bourg-en-Lavaux",
+        "productionPotentielle": 32.3
+    },
+    {
+        "commune": "Aclens",
+        "productionPotentielle": 14.33
+    },
+    {
+        "commune": "Bremblens",
+        "productionPotentielle": 5.73
+    },
+    {
+        "commune": "Buchillon",
+        "productionPotentielle": 5.27
+    },
+    {
+        "commune": "Bussigny",
+        "productionPotentielle": 48.99
+    },
+    {
+        "commune": "Bussy-Chardonney",
+        "productionPotentielle": 4.33
+    },
+    {
+        "commune": "Chavannes-près-Renens",
+        "productionPotentielle": 16.46
+    },
+    {
+        "commune": "Chigny",
+        "productionPotentielle": 2.14
+    },
+    {
+        "commune": "Clarmont",
+        "productionPotentielle": 2.1
+    },
+    {
+        "commune": "Denens",
+        "productionPotentielle": 6.14
+    },
+    {
+        "commune": "Denges",
+        "productionPotentielle": 11.11
+    },
+    {
+        "commune": "Echandens",
+        "productionPotentielle": 17.52
+    },
+    {
+        "commune": "Echichens",
+        "productionPotentielle": 21.74
+    },
+    {
+        "commune": "Ecublens (VD)",
+        "productionPotentielle": 79.54
+    },
+    {
+        "commune": "Etoy",
+        "productionPotentielle": 33.84
+    },
+    {
+        "commune": "Lavigny",
+        "productionPotentielle": 9.68
+    },
+    {
+        "commune": "Lonay",
+        "productionPotentielle": 25.49
+    },
+    {
+        "commune": "Lully (VD)",
+        "productionPotentielle": 5.52
+    },
+    {
+        "commune": "Lussy-sur-Morges",
+        "productionPotentielle": 4.67
+    },
+    {
+        "commune": "Morges",
+        "productionPotentielle": 50.22
+    },
+    {
+        "commune": "Préverenges",
+        "productionPotentielle": 19.93
+    },
+    {
+        "commune": "Reverolle",
+        "productionPotentielle": 3.1
+    },
+    {
+        "commune": "Romanel-sur-Morges",
+        "productionPotentielle": 6.43
+    },
+    {
+        "commune": "Saint-Prex",
+        "productionPotentielle": 33.9
+    },
+    {
+        "commune": "Saint-Sulpice (VD)",
+        "productionPotentielle": 19.16
+    },
+    {
+        "commune": "Tolochenaz",
+        "productionPotentielle": 17.53
+    },
+    {
+        "commune": "Vaux-sur-Morges",
+        "productionPotentielle": 2.9
+    },
+    {
+        "commune": "Villars-Sainte-Croix",
+        "productionPotentielle": 13.04
+    },
+    {
+        "commune": "Villars-sous-Yens",
+        "productionPotentielle": 4.75
+    },
+    {
+        "commune": "Vufflens-le-Château",
+        "productionPotentielle": 5.82
+    },
+    {
+        "commune": "Vullierens",
+        "productionPotentielle": 6.99
+    },
+    {
+        "commune": "Yens",
+        "productionPotentielle": 14.42
+    },
+    {
+        "commune": "Boulens",
+        "productionPotentielle": 4.49
+    },
+    {
+        "commune": "Bussy-sur-Moudon",
+        "productionPotentielle": 2.83
+    },
+    {
+        "commune": "Chavannes-sur-Moudon",
+        "productionPotentielle": 4.33
+    },
+    {
+        "commune": "Curtilles",
+        "productionPotentielle": 4.35
+    },
+    {
+        "commune": "Dompierre (VD)",
+        "productionPotentielle": 4.56
+    },
+    {
+        "commune": "Hermenches",
+        "productionPotentielle": 4.67
+    },
+    {
+        "commune": "Lovatens",
+        "productionPotentielle": 2.67
+    },
+    {
+        "commune": "Lucens",
+        "productionPotentielle": 36.59
+    },
+    {
+        "commune": "Moudon",
+        "productionPotentielle": 45.94
+    },
+    {
+        "commune": "Ogens",
+        "productionPotentielle": 3.69
+    },
+    {
+        "commune": "Prévonloup",
+        "productionPotentielle": 2.17
+    },
+    {
+        "commune": "Rossenges",
+        "productionPotentielle": 1.08
+    },
+    {
+        "commune": "Syens",
+        "productionPotentielle": 2.21
+    },
+    {
+        "commune": "Villars-le-Comte",
+        "productionPotentielle": 2.95
+    },
+    {
+        "commune": "Vucherens",
+        "productionPotentielle": 6.47
+    },
+    {
+        "commune": "Montanaire",
+        "productionPotentielle": 38.46
+    },
+    {
+        "commune": "Arnex-sur-Nyon",
+        "productionPotentielle": 1.9
+    },
+    {
+        "commune": "Arzier-Le Muids",
+        "productionPotentielle": 19
+    },
+    {
+        "commune": "Bassins",
+        "productionPotentielle": 11.08
+    },
+    {
+        "commune": "Begnins",
+        "productionPotentielle": 11.38
+    },
+    {
+        "commune": "Bogis-Bossey",
+        "productionPotentielle": 5.64
+    },
+    {
+        "commune": "Borex",
+        "productionPotentielle": 8.18
+    },
+    {
+        "commune": "Chavannes-de-Bogis",
+        "productionPotentielle": 12.7
+    },
+    {
+        "commune": "Chavannes-des-Bois",
+        "productionPotentielle": 4.61
+    },
+    {
+        "commune": "Chéserex",
+        "productionPotentielle": 8.71
+    },
+    {
+        "commune": "Coinsins",
+        "productionPotentielle": 5.48
+    },
+    {
+        "commune": "Commugny",
+        "productionPotentielle": 19.1
+    },
+    {
+        "commune": "Coppet",
+        "productionPotentielle": 17.39
+    },
+    {
+        "commune": "Crans (VD)",
+        "productionPotentielle": 15.42
+    },
+    {
+        "commune": "Crassier",
+        "productionPotentielle": 7.38
+    },
+    {
+        "commune": "Duillier",
+        "productionPotentielle": 8.64
+    },
+    {
+        "commune": "Eysins",
+        "productionPotentielle": 9.82
+    },
+    {
+        "commune": "Founex",
+        "productionPotentielle": 25.06
+    },
+    {
+        "commune": "Genolier",
+        "productionPotentielle": 15.34
+    },
+    {
+        "commune": "Gingins",
+        "productionPotentielle": 10.35
+    },
+    {
+        "commune": "Givrins",
+        "productionPotentielle": 8.76
+    },
+    {
+        "commune": "Gland",
+        "productionPotentielle": 53.05
+    },
+    {
+        "commune": "Grens",
+        "productionPotentielle": 3.52
+    },
+    {
+        "commune": "Mies",
+        "productionPotentielle": 13.68
+    },
+    {
+        "commune": "Nyon",
+        "productionPotentielle": 67.97
+    },
+    {
+        "commune": "Prangins",
+        "productionPotentielle": 22.39
+    },
+    {
+        "commune": "La Rippe",
+        "productionPotentielle": 8.94
+    },
+    {
+        "commune": "Saint-Cergue",
+        "productionPotentielle": 14.13
+    },
+    {
+        "commune": "Signy-Avenex",
+        "productionPotentielle": 5.2
+    },
+    {
+        "commune": "Tannay",
+        "productionPotentielle": 9.98
+    },
+    {
+        "commune": "Trélex",
+        "productionPotentielle": 10.93
+    },
+    {
+        "commune": "Le Vaud",
+        "productionPotentielle": 9.86
+    },
+    {
+        "commune": "Vich",
+        "productionPotentielle": 7.33
+    },
+    {
+        "commune": "L'Abergement",
+        "productionPotentielle": 2.94
+    },
+    {
+        "commune": "Agiez",
+        "productionPotentielle": 3.77
+    },
+    {
+        "commune": "Arnex-sur-Orbe",
+        "productionPotentielle": 6.44
+    },
+    {
+        "commune": "Ballaigues",
+        "productionPotentielle": 10.35
+    },
+    {
+        "commune": "Baulmes",
+        "productionPotentielle": 9.64
+    },
+    {
+        "commune": "Bavois",
+        "productionPotentielle": 8.43
+    },
+    {
+        "commune": "Bofflens",
+        "productionPotentielle": 3.38
+    },
+    {
+        "commune": "Bretonnières",
+        "productionPotentielle": 3.68
+    },
+    {
+        "commune": "Chavornay",
+        "productionPotentielle": 38.42
+    },
+    {
+        "commune": "Les Clées",
+        "productionPotentielle": 1.69
+    },
+    {
+        "commune": "Croy",
+        "productionPotentielle": 2.85
+    },
+    {
+        "commune": "Juriens",
+        "productionPotentielle": 4.02
+    },
+    {
+        "commune": "Lignerolle",
+        "productionPotentielle": 5.56
+    },
+    {
+        "commune": "Montcherand",
+        "productionPotentielle": 4.2
+    },
+    {
+        "commune": "Orbe",
+        "productionPotentielle": 44.49
+    },
+    {
+        "commune": "La Praz",
+        "productionPotentielle": 2.47
+    },
+    {
+        "commune": "Premier",
+        "productionPotentielle": 2.89
+    },
+    {
+        "commune": "Rances",
+        "productionPotentielle": 5.75
+    },
+    {
+        "commune": "Romainmôtier-Envy",
+        "productionPotentielle": 4.89
+    },
+    {
+        "commune": "Sergey",
+        "productionPotentielle": 1.77
+    },
+    {
+        "commune": "Valeyres-sous-Rances",
+        "productionPotentielle": 5.8
+    },
+    {
+        "commune": "Vallorbe",
+        "productionPotentielle": 23.39
+    },
+    {
+        "commune": "Vaulion",
+        "productionPotentielle": 6.55
+    },
+    {
+        "commune": "Vuiteboeuf",
+        "productionPotentielle": 5.2
+    },
+    {
+        "commune": "Corcelles-le-Jorat",
+        "productionPotentielle": 8.16
+    },
+    {
+        "commune": "Essertes",
+        "productionPotentielle": 3.83
+    },
+    {
+        "commune": "Maracon",
+        "productionPotentielle": 5.64
+    },
+    {
+        "commune": "Montpreveyres",
+        "productionPotentielle": 4.61
+    },
+    {
+        "commune": "Ropraz",
+        "productionPotentielle": 6.02
+    },
+    {
+        "commune": "Servion",
+        "productionPotentielle": 16.21
+    },
+    {
+        "commune": "Vulliens",
+        "productionPotentielle": 7.28
+    },
+    {
+        "commune": "Jorat-Menthue",
+        "productionPotentielle": 17.58
+    },
+    {
+        "commune": "Oron",
+        "productionPotentielle": 52.28
+    },
+    {
+        "commune": "Jorat-Mézières",
+        "productionPotentielle": 26.56
+    },
+    {
+        "commune": "Champtauroz",
+        "productionPotentielle": 2.4
+    },
+    {
+        "commune": "Chevroux",
+        "productionPotentielle": 6.62
+    },
+    {
+        "commune": "Corcelles-près-Payerne",
+        "productionPotentielle": 28.54
+    },
+    {
+        "commune": "Grandcour",
+        "productionPotentielle": 13.45
+    },
+    {
+        "commune": "Henniez",
+        "productionPotentielle": 8.34
+    },
+    {
+        "commune": "Missy",
+        "productionPotentielle": 5.68
+    },
+    {
+        "commune": "Payerne",
+        "productionPotentielle": 74.89
+    },
+    {
+        "commune": "Trey",
+        "productionPotentielle": 7.02
+    },
+    {
+        "commune": "Treytorrens (Payerne)",
+        "productionPotentielle": 2.61
+    },
+    {
+        "commune": "Villarzel",
+        "productionPotentielle": 7.03
+    },
+    {
+        "commune": "Valbroye",
+        "productionPotentielle": 44.73
+    },
+    {
+        "commune": "Château-d'Oex",
+        "productionPotentielle": 56.08
+    },
+    {
+        "commune": "Rossinière",
+        "productionPotentielle": 8.08
+    },
+    {
+        "commune": "Rougemont",
+        "productionPotentielle": 25.48
+    },
+    {
+        "commune": "Allaman",
+        "productionPotentielle": 9.65
+    },
+    {
+        "commune": "Bursinel",
+        "productionPotentielle": 3.81
+    },
+    {
+        "commune": "Bursins",
+        "productionPotentielle": 8.03
+    },
+    {
+        "commune": "Burtigny",
+        "productionPotentielle": 4.69
+    },
+    {
+        "commune": "Dully",
+        "productionPotentielle": 4.56
+    },
+    {
+        "commune": "Essertines-sur-Rolle",
+        "productionPotentielle": 7.62
+    },
+    {
+        "commune": "Gilly",
+        "productionPotentielle": 10.72
+    },
+    {
+        "commune": "Luins",
+        "productionPotentielle": 5.68
+    },
+    {
+        "commune": "Mont-sur-Rolle",
+        "productionPotentielle": 12.97
+    },
+    {
+        "commune": "Perroy",
+        "productionPotentielle": 11.33
+    },
+    {
+        "commune": "Rolle",
+        "productionPotentielle": 29
+    },
+    {
+        "commune": "Tartegnin",
+        "productionPotentielle": 1.48
+    },
+    {
+        "commune": "Vinzel",
+        "productionPotentielle": 3.55
+    },
+    {
+        "commune": "L'Abbaye",
+        "productionPotentielle": 13.76
+    },
+    {
+        "commune": "Le Chenit",
+        "productionPotentielle": 40.28
+    },
+    {
+        "commune": "Le Lieu",
+        "productionPotentielle": 10.5
+    },
+    {
+        "commune": "Blonay",
+        "productionPotentielle": 32.63
+    },
+    {
+        "commune": "Chardonne",
+        "productionPotentielle": 20.52
+    },
+    {
+        "commune": "Corseaux",
+        "productionPotentielle": 11.55
+    },
+    {
+        "commune": "Corsier-sur-Vevey",
+        "productionPotentielle": 17.34
+    },
+    {
+        "commune": "Jongny",
+        "productionPotentielle": 8.77
+    },
+    {
+        "commune": "Montreux",
+        "productionPotentielle": 75.73
+    },
+    {
+        "commune": "Saint-Légier-La Chiésaz",
+        "productionPotentielle": 34.93
+    },
+    {
+        "commune": "La Tour-de-Peilz",
+        "productionPotentielle": 34.79
+    },
+    {
+        "commune": "Vevey",
+        "productionPotentielle": 43.69
+    },
+    {
+        "commune": "Veytaux",
+        "productionPotentielle": 2.73
+    },
+    {
+        "commune": "Belmont-sur-Yverdon",
+        "productionPotentielle": 5.3
+    },
+    {
+        "commune": "Bioley-Magnoux",
+        "productionPotentielle": 3.74
+    },
+    {
+        "commune": "Chamblon",
+        "productionPotentielle": 4.95
+    },
+    {
+        "commune": "Champvent",
+        "productionPotentielle": 9.45
+    },
+    {
+        "commune": "Chavannes-le-Chêne",
+        "productionPotentielle": 3.95
+    },
+    {
+        "commune": "Chêne-Pâquier",
+        "productionPotentielle": 1.89
+    },
+    {
+        "commune": "Cheseaux-Noréaz",
+        "productionPotentielle": 6.02
+    },
+    {
+        "commune": "Cronay",
+        "productionPotentielle": 5.68
+    },
+    {
+        "commune": "Cuarny",
+        "productionPotentielle": 3.27
+    },
+    {
+        "commune": "Démoret",
+        "productionPotentielle": 3.67
+    },
+    {
+        "commune": "Donneloye",
+        "productionPotentielle": 9.7
+    },
+    {
+        "commune": "Ependes (VD)",
+        "productionPotentielle": 7.52
+    },
+    {
+        "commune": "Mathod",
+        "productionPotentielle": 14.28
+    },
+    {
+        "commune": "Molondin",
+        "productionPotentielle": 3.71
+    },
+    {
+        "commune": "Montagny-près-Yverdon",
+        "productionPotentielle": 25.71
+    },
+    {
+        "commune": "Oppens",
+        "productionPotentielle": 3.96
+    },
+    {
+        "commune": "Orges",
+        "productionPotentielle": 3.93
+    },
+    {
+        "commune": "Orzens",
+        "productionPotentielle": 3.78
+    },
+    {
+        "commune": "Pomy",
+        "productionPotentielle": 9.39
+    },
+    {
+        "commune": "Rovray",
+        "productionPotentielle": 3.73
+    },
+    {
+        "commune": "Suchy",
+        "productionPotentielle": 6.41
+    },
+    {
+        "commune": "Suscévaz",
+        "productionPotentielle": 2.53
+    },
+    {
+        "commune": "Treycovagnes",
+        "productionPotentielle": 3.51
+    },
+    {
+        "commune": "Ursins",
+        "productionPotentielle": 2.91
+    },
+    {
+        "commune": "Valeyres-sous-Montagny",
+        "productionPotentielle": 4.71
+    },
+    {
+        "commune": "Valeyres-sous-Ursins",
+        "productionPotentielle": 3.26
+    },
+    {
+        "commune": "Villars-Epeney",
+        "productionPotentielle": 0.88
+    },
+    {
+        "commune": "Vugelles-La Mothe",
+        "productionPotentielle": 1.6
+    },
+    {
+        "commune": "Yverdon-les-Bains",
+        "productionPotentielle": 125.72
+    },
+    {
+        "commune": "Yvonand",
+        "productionPotentielle": 24.04
+    },
+    {
+        "commune": "Brig-Glis",
+        "productionPotentielle": 77.97
+    },
+    {
+        "commune": "Eggerberg",
+        "productionPotentielle": 5.38
+    },
+    {
+        "commune": "Naters",
+        "productionPotentielle": 66.03
+    },
+    {
+        "commune": "Ried-Brig",
+        "productionPotentielle": 18.24
+    },
+    {
+        "commune": "Simplon",
+        "productionPotentielle": 7.39
+    },
+    {
+        "commune": "Termen",
+        "productionPotentielle": 12.38
+    },
+    {
+        "commune": "Zwischbergen",
+        "productionPotentielle": 1.21
+    },
+    {
+        "commune": "Ardon",
+        "productionPotentielle": 25.81
+    },
+    {
+        "commune": "Chamoson",
+        "productionPotentielle": 35.69
+    },
+    {
+        "commune": "Conthey",
+        "productionPotentielle": 89.66
+    },
+    {
+        "commune": "Nendaz",
+        "productionPotentielle": 85.14
+    },
+    {
+        "commune": "Vétroz",
+        "productionPotentielle": 47.86
+    },
+    {
+        "commune": "Bourg-Saint-Pierre",
+        "productionPotentielle": 6.4
+    },
+    {
+        "commune": "Liddes",
+        "productionPotentielle": 11.65
+    },
+    {
+        "commune": "Orsières",
+        "productionPotentielle": 36.68
+    },
+    {
+        "commune": "Sembrancher",
+        "productionPotentielle": 11.67
+    },
+    {
+        "commune": "Val de Bagnes",
+        "productionPotentielle": 139.03
+    },
+    {
+        "commune": "Bellwald",
+        "productionPotentielle": 12.8
+    },
+    {
+        "commune": "Binn",
+        "productionPotentielle": 4.18
+    },
+    {
+        "commune": "Ernen",
+        "productionPotentielle": 10.49
+    },
+    {
+        "commune": "Fiesch",
+        "productionPotentielle": 14.1
+    },
+    {
+        "commune": "Fieschertal",
+        "productionPotentielle": 5.04
+    },
+    {
+        "commune": "Lax",
+        "productionPotentielle": 5.31
+    },
+    {
+        "commune": "Obergoms",
+        "productionPotentielle": 19.07
+    },
+    {
+        "commune": "Goms",
+        "productionPotentielle": 31.37
+    },
+    {
+        "commune": "Ayent",
+        "productionPotentielle": 47.9
+    },
+    {
+        "commune": "Evolène",
+        "productionPotentielle": 28.94
+    },
+    {
+        "commune": "Hérémence",
+        "productionPotentielle": 19.71
+    },
+    {
+        "commune": "Saint-Martin (VS)",
+        "productionPotentielle": 12.68
+    },
+    {
+        "commune": "Vex",
+        "productionPotentielle": 23.95
+    },
+    {
+        "commune": "Mont-Noble",
+        "productionPotentielle": 20.51
+    },
+    {
+        "commune": "Agarn",
+        "productionPotentielle": 7.33
+    },
+    {
+        "commune": "Albinen",
+        "productionPotentielle": 7.22
+    },
+    {
+        "commune": "Ergisch",
+        "productionPotentielle": 4.26
+    },
+    {
+        "commune": "Inden",
+        "productionPotentielle": 1.95
+    },
+    {
+        "commune": "Leuk",
+        "productionPotentielle": 43.07
+    },
+    {
+        "commune": "Leukerbad",
+        "productionPotentielle": 18.25
+    },
+    {
+        "commune": "Oberems",
+        "productionPotentielle": 5.4
+    },
+    {
+        "commune": "Salgesch",
+        "productionPotentielle": 16.03
+    },
+    {
+        "commune": "Varen",
+        "productionPotentielle": 6.93
+    },
+    {
+        "commune": "Guttet-Feschel",
+        "productionPotentielle": 7.21
+    },
+    {
+        "commune": "Gampel-Bratsch",
+        "productionPotentielle": 19.96
+    },
+    {
+        "commune": "Turtmann-Unterems",
+        "productionPotentielle": 17.4
+    },
+    {
+        "commune": "Bovernier",
+        "productionPotentielle": 4.95
+    },
+    {
+        "commune": "Fully",
+        "productionPotentielle": 69.66
+    },
+    {
+        "commune": "Isérables",
+        "productionPotentielle": 7.61
+    },
+    {
+        "commune": "Leytron",
+        "productionPotentielle": 36.09
+    },
+    {
+        "commune": "Martigny",
+        "productionPotentielle": 123.96
+    },
+    {
+        "commune": "Martigny-Combe",
+        "productionPotentielle": 15.41
+    },
+    {
+        "commune": "Riddes",
+        "productionPotentielle": 35.66
+    },
+    {
+        "commune": "Saillon",
+        "productionPotentielle": 28.83
+    },
+    {
+        "commune": "Saxon",
+        "productionPotentielle": 47.23
+    },
+    {
+        "commune": "Trient",
+        "productionPotentielle": 3
+    },
+    {
+        "commune": "Champéry",
+        "productionPotentielle": 19.43
+    },
+    {
+        "commune": "Collombey-Muraz",
+        "productionPotentielle": 62.82
+    },
+    {
+        "commune": "Monthey",
+        "productionPotentielle": 82.32
+    },
+    {
+        "commune": "Port-Valais",
+        "productionPotentielle": 21.42
+    },
+    {
+        "commune": "Saint-Gingolph",
+        "productionPotentielle": 3.95
+    },
+    {
+        "commune": "Troistorrents",
+        "productionPotentielle": 45.23
+    },
+    {
+        "commune": "Val-d'Illiez",
+        "productionPotentielle": 23.31
+    },
+    {
+        "commune": "Vionnaz",
+        "productionPotentielle": 18.17
+    },
+    {
+        "commune": "Vouvry",
+        "productionPotentielle": 30.28
+    },
+    {
+        "commune": "Bister",
+        "productionPotentielle": 0.95
+    },
+    {
+        "commune": "Bitsch",
+        "productionPotentielle": 8.16
+    },
+    {
+        "commune": "Grengiols",
+        "productionPotentielle": 8.61
+    },
+    {
+        "commune": "Riederalp",
+        "productionPotentielle": 15.82
+    },
+    {
+        "commune": "Ausserberg",
+        "productionPotentielle": 8.96
+    },
+    {
+        "commune": "Blatten",
+        "productionPotentielle": 6.78
+    },
+    {
+        "commune": "Bürchen",
+        "productionPotentielle": 16.37
+    },
+    {
+        "commune": "Eischoll",
+        "productionPotentielle": 8.72
+    },
+    {
+        "commune": "Ferden",
+        "productionPotentielle": 3.81
+    },
+    {
+        "commune": "Kippel",
+        "productionPotentielle": 4.03
+    },
+    {
+        "commune": "Niedergesteln",
+        "productionPotentielle": 8.38
+    },
+    {
+        "commune": "Raron",
+        "productionPotentielle": 21.79
+    },
+    {
+        "commune": "Unterbäch",
+        "productionPotentielle": 8.5
+    },
+    {
+        "commune": "Wiler (Lötschen)",
+        "productionPotentielle": 10.13
+    },
+    {
+        "commune": "Mörel-Filet",
+        "productionPotentielle": 8.3
+    },
+    {
+        "commune": "Steg-Hohtenn",
+        "productionPotentielle": 23.78
+    },
+    {
+        "commune": "Bettmeralp",
+        "productionPotentielle": 16.29
+    },
+    {
+        "commune": "Collonges",
+        "productionPotentielle": 5.26
+    },
+    {
+        "commune": "Dorénaz",
+        "productionPotentielle": 7.68
+    },
+    {
+        "commune": "Evionnaz",
+        "productionPotentielle": 11.63
+    },
+    {
+        "commune": "Finhaut",
+        "productionPotentielle": 5.62
+    },
+    {
+        "commune": "Massongex",
+        "productionPotentielle": 10.58
+    },
+    {
+        "commune": "Saint-Maurice",
+        "productionPotentielle": 24
+    },
+    {
+        "commune": "Salvan",
+        "productionPotentielle": 13.68
+    },
+    {
+        "commune": "Vernayaz",
+        "productionPotentielle": 11.81
+    },
+    {
+        "commune": "Vérossaz",
+        "productionPotentielle": 5.52
+    },
+    {
+        "commune": "Chalais",
+        "productionPotentielle": 34.77
+    },
+    {
+        "commune": "Chippis",
+        "productionPotentielle": 10.37
+    },
+    {
+        "commune": "Grône",
+        "productionPotentielle": 20.7
+    },
+    {
+        "commune": "Icogne",
+        "productionPotentielle": 8.84
+    },
+    {
+        "commune": "Lens",
+        "productionPotentielle": 50.56
+    },
+    {
+        "commune": "Saint-Léonard",
+        "productionPotentielle": 15.51
+    },
+    {
+        "commune": "Sierre",
+        "productionPotentielle": 120.99
+    },
+    {
+        "commune": "Anniviers",
+        "productionPotentielle": 52.85
+    },
+    {
+        "commune": "Crans-Montana",
+        "productionPotentielle": 111.12
+    },
+    {
+        "commune": "Noble-Contrée",
+        "productionPotentielle": 32.25
+    },
+    {
+        "commune": "Arbaz",
+        "productionPotentielle": 18.08
+    },
+    {
+        "commune": "Grimisuat",
+        "productionPotentielle": 26.48
+    },
+    {
+        "commune": "Savièse",
+        "productionPotentielle": 74.76
+    },
+    {
+        "commune": "Sion",
+        "productionPotentielle": 205.01
+    },
+    {
+        "commune": "Veysonnaz",
+        "productionPotentielle": 6.86
+    },
+    {
+        "commune": "Baltschieder",
+        "productionPotentielle": 9.31
+    },
+    {
+        "commune": "Eisten",
+        "productionPotentielle": 1.59
+    },
+    {
+        "commune": "Embd",
+        "productionPotentielle": 4.05
+    },
+    {
+        "commune": "Grächen",
+        "productionPotentielle": 19.93
+    },
+    {
+        "commune": "Lalden",
+        "productionPotentielle": 7.9
+    },
+    {
+        "commune": "Randa",
+        "productionPotentielle": 4.73
+    },
+    {
+        "commune": "Saas-Almagell",
+        "productionPotentielle": 4.38
+    },
+    {
+        "commune": "Saas-Balen",
+        "productionPotentielle": 4.73
+    },
+    {
+        "commune": "Saas-Fee",
+        "productionPotentielle": 21.7
+    },
+    {
+        "commune": "Saas-Grund",
+        "productionPotentielle": 11.28
+    },
+    {
+        "commune": "St. Niklaus",
+        "productionPotentielle": 21.02
+    },
+    {
+        "commune": "Stalden (VS)",
+        "productionPotentielle": 8.56
+    },
+    {
+        "commune": "Staldenried",
+        "productionPotentielle": 5.28
+    },
+    {
+        "commune": "Täsch",
+        "productionPotentielle": 10.03
+    },
+    {
+        "commune": "Törbel",
+        "productionPotentielle": 9.75
+    },
+    {
+        "commune": "Visp",
+        "productionPotentielle": 59.22
+    },
+    {
+        "commune": "Visperterminen",
+        "productionPotentielle": 15.11
+    },
+    {
+        "commune": "Zeneggen",
+        "productionPotentielle": 5.72
+    },
+    {
+        "commune": "Zermatt",
+        "productionPotentielle": 51.59
+    },
+    {
+        "commune": "Boudry",
+        "productionPotentielle": 28.46
+    },
+    {
+        "commune": "Cortaillod",
+        "productionPotentielle": 27.24
+    },
+    {
+        "commune": "Rochefort",
+        "productionPotentielle": 10.8
+    },
+    {
+        "commune": "Milvignes",
+        "productionPotentielle": 43.11
+    },
+    {
+        "commune": "La Grande-Béroche",
+        "productionPotentielle": 55.44
+    },
+    {
+        "commune": "La Chaux-de-Fonds",
+        "productionPotentielle": 156.37
+    },
+    {
+        "commune": "Les Planchettes",
+        "productionPotentielle": 3.11
+    },
+    {
+        "commune": "La Sagne",
+        "productionPotentielle": 13.08
+    },
+    {
+        "commune": "La Brévine",
+        "productionPotentielle": 16.04
+    },
+    {
+        "commune": "Brot-Plamboz",
+        "productionPotentielle": 7.21
+    },
+    {
+        "commune": "Le Cerneux-Péquignot",
+        "productionPotentielle": 6.61
+    },
+    {
+        "commune": "La Chaux-du-Milieu",
+        "productionPotentielle": 8.56
+    },
+    {
+        "commune": "Le Locle",
+        "productionPotentielle": 59.1
+    },
+    {
+        "commune": "Les Ponts-de-Martel",
+        "productionPotentielle": 14.69
+    },
+    {
+        "commune": "Cornaux",
+        "productionPotentielle": 13.47
+    },
+    {
+        "commune": "Cressier (NE)",
+        "productionPotentielle": 20.33
+    },
+    {
+        "commune": "Enges",
+        "productionPotentielle": 2.83
+    },
+    {
+        "commune": "Hauterive (NE)",
+        "productionPotentielle": 8.31
+    },
+    {
+        "commune": "Le Landeron",
+        "productionPotentielle": 23.97
+    },
+    {
+        "commune": "Lignières",
+        "productionPotentielle": 11.8
+    },
+    {
+        "commune": "Neuchâtel",
+        "productionPotentielle": 143.24
+    },
+    {
+        "commune": "Saint-Blaise",
+        "productionPotentielle": 16.56
+    },
+    {
+        "commune": "La Tène",
+        "productionPotentielle": 34.96
+    },
+    {
+        "commune": "Val-de-Ruz",
+        "productionPotentielle": 123.51
+    },
+    {
+        "commune": "La Côte-aux-Fées",
+        "productionPotentielle": 8.04
+    },
+    {
+        "commune": "Les Verrières",
+        "productionPotentielle": 13.62
+    },
+    {
+        "commune": "Val-de-Travers",
+        "productionPotentielle": 100.35
+    },
+    {
+        "commune": "Aire-la-Ville",
+        "productionPotentielle": 8.84
+    },
+    {
+        "commune": "Anières",
+        "productionPotentielle": 14.43
+    },
+    {
+        "commune": "Avully",
+        "productionPotentielle": 8.73
+    },
+    {
+        "commune": "Avusy",
+        "productionPotentielle": 9.55
+    },
+    {
+        "commune": "Bardonnex",
+        "productionPotentielle": 15.48
+    },
+    {
+        "commune": "Bellevue",
+        "productionPotentielle": 14.99
+    },
+    {
+        "commune": "Bernex",
+        "productionPotentielle": 56.14
+    },
+    {
+        "commune": "Carouge (GE)",
+        "productionPotentielle": 60.47
+    },
+    {
+        "commune": "Cartigny",
+        "productionPotentielle": 7.9
+    },
+    {
+        "commune": "Céligny",
+        "productionPotentielle": 5.97
+    },
+    {
+        "commune": "Chancy",
+        "productionPotentielle": 7.54
+    },
+    {
+        "commune": "Chêne-Bougeries",
+        "productionPotentielle": 37.86
+    },
+    {
+        "commune": "Chêne-Bourg",
+        "productionPotentielle": 20.68
+    },
+    {
+        "commune": "Choulex",
+        "productionPotentielle": 8.77
+    },
+    {
+        "commune": "Collex-Bossy",
+        "productionPotentielle": 10.56
+    },
+    {
+        "commune": "Collonge-Bellerive",
+        "productionPotentielle": 47.27
+    },
+    {
+        "commune": "Cologny",
+        "productionPotentielle": 28.33
+    },
+    {
+        "commune": "Confignon",
+        "productionPotentielle": 19.62
+    },
+    {
+        "commune": "Corsier (GE)",
+        "productionPotentielle": 12.34
+    },
+    {
+        "commune": "Dardagny",
+        "productionPotentielle": 12.3
+    },
+    {
+        "commune": "Genève",
+        "productionPotentielle": 320.66
+    },
+    {
+        "commune": "Genthod",
+        "productionPotentielle": 15.25
+    },
+    {
+        "commune": "Le Grand-Saconnex",
+        "productionPotentielle": 57.1
+    },
+    {
+        "commune": "Gy",
+        "productionPotentielle": 4.47
+    },
+    {
+        "commune": "Hermance",
+        "productionPotentielle": 5.08
+    },
+    {
+        "commune": "Jussy",
+        "productionPotentielle": 15.64
+    },
+    {
+        "commune": "Laconnex",
+        "productionPotentielle": 4.67
+    },
+    {
+        "commune": "Lancy",
+        "productionPotentielle": 81.09
+    },
+    {
+        "commune": "Meinier",
+        "productionPotentielle": 14.77
+    },
+    {
+        "commune": "Meyrin",
+        "productionPotentielle": 114.86
+    },
+    {
+        "commune": "Onex",
+        "productionPotentielle": 31.27
+    },
+    {
+        "commune": "Perly-Certoux",
+        "productionPotentielle": 23.2
+    },
+    {
+        "commune": "Plan-les-Ouates",
+        "productionPotentielle": 69.1
+    },
+    {
+        "commune": "Pregny-Chambésy",
+        "productionPotentielle": 20.96
+    },
+    {
+        "commune": "Presinge",
+        "productionPotentielle": 5.38
+    },
+    {
+        "commune": "Puplinge",
+        "productionPotentielle": 12.23
+    },
+    {
+        "commune": "Russin",
+        "productionPotentielle": 5.78
+    },
+    {
+        "commune": "Satigny",
+        "productionPotentielle": 71.67
+    },
+    {
+        "commune": "Soral",
+        "productionPotentielle": 4.8
+    },
+    {
+        "commune": "Thônex",
+        "productionPotentielle": 48.08
+    },
+    {
+        "commune": "Troinex",
+        "productionPotentielle": 29.19
+    },
+    {
+        "commune": "Vandoeuvres",
+        "productionPotentielle": 18.54
+    },
+    {
+        "commune": "Vernier",
+        "productionPotentielle": 108.9
+    },
+    {
+        "commune": "Versoix",
+        "productionPotentielle": 36.68
+    },
+    {
+        "commune": "Veyrier",
+        "productionPotentielle": 52.6
+    },
+    {
+        "commune": "Boécourt",
+        "productionPotentielle": 10.06
+    },
+    {
+        "commune": "Bourrignon",
+        "productionPotentielle": 7.04
+    },
+    {
+        "commune": "Châtillon (JU)",
+        "productionPotentielle": 4.05
+    },
+    {
+        "commune": "Courchapoix",
+        "productionPotentielle": 5.09
+    },
+    {
+        "commune": "Courrendlin",
+        "productionPotentielle": 26.14
+    },
+    {
+        "commune": "Courroux",
+        "productionPotentielle": 26.36
+    },
+    {
+        "commune": "Courtételle",
+        "productionPotentielle": 19.51
+    },
+    {
+        "commune": "Delémont",
+        "productionPotentielle": 82.03
+    },
+    {
+        "commune": "Develier",
+        "productionPotentielle": 16.13
+    },
+    {
+        "commune": "Ederswiler",
+        "productionPotentielle": 2.97
+    },
+    {
+        "commune": "Mervelier",
+        "productionPotentielle": 5.55
+    },
+    {
+        "commune": "Mettembert",
+        "productionPotentielle": 1.67
+    },
+    {
+        "commune": "Movelier",
+        "productionPotentielle": 6.29
+    },
+    {
+        "commune": "Pleigne",
+        "productionPotentielle": 8.29
+    },
+    {
+        "commune": "Rossemaison",
+        "productionPotentielle": 5.69
+    },
+    {
+        "commune": "Saulcy",
+        "productionPotentielle": 4.34
+    },
+    {
+        "commune": "Soyhières",
+        "productionPotentielle": 3.39
+    },
+    {
+        "commune": "Haute-Sorne",
+        "productionPotentielle": 64.32
+    },
+    {
+        "commune": "Val Terbi",
+        "productionPotentielle": 32.88
+    },
+    {
+        "commune": "Le Bémont (JU)",
+        "productionPotentielle": 7.43
+    },
+    {
+        "commune": "Les Bois",
+        "productionPotentielle": 13.9
+    },
+    {
+        "commune": "Les Breuleux",
+        "productionPotentielle": 15.52
+    },
+    {
+        "commune": "La Chaux-des-Breuleux",
+        "productionPotentielle": 2.22
+    },
+    {
+        "commune": "Les Enfers",
+        "productionPotentielle": 3.21
+    },
+    {
+        "commune": "Les Genevez (JU)",
+        "productionPotentielle": 8.62
+    },
+    {
+        "commune": "Lajoux (JU)",
+        "productionPotentielle": 10.16
+    },
+    {
+        "commune": "Montfaucon",
+        "productionPotentielle": 10.89
+    },
+    {
+        "commune": "Muriaux",
+        "productionPotentielle": 10.44
+    },
+    {
+        "commune": "Le Noirmont",
+        "productionPotentielle": 18.64
+    },
+    {
+        "commune": "Saignelégier",
+        "productionPotentielle": 26.86
+    },
+    {
+        "commune": "Saint-Brais",
+        "productionPotentielle": 4.92
+    },
+    {
+        "commune": "Soubey",
+        "productionPotentielle": 3.12
+    },
+    {
+        "commune": "Alle",
+        "productionPotentielle": 24.19
+    },
+    {
+        "commune": "Beurnevésin",
+        "productionPotentielle": 3.46
+    },
+    {
+        "commune": "Boncourt",
+        "productionPotentielle": 22.11
+    },
+    {
+        "commune": "Bonfol",
+        "productionPotentielle": 12.39
+    },
+    {
+        "commune": "Bure",
+        "productionPotentielle": 14.68
+    },
+    {
+        "commune": "Coeuve",
+        "productionPotentielle": 9.82
+    },
+    {
+        "commune": "Cornol",
+        "productionPotentielle": 11.31
+    },
+    {
+        "commune": "Courchavon",
+        "productionPotentielle": 4.26
+    },
+    {
+        "commune": "Courgenay",
+        "productionPotentielle": 31.19
+    },
+    {
+        "commune": "Courtedoux",
+        "productionPotentielle": 8.04
+    },
+    {
+        "commune": "Damphreux",
+        "productionPotentielle": 4.16
+    },
+    {
+        "commune": "Fahy",
+        "productionPotentielle": 9.31
+    },
+    {
+        "commune": "Fontenais",
+        "productionPotentielle": 17.28
+    },
+    {
+        "commune": "Grandfontaine",
+        "productionPotentielle": 7.96
+    },
+    {
+        "commune": "Lugnez",
+        "productionPotentielle": 3.85
+    },
+    {
+        "commune": "Porrentruy",
+        "productionPotentielle": 49.44
+    },
+    {
+        "commune": "Vendlincourt",
+        "productionPotentielle": 8.83
+    },
+    {
+        "commune": "Basse-Allaine",
+        "productionPotentielle": 18.64
+    },
+    {
+        "commune": "Clos du Doubs",
+        "productionPotentielle": 21.19
+    },
+    {
+        "commune": "Haute-Ajoie",
+        "productionPotentielle": 26.39
+    },
+    {
+        "commune": "La Baroche",
+        "productionPotentielle": 21.23
+    },
+    {
+        "commune": "Vaduz",
+        "productionPotentielle": 35.51
+    },
+    {
+        "commune": "Triesen",
+        "productionPotentielle": 29.8
+    },
+    {
+        "commune": "Balzers",
+        "productionPotentielle": 27.77
+    },
+    {
+        "commune": "Triesenberg",
+        "productionPotentielle": 20.21
+    },
+    {
+        "commune": "Schaan",
+        "productionPotentielle": 45.51
+    },
+    {
+        "commune": "Planken",
+        "productionPotentielle": 2.1
+    },
+    {
+        "commune": "Eschen",
+        "productionPotentielle": 34.46
+    },
+    {
+        "commune": "Mauren",
+        "productionPotentielle": 27.01
+    },
+    {
+        "commune": "Gamprin",
+        "productionPotentielle": 17.15
+    },
+    {
+        "commune": "Ruggell",
+        "productionPotentielle": 17.59
+    },
+    {
+        "commune": "Schellenberg",
+        "productionPotentielle": 6.71
+    }
+]
