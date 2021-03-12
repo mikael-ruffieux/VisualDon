@@ -4,22 +4,19 @@ const fetch = require('node-fetch')
 const URL_USERS = 'https://jsonplaceholder.typicode.com/users'
 const URL_POSTS = 'https://jsonplaceholder.typicode.com/posts'
 
+const get = url => fetch(url).then(data => data.json())
 
-fetch(URL_USERS)
-  .then(response => response.json())
-  .then(json => {
-        json.forEach(element => {
+Promise.all([ get(URL_USERS), get(URL_POSTS)]).then(([users, posts]) => {
+    users.forEach(user => {
 
-            getPostsTitles (element, URL_POSTS)
-
-            /*console.log({
-                "nom_utilisteur": getUsername (element),
-                "ville": getCity (element),
-                "nom_compagnie": getCompanyName (element),
-                "titres_posts": getPostsTitles (element, URL_POSTS)
-            })*/
-      });
-  })
+        console.log({
+            "nom_utilisteur": getUsername (user),
+            "ville": getCity (user),
+            "nom_compagnie": getCompanyName (user),
+            "titres_posts": getPostsTitles (user, posts)
+        })
+    })
+})
 
 function getUsername (obj) {
     return R.path(['username'], obj)
@@ -33,20 +30,15 @@ function getCompanyName (obj) {
     return R.path(['company', 'name'], obj)
 }
 
+function getPostsTitles (userJson, postsJson) {
+    var titles = []
+    const id = R.path(['id'], userJson)
 
-function getPostsTitles (userJson, urlPosts) {
-    fetch(urlPosts)
-        .then(response => response.json())
-        .then(jsonPosts => {
-            var titles = []
-            const id = R.path(['id'], userJson)
+    postsJson.find((post) => {
+        if(R.path(["userId"],post) == id) {
+            titles.push(R.path(["title"], post))
+        }
+    })
 
-            jsonPosts.find((post) => {
-                if(R.path(["userId"],post) == id) {
-                    titles.push(R.path(["title"], post))
-                }
-            })
-        
-            console.log(titles, "---")
-        })
+    return titles
 }
