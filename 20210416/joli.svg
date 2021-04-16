@@ -1,0 +1,28 @@
+<svg viewBox="0 0 230 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Déclaration du filtre -->
+    <filter id="MyFilter" filterUnits="userSpaceOnUse"
+            x="0" y="0"
+            width="200" height="200">
+
+      <!-- offsetBlur -->
+      <feGaussianBlur in="SourceAlpha" stdDeviation="4" result="blur"/>
+      <feOffset in="blur" dx="4" dy="4" result="offsetBlur"/>
+
+    </filter>
+    <pattern id="star" viewBox="0,0,10,10" width="10%" height="10%">
+      <polygon points="0,0 2,5 0,10 5,8 10,10 8,5 10,0 5,2"/>
+    </pattern>
+
+    <pattern id="xujgv" patternUnits="userSpaceOnUse" width="4" height="4">
+        <path d="M 2, 0 l 0, 4" stroke-width="1" shape-rendering="crispEdges" stroke="darkorange" stroke-linecap="square"></path>
+        <path d="M 0,2 l 4,0" stroke-width="1" shape-rendering="crispEdges" stroke="darkorange" stroke-linecap="square"></path>
+    </pattern>
+
+
+  </defs>
+
+  <circle cx="50"  cy="50" r="50" fill="url(#star)" filter="url(#MyFilter)"/>
+  <circle cx="180" cy="50" r="40" fill="none" stroke-width="20" stroke="url(#xujgv)"/>
+  <!--<rect width="300" height="100" fill="url(#xujgv)" />-->
+</svg>

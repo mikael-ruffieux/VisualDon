@@ -11,7 +11,13 @@
                 { nom: 'Aarau', dtv: 37900 },
                 { nom: 'Aathal', dtv: 740 },
                 { nom: 'Aarburg-Oftringen', dtv: 2500 },
-                { nom: 'Acla da Fontauna', dtv: 90 }
+                { nom: 'Acla da Fontauna', dtv: 90 },
+                { nom: 'Aadorf', dtv: 1700 },
+                { nom: 'Alpnach Dorf', dtv: 1200 },
+                { nom: 'Ardez', dtv: 240 },
+                { nom: 'Aesch', dtv: 2000 },
+                { nom: 'Affoltern am Albis', dtv: 6800 },
+                { nom: 'Airolo', dtv: 420 }
             ]};
 
             let structuredData = [];
@@ -26,7 +32,7 @@
             bb.generate({
                 bindto: "#graph",
                 data: {
-                    type: "bar",
+                    type: "pie",
                     columns: structuredData
                 }
             })

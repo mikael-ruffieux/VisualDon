@@ -1,0 +1,37 @@
+<svg viewBox="0 0 600 330" xmlns="http://www.w3.org/2000/svg">
+      <filter id="conform" x="-50%" y="-50%" width="200%" height="200%"> 
+
+        <feImage href="https://s3-us-west-2.amazonaws.com/s.cdpn.io/9674/Screen%20Shot%202018-01-11%20at%2012.27.39.png" x="0" y="0" width="100%" height="100%" preserveAspectRatio="none"></feImage>
+        
+        <!-- desaturate the image -->
+        <feColorMatrix type="saturate" 
+           values="0" result="IMAGE"/>
+        <!-- decrease level of details so the effect on text is more realistic -->
+        <feGaussianBlur in="IMAGE" stdDeviation="0.5" result="MAP"></feGaussianBlur>
+
+
+<feDisplacementMap in="SourceGraphic" in2="MAP" scale="15" xChannelSelector="R" yChannelSelector="R" result="TEXTURED_TEXT"></feDisplacementMap>
+        
+        <feColorMatrix in="TEXTURED_TEXT" result="TEXTURED_TEXT_2" type="matrix" 
+           values="1 0 0 0 0 
+                   0 1 0 0 0 
+                   0 0 1 0 0 
+                   0 0 0 .9 0" />
+                
+        <feImage href="https://s3-us-west-2.amazonaws.com/s.cdpn.io/9674/Screen%20Shot%202018-01-11%20at%2012.27.39.png" x="0" y="0" width="100%" height="100%" preserveAspectRatio="none" result="BG"></feImage>
+        
+        
+        <!-- linear burn would be ideal but not available in SVG -->
+        <feBlend in="BG" in2="TEXTURED_TEXT_2" mode="multiply" result="BLENDED_TEXT"></feBlend>
+                
+        <feMerge>
+          <feMergeNode in="BG" />
+          <feMergeNode in="BLENDED_TEXT" />
+        </feMerge>
+      </filter>
+  
+  <g filter="url(#conform)">
+    <text dx="60" dy="200" font-size="10em" font-weight="bold"  fill="#00826C" transform="translate(-20 28) rotate(-5)">organic
+  </text>
+  </g>
+</svg>
