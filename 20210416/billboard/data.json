@@ -1,0 +1,2056 @@
+{
+    "data": [
+        {
+            "Code": "DSH",
+            "Bahnhof_Haltestelle": "Diessenhofen",
+            "Kanton": "TG",
+            "Eigner": "SBB",
+            "DTV_2018": 1000,
+            "DWV_2018": 1100,
+            "DNWV_2018": 760
+        },
+        {
+            "Code": "DT",
+            "Bahnhof_Haltestelle": "Dietikon",
+            "Kanton": "ZH",
+            "Eigner": "SBB",
+            "DTV_2018": 20100,
+            "DWV_2018": 23700,
+            "DNWV_2018": 12200,
+            "Bemerkungen": "Ohne AVA.",
+            "Remarques": "Sans AVA.",
+            "Note": "Senza AVA.",
+            "Remarks": "Without AVA."
+        },
+        {
+            "Code": "DTF",
+            "Bahnhof_Haltestelle": "Dietfurt",
+            "Kanton": "SG",
+            "Eigner": "SBB",
+            "DTV_2018": 240,
+            "DWV_2018": 280,
+            "DNWV_2018": 150,
+            "Bemerkungen": "Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.",
+            "Remarques": "Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.",
+            "Note": "Valore medio 2018 compromesso dallo sbarramento di tratta.",
+            "Remarks": "Average value for 2018 impacted by line closure."
+        },
+        {
+            "Code": "DTL",
+            "Bahnhof_Haltestelle": "Dietlikon",
+            "Kanton": "ZH",
+            "Eigner": "SBB",
+            "DTV_2018": 8300,
+            "DWV_2018": 9600,
+            "DNWV_2018": 5300
+        },
+        {
+            "Code": "DU",
+            "Bahnhof_Haltestelle": "Dulliken",
+            "Kanton": "SO",
+            "Eigner": "SBB",
+            "DTV_2018": 340,
+            "DWV_2018": 390,
+            "DNWV_2018": 220
+        },
+        {
+            "Code": "DUE",
+            "Bahnhof_Haltestelle": "Dübendorf",
+            "Kanton": "ZH",
+            "Eigner": "SBB",
+            "DTV_2018": 7800,
+            "DWV_2018": 9300,
+            "DNWV_2018": 4600
+        },
+        {
+            "Code": "DUG",
+            "Bahnhof_Haltestelle": "Duggingen",
+            "Kanton": "BL",
+            "Eigner": "SBB",
+            "DTV_2018": 560,
+            "DWV_2018": 650,
+            "DNWV_2018": 370
+        },
+        {
+            "Code": "EBG",
+            "Bahnhof_Haltestelle": "Engelberg",
+            "Kanton": "OW",
+            "Eigner": "ZB",
+            "DTV_2018": 2200,
+            "DWV_2018": 1900,
+            "DNWV_2018": 2600
+        },
+        {
+            "Code": "EBI",
+            "Bahnhof_Haltestelle": "Ebikon",
+            "Kanton": "LU",
+            "Eigner": "SBB",
+            "DTV_2018": 1600,
+            "DWV_2018": 1800,
+            "DNWV_2018": 1000
+        },
+        {
+            "Code": "EBLI",
+            "Bahnhof_Haltestelle": "Ebligen",
+            "Kanton": "BE",
+            "Eigner": "ZB",
+            "DTV_2018": "<50",
+            "DWV_2018": "<50",
+            "DNWV_2018": "<50",
+            "Bemerkungen": "Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.",
+            "Remarques": "Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.",
+            "Note": "Valore medio 2018 compromesso dallo sbarramento di tratta.",
+            "Remarks": "Average value for 2018 impacted by line closure."
+        },
+        {
+            "Code": "EBR",
+            "Bahnhof_Haltestelle": "Emmenbrücke",
+            "Kanton": "LU",
+            "Eigner": "SBB",
+            "DTV_2018": 4800,
+            "DWV_2018": 5600,
+            "DNWV_2018": 3200
+        },
+        {
+            "Code": "ECL",
+            "Bahnhof_Haltestelle": "Eclépens",
+            "Kanton": "VD",
+            "Eigner": "CFF",
+            "DTV_2018": 260,
+            "DWV_2018": 330,
+            "DNWV_2018": 80
+        },
+        {
+            "Code": "ECU",
+            "Bahnhof_Haltestelle": "Ecublens-Rue",
+            "Kanton": "FR",
+            "Eigner": "CFF",
+            "DTV_2018": 70,
+            "DWV_2018": 90,
+            "DNWV_2018": "<50"
+        },
+        {
+            "Code": "EDA",
+            "Bahnhof_Haltestelle": "Ennenda",
+            "Kanton": "GL",
+            "Eigner": "SBB",
+            "DTV_2018": 580,
+            "DWV_2018": 630,
+            "DNWV_2018": 460
+        },
+        {
+            "Code": "EF",
+            "Bahnhof_Haltestelle": "Effretikon",
+            "Kanton": "ZH",
+            "Eigner": "SBB",
+            "DTV_2018": 17000,
+            "DWV_2018": 19700,
+            "DNWV_2018": 10900
+        },
+        {
+            "Code": "EG",
+            "Bahnhof_Haltestelle": "Egerkingen",
+            "Kanton": "SO",
+            "Eigner": "SBB",
+            "DTV_2018": 1300,
+            "DWV_2018": 1500,
+            "DNWV_2018": 840
+        },
+        {
+            "Code": "EGL",
+            "Bahnhof_Haltestelle": "Eglisau",
+            "Kanton": "ZH",
+            "Eigner": "SBB",
+            "DTV_2018": 1600,
+            "DWV_2018": 1900,
+            "DNWV_2018": 1100,
+            "Bemerkungen": "Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.",
+            "Remarques": "Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.",
+            "Note": "Valore medio 2018 compromesso dallo sbarramento di tratta.",
+            "Remarks": "Average value for 2018 impacted by line closure."
+        },
+        {
+            "Code": "EGN",
+            "Bahnhof_Haltestelle": "Egnach",
+            "Kanton": "TG",
+            "Eigner": "SBB",
+            "DTV_2018": 280,
+            "DWV_2018": 300,
+            "DNWV_2018": 240
+        },
+        {
+            "Code": "EI",
+            "Bahnhof_Haltestelle": "Eiken",
+            "Kanton": "AG",
+            "Eigner": "SBB",
+            "DTV_2018": 430,
+            "DWV_2018": 510,
+            "DNWV_2018": 230
+        },
+        {
+            "Code": "EIS",
+            "Bahnhof_Haltestelle": "Einsiedeln",
+            "Kanton": "SZ",
+            "Eigner": "SOB",
+            "DTV_2018": 3400,
+            "DWV_2018": 3600,
+            "DNWV_2018": 3000
+        },
+        {
+            "Code": "EK",
+            "Bahnhof_Haltestelle": "Ebnat-Kappel",
+            "Kanton": "SG",
+            "Eigner": "SOB",
+            "DTV_2018": 440,
+            "DWV_2018": 480,
+            "DNWV_2018": 360
+        },
+        {
+            "Code": "EL",
+            "Bahnhof_Haltestelle": "Elgg",
+            "Kanton": "ZH",
+            "Eigner": "SBB",
+            "DTV_2018": 1600,
+            "DWV_2018": 1800,
+            "DNWV_2018": 1000,
+            "Bemerkungen": "Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.",
+            "Remarques": "Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.",
+            "Note": "Valore medio 2018 compromesso dallo sbarramento di tratta.",
+            "Remarks": "Average value for 2018 impacted by line closure."
+        },
+        {
+            "Code": "EMB",
+            "Bahnhof_Haltestelle": "Embrach-Rorbas",
+            "Kanton": "ZH",
+            "Eigner": "SBB",
+            "DTV_2018": 1800,
+            "DWV_2018": 2100,
+            "DNWV_2018": 1000,
+            "Bemerkungen": "Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.",
+            "Remarques": "Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.",
+            "Note": "Valore medio 2018 compromesso dallo sbarramento di tratta.",
+            "Remarks": "Average value for 2018 impacted by line closure."
+        },
+        {
+            "Code": "EMSW",
+            "Bahnhof_Haltestelle": "Ems Werk",
+            "Kanton": "GR",
+            "Eigner": "RhB",
+            "DTV_2018": 320,
+            "DWV_2018": 430,
+            "DNWV_2018": 80
+        },
+        {
+            "Code": "EP",
+            "Bahnhof_Haltestelle": "Ependes",
+            "Kanton": "VD",
+            "Eigner": "CFF",
+            "DTV_2018": 100,
+            "DWV_2018": 130,
+            "DNWV_2018": 60
+        },
+        {
+            "Code": "EPS",
+            "Bahnhof_Haltestelle": "Epesses",
+            "Kanton": "VD",
+            "Eigner": "CFF",
+            "DTV_2018": 160,
+            "DWV_2018": 130,
+            "DNWV_2018": 210
+        },
+        {
+            "Code": "ER",
+            "Bahnhof_Haltestelle": "Erstfeld",
+            "Kanton": "UR",
+            "Eigner": "SBB",
+            "DTV_2018": 2500,
+            "DWV_2018": 2300,
+            "DNWV_2018": 3100
+        },
+        {
+            "Code": "ERL",
+            "Bahnhof_Haltestelle": "Erlen",
+            "Kanton": "TG",
+            "Eigner": "SBB",
+            "DTV_2018": 550,
+            "DWV_2018": 650,
+            "DNWV_2018": 350
+        },
+        {
+            "Code": "ERLB",
+            "Bahnhof_Haltestelle": "Erlenbach ZH",
+            "Kanton": "ZH",
+            "Eigner": "SBB",
+            "DTV_2018": 3500,
+            "DWV_2018": 4200,
+            "DNWV_2018": 2000
+        },
+        {
+            "Code": "ERM",
+            "Bahnhof_Haltestelle": "Ermatingen",
+            "Kanton": "TG",
+            "Eigner": "SBB",
+            "DTV_2018": 690,
+            "DWV_2018": 750,
+            "DNWV_2018": 550
+        },
+        {
+            "Code": "ESB",
+            "Bahnhof_Haltestelle": "Eschenbach",
+            "Kanton": "LU",
+            "Eigner": "SBB",
+            "DTV_2018": 750,
+            "DWV_2018": 850,
+            "DNWV_2018": 530
+        },
+        {
+            "Code": "ESEE",
+            "Bahnhof_Haltestelle": "Ermensee",
+            "Kanton": "LU",
+            "Eigner": "SBB",
+            "DTV_2018": 120,
+            "DWV_2018": 140,
+            "DNWV_2018": 90
+        },
+        {
+            "Code": "ESL",
+            "Bahnhof_Haltestelle": "Eschlikon",
+            "Kanton": "TG",
+            "Eigner": "SBB",
+            "DTV_2018": 1200,
+            "DWV_2018": 1400,
+            "DNWV_2018": 750,
+            "Bemerkungen": "Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.",
+            "Remarques": "Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.",
+            "Note": "Valore medio 2018 compromesso dallo sbarramento di tratta.",
+            "Remarks": "Average value for 2018 impacted by line closure."
+        },
+        {
+            "Code": "ESP",
+            "Bahnhof_Haltestelle": "Essert-Pittet",
+            "Kanton": "VD",
+            "Eigner": "CFF",
+            "DTV_2018": "<50",
+            "DWV_2018": 50,
+            "DNWV_2018": "<50"
+        },
+        {
+            "Code": "EST",
+            "Bahnhof_Haltestelle": "Estavayer-le-Lac",
+            "Kanton": "FR",
+            "Eigner": "CFF",
+            "DTV_2018": 1300,
+            "DWV_2018": 1500,
+            "DNWV_2018": 760
+        },
+        {
+            "Code": "ETOY",
+            "Bahnhof_Haltestelle": "Etoy",
+            "Kanton": "VD",
+            "Eigner": "CFF",
+            "DTV_2018": 1300,
+            "DWV_2018": 1600,
+            "DNWV_2018": 470
+        },
+        {
+            "Code": "EV",
+            "Bahnhof_Haltestelle": "Evionnaz",
+            "Kanton": "VS",
+            "Eigner": "CFF",
+            "DTV_2018": 300,
+            "DWV_2018": 380,
+            "DNWV_2018": 120
+        },
+        {
+            "Code": "EVOU",
+            "Bahnhof_Haltestelle": "Les Evouettes",
+            "Kanton": "VS",
+            "Eigner": "CFF",
+            "DTV_2018": 100,
+            "DWV_2018": 130,
+            "DNWV_2018": 50
+        },
+        {
+            "Code": "EW",
+            "Bahnhof_Haltestelle": "Etzwilen",
+            "Kanton": "TG",
+            "Eigner": "SBB",
+            "DTV_2018": 200,
+            "DWV_2018": 220,
+            "DNWV_2018": 170
+        },
+        {
+            "Code": "EWMA",
+            "Bahnhof_Haltestelle": "Ewil Maxon",
+            "Kanton": "OW",
+            "Eigner": "ZB",
+            "DTV_2018": 260,
+            "DWV_2018": 350,
+            "DNWV_2018": 70,
+            "Bemerkungen": "Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.",
+            "Remarques": "Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.",
+            "Note": "Valore medio 2018 compromesso dallo sbarramento di tratta.",
+            "Remarks": "Average value for 2018 impacted by line closure."
+        },
+        {
+            "Code": "EYHO",
+            "Bahnhof_Haltestelle": "Eyholz",
+            "Kanton": "VS",
+            "Eigner": "MGB",
+            "DTV_2018": 130,
+            "DWV_2018": 140,
+            "DNWV_2018": 100
+        },
+        {
+            "Code": "EZ",
+            "Bahnhof_Haltestelle": "Eschenz",
+            "Kanton": "TG",
+            "Eigner": "SBB",
+            "DTV_2018": 260,
+            "DWV_2018": 290,
+            "DNWV_2018": 190
+        },
+        {
+            "Code": "FA",
+            "Bahnhof_Haltestelle": "Faido",
+            "Kanton": "TI",
+            "Eigner": "FFS",
+            "DTV_2018": 180,
+            "DWV_2018": 190,
+            "DNWV_2018": 140
+        },
+        {
+            "Code": "FB",
+            "Bahnhof_Haltestelle": "Feldbach",
+            "Kanton": "ZH",
+            "Eigner": "SBB",
+            "DTV_2018": 1100,
+            "DWV_2018": 1300,
+            "DNWV_2018": 730
+        },
+        {
+            "Code": "FBG",
+            "Bahnhof_Haltestelle": "Felsberg",
+            "Kanton": "GR",
+            "Eigner": "RhB",
+            "DTV_2018": 240,
+            "DWV_2018": 270,
+            "DNWV_2018": 170
+        },
+        {
+            "Code": "FCK",
+            "Bahnhof_Haltestelle": "Frick",
+            "Kanton": "AG",
+            "Eigner": "SBB",
+            "DTV_2018": 4900,
+            "DWV_2018": 5800,
+            "DNWV_2018": 3000
+        },
+        {
+            "Code": "FEL",
+            "Bahnhof_Haltestelle": "Felben-Wellhausen",
+            "Kanton": "TG",
+            "Eigner": "SBB",
+            "DTV_2018": 480,
+            "DWV_2018": 560,
+            "DNWV_2018": 300,
+            "Bemerkungen": "Angabe 2016; Angabe 2018 steht nicht zur Verfügung.",
+            "Remarques": "Chiffre 2016; chiffre non disponible pour l’année 2018.",
+            "Note": "Dato del 2016; il dato del 2018 non è disponibile.",
+            "Remarks": "Value for 2016; value for 2018 not available."
+        },
+        {
+            "Code": "FET",
+            "Bahnhof_Haltestelle": "Fehraltorf",
+            "Kanton": "ZH",
+            "Eigner": "SBB",
+            "DTV_2018": 3100,
+            "DWV_2018": 3700,
+            "DNWV_2018": 1700
+        },
+        {
+            "Code": "FF",
+            "Bahnhof_Haltestelle": "Frauenfeld",
+            "Kanton": "TG",
+            "Eigner": "SBB",
+            "DTV_2018": 10400,
+            "DWV_2018": 11800,
+            "DNWV_2018": 7100,
+            "Bemerkungen": "Ohne FW.",
+            "Remarques": "Sans FW.",
+            "Note": "Senza FW.",
+            "Remarks": "Without FW."
+        },
+        {
+            "Code": "FG",
+            "Bahnhof_Haltestelle": "Faoug",
+            "Kanton": "VD",
+            "Eigner": "CFF",
+            "DTV_2018": 150,
+            "DWV_2018": 170,
+            "DNWV_2018": 110
+        },
+        {
+            "Code": "FI",
+            "Bahnhof_Haltestelle": "Fischenthal",
+            "Kanton": "ZH",
+            "Eigner": "SBB",
+            "DTV_2018": 130,
+            "DWV_2018": 150,
+            "DNWV_2018": 110,
+            "Bemerkungen": "Angabe 2016; Angabe 2018 steht nicht zur Verfügung.",
+            "Remarques": "Chiffre 2016; chiffre non disponible pour l’année 2018.",
+            "Note": "Dato del 2016; il dato del 2018 non è disponibile.",
+            "Remarks": "Value for 2016; value for 2018 not available."
+        },
+        {
+            "Code": "FID",
+            "Bahnhof_Haltestelle": "Fideris",
+            "Kanton": "GR",
+            "Eigner": "RhB",
+            "DTV_2018": "<50",
+            "DWV_2018": "<50",
+            "DNWV_2018": "<50"
+        },
+        {
+            "Code": "FIE",
+            "Bahnhof_Haltestelle": "Fiesch",
+            "Kanton": "VS",
+            "Eigner": "MGB",
+            "DTV_2018": 1000,
+            "DWV_2018": 1000,
+            "DNWV_2018": 1000
+        },
+        {
+            "Code": "FIED",
+            "Bahnhof_Haltestelle": "Fiesch Feriendorf",
+            "Kanton": "VS",
+            "Eigner": "MGB",
+            "DTV_2018": 60,
+            "DWV_2018": 60,
+            "DNWV_2018": 70
+        },
+        {
+            "Code": "FILI",
+            "Bahnhof_Haltestelle": "Filisur",
+            "Kanton": "GR",
+            "Eigner": "RhB",
+            "DTV_2018": 1300,
+            "DWV_2018": 1300,
+            "DNWV_2018": 1200
+        },
+        {
+            "Code": "FL",
+            "Bahnhof_Haltestelle": "Flüelen",
+            "Kanton": "UR",
+            "Eigner": "SBB",
+            "DTV_2018": 1800,
+            "DWV_2018": 1800,
+            "DNWV_2018": 1900
+        },
+        {
+            "Code": "FLA",
+            "Bahnhof_Haltestelle": "Flawil",
+            "Kanton": "SG",
+            "Eigner": "SBB",
+            "DTV_2018": 3500,
+            "DWV_2018": 4100,
+            "DNWV_2018": 2200
+        },
+        {
+            "Code": "FMS",
+            "Bahnhof_Haltestelle": "Flums",
+            "Kanton": "SG",
+            "Eigner": "SBB",
+            "DTV_2018": 550,
+            "DWV_2018": 610,
+            "DNWV_2018": 400
+        },
+        {
+            "Code": "FRB",
+            "Bahnhof_Haltestelle": "Freienbach SBB",
+            "Kanton": "SZ",
+            "Eigner": "SBB",
+            "DTV_2018": 490,
+            "DWV_2018": 560,
+            "DNWV_2018": 330
+        },
+        {
+            "Code": "FRBS",
+            "Bahnhof_Haltestelle": "Freienbach SOB",
+            "Kanton": "SZ",
+            "Eigner": "SOB",
+            "DTV_2018": 370,
+            "DWV_2018": 440,
+            "DNWV_2018": 220
+        },
+        {
+            "Code": "FRE",
+            "Bahnhof_Haltestelle": "Frenkendorf-Füllinsdorf",
+            "Kanton": "BL",
+            "Eigner": "SBB",
+            "DTV_2018": 3700,
+            "DWV_2018": 4300,
+            "DNWV_2018": 2400
+        },
+        {
+            "Code": "FRI",
+            "Bahnhof_Haltestelle": "Fribourg/Freiburg",
+            "Kanton": "FR",
+            "Eigner": "CFF",
+            "DTV_2018": 20100,
+            "DWV_2018": 23000,
+            "DNWV_2018": 13600,
+            "Bemerkungen": "Ohne TPF.",
+            "Remarques": "Sans TPF.",
+            "Note": "Senza TPF.",
+            "Remarks": "Without TPF."
+        },
+        {
+            "Code": "FRIN",
+            "Bahnhof_Haltestelle": "Frinvillier-Taubenloch",
+            "Kanton": "BE",
+            "Eigner": "CFF",
+            "DTV_2018": 130,
+            "DWV_2018": 130,
+            "DNWV_2018": 130
+        },
+        {
+            "Code": "FT",
+            "Bahnhof_Haltestelle": "Feuerthalen",
+            "Kanton": "ZH",
+            "Eigner": "SBB",
+            "DTV_2018": 280,
+            "DWV_2018": 310,
+            "DNWV_2018": 220
+        },
+        {
+            "Code": "FTAN",
+            "Bahnhof_Haltestelle": "Ftan",
+            "Kanton": "GR",
+            "Eigner": "RhB",
+            "DTV_2018": "<50",
+            "DWV_2018": "<50",
+            "DNWV_2018": "<50"
+        },
+        {
+            "Code": "FUER",
+            "Bahnhof_Haltestelle": "Fürgangen-Bellwald",
+            "Kanton": "VS",
+            "Eigner": "MGB",
+            "DTV_2018": 260,
+            "DWV_2018": 230,
+            "DNWV_2018": 310
+        },
+        {
+            "Code": "FURN",
+            "Bahnhof_Haltestelle": "Furna",
+            "Kanton": "GR",
+            "Eigner": "RhB",
+            "DTV_2018": "<50",
+            "DWV_2018": "<50",
+            "DNWV_2018": "<50"
+        },
+        {
+            "Code": "GA",
+            "Bahnhof_Haltestelle": "Gampel-Steg",
+            "Kanton": "VS",
+            "Eigner": "SBB",
+            "DTV_2018": 530,
+            "DWV_2018": 630,
+            "DNWV_2018": 310
+        },
+        {
+            "Code": "GD",
+            "Bahnhof_Haltestelle": "Arth-Goldau",
+            "Kanton": "SZ",
+            "Eigner": "SBB",
+            "DTV_2018": 14200,
+            "DWV_2018": 14400,
+            "DNWV_2018": 13800,
+            "Bemerkungen": "Ohne RB.",
+            "Remarques": "Sans RB.",
+            "Note": "Senza RB.",
+            "Remarks": "Without RB."
+        },
+        {
+            "Code": "GDA",
+            "Bahnhof_Haltestelle": "Gordola",
+            "Kanton": "TI",
+            "Eigner": "FFS",
+            "DTV_2018": 700,
+            "DWV_2018": 780,
+            "DNWV_2018": 520
+        },
+        {
+            "Code": "GDBE",
+            "Bahnhof_Haltestelle": "Genthod-Bellevue",
+            "Kanton": "GE",
+            "Eigner": "CFF",
+            "DTV_2018": 1100,
+            "DWV_2018": 1400,
+            "DNWV_2018": 480
+        },
+        {
+            "Code": "GE",
+            "Bahnhof_Haltestelle": "Genève",
+            "Kanton": "GE",
+            "Eigner": "CFF",
+            "DTV_2018": 60500,
+            "DWV_2018": 70700,
+            "DNWV_2018": 37700,
+            "Bemerkungen": "Einsteigende in Richtung Ausland und Aussteigende aus dem Ausland sind nur zum Teil erfasst.",
+            "Remarques": "Les personnes montant et descendant des trains de et vers l’étranger ne sont que partiellement recensées.",
+            "Note": "Sono considerati solo in parte i passeggeri dall’estero che salgono e scendono dai treni.",
+            "Remarks": "Passengers boarding and alighting to/from abroad are only partially recorded."
+        },
+        {
+            "Code": "GEAP",
+            "Bahnhof_Haltestelle": "Genève-Aéroport",
+            "Kanton": "GE",
+            "Eigner": "CFF",
+            "DTV_2018": 15900,
+            "DWV_2018": 16300,
+            "DNWV_2018": 15100
+        },
+        {
+            "Code": "GEC",
+            "Bahnhof_Haltestelle": "Les Geneveys-sur-Coffrane",
+            "Kanton": "NE",
+            "Eigner": "CFF",
+            "DTV_2018": 670,
+            "DWV_2018": 780,
+            "DNWV_2018": 420
+        },
+        {
+            "Code": "GELF",
+            "Bahnhof_Haltestelle": "Gelfingen",
+            "Kanton": "LU",
+            "Eigner": "SBB",
+            "DTV_2018": 310,
+            "DWV_2018": 330,
+            "DNWV_2018": 260
+        },
+        {
+            "Code": "GER",
+            "Bahnhof_Haltestelle": "Gerra (Gambarogno)",
+            "Kanton": "TI",
+            "Eigner": "FFS",
+            "DTV_2018": "<50",
+            "DWV_2018": "<50",
+            "DNWV_2018": "<50"
+        },
+        {
+            "Code": "GES",
+            "Bahnhof_Haltestelle": "Geschinen",
+            "Kanton": "VS",
+            "Eigner": "MGB",
+            "DTV_2018": 120,
+            "DWV_2018": 120,
+            "DNWV_2018": 130
+        },
+        {
+            "Code": "GESE",
+            "Bahnhof_Haltestelle": "Genève-Sécheron",
+            "Kanton": "GE",
+            "Eigner": "CFF",
+            "DTV_2018": 1200,
+            "DWV_2018": 1600,
+            "DNWV_2018": 220
+        },
+        {
+            "Code": "GF",
+            "Bahnhof_Haltestelle": "Glattfelden",
+            "Kanton": "ZH",
+            "Eigner": "SBB",
+            "DTV_2018": 1000,
+            "DWV_2018": 1200,
+            "DNWV_2018": 600
+        },
+        {
+            "Code": "GI",
+            "Bahnhof_Haltestelle": "Giswil",
+            "Kanton": "OW",
+            "Eigner": "ZB",
+            "DTV_2018": 960,
+            "DWV_2018": 1000,
+            "DNWV_2018": 820
+        },
+        {
+            "Code": "GIB",
+            "Bahnhof_Haltestelle": "Gibswil",
+            "Kanton": "ZH",
+            "Eigner": "SBB",
+            "DTV_2018": 250,
+            "DWV_2018": 280,
+            "DNWV_2018": 190
+        },
+        {
+            "Code": "GIU",
+            "Bahnhof_Haltestelle": "Giubiasco",
+            "Kanton": "TI",
+            "Eigner": "FFS",
+            "DTV_2018": 6700,
+            "DWV_2018": 8100,
+            "DNWV_2018": 3600
+        },
+        {
+            "Code": "GKD",
+            "Bahnhof_Haltestelle": "Gelterkinden",
+            "Kanton": "BL",
+            "Eigner": "SBB",
+            "DTV_2018": 4900,
+            "DWV_2018": 5600,
+            "DNWV_2018": 3300
+        },
+        {
+            "Code": "GL",
+            "Bahnhof_Haltestelle": "Glarus",
+            "Kanton": "GL",
+            "Eigner": "SBB",
+            "DTV_2018": 2500,
+            "DWV_2018": 2900,
+            "DNWV_2018": 1700
+        },
+        {
+            "Code": "GLA",
+            "Bahnhof_Haltestelle": "Gland",
+            "Kanton": "VD",
+            "Eigner": "CFF",
+            "DTV_2018": 5500,
+            "DWV_2018": 7000,
+            "DNWV_2018": 2300
+        },
+        {
+            "Code": "GLB",
+            "Bahnhof_Haltestelle": "Glattbrugg",
+            "Kanton": "ZH",
+            "Eigner": "SBB",
+            "DTV_2018": 6300,
+            "DWV_2018": 7700,
+            "DNWV_2018": 3000
+        },
+        {
+            "Code": "GLO",
+            "Bahnhof_Haltestelle": "Glovelier",
+            "Kanton": "JU",
+            "Eigner": "CFF",
+            "DTV_2018": 890,
+            "DWV_2018": 1000,
+            "DNWV_2018": 610,
+            "Bemerkungen": "Ohne CJ.",
+            "Remarques": "Sans CJ.",
+            "Note": "Senza CJ.",
+            "Remarks": "Without CJ."
+        },
+        {
+            "Code": "GLUR",
+            "Bahnhof_Haltestelle": "Gluringen",
+            "Kanton": "VS",
+            "Eigner": "MGB",
+            "DTV_2018": 80,
+            "DWV_2018": 80,
+            "DNWV_2018": 80
+        },
+        {
+            "Code": "GLZB",
+            "Bahnhof_Haltestelle": "Glanzenberg",
+            "Kanton": "ZH",
+            "Eigner": "SBB",
+            "DTV_2018": 3500,
+            "DWV_2018": 4200,
+            "DNWV_2018": 2200
+        },
+        {
+            "Code": "GM",
+            "Bahnhof_Haltestelle": "Granges-Marnand",
+            "Kanton": "VD",
+            "Eigner": "CFF",
+            "DTV_2018": 390,
+            "DWV_2018": 490,
+            "DNWV_2018": 170
+        },
+        {
+            "Code": "GOE",
+            "Bahnhof_Haltestelle": "Göschenen",
+            "Kanton": "UR",
+            "Eigner": "SBB",
+            "DTV_2018": 1800,
+            "DWV_2018": 1600,
+            "DNWV_2018": 2200
+        },
+        {
+            "Code": "GOL",
+            "Bahnhof_Haltestelle": "Goldach",
+            "Kanton": "SG",
+            "Eigner": "SBB",
+            "DTV_2018": 1400,
+            "DWV_2018": 1600,
+            "DNWV_2018": 1100
+        },
+        {
+            "Code": "GOR",
+            "Bahnhof_Haltestelle": "Gorgier-St-Aubin",
+            "Kanton": "NE",
+            "Eigner": "CFF",
+            "DTV_2018": 590,
+            "DWV_2018": 690,
+            "DNWV_2018": 380
+        },
+        {
+            "Code": "GRA",
+            "Bahnhof_Haltestelle": "Grandgourt",
+            "Kanton": "JU",
+            "Eigner": "CFF",
+            "DTV_2018": "<50",
+            "DWV_2018": "<50",
+            "DNWV_2018": "<50"
+        },
+        {
+            "Code": "GRAF",
+            "Bahnhof_Haltestelle": "Grafenort",
+            "Kanton": "OW",
+            "Eigner": "ZB",
+            "DTV_2018": 80,
+            "DWV_2018": 70,
+            "DNWV_2018": 100
+        },
+        {
+            "Code": "GREL",
+            "Bahnhof_Haltestelle": "Grellingen",
+            "Kanton": "BL",
+            "Eigner": "SBB",
+            "DTV_2018": 1500,
+            "DWV_2018": 1700,
+            "DNWV_2018": 1100
+        },
+        {
+            "Code": "GREN",
+            "Bahnhof_Haltestelle": "Grengiols",
+            "Kanton": "VS",
+            "Eigner": "MGB",
+            "DTV_2018": 150,
+            "DWV_2018": 150,
+            "DNWV_2018": 140
+        },
+        {
+            "Code": "GRF",
+            "Bahnhof_Haltestelle": "Grüenfeld",
+            "Kanton": "ZH",
+            "Eigner": "SOB",
+            "DTV_2018": 210,
+            "DWV_2018": 240,
+            "DNWV_2018": 140
+        },
+        {
+            "Code": "GRO",
+            "Bahnhof_Haltestelle": "Grolley",
+            "Kanton": "FR",
+            "Eigner": "CFF",
+            "DTV_2018": 670,
+            "DWV_2018": 830,
+            "DNWV_2018": 320
+        },
+        {
+            "Code": "GRS",
+            "Bahnhof_Haltestelle": "Grandson",
+            "Kanton": "VD",
+            "Eigner": "CFF",
+            "DTV_2018": 710,
+            "DWV_2018": 840,
+            "DNWV_2018": 430
+        },
+        {
+            "Code": "GRUS",
+            "Bahnhof_Haltestelle": "Grüsch",
+            "Kanton": "GR",
+            "Eigner": "RhB",
+            "DTV_2018": 680,
+            "DWV_2018": 760,
+            "DNWV_2018": 490
+        },
+        {
+            "Code": "GRV",
+            "Bahnhof_Haltestelle": "Grandvaux",
+            "Kanton": "VD",
+            "Eigner": "CFF",
+            "DTV_2018": 530,
+            "DWV_2018": 650,
+            "DNWV_2018": 270
+        },
+        {
+            "Code": "GS",
+            "Bahnhof_Haltestelle": "Grenchen Süd",
+            "Kanton": "SO",
+            "Eigner": "SBB",
+            "DTV_2018": 5000,
+            "DWV_2018": 6000,
+            "DNWV_2018": 2800
+        },
+        {
+            "Code": "GSAG",
+            "Bahnhof_Haltestelle": "Emmenbrücke Gersag",
+            "Kanton": "LU",
+            "Eigner": "SBB",
+            "DTV_2018": 3400,
+            "DWV_2018": 3800,
+            "DNWV_2018": 2400
+        },
+        {
+            "Code": "GSK",
+            "Bahnhof_Haltestelle": "Gisikon-Root",
+            "Kanton": "LU",
+            "Eigner": "SBB",
+            "DTV_2018": 1100,
+            "DWV_2018": 1300,
+            "DNWV_2018": 760
+        },
+        {
+            "Code": "GSS",
+            "Bahnhof_Haltestelle": "Gossau SG",
+            "Kanton": "SG",
+            "Eigner": "SBB",
+            "DTV_2018": 8200,
+            "DWV_2018": 9100,
+            "DNWV_2018": 6300,
+            "Bemerkungen": "Ohne AB.",
+            "Remarques": "Sans AB.",
+            "Note": "Senza AB.",
+            "Remarks": "Without AB."
+        },
+        {
+            "Code": "GUA",
+            "Bahnhof_Haltestelle": "Guarda",
+            "Kanton": "GR",
+            "Eigner": "RhB",
+            "DTV_2018": 180,
+            "DWV_2018": 180,
+            "DNWV_2018": 170
+        },
+        {
+            "Code": "GUEB",
+            "Bahnhof_Haltestelle": "Gübsensee",
+            "Kanton": "AR",
+            "Eigner": "SOB",
+            "DTV_2018": "<50",
+            "DWV_2018": "<50",
+            "DNWV_2018": "<50"
+        },
+        {
+            "Code": "GUET",
+            "Bahnhof_Haltestelle": "Güttingen",
+            "Kanton": "TG",
+            "Eigner": "SBB",
+            "DTV_2018": 320,
+            "DWV_2018": 340,
+            "DNWV_2018": 270
+        },
+        {
+            "Code": "GUN",
+            "Bahnhof_Haltestelle": "Guntershausen",
+            "Kanton": "TG",
+            "Eigner": "SBB",
+            "DTV_2018": 350,
+            "DWV_2018": 410,
+            "DNWV_2018": 240,
+            "Bemerkungen": "Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.",
+            "Remarques": "Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.",
+            "Note": "Valore medio 2018 compromesso dallo sbarramento di tratta.",
+            "Remarks": "Average value for 2018 impacted by line closure."
+        },
+        {
+            "Code": "GZ",
+            "Bahnhof_Haltestelle": "Galmiz",
+            "Kanton": "FR",
+            "Eigner": "SBB",
+            "DTV_2018": 140,
+            "DWV_2018": 150,
+            "DNWV_2018": 100
+        },
+        {
+            "Code": "HAE",
+            "Bahnhof_Haltestelle": "Hägendorf",
+            "Kanton": "SO",
+            "Eigner": "SBB",
+            "DTV_2018": 1500,
+            "DWV_2018": 1800,
+            "DNWV_2018": 780
+        },
+        {
+            "Code": "HAEW",
+            "Bahnhof_Haltestelle": "Häggenschwil-Winden",
+            "Kanton": "TG",
+            "Eigner": "SOB",
+            "DTV_2018": 250,
+            "DWV_2018": 270,
+            "DNWV_2018": 190,
+            "Bemerkungen": "Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.",
+            "Remarques": "Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.",
+            "Note": "Valore medio 2018 compromesso dallo sbarramento di tratta.",
+            "Remarks": "Average value for 2018 impacted by line closure."
+        },
+        {
+            "Code": "HALD",
+            "Bahnhof_Haltestelle": "Haldenstein",
+            "Kanton": "GR",
+            "Eigner": "RhB",
+            "DTV_2018": 60,
+            "DWV_2018": 60,
+            "DNWV_2018": "<50"
+        },
+        {
+            "Code": "HB",
+            "Bahnhof_Haltestelle": "Herzogenbuchsee",
+            "Kanton": "BE",
+            "Eigner": "SBB",
+            "DTV_2018": 3900,
+            "DWV_2018": 4500,
+            "DNWV_2018": 2400
+        },
+        {
+            "Code": "HD",
+            "Bahnhof_Haltestelle": "Hallwil",
+            "Kanton": "AG",
+            "Eigner": "SBB",
+            "DTV_2018": 180,
+            "DWV_2018": 200,
+            "DNWV_2018": 120
+        },
+        {
+            "Code": "HDK",
+            "Bahnhof_Haltestelle": "Hendschiken",
+            "Kanton": "AG",
+            "Eigner": "SBB",
+            "DTV_2018": 730,
+            "DWV_2018": 890,
+            "DNWV_2018": 370
+        },
+        {
+            "Code": "HE",
+            "Bahnhof_Haltestelle": "Herisau",
+            "Kanton": "AR",
+            "Eigner": "SOB",
+            "DTV_2018": 4800,
+            "DWV_2018": 5600,
+            "DNWV_2018": 3100,
+            "Bemerkungen": "Ohne AB.",
+            "Remarques": "Sans AB.",
+            "Note": "Senza AB.",
+            "Remarks": "Without AB."
+        },
+        {
+            "Code": "HEBG",
+            "Bahnhof_Haltestelle": "Heerbrugg",
+            "Kanton": "SG",
+            "Eigner": "SBB",
+            "DTV_2018": 3800,
+            "DWV_2018": 4500,
+            "DNWV_2018": 2200
+        },
+        {
+            "Code": "HEBR",
+            "Bahnhof_Haltestelle": "Herbriggen",
+            "Kanton": "VS",
+            "Eigner": "MGB",
+            "DTV_2018": 130,
+            "DWV_2018": 120,
+            "DNWV_2018": 160
+        },
+        {
+            "Code": "HED",
+            "Bahnhof_Haltestelle": "Hedingen",
+            "Kanton": "ZH",
+            "Eigner": "SBB",
+            "DTV_2018": 2100,
+            "DWV_2018": 2500,
+            "DNWV_2018": 1300
+        },
+        {
+            "Code": "HEN",
+            "Bahnhof_Haltestelle": "Henniez",
+            "Kanton": "VD",
+            "Eigner": "CFF",
+            "DTV_2018": 50,
+            "DWV_2018": 60,
+            "DNWV_2018": "<50"
+        },
+        {
+            "Code": "HERL",
+            "Bahnhof_Haltestelle": "Herrliberg-Feldmeilen",
+            "Kanton": "ZH",
+            "Eigner": "SBB",
+            "DTV_2018": 3800,
+            "DWV_2018": 4600,
+            "DNWV_2018": 2200
+        },
+        {
+            "Code": "HET",
+            "Bahnhof_Haltestelle": "Hettlingen",
+            "Kanton": "ZH",
+            "Eigner": "SBB",
+            "DTV_2018": 660,
+            "DWV_2018": 730,
+            "DNWV_2018": 490
+        },
+        {
+            "Code": "HG",
+            "Bahnhof_Haltestelle": "Horgen",
+            "Kanton": "ZH",
+            "Eigner": "SBB",
+            "DTV_2018": 8000,
+            "DWV_2018": 9500,
+            "DNWV_2018": 4800
+        },
+        {
+            "Code": "HGO",
+            "Bahnhof_Haltestelle": "Horgen Oberdorf",
+            "Kanton": "ZH",
+            "Eigner": "SBB",
+            "DTV_2018": 2300,
+            "DWV_2018": 2800,
+            "DNWV_2018": 1100
+        },
+        {
+            "Code": "HGT",
+            "Bahnhof_Haltestelle": "Henggart",
+            "Kanton": "ZH",
+            "Eigner": "SBB",
+            "DTV_2018": 1300,
+            "DWV_2018": 1500,
+            "DNWV_2018": 920
+        },
+        {
+            "Code": "HGV",
+            "Bahnhof_Haltestelle": "Les Hauts-Geneveys",
+            "Kanton": "NE",
+            "Eigner": "CFF",
+            "DTV_2018": 950,
+            "DWV_2018": 1200,
+            "DNWV_2018": 490
+        },
+        {
+            "Code": "HGW",
+            "Bahnhof_Haltestelle": "Hergiswil",
+            "Kanton": "NW",
+            "Eigner": "ZB",
+            "DTV_2018": 2700,
+            "DWV_2018": 3000,
+            "DNWV_2018": 2000
+        },
+        {
+            "Code": "HI",
+            "Bahnhof_Haltestelle": "Hinwil",
+            "Kanton": "ZH",
+            "Eigner": "SBB",
+            "DTV_2018": 2600,
+            "DWV_2018": 2900,
+            "DNWV_2018": 1800
+        },
+        {
+            "Code": "HIK",
+            "Bahnhof_Haltestelle": "Hitzkirch",
+            "Kanton": "LU",
+            "Eigner": "SBB",
+            "DTV_2018": 850,
+            "DWV_2018": 990,
+            "DNWV_2018": 520
+        },
+        {
+            "Code": "HM",
+            "Bahnhof_Haltestelle": "Hüttlingen-Mettendorf",
+            "Kanton": "TG",
+            "Eigner": "SBB",
+            "Bemerkungen": "Angabe 2018 steht nicht zur Verfügung.",
+            "Remarques": "Chiffre non disponible pour l’année 2018.",
+            "Note": "Il dato del 2018 non è disponibile.",
+            "Remarks": "Value for 2018 not available."
+        },
+        {
+            "Code": "HN",
+            "Bahnhof_Haltestelle": "Horn",
+            "Kanton": "TG",
+            "Eigner": "SBB",
+            "DTV_2018": 510,
+            "DWV_2018": 560,
+            "DNWV_2018": 400
+        },
+        {
+            "Code": "HO",
+            "Bahnhof_Haltestelle": "Hochdorf",
+            "Kanton": "LU",
+            "Eigner": "SBB",
+            "DTV_2018": 1700,
+            "DWV_2018": 2000,
+            "DNWV_2018": 1100
+        },
+        {
+            "Code": "HOBK",
+            "Bahnhof_Haltestelle": "Holderbank AG",
+            "Kanton": "AG",
+            "Eigner": "SBB",
+            "DTV_2018": 310,
+            "DWV_2018": 390,
+            "DNWV_2018": 140
+        },
+        {
+            "Code": "HOS",
+            "Bahnhof_Haltestelle": "Hospental",
+            "Kanton": "UR",
+            "Eigner": "MGB",
+            "DTV_2018": 110,
+            "DWV_2018": 80,
+            "DNWV_2018": 180
+        },
+        {
+            "Code": "HOSA",
+            "Bahnhof_Haltestelle": "Hochdorf Schönau",
+            "Kanton": "LU",
+            "Eigner": "SBB",
+            "DTV_2018": 600,
+            "DWV_2018": 680,
+            "DNWV_2018": 430
+        },
+        {
+            "Code": "HPT",
+            "Bahnhof_Haltestelle": "Hauptwil",
+            "Kanton": "TG",
+            "Eigner": "SBB",
+            "DTV_2018": 210,
+            "DWV_2018": 250,
+            "DNWV_2018": 140,
+            "Bemerkungen": "Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.",
+            "Remarques": "Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.",
+            "Note": "Valore medio 2018 compromesso dallo sbarramento di tratta.",
+            "Remarks": "Average value for 2018 impacted by line closure."
+        },
+        {
+            "Code": "HU",
+            "Bahnhof_Haltestelle": "Hunzenschwil",
+            "Kanton": "AG",
+            "Eigner": "SBB",
+            "DTV_2018": 550,
+            "DWV_2018": 650,
+            "DNWV_2018": 310
+        },
+        {
+            "Code": "HUCH",
+            "Bahnhof_Haltestelle": "Hünenberg Chämleten",
+            "Kanton": "ZG",
+            "Eigner": "SBB",
+            "DTV_2018": 250,
+            "DWV_2018": 270,
+            "DNWV_2018": 210
+        },
+        {
+            "Code": "HUEW",
+            "Bahnhof_Haltestelle": "Hüntwangen-Wil",
+            "Kanton": "ZH",
+            "Eigner": "SBB",
+            "DTV_2018": 1500,
+            "DWV_2018": 1800,
+            "DNWV_2018": 970
+        },
+        {
+            "Code": "HUR",
+            "Bahnhof_Haltestelle": "Hurden",
+            "Kanton": "SZ",
+            "Eigner": "SOB",
+            "DTV_2018": 150,
+            "DWV_2018": 140,
+            "DNWV_2018": 170
+        },
+        {
+            "Code": "HUZY",
+            "Bahnhof_Haltestelle": "Hünenberg Zythus",
+            "Kanton": "ZG",
+            "Eigner": "SBB",
+            "DTV_2018": 1400,
+            "DWV_2018": 1700,
+            "DNWV_2018": 800
+        },
+        {
+            "Code": "HW",
+            "Bahnhof_Haltestelle": "Horw",
+            "Kanton": "LU",
+            "Eigner": "ZB",
+            "DTV_2018": 2000,
+            "DWV_2018": 2400,
+            "DNWV_2018": 1100
+        },
+        {
+            "Code": "IGIS",
+            "Bahnhof_Haltestelle": "Igis",
+            "Kanton": "GR",
+            "Eigner": "RhB",
+            "DTV_2018": 420,
+            "DWV_2018": 460,
+            "DNWV_2018": 310
+        },
+        {
+            "Code": "IL",
+            "Bahnhof_Haltestelle": "Illnau",
+            "Kanton": "ZH",
+            "Eigner": "SBB",
+            "DTV_2018": 2100,
+            "DWV_2018": 2400,
+            "DNWV_2018": 1300
+        },
+        {
+            "Code": "ILZ",
+            "Bahnhof_Haltestelle": "Ilanz",
+            "Kanton": "GR",
+            "Eigner": "RhB",
+            "DTV_2018": 1900,
+            "DWV_2018": 2000,
+            "DNWV_2018": 1500
+        },
+        {
+            "Code": "IM",
+            "Bahnhof_Haltestelle": "Immensee",
+            "Kanton": "SZ",
+            "Eigner": "SBB",
+            "DTV_2018": 470,
+            "DWV_2018": 610,
+            "DNWV_2018": 150
+        },
+        {
+            "Code": "IO",
+            "Bahnhof_Haltestelle": "Interlaken Ost",
+            "Kanton": "BE",
+            "Eigner": "ZB",
+            "DTV_2018": 11500,
+            "DWV_2018": 11200,
+            "DNWV_2018": 12200,
+            "Bemerkungen": "Ohne BOB; Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.",
+            "Remarques": "Sans BOB; valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.",
+            "Note": "Senza BOB; valore medio 2018 compromesso dallo sbarramento di tratta.",
+            "Remarks": "Without BOB; average value for 2018 impacted by line closure."
+        },
+        {
+            "Code": "ISL",
+            "Bahnhof_Haltestelle": "Islikon",
+            "Kanton": "TG",
+            "Eigner": "SBB",
+            "DTV_2018": 900,
+            "DWV_2018": 1000,
+            "DNWV_2018": 590
+        },
+        {
+            "Code": "IT",
+            "Bahnhof_Haltestelle": "Itingen",
+            "Kanton": "BL",
+            "Eigner": "SBB",
+            "DTV_2018": 990,
+            "DWV_2018": 1200,
+            "DNWV_2018": 610
+        },
+        {
+            "Code": "JAZ",
+            "Bahnhof_Haltestelle": "Jenaz",
+            "Kanton": "GR",
+            "Eigner": "RhB",
+            "DTV_2018": 170,
+            "DWV_2018": 190,
+            "DNWV_2018": 120
+        },
+        {
+            "Code": "JO",
+            "Bahnhof_Haltestelle": "Jona",
+            "Kanton": "SG",
+            "Eigner": "SBB",
+            "DTV_2018": 5200,
+            "DWV_2018": 6000,
+            "DNWV_2018": 3200
+        },
+        {
+            "Code": "KAAG",
+            "Bahnhof_Haltestelle": "Kaiserstuhl AG",
+            "Kanton": "AG",
+            "Eigner": "SBB",
+            "DTV_2018": 240,
+            "DWV_2018": 260,
+            "DNWV_2018": 180
+        },
+        {
+            "Code": "KAB",
+            "Bahnhof_Haltestelle": "Kaltbrunn",
+            "Kanton": "SG",
+            "Eigner": "SBB",
+            "DTV_2018": 250,
+            "DWV_2018": 290,
+            "DNWV_2018": 160
+        },
+        {
+            "Code": "KAI",
+            "Bahnhof_Haltestelle": "Kaiserstuhl OW",
+            "Kanton": "OW",
+            "Eigner": "ZB",
+            "DTV_2018": 160,
+            "DWV_2018": 150,
+            "DNWV_2018": 170
+        },
+        {
+            "Code": "KALP",
+            "Bahnhof_Haltestelle": "Kalpetran",
+            "Kanton": "VS",
+            "Eigner": "MGB",
+            "DTV_2018": 120,
+            "DWV_2018": 140,
+            "DNWV_2018": 90
+        },
+        {
+            "Code": "KAU",
+            "Bahnhof_Haltestelle": "Kaiseraugst",
+            "Kanton": "AG",
+            "Eigner": "SBB",
+            "DTV_2018": 2600,
+            "DWV_2018": 3100,
+            "DNWV_2018": 1500
+        },
+        {
+            "Code": "KB",
+            "Bahnhof_Haltestelle": "Koblenz",
+            "Kanton": "AG",
+            "Eigner": "SBB",
+            "DTV_2018": 2800,
+            "DWV_2018": 3300,
+            "DNWV_2018": 1800,
+            "Bemerkungen": "Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.",
+            "Remarques": "Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.",
+            "Note": "Valore medio 2018 compromesso dallo sbarramento di tratta.",
+            "Remarks": "Average value for 2018 impacted by line closure."
+        },
+        {
+            "Code": "KBD",
+            "Bahnhof_Haltestelle": "Koblenz Dorf",
+            "Kanton": "AG",
+            "Eigner": "SBB",
+            "DTV_2018": 420,
+            "DWV_2018": 490,
+            "DNWV_2018": 270
+        },
+        {
+            "Code": "KE",
+            "Bahnhof_Haltestelle": "Kemptthal",
+            "Kanton": "ZH",
+            "Eigner": "SBB",
+            "DTV_2018": 630,
+            "DWV_2018": 750,
+            "DNWV_2018": 370
+        },
+        {
+            "Code": "KGD",
+            "Bahnhof_Haltestelle": "Küngoldingen",
+            "Kanton": "AG",
+            "Eigner": "SBB",
+            "DTV_2018": 180,
+            "DWV_2018": 210,
+            "DNWV_2018": 120
+        },
+        {
+            "Code": "KGO",
+            "Bahnhof_Haltestelle": "Küsnacht Goldbach",
+            "Kanton": "ZH",
+            "Eigner": "SBB",
+            "DTV_2018": 1700,
+            "DWV_2018": 2100,
+            "DNWV_2018": 840
+        },
+        {
+            "Code": "KHF",
+            "Bahnhof_Haltestelle": "Kehlhof",
+            "Kanton": "TG",
+            "Eigner": "THURBO",
+            "DTV_2018": 130,
+            "DWV_2018": 140,
+            "DNWV_2018": 90,
+            "Bemerkungen": "Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.",
+            "Remarques": "Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.",
+            "Note": "Valore medio 2018 compromesso dallo sbarramento di tratta.",
+            "Remarks": "Average value for 2018 impacted by line closure."
+        },
+        {
+            "Code": "KIL",
+            "Bahnhof_Haltestelle": "Kilchberg",
+            "Kanton": "ZH",
+            "Eigner": "SBB",
+            "DTV_2018": 3100,
+            "DWV_2018": 3700,
+            "DNWV_2018": 1800
+        },
+        {
+            "Code": "KK",
+            "Bahnhof_Haltestelle": "Kölliken",
+            "Kanton": "AG",
+            "Eigner": "SBB",
+            "DTV_2018": 690,
+            "DWV_2018": 810,
+            "DNWV_2018": 440
+        },
+        {
+            "Code": "KKO",
+            "Bahnhof_Haltestelle": "Kölliken Oberdorf",
+            "Kanton": "AG",
+            "Eigner": "SBB",
+            "DTV_2018": 210,
+            "DWV_2018": 250,
+            "DNWV_2018": 130
+        },
+        {
+            "Code": "KL",
+            "Bahnhof_Haltestelle": "Kloten",
+            "Kanton": "ZH",
+            "Eigner": "SBB",
+            "DTV_2018": 5000,
+            "DWV_2018": 5700,
+            "DNWV_2018": 3600
+        },
+        {
+            "Code": "KLB",
+            "Bahnhof_Haltestelle": "Kloten Balsberg",
+            "Kanton": "ZH",
+            "Eigner": "SBB",
+            "DTV_2018": 1500,
+            "DWV_2018": 1800,
+            "DNWV_2018": 800
+        },
+        {
+            "Code": "KLI",
+            "Bahnhof_Haltestelle": "Klingnau",
+            "Kanton": "AG",
+            "Eigner": "SBB",
+            "DTV_2018": 630,
+            "DWV_2018": 740,
+            "DNWV_2018": 380
+        },
+        {
+            "Code": "KLO",
+            "Bahnhof_Haltestelle": "Klosters",
+            "Kanton": "GR",
+            "Eigner": "RhB",
+            "DTV_2018": 2400,
+            "DWV_2018": 2400,
+            "DNWV_2018": 2300
+        },
+        {
+            "Code": "KLOD",
+            "Bahnhof_Haltestelle": "Klosters Dorf",
+            "Kanton": "GR",
+            "Eigner": "RhB",
+            "DTV_2018": 340,
+            "DWV_2018": 340,
+            "DNWV_2018": 350
+        },
+        {
+            "Code": "KLW",
+            "Bahnhof_Haltestelle": "Killwangen-Spreitenbach",
+            "Kanton": "AG",
+            "Eigner": "SBB",
+            "DTV_2018": 4100,
+            "DWV_2018": 4900,
+            "DNWV_2018": 2200
+        },
+        {
+            "Code": "KMUE",
+            "Bahnhof_Haltestelle": "Zug Chollermüli",
+            "Kanton": "ZG",
+            "Eigner": "SBB",
+            "DTV_2018": 730,
+            "DWV_2018": 850,
+            "DNWV_2018": 490
+        },
+        {
+            "Code": "KN",
+            "Bahnhof_Haltestelle": "Kempten",
+            "Kanton": "ZH",
+            "Eigner": "SBB",
+            "DTV_2018": 1800,
+            "DWV_2018": 2100,
+            "DNWV_2018": 1000
+        },
+        {
+            "Code": "KNO",
+            "Bahnhof_Haltestelle": "Knonau",
+            "Kanton": "ZH",
+            "Eigner": "SBB",
+            "DTV_2018": 1000,
+            "DWV_2018": 1200,
+            "DNWV_2018": 680
+        },
+        {
+            "Code": "KOL",
+            "Bahnhof_Haltestelle": "Kollbrunn",
+            "Kanton": "ZH",
+            "Eigner": "SBB",
+            "DTV_2018": 1200,
+            "DWV_2018": 1400,
+            "DNWV_2018": 770
+        },
+        {
+            "Code": "KPT",
+            "Bahnhof_Haltestelle": "Kempraten",
+            "Kanton": "SG",
+            "Eigner": "SBB",
+            "DTV_2018": 780,
+            "DWV_2018": 910,
+            "DNWV_2018": 500
+        },
+        {
+            "Code": "KR",
+            "Bahnhof_Haltestelle": "Kreuzlingen",
+            "Kanton": "TG",
+            "Eigner": "SBB",
+            "DTV_2018": 7400,
+            "DWV_2018": 8100,
+            "DNWV_2018": 5600,
+            "Bemerkungen": "Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.",
+            "Remarques": "Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.",
+            "Note": "Valore medio 2018 compromesso dallo sbarramento di tratta.",
+            "Remarks": "Average value for 2018 impacted by line closure."
+        },
+        {
+            "Code": "KRA",
+            "Bahnhof_Haltestelle": "Kradolf",
+            "Kanton": "TG",
+            "Eigner": "SBB",
+            "DTV_2018": 430,
+            "DWV_2018": 500,
+            "DNWV_2018": 270,
+            "Bemerkungen": "Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.",
+            "Remarques": "Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.",
+            "Note": "Valore medio 2018 compromesso dallo sbarramento di tratta.",
+            "Remarks": "Average value for 2018 impacted by line closure."
+        },
+        {
+            "Code": "KRB",
+            "Bahnhof_Haltestelle": "Kreuzlingen Bernrain",
+            "Kanton": "TG",
+            "Eigner": "THURBO",
+            "DTV_2018": 280,
+            "DWV_2018": 340,
+            "DNWV_2018": 160
+        },
+        {
+            "Code": "KRH",
+            "Bahnhof_Haltestelle": "Kreuzlingen Hafen",
+            "Kanton": "TG",
+            "Eigner": "SBB",
+            "DTV_2018": 1600,
+            "DWV_2018": 2000,
+            "DNWV_2018": 940
+        },
+        {
+            "Code": "KRM",
+            "Bahnhof_Haltestelle": "Kriens Mattenhof",
+            "Kanton": "LU",
+            "Eigner": "ZB",
+            "DTV_2018": 1600,
+            "DWV_2018": 1900,
+            "DNWV_2018": 1100
+        },
+        {
+            "Code": "KRU",
+            "Bahnhof_Haltestelle": "Krummenau",
+            "Kanton": "SG",
+            "Eigner": "SOB",
+            "DTV_2018": 150,
+            "DWV_2018": 160,
+            "DNWV_2018": 140
+        },
+        {
+            "Code": "KUE",
+            "Bahnhof_Haltestelle": "Küssnacht am Rigi",
+            "Kanton": "SZ",
+            "Eigner": "SBB",
+            "DTV_2018": 2200,
+            "DWV_2018": 2400,
+            "DNWV_2018": 1700
+        },
+        {
+            "Code": "KUEB",
+            "Bahnhof_Haltestelle": "Küblis",
+            "Kanton": "GR",
+            "Eigner": "RhB",
+            "DTV_2018": 660,
+            "DWV_2018": 720,
+            "DNWV_2018": 540
+        },
+        {
+            "Code": "KUES",
+            "Bahnhof_Haltestelle": "Küsnacht ZH",
+            "Kanton": "ZH",
+            "Eigner": "SBB",
+            "DTV_2018": 5200,
+            "DWV_2018": 6200,
+            "DNWV_2018": 3000
+        },
+        {
+            "Code": "KURZ",
+            "Bahnhof_Haltestelle": "Kurzrickenbach Seepark",
+            "Kanton": "TG",
+            "Eigner": "SBB",
+            "DTV_2018": 450,
+            "DWV_2018": 520,
+            "DNWV_2018": 310
+        },
+        {
+            "Code": "KWL",
+            "Bahnhof_Haltestelle": "Kesswil",
+            "Kanton": "TG",
+            "Eigner": "SBB",
+            "DTV_2018": 250,
+            "DWV_2018": 270,
+            "DNWV_2018": 210
+        },
+        {
+            "Code": "KZ",
+            "Bahnhof_Haltestelle": "Kerzers",
+            "Kanton": "FR",
+            "Eigner": "SBB",
+            "DTV_2018": 4200,
+            "DWV_2018": 4600,
+            "DNWV_2018": 3400
+        },
+        {
+            "Code": "LA",
+            "Bahnhof_Haltestelle": "Lachen",
+            "Kanton": "SZ",
+            "Eigner": "SBB",
+            "DTV_2018": 3100,
+            "DWV_2018": 3600,
+            "DNWV_2018": 1900
+        },
+        {
+            "Code": "LAM",
+            "Bahnhof_Haltestelle": "Lamone-Cadempino",
+            "Kanton": "TI",
+            "Eigner": "FFS",
+            "DTV_2018": 2200,
+            "DWV_2018": 2900,
+            "DNWV_2018": 730
+        },
+        {
+            "Code": "LAN",
+            "Bahnhof_Haltestelle": "Langwiesen",
+            "Kanton": "ZH",
+            "Eigner": "SBB",
+            "DTV_2018": 210,
+            "DWV_2018": 230,
+            "DNWV_2018": 190
+        },
+        {
+            "Code": "LAPR",
+            "Bahnhof_Haltestelle": "Lancy-Pont-Rouge",
+            "Kanton": "GE",
+            "Eigner": "CFF",
+            "DTV_2018": 1100,
+            "DWV_2018": 1600,
+            "DNWV_2018": 220
+        },
+        {
+            "Code": "LAPU",
+            "Bahnhof_Haltestelle": "La Punt-Chamues-ch",
+            "Kanton": "GR",
+            "Eigner": "RhB",
+            "DTV_2018": 150,
+            "DWV_2018": 150,
+            "DNWV_2018": 140
+        },
+        {
+            "Code": "LAV",
+            "Bahnhof_Haltestelle": "Lavorgo",
+            "Kanton": "TI",
+            "Eigner": "FFS",
+            "DTV_2018": 90,
+            "DWV_2018": 100,
+            "DNWV_2018": 70
+        },
+        {
+            "Code": "LAVI",
+            "Bahnhof_Haltestelle": "Lavin",
+            "Kanton": "GR",
+            "Eigner": "RhB",
+            "DTV_2018": 220,
+            "DWV_2018": 210,
+            "DNWV_2018": 250
+        },
+        {
+            "Code": "LAWI",
+            "Bahnhof_Haltestelle": "Langwies GR",
+            "Kanton": "GR",
+            "Eigner": "RhB",
+            "DTV_2018": 160,
+            "DWV_2018": 120,
+            "DNWV_2018": 250
+        },
+        {
+            "Code": "LAX",
+            "Bahnhof_Haltestelle": "Lax",
+            "Kanton": "VS",
+            "Eigner": "MGB",
+            "DTV_2018": 210,
+            "DWV_2018": 220,
+            "DNWV_2018": 200
+        },
+        {
+            "Code": "LB",
+            "Bahnhof_Haltestelle": "Lenzburg",
+            "Kanton": "AG",
+            "Eigner": "SBB",
+            "DTV_2018": 23400,
+            "DWV_2018": 26800,
+            "DNWV_2018": 15700
+        },
+        {
+            "Code": "LBD",
+            "Bahnhof_Haltestelle": "Root D4",
+            "Kanton": "LU",
+            "Eigner": "SBB",
+            "DTV_2018": 860,
+            "DWV_2018": 1100,
+            "DNWV_2018": 320
+        },
+        {
+            "Code": "LD",
+            "Bahnhof_Haltestelle": "Le Landeron",
+            "Kanton": "NE",
+            "Eigner": "CFF",
+            "DTV_2018": 1000,
+            "DWV_2018": 1200,
+            "DNWV_2018": 650
+        },
+        {
+            "Code": "LDS",
+            "Bahnhof_Haltestelle": "Landschlacht",
+            "Kanton": "TG",
+            "Eigner": "SBB",
+            "DTV_2018": 250,
+            "DWV_2018": 260,
+            "DNWV_2018": 210
+        },
+        {
+            "Code": "LECH",
+            "Bahnhof_Haltestelle": "Léchelles",
+            "Kanton": "FR",
+            "Eigner": "CFF",
+            "DTV_2018": 230,
+            "DWV_2018": 290,
+            "DNWV_2018": 90
+        },
+        {
+            "Code": "LEN",
+            "Bahnhof_Haltestelle": "Lengnau",
+            "Kanton": "BE",
+            "Eigner": "SBB",
+            "DTV_2018": 1200,
+            "DWV_2018": 1400,
+            "DNWV_2018": 710
+        },
+        {
+            "Code": "LENG",
+            "Bahnhof_Haltestelle": "Lengwil",
+            "Kanton": "TG",
+            "Eigner": "THURBO",
+            "DTV_2018": 220,
+            "DWV_2018": 260,
+            "DNWV_2018": 130,
+            "Bemerkungen": "Durchschnittswert 2018 durch Streckensperrung beeinträchtigt.",
+            "Remarques": "Valeur moyenne 2018 à la baisse en raison de l’interdiction de tronçon.",
+            "Note": "Valore medio 2018 compromesso dallo sbarramento di tratta.",
+            "Remarks": "Average value for 2018 impacted by line closure."
+        },
+        {
+            "Code": "LF",
+            "Bahnhof_Haltestelle": "Läufelfingen",
+            "Kanton": "BL",
+            "Eigner": "SBB",
+            "DTV_2018": 400,
+            "DWV_2018": 470,
+            "DNWV_2018": 250
+        },
+        {
+            "Code": "LFG",
+            "Bahnhof_Haltestelle": "Laufenburg",
+            "Kanton": "AG",
+            "Eigner": "SBB",
+            "DTV_2018": 800,
+            "DWV_2018": 900,
+            "DNWV_2018": 580
+        },
+        {
+            "Code": "LFN",
+            "Bahnhof_Haltestelle": "Laufen",
+            "Kanton": "BL",
+            "Eigner": "SBB",
+            "DTV_2018": 5700,
+            "DWV_2018": 6600,
+            "DNWV_2018": 3900
+        },
+        {
+            "Code": "LG",
+            "Bahnhof_Haltestelle": "Lugano",
+            "Kanton": "TI",
+            "Eigner": "FFS",
+            "DTV_2018": 16300,
+            "DWV_2018": 18600,
+            "DNWV_2018": 11100,
+            "Bemerkungen": "Ohne FLP.",
+            "Remarques": "Sans FLP.",
+            "Note": "Senza FLP.",
+            "Remarks": "Without FLP."
+        },
+        {
+            "Code": "LGB",
+            "Bahnhof_Haltestelle": "Leuggelbach",
+            "Kanton": "GL",
+            "Eigner": "SBB",
+            "DTV_2018": "<50",
+            "DWV_2018": "<50",
+            "DNWV_2018": "<50",
+            "Bemerkungen": "Ohne Bahnbusse.",
+            "Remarques": "Sans bus de ligne.",
+            "Note": "Senza autobus della ferrovia.",
+            "Remarks": "Without rail buses."
+        },
+        {
+            "Code": "LGP",
+            "Bahnhof_Haltestelle": "Lugano-Paradiso",
+            "Kanton": "TI",
+            "Eigner": "FFS",
+            "DTV_2018": 850,
+            "DWV_2018": 980,
+            "DNWV_2018": 560
+        },
+        {
+            "Code": "LHE",
+            "Bahnhof_Haltestelle": "La Heutte",
+            "Kanton": "BE",
+            "Eigner": "CFF",
+            "DTV_2018": 170,
+            "DWV_2018": 200,
+            "DNWV_2018": 120
+        },
+        {
+            "Code": "LIG",
+            "Bahnhof_Haltestelle": "Ligerz",
+            "Kanton": "BE",
+            "Eigner": "SBB",
+            "DTV_2018": 480,
+            "DWV_2018": 480,
+            "DNWV_2018": 460
+        },
+        {
+            "Code": "LIN",
+            "Bahnhof_Haltestelle": "Linthal",
+            "Kanton": "GL",
+            "Eigner": "SBB",
+            "DTV_2018": 300,
+            "DWV_2018": 310,
+            "DNWV_2018": 280,
+            "Bemerkungen": "Ohne Bahnbusse.",
+            "Remarques": "Sans bus de ligne.",
+            "Note": "Senza autobus della ferrovia.",
+            "Remarks": "Without rail buses."
+        }
+    ]
+}

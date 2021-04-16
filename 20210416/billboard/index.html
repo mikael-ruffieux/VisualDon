@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="https://unpkg.com/billboard.js@3.0.2/dist/billboard.min.css" />
+        <script src="https://unpkg.com/billboard.js@3.0.2/dist/billboard.pkgd.min.js"></script>
+    </head>
+    <body>
+        <div id="graph"></div>
+        <script>
+            let jsonData = {"data": [
+                { nom: 'Aarau', dtv: 37900 },
+                { nom: 'Aathal', dtv: 740 },
+                { nom: 'Aarburg-Oftringen', dtv: 2500 },
+                { nom: 'Acla da Fontauna', dtv: 90 }
+            ]};
+
+            let structuredData = [];
+
+            jsonData.data.forEach(elt => {
+                structuredData.push([elt.nom, elt.dtv])
+                
+            });
+
+            console.log(structuredData);
+
+            bb.generate({
+                bindto: "#graph",
+                data: {
+                    type: "bar",
+                    columns: structuredData
+                }
+            })
+        </script>
+    </body>
+</html>
