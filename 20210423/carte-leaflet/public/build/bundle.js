@@ -14072,4327 +14072,629 @@
 	//# sourceMappingURL=leaflet-src.js.map
 	});
 
-	var arbres = [
-		[
-			6.6455191,
-			46.7828399
-		],
-		[
-			6.645151,
-			46.7823663
-		],
-		[
-			6.6453909,
-			46.7826772
-		],
-		[
-			6.6450192,
-			46.7822061
-		],
-		[
-			6.6452756,
-			46.7825226
-		],
-		[
-			6.6494323,
-			46.7813657
-		],
-		[
-			6.6487343,
-			46.7808696
-		],
-		[
-			6.6485238,
-			46.7816779
-		],
-		[
-			6.6481537,
-			46.7818066
-		],
-		[
-			6.6491989,
-			46.780624
-		],
-		[
-			6.6481966,
-			46.7815029
-		],
-		[
-			6.6486573,
-			46.7807624
-		],
-		[
-			6.6483517,
-			46.7816475
-		],
-		[
-			6.6492272,
-			46.7811897
-		],
-		[
-			6.6487924,
-			46.7812297
-		],
-		[
-			6.6477198,
-			46.7814861
-		],
-		[
-			6.6450713,
-			46.7798657
-		],
-		[
-			6.6455312,
-			46.7797952
-		],
-		[
-			6.6458667,
-			46.7794886
-		],
-		[
-			6.645527,
-			46.7796337
-		],
-		[
-			6.6456927,
-			46.7795632
-		],
-		[
-			6.6484258,
-			46.7819796
-		],
-		[
-			6.6483121,
-			46.7820201
-		],
-		[
-			6.6481653,
-			46.7820737
-		],
-		[
-			6.648048,
-			46.782115
-		],
-		[
-			6.6479059,
-			46.7821702
-		],
-		[
-			6.6477875,
-			46.7822156
-		],
-		[
-			6.6476619,
-			46.7822635
-		],
-		[
-			6.6475435,
-			46.782304
-		],
-		[
-			6.6474416,
-			46.7823421
-		],
-		[
-			6.6473113,
-			46.7823908
-		],
-		[
-			6.6468435,
-			46.7825619
-		],
-		[
-			6.6467097,
-			46.782609
-		],
-		[
-			6.6465829,
-			46.7826528
-		],
-		[
-			6.646455,
-			46.7826998
-		],
-		[
-			6.6463176,
-			46.7827493
-		],
-		[
-			6.646211,
-			46.7827858
-		],
-		[
-			6.6460973,
-			46.7828304
-		],
-		[
-			6.6459718,
-			46.7828725
-		],
-		[
-			6.6487954,
-			46.781845
-		],
-		[
-			6.6489138,
-			46.7818028
-		],
-		[
-			6.6490619,
-			46.7817517
-		],
-		[
-			6.6493177,
-			46.7816552
-		],
-		[
-			6.6494468,
-			46.7816106
-		],
-		[
-			6.6495688,
-			46.7815651
-		],
-		[
-			6.6496967,
-			46.7815197
-		],
-		[
-			6.6499869,
-			46.7815749
-		],
-		[
-			6.6497,
-			46.7813287
-		],
-		[
-			6.6451364,
-			46.7790111
-		],
-		[
-			6.6451926,
-			46.7790628
-		],
-		[
-			6.6474494,
-			46.7814683
-		],
-		[
-			6.6475075,
-			46.7814467
-		],
-		[
-			6.6474836,
-			46.7814153
-		],
-		[
-			6.6474238,
-			46.7814347
-		],
-		[
-			6.6475465,
-			46.7815705
-		],
-		[
-			6.6474477,
-			46.7816083
-		],
-		[
-			6.6475942,
-			46.7814971
-		],
-		[
-			6.6476148,
-			46.7815268
-		],
-		[
-			6.6476376,
-			46.7815542
-		],
-		[
-			6.6476552,
-			46.7815783
-		],
-		[
-			6.6477136,
-			46.7816437
-		],
-		[
-			6.6477349,
-			46.7816684
-		],
-		[
-			6.6477518,
-			46.7816903
-		],
-		[
-			6.6477749,
-			46.7817169
-		],
-		[
-			6.6478241,
-			46.7817798
-		],
-		[
-			6.6478407,
-			46.7817992
-		],
-		[
-			6.6478601,
-			46.78182
-		],
-		[
-			6.6478825,
-			46.7818439
-		],
-		[
-			6.6480298,
-			46.7819164
-		],
-		[
-			6.6480746,
-			46.7819541
-		],
-		[
-			6.6483938,
-			46.781649
-		],
-		[
-			6.6477441,
-			46.7813402
-		],
-		[
-			6.6478006,
-			46.7813195
-		],
-		[
-			6.6478568,
-			46.7812982
-		],
-		[
-			6.6477261,
-			46.7813119
-		],
-		[
-			6.6477776,
-			46.7812901
-		],
-		[
-			6.6450804,
-			46.7826318
-		],
-		[
-			6.645195,
-			46.7827906
-		],
-		[
-			6.6456091,
-			46.7824973
-		],
-		[
-			6.6451452,
-			46.7827224
-		],
-		[
-			6.6452519,
-			46.7828606
-		],
-		[
-			6.6452999,
-			46.7829184
-		],
-		[
-			6.649207,
-			46.7811923
-		],
-		[
-			6.6492837,
-			46.781165
-		],
-		[
-			6.6493113,
-			46.7811319
-		],
-		[
-			6.6493519,
-			46.7812653
-		],
-		[
-			6.6493008,
-			46.7812591
-		],
-		[
-			6.6487583,
-			46.7809725
-		],
-		[
-			6.6486403,
-			46.7809702
-		]
-	];
-
-	var batiments = [
+	var restaurants = [
 		{
 			type: "Feature",
-			id: "relation/1200851",
+			id: "node/355018403",
 			properties: {
-				timestamp: "2017-03-19T19:29:54Z",
-				version: "2",
-				changeset: "46991517",
-				user: "hecktor",
-				uid: "465052",
-				"addr:city": "Yverdon-les-Bains",
-				"addr:country": "CH",
-				"addr:postcode": "1400",
-				building: "yes",
-				source: "Orthophoto Yverdon 2007 / HEIG-VD",
-				type: "multipolygon",
-				id: "relation/1200851"
+				"addr:city": "Bulle",
+				"addr:housenumber": "65",
+				"addr:postcode": "1630",
+				"addr:street": "Grand-Rue",
+				amenity: "restaurant",
+				cuisine: "italian",
+				name: "Pasta'Lina",
+				opening_hours: "09:00-23:30",
+				id: "node/355018403"
 			},
 			geometry: {
-				type: "Polygon",
+				type: "Point",
 				coordinates: [
-					[
-						[
-							6.6484326,
-							46.7820931
-						],
-						[
-							6.6488396,
-							46.7826323
-						],
-						[
-							6.648966,
-							46.7825876
-						],
-						[
-							6.6490962,
-							46.78276
-						],
-						[
-							6.6499935,
-							46.7824424
-						],
-						[
-							6.6499835,
-							46.7824291
-						],
-						[
-							6.6500474,
-							46.7824065
-						],
-						[
-							6.6495516,
-							46.7817496
-						],
-						[
-							6.6495666,
-							46.7817443
-						],
-						[
-							6.6495587,
-							46.7817337
-						],
-						[
-							6.6496937,
-							46.7816859
-						],
-						[
-							6.6496479,
-							46.7816252
-						],
-						[
-							6.649509,
-							46.7816744
-						],
-						[
-							6.6494975,
-							46.7816591
-						],
-						[
-							6.6493145,
-							46.7817239
-						],
-						[
-							6.6493832,
-							46.781815
-						],
-						[
-							6.6494411,
-							46.7817945
-						],
-						[
-							6.6495201,
-							46.7818992
-						],
-						[
-							6.6494742,
-							46.7819154
-						],
-						[
-							6.6495592,
-							46.782028
-						],
-						[
-							6.6493963,
-							46.7820856
-						],
-						[
-							6.6493588,
-							46.7820359
-						],
-						[
-							6.6492486,
-							46.7820749
-						],
-						[
-							6.6492854,
-							46.7821236
-						],
-						[
-							6.6489372,
-							46.7822468
-						],
-						[
-							6.6487151,
-							46.7819525
-						],
-						[
-							6.6485606,
-							46.7820072
-						],
-						[
-							6.6485847,
-							46.7820392
-						],
-						[
-							6.6484326,
-							46.7820931
-						]
-					],
-					[
-						[
-							6.6491318,
-							46.7826036
-						],
-						[
-							6.6489778,
-							46.7823981
-						],
-						[
-							6.6496282,
-							46.7821695
-						],
-						[
-							6.6497822,
-							46.7823751
-						],
-						[
-							6.6491318,
-							46.7826036
-						]
-					]
+					7.0579088,
+					46.6208989
 				]
 			}
 		},
 		{
 			type: "Feature",
-			id: "way/79741526",
+			id: "node/355018408",
 			properties: {
-				timestamp: "2010-09-29T20:34:52Z",
-				version: "2",
-				changeset: "5915355",
-				user: "Romain Aviolat [Xens]",
-				uid: "4786",
-				"addr:city": "Yverdon-les-Bains",
-				"addr:country": "CH",
-				"addr:postcode": "1400",
-				building: "yes",
-				source: "Orthophoto Yverdon 2007 / HEIG-VD",
-				id: "way/79741526"
+				amenity: "restaurant",
+				name: "Hotel du Tonnelier",
+				tourism: "hotel",
+				wheelchair: "no",
+				id: "node/355018408"
 			},
 			geometry: {
-				type: "Polygon",
+				type: "Point",
 				coordinates: [
-					[
-						[
-							6.6488418,
-							46.7820181
-						],
-						[
-							6.6493261,
-							46.7818435
-						],
-						[
-							6.6492528,
-							46.7817525
-						],
-						[
-							6.6487729,
-							46.7819326
-						],
-						[
-							6.6488418,
-							46.7820181
-						]
-					]
+					7.0574242,
+					46.6190922
 				]
 			}
 		},
 		{
 			type: "Feature",
-			id: "way/79745584",
+			id: "node/355018409",
 			properties: {
-				timestamp: "2010-09-29T20:34:52Z",
-				version: "2",
-				changeset: "5915355",
-				user: "Romain Aviolat [Xens]",
-				uid: "4786",
-				"addr:city": "Yverdon-les-Bains",
-				"addr:country": "CH",
-				"addr:postcode": "1400",
-				building: "yes",
-				source: "Orthophoto Yverdon 2007 / HEIG-VD",
-				id: "way/79745584"
+				amenity: "restaurant",
+				name: "Hotel de Ville",
+				source: "survey",
+				id: "node/355018409"
 			},
 			geometry: {
-				type: "Polygon",
+				type: "Point",
 				coordinates: [
-					[
-						[
-							6.6499289,
-							46.781961
-						],
-						[
-							6.6501203,
-							46.7822003
-						],
-						[
-							6.6502277,
-							46.78216
-						],
-						[
-							6.6500364,
-							46.7819207
-						],
-						[
-							6.6499289,
-							46.781961
-						]
-					]
+					7.0570751,
+					46.6179965
 				]
 			}
 		},
 		{
 			type: "Feature",
-			id: "way/79745585",
+			id: "node/355018411",
 			properties: {
-				timestamp: "2010-09-29T20:34:53Z",
-				version: "2",
-				changeset: "5915355",
-				user: "Romain Aviolat [Xens]",
-				uid: "4786",
-				"addr:city": "Yverdon-les-Bains",
-				"addr:country": "CH",
-				"addr:postcode": "1400",
-				building: "yes",
-				source: "Orthophoto Yverdon 2007 / HEIG-VD",
-				id: "way/79745585"
+				amenity: "restaurant",
+				name: "Gruyerien",
+				tourism: "attraction",
+				id: "node/355018411"
 			},
 			geometry: {
-				type: "Polygon",
+				type: "Point",
 				coordinates: [
-					[
-						[
-							6.6500027,
-							46.78183
-						],
-						[
-							6.6498675,
-							46.7816001
-						],
-						[
-							6.6497462,
-							46.7816335
-						],
-						[
-							6.649836,
-							46.7817863
-						],
-						[
-							6.649663,
-							46.781834
-						],
-						[
-							6.6497084,
-							46.7819112
-						],
-						[
-							6.6500027,
-							46.78183
-						]
-					]
+					7.0569553,
+					46.6177515
 				]
 			}
 		},
 		{
 			type: "Feature",
-			id: "way/79757077",
+			id: "node/355018415",
 			properties: {
-				timestamp: "2020-08-05T09:08:43Z",
-				version: "3",
-				changeset: "88970821",
-				user: "schnelli",
-				uid: "225842",
-				"addr:city": "Yverdon-les-Bains",
-				"addr:country": "CH",
-				"addr:housenumber": "5",
-				"addr:postcode": "1400",
-				"addr:street": "Rue de l'Ancien-Stand",
-				building: "yes",
-				source: "Orthophoto Yverdon 2007 / HEIG-VD",
-				id: "way/79757077"
-			},
-			geometry: {
-				type: "Polygon",
-				coordinates: [
-					[
-						[
-							6.6448217,
-							46.7826646
-						],
-						[
-							6.6447728,
-							46.7826796
-						],
-						[
-							6.6447888,
-							46.782704
-						],
-						[
-							6.6446901,
-							46.7827343
-						],
-						[
-							6.6446818,
-							46.7827216
-						],
-						[
-							6.6442819,
-							46.7828441
-						],
-						[
-							6.6443507,
-							46.7829495
-						],
-						[
-							6.6443887,
-							46.7829379
-						],
-						[
-							6.6444975,
-							46.7831045
-						],
-						[
-							6.6444831,
-							46.7831089
-						],
-						[
-							6.6445084,
-							46.7831476
-						],
-						[
-							6.6450324,
-							46.7829871
-						],
-						[
-							6.6448217,
-							46.7826646
-						]
-					]
-				]
-			}
-		},
-		{
-			type: "Feature",
-			id: "way/79821637",
-			properties: {
-				timestamp: "2015-07-09T11:39:57Z",
-				version: "2",
-				changeset: "32516710",
-				user: "schnelli",
-				uid: "225842",
-				"addr:city": "Yverdon-les-Bains",
-				"addr:country": "CH",
-				"addr:housenumber": "14",
-				"addr:postcode": "1400",
-				"addr:street": "Rue des Pêcheurs",
-				building: "yes",
-				source: "Bing",
-				id: "way/79821637"
-			},
-			geometry: {
-				type: "Polygon",
-				coordinates: [
-					[
-						[
-							6.6456065,
-							46.7824366
-						],
-						[
-							6.6457201,
-							46.7823941
-						],
-						[
-							6.6456725,
-							46.7823345
-						],
-						[
-							6.6455589,
-							46.782377
-						],
-						[
-							6.6456065,
-							46.7824366
-						]
-					]
-				]
-			}
-		},
-		{
-			type: "Feature",
-			id: "way/79821640",
-			properties: {
-				timestamp: "2015-07-09T11:39:56Z",
-				version: "2",
-				changeset: "32516710",
-				user: "schnelli",
-				uid: "225842",
-				"addr:city": "Yverdon-les-Bains",
-				"addr:country": "CH",
-				"addr:housenumber": "10",
-				"addr:postcode": "1400",
-				"addr:street": "Avenue des Sports",
-				building: "yes",
-				source: "Bing",
-				id: "way/79821640"
-			},
-			geometry: {
-				type: "Polygon",
-				coordinates: [
-					[
-						[
-							6.6466038,
-							46.782459
-						],
-						[
-							6.6467475,
-							46.782408
-						],
-						[
-							6.6466868,
-							46.7823278
-						],
-						[
-							6.6465431,
-							46.7823788
-						],
-						[
-							6.6466038,
-							46.782459
-						]
-					]
-				]
-			}
-		},
-		{
-			type: "Feature",
-			id: "way/79821642",
-			properties: {
-				timestamp: "2015-07-09T11:39:57Z",
-				version: "2",
-				changeset: "32516710",
-				user: "schnelli",
-				uid: "225842",
-				"addr:city": "Yverdon-les-Bains",
-				"addr:country": "CH",
-				"addr:housenumber": "14b",
-				"addr:postcode": "1400",
-				"addr:street": "Rue des Pêcheurs",
-				building: "yes",
-				source: "Bing",
-				id: "way/79821642"
-			},
-			geometry: {
-				type: "Polygon",
-				coordinates: [
-					[
-						[
-							6.6457644,
-							46.7823429
-						],
-						[
-							6.6459083,
-							46.7822878
-						],
-						[
-							6.6459942,
-							46.782393
-						],
-						[
-							6.6460823,
-							46.7823592
-						],
-						[
-							6.6459469,
-							46.7821934
-						],
-						[
-							6.6457619,
-							46.7822643
-						],
-						[
-							6.6457149,
-							46.7822823
-						],
-						[
-							6.6457445,
-							46.7823185
-						],
-						[
-							6.6457644,
-							46.7823429
-						]
-					]
-				]
-			}
-		},
-		{
-			type: "Feature",
-			id: "way/79821643",
-			properties: {
-				timestamp: "2017-07-12T18:24:02Z",
-				version: "3",
-				changeset: "50237487",
-				user: "imagoiq_",
-				uid: "1856092",
-				building: "yes",
-				source: "Bing",
-				id: "way/79821643"
-			},
-			geometry: {
-				type: "Polygon",
-				coordinates: [
-					[
-						[
-							6.6460119,
-							46.7821661
-						],
-						[
-							6.64611,
-							46.7822923
-						],
-						[
-							6.646158,
-							46.7822748
-						],
-						[
-							6.64606,
-							46.7821486
-						],
-						[
-							6.6460119,
-							46.7821661
-						]
-					]
-				]
-			}
-		},
-		{
-			type: "Feature",
-			id: "way/79821647",
-			properties: {
-				timestamp: "2015-07-09T11:39:58Z",
-				version: "2",
-				changeset: "32516710",
-				user: "schnelli",
-				uid: "225842",
-				"addr:city": "Yverdon-les-Bains",
-				"addr:country": "CH",
-				"addr:postcode": "1400",
-				"addr:street": "Rue des Pêcheurs",
-				building: "yes",
-				source: "Orthophoto Yverdon 2007 / HEIG-VD",
-				id: "way/79821647"
-			},
-			geometry: {
-				type: "Polygon",
-				coordinates: [
-					[
-						[
-							6.6454135,
-							46.7825265
-						],
-						[
-							6.6455659,
-							46.7824722
-						],
-						[
-							6.6453543,
-							46.7821937
-						],
-						[
-							6.6452018,
-							46.7822481
-						],
-						[
-							6.6454135,
-							46.7825265
-						]
-					]
-				]
-			}
-		},
-		{
-			type: "Feature",
-			id: "way/79821648",
-			properties: {
-				timestamp: "2015-07-09T11:39:58Z",
-				version: "2",
-				changeset: "32516710",
-				user: "schnelli",
-				uid: "225842",
-				"addr:city": "Yverdon-les-Bains",
-				"addr:country": "CH",
-				"addr:housenumber": "8",
-				"addr:postcode": "1400",
-				"addr:street": "Avenue des Sports",
-				building: "yes",
-				source: "Bing",
-				id: "way/79821648"
-			},
-			geometry: {
-				type: "Polygon",
-				coordinates: [
-					[
-						[
-							6.6464023,
-							46.7825349
-						],
-						[
-							6.6465265,
-							46.7824915
-						],
-						[
-							6.6464116,
-							46.7823372
-						],
-						[
-							6.6462874,
-							46.7823805
-						],
-						[
-							6.6464023,
-							46.7825349
-						]
-					]
-				]
-			}
-		},
-		{
-			type: "Feature",
-			id: "way/79821652",
-			properties: {
-				timestamp: "2015-07-09T11:39:56Z",
-				version: "3",
-				changeset: "32516710",
-				user: "schnelli",
-				uid: "225842",
-				"addr:city": "Yverdon-les-Bains",
-				"addr:country": "CH",
-				"addr:housenumber": "12",
-				"addr:postcode": "1400",
-				"addr:street": "Avenue des Sports",
-				building: "yes",
-				source: "Bing",
-				id: "way/79821652"
-			},
-			geometry: {
-				type: "Polygon",
-				coordinates: [
-					[
-						[
-							6.6464864,
-							46.7816523
-						],
-						[
-							6.646307,
-							46.7817193
-						],
-						[
-							6.6465277,
-							46.7819965
-						],
-						[
-							6.6464051,
-							46.7820422
-						],
-						[
-							6.6464193,
-							46.78206
-						],
-						[
-							6.6463786,
-							46.7820752
-						],
-						[
-							6.6465133,
-							46.7822445
-						],
-						[
-							6.6466753,
-							46.782184
-						],
-						[
-							6.6466948,
-							46.7822085
-						],
-						[
-							6.6468003,
-							46.7821691
-						],
-						[
-							6.6468159,
-							46.7821887
-						],
-						[
-							6.6468464,
-							46.7821773
-						],
-						[
-							6.64681,
-							46.7821316
-						],
-						[
-							6.6468547,
-							46.7821149
-						],
-						[
-							6.6464864,
-							46.7816523
-						]
-					]
-				]
-			}
-		},
-		{
-			type: "Feature",
-			id: "way/79821655",
-			properties: {
-				timestamp: "2020-01-26T16:22:04Z",
-				version: "5",
-				changeset: "80101538",
-				user: "ohusser70",
-				uid: "7500047",
-				"addr:city": "Yverdon-les-Bains",
-				"addr:country": "CH",
-				"addr:housenumber": "2",
-				"addr:postcode": "1400",
-				"addr:street": "Avenue des Sports",
-				building: "apartments",
-				"building:levels": "2",
-				"roof:levels": "0",
-				source: "Bing",
-				id: "way/79821655"
-			},
-			geometry: {
-				type: "Polygon",
-				coordinates: [
-					[
-						[
-							6.6455698,
-							46.7826078
-						],
-						[
-							6.6456493,
-							46.7827136
-						],
-						[
-							6.6458965,
-							46.7826264
-						],
-						[
-							6.6458406,
-							46.7825521
-						],
-						[
-							6.645817,
-							46.7825207
-						],
-						[
-							6.6455698,
-							46.7826078
-						]
-					]
-				]
-			}
-		},
-		{
-			type: "Feature",
-			id: "way/79821657",
-			properties: {
-				timestamp: "2015-07-09T11:39:58Z",
-				version: "2",
-				changeset: "32516710",
-				user: "schnelli",
-				uid: "225842",
-				"addr:city": "Yverdon-les-Bains",
-				"addr:country": "CH",
-				"addr:housenumber": "8b",
-				"addr:postcode": "1400",
-				"addr:street": "Avenue des Sports",
-				building: "yes",
-				source: "Bing",
-				id: "way/79821657"
-			},
-			geometry: {
-				type: "Polygon",
-				coordinates: [
-					[
-						[
-							6.6462481,
-							46.7821951
-						],
-						[
-							6.6463329,
-							46.7821661
-						],
-						[
-							6.6462836,
-							46.7820983
-						],
-						[
-							6.6461987,
-							46.7821273
-						],
-						[
-							6.6462481,
-							46.7821951
-						]
-					]
-				]
-			}
-		},
-		{
-			type: "Feature",
-			id: "way/79821660",
-			properties: {
-				timestamp: "2015-07-09T11:39:57Z",
-				version: "2",
-				changeset: "32516710",
-				user: "schnelli",
-				uid: "225842",
-				"addr:city": "Yverdon-les-Bains",
-				"addr:country": "CH",
-				"addr:housenumber": "2b",
-				"addr:postcode": "1400",
-				"addr:street": "Avenue des Sports",
-				building: "yes",
-				source: "Bing",
-				id: "way/79821660"
-			},
-			geometry: {
-				type: "Polygon",
-				coordinates: [
-					[
-						[
-							6.6458975,
-							46.7827162
-						],
-						[
-							6.6460058,
-							46.7826755
-						],
-						[
-							6.6459665,
-							46.7826261
-						],
-						[
-							6.6458582,
-							46.7826668
-						],
-						[
-							6.6458975,
-							46.7827162
-						]
-					]
-				]
-			}
-		},
-		{
-			type: "Feature",
-			id: "way/79821662",
-			properties: {
-				timestamp: "2015-07-09T11:39:58Z",
-				version: "2",
-				changeset: "32516710",
-				user: "schnelli",
-				uid: "225842",
-				"addr:city": "Yverdon-les-Bains",
-				"addr:country": "CH",
-				"addr:housenumber": "4",
-				"addr:postcode": "1400",
-				"addr:street": "Avenue des Sports",
-				building: "yes",
-				source: "Bing",
-				id: "way/79821662"
-			},
-			geometry: {
-				type: "Polygon",
-				coordinates: [
-					[
-						[
-							6.6460647,
-							46.782654
-						],
-						[
-							6.6462073,
-							46.7826021
-						],
-						[
-							6.646167,
-							46.7825498
-						],
-						[
-							6.6460244,
-							46.7826017
-						],
-						[
-							6.6460647,
-							46.782654
-						]
-					]
-				]
-			}
-		},
-		{
-			type: "Feature",
-			id: "way/79821668",
-			properties: {
-				timestamp: "2015-07-09T11:39:59Z",
-				version: "2",
-				changeset: "32516710",
-				user: "schnelli",
-				uid: "225842",
-				"addr:city": "Yverdon-les-Bains",
-				"addr:country": "CH",
-				"addr:postcode": "1400",
-				"addr:street": "Avenue des Sports",
-				building: "yes",
-				source: "Bing",
-				id: "way/79821668"
-			},
-			geometry: {
-				type: "Polygon",
-				coordinates: [
-					[
-						[
-							6.6468326,
-							46.7823845
-						],
-						[
-							6.6468934,
-							46.7823606
-						],
-						[
-							6.6468117,
-							46.7822632
-						],
-						[
-							6.6467509,
-							46.7822871
-						],
-						[
-							6.6468326,
-							46.7823845
-						]
-					]
-				]
-			}
-		},
-		{
-			type: "Feature",
-			id: "way/79821672",
-			properties: {
-				timestamp: "2020-03-25T21:26:24Z",
-				version: "7",
-				changeset: "82629256",
-				user: "Geonick",
-				uid: "6087",
-				building: "yes",
-				healthcare: "hospital",
-				"healthcare:speciality": "psychiatry",
-				name: "Centre de psychiatrie du Nord vaudois",
-				"toilets:wheelchair": "yes",
+				amenity: "restaurant",
+				name: "Crêperie-Restaurant Marco Polo",
+				source: "survey",
 				wheelchair: "yes",
-				id: "way/79821672"
+				id: "node/355018415"
 			},
 			geometry: {
-				type: "Polygon",
+				type: "Point",
 				coordinates: [
-					[
-						[
-							6.6472635,
-							46.7822036
-						],
-						[
-							6.6474594,
-							46.7821317
-						],
-						[
-							6.6474218,
-							46.7820837
-						],
-						[
-							6.6476259,
-							46.7820087
-						],
-						[
-							6.6476701,
-							46.7820652
-						],
-						[
-							6.6478565,
-							46.7819967
-						],
-						[
-							6.6477978,
-							46.7819218
-						],
-						[
-							6.6475852,
-							46.7816504
-						],
-						[
-							6.6473903,
-							46.781722
-						],
-						[
-							6.6475056,
-							46.7818692
-						],
-						[
-							6.6473089,
-							46.7819414
-						],
-						[
-							6.6472201,
-							46.781828
-						],
-						[
-							6.6470253,
-							46.7818996
-						],
-						[
-							6.6472635,
-							46.7822036
-						]
-					]
+					7.0576386,
+					46.6187206
 				]
 			}
 		},
 		{
 			type: "Feature",
-			id: "way/79821674",
+			id: "node/355018417",
 			properties: {
-				timestamp: "2017-07-10T18:10:43Z",
-				version: "4",
-				changeset: "50183238",
-				user: "imagoiq_",
-				uid: "1856092",
-				"addr:housenumber": "32",
-				"addr:street": "Avenue des Sports",
-				building: "yes",
-				source: "Orthophoto Yverdon 2007 / HEIG-VD",
-				id: "way/79821674"
+				amenity: "restaurant",
+				name: "Cafe de la Promenade",
+				source: "survey",
+				id: "node/355018417"
 			},
 			geometry: {
-				type: "Polygon",
+				type: "Point",
 				coordinates: [
-					[
-						[
-							6.6488224,
-							46.7812074
-						],
-						[
-							6.6489276,
-							46.7811804
-						],
-						[
-							6.648997,
-							46.7811626
-						],
-						[
-							6.6489767,
-							46.7811256
-						],
-						[
-							6.6493752,
-							46.7810235
-						],
-						[
-							6.6495106,
-							46.7812712
-						],
-						[
-							6.6496552,
-							46.7812342
-						],
-						[
-							6.6495397,
-							46.7810227
-						],
-						[
-							6.6495062,
-							46.7810313
-						],
-						[
-							6.6493973,
-							46.7808321
-						],
-						[
-							6.6492618,
-							46.7808668
-						],
-						[
-							6.6492525,
-							46.7808497
-						],
-						[
-							6.648844,
-							46.7809544
-						],
-						[
-							6.6488781,
-							46.7810168
-						],
-						[
-							6.6487379,
-							46.7810527
-						],
-						[
-							6.6488224,
-							46.7812074
-						]
-					]
+					7.0579154,
+					46.619188
 				]
 			}
 		},
 		{
 			type: "Feature",
-			id: "way/79821677",
+			id: "node/355357551",
 			properties: {
-				timestamp: "2015-07-09T11:39:59Z",
-				version: "2",
-				changeset: "32516710",
-				user: "schnelli",
-				uid: "225842",
-				"addr:city": "Yverdon-les-Bains",
-				"addr:country": "CH",
-				"addr:postcode": "1400",
-				"addr:street": "Rue des Pêcheurs",
-				building: "yes",
-				source: "Orthophoto Yverdon 2007 / HEIG-VD",
-				id: "way/79821677"
+				amenity: "restaurant",
+				name: "Le Fribourgeois",
+				source: "survey",
+				id: "node/355357551"
 			},
 			geometry: {
-				type: "Polygon",
+				type: "Point",
 				coordinates: [
-					[
-						[
-							6.6449636,
-							46.7819369
-						],
-						[
-							6.6451107,
-							46.7818847
-						],
-						[
-							6.645155,
-							46.781869
-						],
-						[
-							6.6450728,
-							46.7817603
-						],
-						[
-							6.6448814,
-							46.7818282
-						],
-						[
-							6.6449636,
-							46.7819369
-						]
-					]
+					7.056269,
+					46.6175084
 				]
 			}
 		},
 		{
 			type: "Feature",
-			id: "way/79821678",
+			id: "node/1419971397",
 			properties: {
-				timestamp: "2020-01-26T16:22:17Z",
-				version: "7",
-				changeset: "80101747",
-				user: "ohusser70",
-				uid: "7500047",
-				"addr:city": "Yverdon-les-Bains",
-				"addr:country": "CH",
-				"addr:postcode": "1400",
-				"addr:street": "Avenue des Sports",
-				building: "construction",
-				source: "Bing",
-				id: "way/79821678"
+				amenity: "restaurant",
+				name: "Café l'Industriel",
+				id: "node/1419971397"
 			},
 			geometry: {
-				type: "Polygon",
+				type: "Point",
 				coordinates: [
-					[
-						[
-							6.6456206,
-							46.78277
-						],
-						[
-							6.6456567,
-							46.7828114
-						],
-						[
-							6.6457041,
-							46.782792
-						],
-						[
-							6.645668,
-							46.7827506
-						],
-						[
-							6.6456206,
-							46.78277
-						]
-					]
+					7.0582261,
+					46.6209003
 				]
 			}
 		},
 		{
 			type: "Feature",
-			id: "way/79827281",
+			id: "node/2342468041",
 			properties: {
-				timestamp: "2019-07-02T20:21:51Z",
-				version: "2",
-				changeset: "71836699",
-				user: "FvGordon",
-				uid: "161619",
-				building: "yes",
-				source: "Orthophoto Yverdon 2007 / HEIG-VD",
-				id: "way/79827281"
+				amenity: "restaurant",
+				cuisine: "french;local",
+				"diet:vegetarian": "yes",
+				name: "Auberge de la Couronne",
+				opening_hours: "Tu 07:30-18:00; We,Th 07:30-23:00; Fr 07:30-24:00, Sa 08:00-24:00, Su 08:00-19:00",
+				phone: "+41 (0)26 921 21 19",
+				website: "https://aubergelacouronneenney.com/",
+				id: "node/2342468041"
 			},
 			geometry: {
-				type: "Polygon",
+				type: "Point",
 				coordinates: [
-					[
-						[
-							6.6491068,
-							46.7791163
-						],
-						[
-							6.649336,
-							46.7790643
-						],
-						[
-							6.649324,
-							46.7790393
-						],
-						[
-							6.6493104,
-							46.7790112
-						],
-						[
-							6.6490813,
-							46.7790631
-						],
-						[
-							6.6490947,
-							46.7790911
-						],
-						[
-							6.6491068,
-							46.7791163
-						]
-					]
+					7.0836144,
+					46.5656681
 				]
 			}
 		},
 		{
 			type: "Feature",
-			id: "way/79827282",
+			id: "node/2345436372",
 			properties: {
-				timestamp: "2019-10-25T10:05:30Z",
-				version: "4",
-				changeset: "76198218",
-				user: "fredjunod",
-				uid: "84054",
-				"addr:housenumber": "85",
-				"addr:street": "Avenue Haldimand",
-				building: "yes",
-				"roof:shape": "gabled",
-				source: "Orthophoto Yverdon 2007 / HEIG-VD",
-				id: "way/79827282"
+				"addr:city": "Le Pâquier",
+				"addr:housenumber": "1",
+				"addr:postcode": "1661",
+				"addr:street": "Route de la Gare",
+				amenity: "restaurant",
+				cuisine: "chinese",
+				name: "Le jardin de chine",
+				id: "node/2345436372"
 			},
 			geometry: {
-				type: "Polygon",
+				type: "Point",
 				coordinates: [
-					[
-						[
-							6.6493679,
-							46.7788773
-						],
-						[
-							6.6495069,
-							46.7790267
-						],
-						[
-							6.6497336,
-							46.7792704
-						],
-						[
-							6.6499294,
-							46.7791844
-						],
-						[
-							6.6495636,
-							46.7787914
-						],
-						[
-							6.6493679,
-							46.7788773
-						]
-					]
+					7.055963,
+					46.5939126
 				]
 			}
 		},
 		{
 			type: "Feature",
-			id: "way/79827290",
+			id: "node/2402332065",
 			properties: {
-				timestamp: "2017-07-06T19:36:17Z",
-				version: "3",
-				changeset: "50092730",
-				user: "Rémi Bovard",
-				uid: "129299",
-				"addr:city": "Yverdon-les-Bains",
-				"addr:country": "CH",
-				"addr:housenumber": "27",
-				"addr:postcode": "1400",
-				"addr:street": "Rue Saint-Roch",
-				building: "yes",
-				source: "Orthophoto Yverdon 2007 / HEIG-VD",
-				id: "way/79827290"
+				amenity: "restaurant",
+				name: "Aérodrome de la Gruyère",
+				id: "node/2402332065"
 			},
 			geometry: {
-				type: "Polygon",
+				type: "Point",
 				coordinates: [
-					[
-						[
-							6.6461651,
-							46.7795951
-						],
-						[
-							6.6462715,
-							46.779559
-						],
-						[
-							6.6462195,
-							46.7794867
-						],
-						[
-							6.6461131,
-							46.7795228
-						],
-						[
-							6.6461651,
-							46.7795951
-						]
-					]
+					7.0932485,
+					46.5945221
 				]
 			}
 		},
 		{
 			type: "Feature",
-			id: "way/79827293",
+			id: "node/3008217019",
 			properties: {
-				timestamp: "2010-09-30T15:18:43Z",
-				version: "1",
-				changeset: "5920858",
-				user: "Rémi Bovard",
-				uid: "129299",
-				building: "yes",
-				source: "Orthophoto Yverdon 2007 / HEIG-VD",
-				id: "way/79827293"
+				amenity: "restaurant",
+				name: "La Pierre à Catillion",
+				website: "https://www.moleson.ch/",
+				id: "node/3008217019"
 			},
 			geometry: {
-				type: "Polygon",
+				type: "Point",
 				coordinates: [
-					[
-						[
-							6.6458735,
-							46.7796198
-						],
-						[
-							6.6459559,
-							46.7796524
-						],
-						[
-							6.6460821,
-							46.7795016
-						],
-						[
-							6.6459997,
-							46.7794691
-						],
-						[
-							6.6458735,
-							46.7796198
-						]
-					]
+					7.0378718,
+					46.5616336
 				]
 			}
 		},
 		{
 			type: "Feature",
-			id: "way/79827294",
+			id: "node/3435643159",
 			properties: {
-				timestamp: "2010-09-30T15:18:43Z",
-				version: "1",
-				changeset: "5920858",
-				user: "Rémi Bovard",
-				uid: "129299",
-				building: "yes",
-				source: "Orthophoto Yverdon 2007 / HEIG-VD",
-				id: "way/79827294"
+				amenity: "restaurant",
+				id: "node/3435643159"
 			},
 			geometry: {
-				type: "Polygon",
+				type: "Point",
 				coordinates: [
-					[
-						[
-							6.6493501,
-							46.7800276
-						],
-						[
-							6.6498707,
-							46.7798952
-						],
-						[
-							6.6498355,
-							46.7798304
-						],
-						[
-							6.6503773,
-							46.7796926
-						],
-						[
-							6.6502834,
-							46.7795194
-						],
-						[
-							6.6495625,
-							46.7797027
-						],
-						[
-							6.6496107,
-							46.7797915
-						],
-						[
-							6.6493799,
-							46.7798502
-						],
-						[
-							6.6494151,
-							46.779915
-						],
-						[
-							6.6492306,
-							46.779962
-						],
-						[
-							6.6492565,
-							46.7800098
-						],
-						[
-							6.6493303,
-							46.779991
-						],
-						[
-							6.6493501,
-							46.7800276
-						]
-					]
+					7.0727218,
+					46.5824326
 				]
 			}
 		},
 		{
 			type: "Feature",
-			id: "way/79827297",
+			id: "node/4099014505",
 			properties: {
-				timestamp: "2012-10-08T20:04:45Z",
-				version: "2",
-				changeset: "13417749",
-				user: "Nzara",
-				uid: "481380",
-				building: "yes",
-				source: "Orthophoto Yverdon 2007 / HEIG-VD",
-				id: "way/79827297"
+				amenity: "restaurant",
+				changing_table: "yes",
+				"changing_table:description": "in the chalet",
+				"changing_table:location": "unisex_toilet",
+				cuisine: "fondue",
+				name: "Le Chalet de Gruyères",
+				outdoor_seating: "yes",
+				smoking: "outside",
+				"toilets:wheelchair": "no",
+				wheelchair: "limited",
+				id: "node/4099014505"
 			},
 			geometry: {
-				type: "Polygon",
+				type: "Point",
 				coordinates: [
-					[
-						[
-							6.6455587,
-							46.780149
-						],
-						[
-							6.6457453,
-							46.7800406
-						],
-						[
-							6.6456456,
-							46.7799601
-						],
-						[
-							6.6454589,
-							46.7800685
-						],
-						[
-							6.6454877,
-							46.7800917
-						],
-						[
-							6.6455303,
-							46.7801261
-						],
-						[
-							6.6455587,
-							46.780149
-						]
-					]
+					7.0819729,
+					46.5841073
 				]
 			}
 		},
 		{
 			type: "Feature",
-			id: "way/80035320",
+			id: "node/4147691289",
 			properties: {
-				timestamp: "2019-03-01T15:14:54Z",
-				version: "3",
-				changeset: "67689408",
-				user: "fredjunod",
-				uid: "84054",
-				"addr:housenumber": "24a",
-				"addr:street": "Avenue Haldimand",
-				building: "yes",
-				source: "Orthophoto Yverdon 2007 / HEIG-VD",
-				id: "way/80035320"
+				"addr:city": "Bulle",
+				"addr:housenumber": "16",
+				"addr:postcode": "1630",
+				"addr:street": "Route de Riaz",
+				amenity: "restaurant",
+				name: "Paris-Bangkok",
+				opening_hours: "Mo-Su 18:30-22:00",
+				id: "node/4147691289"
 			},
 			geometry: {
-				type: "Polygon",
+				type: "Point",
 				coordinates: [
-					[
-						[
-							6.6448745,
-							46.7790157
-						],
-						[
-							6.6449496,
-							46.7791352
-						],
-						[
-							6.6451009,
-							46.7790865
-						],
-						[
-							6.6451349,
-							46.7790756
-						],
-						[
-							6.6450287,
-							46.7789626
-						],
-						[
-							6.6449983,
-							46.7789697
-						],
-						[
-							6.6448654,
-							46.7790008
-						],
-						[
-							6.6448745,
-							46.7790157
-						]
-					]
+					7.0584807,
+					46.6221642
 				]
 			}
 		},
 		{
 			type: "Feature",
-			id: "way/80123110",
+			id: "node/4156399173",
 			properties: {
-				timestamp: "2020-07-29T15:57:45Z",
-				version: "6",
-				changeset: "88687990",
-				user: "imagoiq_",
-				uid: "1856092",
-				"addr:city": "Yverdon-les-Bains",
-				"addr:country": "CH",
-				"addr:housenumber": "17",
-				"addr:postcode": "1400",
-				"addr:street": "Rue de l'Industrie",
-				building: "industrial",
-				source: "Orthophoto Yverdon 2007 / HEIG-VD",
-				id: "way/80123110"
+				"addr:city": "Bulle",
+				"addr:housenumber": "3",
+				"addr:postcode": "1630",
+				"addr:street": "Rue Nicolas-Glasson",
+				amenity: "restaurant",
+				cuisine: "burger",
+				name: "Fry Burger",
+				id: "node/4156399173"
 			},
 			geometry: {
-				type: "Polygon",
+				type: "Point",
 				coordinates: [
-					[
-						[
-							6.647942,
-							46.7803205
-						],
-						[
-							6.6480223,
-							46.7804223
-						],
-						[
-							6.6482581,
-							46.780335
-						],
-						[
-							6.6482695,
-							46.7803495
-						],
-						[
-							6.6484491,
-							46.780283
-						],
-						[
-							6.6484371,
-							46.7802678
-						],
-						[
-							6.6486226,
-							46.7801992
-						],
-						[
-							6.6485534,
-							46.7801115
-						],
-						[
-							6.6482088,
-							46.7802391
-						],
-						[
-							6.6481982,
-							46.7802256
-						],
-						[
-							6.647942,
-							46.7803205
-						]
-					]
+					7.0554837,
+					46.6176991
 				]
 			}
 		},
 		{
 			type: "Feature",
-			id: "way/81975272",
+			id: "node/4327465896",
 			properties: {
-				timestamp: "2016-10-14T12:27:10Z",
-				version: "5",
-				changeset: "42894995",
-				user: "fredjunod",
-				uid: "84054",
-				building: "yes",
-				source: "Orthophoto Yverdon 2007 / HEIG-VD",
-				id: "way/81975272"
+				amenity: "restaurant",
+				name: "Café de la Gare",
+				id: "node/4327465896"
 			},
 			geometry: {
-				type: "Polygon",
+				type: "Point",
 				coordinates: [
-					[
-						[
-							6.647141,
-							46.7790848
-						],
-						[
-							6.6472514,
-							46.7790587
-						],
-						[
-							6.6471888,
-							46.7789177
-						],
-						[
-							6.64638,
-							46.7790926
-						],
-						[
-							6.6463296,
-							46.779125
-						],
-						[
-							6.646291,
-							46.7791701
-						],
-						[
-							6.6462805,
-							46.7792165
-						],
-						[
-							6.6462912,
-							46.7792517
-						],
-						[
-							6.6463103,
-							46.7792824
-						],
-						[
-							6.6463474,
-							46.7793099
-						],
-						[
-							6.6463884,
-							46.7793064
-						],
-						[
-							6.6464275,
-							46.7793668
-						],
-						[
-							6.6465724,
-							46.7793175
-						],
-						[
-							6.6465125,
-							46.7792235
-						],
-						[
-							6.6466937,
-							46.7791827
-						],
-						[
-							6.6468433,
-							46.7791513
-						],
-						[
-							6.647141,
-							46.7790848
-						]
-					]
+					7.0562959,
+					46.61788
 				]
 			}
 		},
 		{
 			type: "Feature",
-			id: "way/81975273",
+			id: "node/4366987753",
 			properties: {
-				timestamp: "2010-10-17T20:06:52Z",
-				version: "1",
-				changeset: "6071249",
-				user: "inetis",
-				uid: "138032",
-				building: "yes",
-				id: "way/81975273"
+				"addr:postcode": "1653",
+				amenity: "restaurant",
+				cuisine: "french",
+				delivery: "no",
+				name: "Restaurant de la Tour",
+				opening_hours: "Th-Mo 09:00-23:00",
+				phone: "+41 26 921 08 85",
+				smoking: "outside",
+				takeaway: "no",
+				website: "http://www.restodelatour.ch",
+				id: "node/4366987753"
 			},
 			geometry: {
-				type: "Polygon",
+				type: "Point",
 				coordinates: [
-					[
-						[
-							6.6450804,
-							46.7799316
-						],
-						[
-							6.6446775,
-							46.7801852
-						],
-						[
-							6.6448105,
-							46.7802843
-						],
-						[
-							6.6452134,
-							46.7800306
-						],
-						[
-							6.6450804,
-							46.7799316
-						]
-					]
+					7.1296322,
+					46.6139129
 				]
 			}
 		},
 		{
 			type: "Feature",
-			id: "way/81975277",
+			id: "node/4826476323",
 			properties: {
-				timestamp: "2010-10-17T20:06:53Z",
-				version: "1",
-				changeset: "6071249",
-				user: "inetis",
-				uid: "138032",
-				building: "yes",
-				source: "Orthophoto Yverdon 2007 / HEIG-VD",
-				id: "way/81975277"
+				"addr:housenumber": "43",
+				"addr:street": "Grand-Rue",
+				amenity: "restaurant",
+				cuisine: "tapas",
+				name: "Restaurant Le 43",
+				"name:fr": "Restaurant Le 43",
+				id: "node/4826476323"
 			},
 			geometry: {
-				type: "Polygon",
+				type: "Point",
 				coordinates: [
-					[
-						[
-							6.6461428,
-							46.7796249
-						],
-						[
-							6.6460893,
-							46.7796383
-						],
-						[
-							6.6461096,
-							46.7796761
-						],
-						[
-							6.646163,
-							46.7796627
-						],
-						[
-							6.6461428,
-							46.7796249
-						]
-					]
+					7.0576358,
+					46.6199309
 				]
 			}
 		},
 		{
 			type: "Feature",
-			id: "way/81975278",
+			id: "node/4958634622",
 			properties: {
-				timestamp: "2010-10-17T20:06:53Z",
-				version: "1",
-				changeset: "6071249",
-				user: "inetis",
-				uid: "138032",
-				building: "yes",
-				source: "Orthophoto Yverdon 2007 / HEIG-VD",
-				id: "way/81975278"
+				"addr:housenumber": "5",
+				"addr:street": "Rue Saint-Denis",
+				amenity: "restaurant",
+				name: "Restaurant de l'Écu",
+				"name:fr": "Restaurant de l'Écu",
+				id: "node/4958634622"
 			},
 			geometry: {
-				type: "Polygon",
+				type: "Point",
 				coordinates: [
-					[
-						[
-							6.6468012,
-							46.7796531
-						],
-						[
-							6.6465724,
-							46.7793175
-						],
-						[
-							6.6464275,
-							46.7793668
-						],
-						[
-							6.6466152,
-							46.7797125
-						],
-						[
-							6.6468012,
-							46.7796531
-						]
-					]
+					7.057637,
+					46.6152478
 				]
 			}
 		},
 		{
 			type: "Feature",
-			id: "way/81975282",
+			id: "node/4985662521",
 			properties: {
-				timestamp: "2017-07-06T19:37:44Z",
-				version: "3",
-				changeset: "50092730",
-				user: "Rémi Bovard",
-				uid: "129299",
-				"addr:city": "Yverdon-les-Bains",
-				"addr:country": "CH",
-				"addr:housenumber": "29",
-				"addr:postcode": "1400",
-				"addr:street": "Avenue Haldimand",
-				building: "yes",
-				source: "Orthophoto Yverdon 2007 / HEIG-VD",
-				id: "way/81975282"
+				"addr:housenumber": "89",
+				"addr:postcode": "1630",
+				"addr:street": "Rue de Vevey",
+				amenity: "restaurant",
+				cuisine: "chinese",
+				name: "Chanaan aux Trois Trèfles",
+				"name:fr": "Chanaan aux Trois Trèfles",
+				phone: "+41 26 912 72 78",
+				website: "http://www.chanaan.ch",
+				id: "node/4985662521"
 			},
 			geometry: {
-				type: "Polygon",
+				type: "Point",
 				coordinates: [
-					[
-						[
-							6.6455672,
-							46.7792919
-						],
-						[
-							6.6454404,
-							46.7793236
-						],
-						[
-							6.6455163,
-							46.7794657
-						],
-						[
-							6.6456431,
-							46.7794339
-						],
-						[
-							6.6455672,
-							46.7792919
-						]
-					]
+					7.0514706,
+					46.6149777
 				]
 			}
 		},
 		{
 			type: "Feature",
-			id: "way/81975286",
+			id: "node/5771419353",
 			properties: {
-				timestamp: "2017-07-06T19:37:44Z",
-				version: "3",
-				changeset: "50092730",
-				user: "Rémi Bovard",
-				uid: "129299",
-				"addr:city": "Yverdon-les-Bains",
-				"addr:country": "CH",
-				"addr:housenumber": "31",
-				"addr:postcode": "1400",
-				"addr:street": "Avenue Haldimand",
-				building: "yes",
-				id: "way/81975286"
+				"addr:city": "Broc",
+				"addr:housenumber": "1",
+				"addr:postcode": "1636",
+				"addr:street": "La Gîte à Conrad",
+				amenity: "restaurant",
+				name: "Au Creux du feu",
+				phone: "+41 79 755 88 07",
+				id: "node/5771419353"
 			},
 			geometry: {
-				type: "Polygon",
+				type: "Point",
 				coordinates: [
-					[
-						[
-							6.6455672,
-							46.7792919
-						],
-						[
-							6.6456431,
-							46.7794339
-						],
-						[
-							6.6457718,
-							46.7794016
-						],
-						[
-							6.6456959,
-							46.7792596
-						],
-						[
-							6.6455672,
-							46.7792919
-						]
-					]
+					7.1374059,
+					46.606777
 				]
 			}
 		},
 		{
 			type: "Feature",
-			id: "way/81975290",
+			id: "node/5771419453",
 			properties: {
-				timestamp: "2017-07-10T17:11:16Z",
-				version: "3",
-				changeset: "50181944",
-				user: "imagoiq_",
-				uid: "1856092",
-				building: "yes",
-				source: "Orthophoto Yverdon 2007 / HEIG-VD",
-				id: "way/81975290"
+				"addr:postcode": "1636",
+				amenity: "restaurant",
+				cuisine: "local",
+				email: "info@Boudji.ch",
+				name: "Chez Boudji",
+				opening_hours: "Mo-Su 10:00-16:00, 17:00-23:00",
+				phone: "+41 26 921 90 50",
+				website: "http://www.boudji.ch",
+				id: "node/5771419453"
 			},
 			geometry: {
-				type: "Polygon",
+				type: "Point",
 				coordinates: [
-					[
-						[
-							6.6446991,
-							46.7796935
-						],
-						[
-							6.6448189,
-							46.779667
-						],
-						[
-							6.6447939,
-							46.779614
-						],
-						[
-							6.6450309,
-							46.7795615
-						],
-						[
-							6.6450126,
-							46.7795228
-						],
-						[
-							6.6449813,
-							46.7794567
-						],
-						[
-							6.6449767,
-							46.779447
-						],
-						[
-							6.6449104,
-							46.7794617
-						],
-						[
-							6.64462,
-							46.7795262
-						],
-						[
-							6.6446276,
-							46.7795423
-						],
-						[
-							6.6446991,
-							46.7796935
-						]
-					]
+					7.1340354,
+					46.6091104
 				]
 			}
 		},
 		{
 			type: "Feature",
-			id: "way/81975297",
+			id: "node/5839901185",
 			properties: {
-				timestamp: "2017-07-10T17:11:15Z",
-				version: "2",
-				changeset: "50181944",
-				user: "imagoiq_",
-				uid: "1856092",
-				building: "yes",
-				id: "way/81975297"
+				"addr:postcode": "1630",
+				"addr:street": "Rue Hans Liebherr",
+				amenity: "restaurant",
+				cuisine: "local",
+				name: "Cantine Liebherr Machines Bulle SA",
+				opening_hours: "Mo-Fr 08:00-17:00",
+				phone: "+41 26 913 31 11",
+				id: "node/5839901185"
 			},
 			geometry: {
-				type: "Polygon",
+				type: "Point",
 				coordinates: [
-					[
-						[
-							6.6449699,
-							46.7796323
-						],
-						[
-							6.6450562,
-							46.779748
-						],
-						[
-							6.6451545,
-							46.7797136
-						],
-						[
-							6.6450682,
-							46.7795979
-						],
-						[
-							6.6450539,
-							46.779604
-						],
-						[
-							6.6450357,
-							46.7795768
-						],
-						[
-							6.6449738,
-							46.7795956
-						],
-						[
-							6.6449922,
-							46.7796256
-						],
-						[
-							6.6449699,
-							46.7796323
-						]
-					]
+					7.0334985,
+					46.6230097
 				]
 			}
 		},
 		{
 			type: "Feature",
-			id: "way/81975298",
+			id: "node/6419477836",
 			properties: {
-				timestamp: "2019-08-14T12:50:12Z",
-				version: "4",
-				changeset: "73347616",
-				user: "swiss_knight",
-				uid: "10123181",
-				"addr:city": "Yverdon-les-Bains",
-				"addr:country": "CH",
-				"addr:housenumber": "29",
-				"addr:postcode": "1400",
-				"addr:street": "Rue Saint-Roch",
-				building: "yes",
-				source: "Orthophoto Yverdon 2007 / HEIG-VD",
-				id: "way/81975298"
+				amenity: "restaurant",
+				name: "Le Thai break",
+				id: "node/6419477836"
 			},
 			geometry: {
-				type: "Polygon",
+				type: "Point",
 				coordinates: [
-					[
-						[
-							6.6459474,
-							46.780039
-						],
-						[
-							6.6460067,
-							46.7801256
-						],
-						[
-							6.6464419,
-							46.779986
-						],
-						[
-							6.6463289,
-							46.7798207
-						],
-						[
-							6.6464087,
-							46.7797951
-						],
-						[
-							6.6463406,
-							46.7796956
-						],
-						[
-							6.6459015,
-							46.7798364
-						],
-						[
-							6.645971,
-							46.779938
-						],
-						[
-							6.6462842,
-							46.7798376
-						],
-						[
-							6.6463493,
-							46.7799328
-						],
-						[
-							6.6460533,
-							46.7800277
-						],
-						[
-							6.6460406,
-							46.7800091
-						],
-						[
-							6.6460048,
-							46.7800206
-						],
-						[
-							6.6459474,
-							46.780039
-						]
-					]
+					7.0549033,
+					46.6161015
 				]
 			}
 		},
 		{
 			type: "Feature",
-			id: "way/81975301",
+			id: "node/6419478115",
 			properties: {
-				timestamp: "2017-07-10T17:11:15Z",
-				version: "4",
-				changeset: "50181944",
-				user: "imagoiq_",
-				uid: "1856092",
-				"addr:city": "Yverdon-les-Bains",
-				"addr:country": "CH",
-				"addr:housenumber": "25",
-				"addr:street": "Avenue Haldimand",
-				building: "yes",
-				id: "way/81975301"
+				amenity: "restaurant",
+				cuisine: "pizza",
+				name: "Olympia",
+				id: "node/6419478115"
 			},
 			geometry: {
-				type: "Polygon",
+				type: "Point",
 				coordinates: [
-					[
-						[
-							6.6450268,
-							46.7794626
-						],
-						[
-							6.6450131,
-							46.7794476
-						],
-						[
-							6.6449813,
-							46.7794567
-						],
-						[
-							6.6450126,
-							46.7795228
-						],
-						[
-							6.6450525,
-							46.7795118
-						],
-						[
-							6.6450827,
-							46.7795655
-						],
-						[
-							6.6452406,
-							46.7795252
-						],
-						[
-							6.6451847,
-							46.7794224
-						],
-						[
-							6.6450268,
-							46.7794626
-						]
-					]
+					7.0544056,
+					46.6161572
 				]
 			}
 		},
 		{
 			type: "Feature",
-			id: "way/82230883",
+			id: "node/6864945245",
 			properties: {
-				timestamp: "2010-10-19T20:22:09Z",
-				version: "1",
-				changeset: "6103038",
-				user: "Romain Aviolat [Xens]",
-				uid: "4786",
-				"addr:city": "Yverdon-les-Bains",
-				"addr:country": "CH",
-				building: "yes",
-				source: "Orthophoto Yverdon 2007 / HEIG-VD",
-				id: "way/82230883"
+				amenity: "restaurant",
+				name: "Les Halles",
+				website: "www.halles.ch",
+				id: "node/6864945245"
 			},
 			geometry: {
-				type: "Polygon",
+				type: "Point",
 				coordinates: [
-					[
-						[
-							6.6468433,
-							46.7791513
-						],
-						[
-							6.6466937,
-							46.7791827
-						],
-						[
-							6.6467136,
-							46.7792271
-						],
-						[
-							6.6468631,
-							46.7791957
-						],
-						[
-							6.6468433,
-							46.7791513
-						]
-					]
+					7.05844,
+					46.619712
 				]
 			}
 		},
 		{
 			type: "Feature",
-			id: "way/109928833",
+			id: "node/7036721690",
 			properties: {
-				timestamp: "2015-04-30T12:16:55Z",
-				version: "2",
-				changeset: "30657898",
-				user: "fredjunod",
-				uid: "84054",
-				building: "greenhouse",
-				source: "Orthophoto Yverdon 2011 / R-Pod @ HEIG-VD",
-				id: "way/109928833"
+				amenity: "restaurant",
+				name: "Hotel du Cheval Blanc",
+				tourism: "hotel",
+				id: "node/7036721690"
 			},
 			geometry: {
-				type: "Polygon",
+				type: "Point",
 				coordinates: [
-					[
-						[
-							6.6498555,
-							46.7808134
-						],
-						[
-							6.6499278,
-							46.7807861
-						],
-						[
-							6.6498031,
-							46.780631
-						],
-						[
-							6.6497308,
-							46.7806583
-						],
-						[
-							6.6498555,
-							46.7808134
-						]
-					]
+					7.0570007,
+					46.6168354
 				]
 			}
 		},
 		{
 			type: "Feature",
-			id: "way/109928835",
+			id: "node/7625244086",
 			properties: {
-				timestamp: "2015-04-30T12:16:55Z",
-				version: "2",
-				changeset: "30657898",
-				user: "fredjunod",
-				uid: "84054",
-				building: "greenhouse",
-				source: "Orthophoto Yverdon 2011 / R-Pod @ HEIG-VD",
-				id: "way/109928835"
+				amenity: "restaurant",
+				name: "Auberge des montagnards",
+				id: "node/7625244086"
 			},
 			geometry: {
-				type: "Polygon",
+				type: "Point",
 				coordinates: [
-					[
-						[
-							6.6501329,
-							46.7809632
-						],
-						[
-							6.6502959,
-							46.7809044
-						],
-						[
-							6.6503146,
-							46.7809287
-						],
-						[
-							6.6504119,
-							46.7808937
-						],
-						[
-							6.6503931,
-							46.7808693
-						],
-						[
-							6.650556,
-							46.7808105
-						],
-						[
-							6.6503999,
-							46.7806075
-						],
-						[
-							6.6499767,
-							46.7807602
-						],
-						[
-							6.6501329,
-							46.7809632
-						]
-					]
+					7.1023114,
+					46.5604319
 				]
 			}
 		},
 		{
 			type: "Feature",
-			id: "way/289564692",
+			id: "node/7886916886",
 			properties: {
-				timestamp: "2014-06-25T17:03:11Z",
-				version: "2",
-				changeset: "23154363",
-				user: "fredjunod",
-				uid: "84054",
-				building: "yes",
-				source: "Orthophoto Yverdon 2007 / HEIG-VD",
-				id: "way/289564692"
+				amenity: "restaurant",
+				cuisine: "thai",
+				name: "Kalasin",
+				id: "node/7886916886"
 			},
 			geometry: {
-				type: "Polygon",
+				type: "Point",
 				coordinates: [
-					[
-						[
-							6.647141,
-							46.7790848
-						],
-						[
-							6.6471902,
-							46.779195
-						],
-						[
-							6.6470728,
-							46.7792184
-						],
-						[
-							6.6471069,
-							46.7792858
-						],
-						[
-							6.6473348,
-							46.7792525
-						],
-						[
-							6.6472514,
-							46.7790587
-						],
-						[
-							6.647141,
-							46.7790848
-						]
-					]
+					7.057689,
+					46.6221035
 				]
 			}
 		},
 		{
 			type: "Feature",
-			id: "way/341778085",
+			id: "node/8658881517",
 			properties: {
-				timestamp: "2015-04-30T12:16:54Z",
-				version: "1",
-				changeset: "30657898",
-				user: "fredjunod",
-				uid: "84054",
-				building: "yes",
-				id: "way/341778085"
-			},
-			geometry: {
-				type: "Polygon",
-				coordinates: [
-					[
-						[
-							6.6489357,
-							46.7799578
-						],
-						[
-							6.6490839,
-							46.7799192
-						],
-						[
-							6.6490477,
-							46.7798541
-						],
-						[
-							6.6488995,
-							46.7798927
-						],
-						[
-							6.6489357,
-							46.7799578
-						]
-					]
-				]
-			}
-		},
-		{
-			type: "Feature",
-			id: "way/359565600",
-			properties: {
-				timestamp: "2015-07-09T11:39:52Z",
-				version: "1",
-				changeset: "32516710",
-				user: "schnelli",
-				uid: "225842",
-				"addr:city": "Yverdon-les-Bains",
-				"addr:country": "CH",
-				"addr:housenumber": "10",
-				"addr:postcode": "1400",
-				"addr:street": "Rue des Pêcheurs",
-				building: "yes",
-				source: "Bing",
-				id: "way/359565600"
-			},
-			geometry: {
-				type: "Polygon",
-				coordinates: [
-					[
-						[
-							6.6451787,
-							46.7819746
-						],
-						[
-							6.6450316,
-							46.7820268
-						],
-						[
-							6.6450976,
-							46.782114
-						],
-						[
-							6.6452446,
-							46.7820618
-						],
-						[
-							6.6451787,
-							46.7819746
-						]
-					]
-				]
-			}
-		},
-		{
-			type: "Feature",
-			id: "way/359565601",
-			properties: {
-				timestamp: "2015-07-09T11:39:53Z",
-				version: "1",
-				changeset: "32516710",
-				user: "schnelli",
-				uid: "225842",
-				"addr:city": "Yverdon-les-Bains",
-				"addr:country": "CH",
-				"addr:housenumber": "11",
-				"addr:postcode": "1400",
-				"addr:street": "Rue des Pêcheurs",
-				building: "yes",
-				source: "Bing",
-				id: "way/359565601"
-			},
-			geometry: {
-				type: "Polygon",
-				coordinates: [
-					[
-						[
-							6.6452018,
-							46.7822481
-						],
-						[
-							6.6453543,
-							46.7821937
-						],
-						[
-							6.6454261,
-							46.7821681
-						],
-						[
-							6.6453577,
-							46.7820781
-						],
-						[
-							6.6451334,
-							46.7821581
-						],
-						[
-							6.6452018,
-							46.7822481
-						]
-					]
-				]
-			}
-		},
-		{
-			type: "Feature",
-			id: "way/359565602",
-			properties: {
-				timestamp: "2015-07-09T11:39:53Z",
-				version: "1",
-				changeset: "32516710",
-				user: "schnelli",
-				uid: "225842",
-				"addr:city": "Yverdon-les-Bains",
-				"addr:country": "CH",
-				"addr:housenumber": "12",
-				"addr:postcode": "1400",
-				"addr:street": "Rue des Pêcheurs",
-				building: "yes",
-				source: "Bing",
-				id: "way/359565602"
-			},
-			geometry: {
-				type: "Polygon",
-				coordinates: [
-					[
-						[
-							6.6453577,
-							46.7820781
-						],
-						[
-							6.6454261,
-							46.7821681
-						],
-						[
-							6.6455967,
-							46.7821073
-						],
-						[
-							6.6455283,
-							46.7820173
-						],
-						[
-							6.6453577,
-							46.7820781
-						]
-					]
-				]
-			}
-		},
-		{
-			type: "Feature",
-			id: "way/359565603",
-			properties: {
-				timestamp: "2015-07-09T11:39:53Z",
-				version: "1",
-				changeset: "32516710",
-				user: "schnelli",
-				uid: "225842",
-				"addr:city": "Yverdon-les-Bains",
-				"addr:country": "CH",
-				"addr:housenumber": "13",
-				"addr:postcode": "1400",
-				"addr:street": "Rue des Pêcheurs",
-				building: "yes",
-				source: "Bing",
-				id: "way/359565603"
-			},
-			geometry: {
-				type: "Polygon",
-				coordinates: [
-					[
-						[
-							6.6455283,
-							46.7820173
-						],
-						[
-							6.6455967,
-							46.7821073
-						],
-						[
-							6.6456949,
-							46.7820723
-						],
-						[
-							6.6456265,
-							46.7819823
-						],
-						[
-							6.6455283,
-							46.7820173
-						]
-					]
-				]
-			}
-		},
-		{
-			type: "Feature",
-			id: "way/359565604",
-			properties: {
-				timestamp: "2015-07-09T11:39:53Z",
-				version: "1",
-				changeset: "32516710",
-				user: "schnelli",
-				uid: "225842",
-				"addr:city": "Yverdon-les-Bains",
-				"addr:country": "CH",
-				"addr:housenumber": "9",
-				"addr:postcode": "1400",
-				"addr:street": "Rue des Pêcheurs",
-				building: "yes",
-				source: "Bing",
-				id: "way/359565604"
-			},
-			geometry: {
-				type: "Polygon",
-				coordinates: [
-					[
-						[
-							6.6451107,
-							46.7818847
-						],
-						[
-							6.6449636,
-							46.7819369
-						],
-						[
-							6.6450316,
-							46.7820268
-						],
-						[
-							6.6451787,
-							46.7819746
-						],
-						[
-							6.6451107,
-							46.7818847
-						]
-					]
-				]
-			}
-		},
-		{
-			type: "Feature",
-			id: "way/359565605",
-			properties: {
-				timestamp: "2015-07-09T11:39:53Z",
-				version: "1",
-				changeset: "32516710",
-				user: "schnelli",
-				uid: "225842",
-				"addr:city": "Yverdon-les-Bains",
-				"addr:country": "CH",
-				"addr:postcode": "1400",
-				"addr:street": "Rue des Pêcheurs",
-				building: "yes",
-				source: "Bing",
-				id: "way/359565605"
-			},
-			geometry: {
-				type: "Polygon",
-				coordinates: [
-					[
-						[
-							6.6452033,
-							46.7819647
-						],
-						[
-							6.645335,
-							46.7819217
-						],
-						[
-							6.6453178,
-							46.7818969
-						],
-						[
-							6.6451861,
-							46.7819399
-						],
-						[
-							6.6452033,
-							46.7819647
-						]
-					]
-				]
-			}
-		},
-		{
-			type: "Feature",
-			id: "way/359565606",
-			properties: {
-				timestamp: "2015-07-09T11:39:54Z",
-				version: "1",
-				changeset: "32516710",
-				user: "schnelli",
-				uid: "225842",
-				"addr:city": "Yverdon-les-Bains",
-				"addr:country": "CH",
-				"addr:postcode": "1400",
-				"addr:street": "Rue des Pêcheurs",
-				building: "yes",
-				source: "Bing",
-				id: "way/359565606"
-			},
-			geometry: {
-				type: "Polygon",
-				coordinates: [
-					[
-						[
-							6.6457149,
-							46.7822823
-						],
-						[
-							6.6456584,
-							46.7823039
-						],
-						[
-							6.6456879,
-							46.7823401
-						],
-						[
-							6.6457445,
-							46.7823185
-						],
-						[
-							6.6457149,
-							46.7822823
-						]
-					]
-				]
-			}
-		},
-		{
-			type: "Feature",
-			id: "way/359565608",
-			properties: {
-				timestamp: "2015-07-09T11:39:54Z",
-				version: "1",
-				changeset: "32516710",
-				user: "schnelli",
-				uid: "225842",
-				"addr:city": "Yverdon-les-Bains",
-				"addr:country": "CH",
-				"addr:postcode": "1400",
-				"addr:street": "Avenue des Sports",
-				building: "yes",
-				source: "Bing",
-				id: "way/359565608"
-			},
-			geometry: {
-				type: "Polygon",
-				coordinates: [
-					[
-						[
-							6.6465354,
-							46.7824757
-						],
-						[
-							6.64657,
-							46.7824625
-						],
-						[
-							6.6465304,
-							46.7824137
-						],
-						[
-							6.6464958,
-							46.7824268
-						],
-						[
-							6.6465354,
-							46.7824757
-						]
-					]
-				]
-			}
-		},
-		{
-			type: "Feature",
-			id: "way/359565609",
-			properties: {
-				timestamp: "2015-07-09T11:39:54Z",
-				version: "1",
-				changeset: "32516710",
-				user: "schnelli",
-				uid: "225842",
-				"addr:city": "Yverdon-les-Bains",
-				"addr:country": "CH",
-				"addr:postcode": "1400",
-				"addr:street": "Avenue des Sports",
-				building: "yes",
-				source: "Bing",
-				id: "way/359565609"
-			},
-			geometry: {
-				type: "Polygon",
-				coordinates: [
-					[
-						[
-							6.6458965,
-							46.7826264
-						],
-						[
-							6.6459791,
-							46.7825973
-						],
-						[
-							6.6459232,
-							46.782523
-						],
-						[
-							6.6458406,
-							46.7825521
-						],
-						[
-							6.6458965,
-							46.7826264
-						]
-					]
-				]
-			}
-		},
-		{
-			type: "Feature",
-			id: "way/359565610",
-			properties: {
-				timestamp: "2015-07-09T11:39:54Z",
-				version: "1",
-				changeset: "32516710",
-				user: "schnelli",
-				uid: "225842",
-				"addr:city": "Yverdon-les-Bains",
-				"addr:country": "CH",
-				"addr:postcode": "1400",
-				"addr:street": "Rue des Pêcheurs",
-				building: "yes",
-				source: "Bing",
-				id: "way/359565610"
-			},
-			geometry: {
-				type: "Polygon",
-				coordinates: [
-					[
-						[
-							6.6457149,
-							46.7822823
-						],
-						[
-							6.6457619,
-							46.7822643
-						],
-						[
-							6.6456628,
-							46.7821429
-						],
-						[
-							6.6456158,
-							46.7821609
-						],
-						[
-							6.6456812,
-							46.782241
-						],
-						[
-							6.6457149,
-							46.7822823
-						]
-					]
-				]
-			}
-		},
-		{
-			type: "Feature",
-			id: "way/359565611",
-			properties: {
-				timestamp: "2015-07-09T11:39:54Z",
-				version: "1",
-				changeset: "32516710",
-				user: "schnelli",
-				uid: "225842",
-				"addr:city": "Yverdon-les-Bains",
-				"addr:country": "CH",
-				"addr:postcode": "1400",
-				"addr:street": "Rue des Pêcheurs",
-				building: "yes",
-				source: "Bing",
-				id: "way/359565611"
-			},
-			geometry: {
-				type: "Polygon",
-				coordinates: [
-					[
-						[
-							6.6456812,
-							46.782241
-						],
-						[
-							6.6456158,
-							46.7821609
-						],
-						[
-							6.6456007,
-							46.7821424
-						],
-						[
-							6.6455672,
-							46.7821552
-						],
-						[
-							6.6456477,
-							46.7822538
-						],
-						[
-							6.6456812,
-							46.782241
-						]
-					]
-				]
-			}
-		},
-		{
-			type: "Feature",
-			id: "way/359565612",
-			properties: {
-				timestamp: "2015-07-09T11:39:55Z",
-				version: "1",
-				changeset: "32516710",
-				user: "schnelli",
-				uid: "225842",
-				"addr:city": "Yverdon-les-Bains",
-				"addr:country": "CH",
-				"addr:postcode": "1400",
-				"addr:street": "Avenue des Sports",
-				building: "yes",
-				source: "Bing",
-				id: "way/359565612"
-			},
-			geometry: {
-				type: "Polygon",
-				coordinates: [
-					[
-						[
-							6.6464864,
-							46.7816523
-						],
-						[
-							6.6465032,
-							46.781646
-						],
-						[
-							6.6462975,
-							46.7813876
-						],
-						[
-							6.6460778,
-							46.7814696
-						],
-						[
-							6.6461644,
-							46.7815785
-						],
-						[
-							6.6461318,
-							46.7815906
-						],
-						[
-							6.6462509,
-							46.7817402
-						],
-						[
-							6.646307,
-							46.7817193
-						],
-						[
-							6.6464864,
-							46.7816523
-						]
-					]
-				]
-			}
-		},
-		{
-			type: "Feature",
-			id: "way/460537617",
-			properties: {
-				timestamp: "2016-12-19T12:43:40Z",
-				version: "1",
-				changeset: "44515247",
-				user: "fredjunod",
-				uid: "84054",
-				building: "yes",
-				id: "way/460537617"
-			},
-			geometry: {
-				type: "Polygon",
-				coordinates: [
-					[
-						[
-							6.6497633,
-							46.7802236
-						],
-						[
-							6.6499213,
-							46.7801834
-						],
-						[
-							6.6498907,
-							46.780127
-						],
-						[
-							6.6497327,
-							46.7801672
-						],
-						[
-							6.6497633,
-							46.7802236
-						]
-					]
-				]
-			}
-		},
-		{
-			type: "Feature",
-			id: "way/460537619",
-			properties: {
-				timestamp: "2017-07-10T18:10:44Z",
-				version: "2",
-				changeset: "50183238",
-				user: "imagoiq_",
-				uid: "1856092",
 				"addr:housenumber": "20",
-				"addr:street": "Rue de l'Industrie",
-				building: "yes",
-				id: "way/460537619"
+				"addr:postcode": "1663",
+				"addr:street": "Rue du Bourg",
+				amenity: "restaurant",
+				name: "Gro",
+				"name:fr": "Gruyere Traditions CH",
+				website: "https://www.gruyere-traditions.ch/",
+				id: "node/8658881517"
 			},
 			geometry: {
-				type: "Polygon",
+				type: "Point",
 				coordinates: [
-					[
-						[
-							6.6494302,
-							46.7802031
-						],
-						[
-							6.6495273,
-							46.7801784
-						],
-						[
-							6.6494945,
-							46.7801179
-						],
-						[
-							6.6494539,
-							46.7800429
-						],
-						[
-							6.6493567,
-							46.7800676
-						],
-						[
-							6.6494302,
-							46.7802031
-						]
-					]
-				]
-			}
-		},
-		{
-			type: "Feature",
-			id: "way/460537620",
-			properties: {
-				timestamp: "2017-07-10T18:10:44Z",
-				version: "2",
-				changeset: "50183238",
-				user: "imagoiq_",
-				uid: "1856092",
-				"addr:housenumber": "28",
-				"addr:street": "Rue de l'Industrie",
-				building: "yes",
-				id: "way/460537620"
-			},
-			geometry: {
-				type: "Polygon",
-				coordinates: [
-					[
-						[
-							6.649562,
-							46.7804299
-						],
-						[
-							6.6496188,
-							46.7805339
-						],
-						[
-							6.6497422,
-							46.7805023
-						],
-						[
-							6.6496854,
-							46.7803983
-						],
-						[
-							6.649562,
-							46.7804299
-						]
-					]
-				]
-			}
-		},
-		{
-			type: "Feature",
-			id: "way/460537622",
-			properties: {
-				timestamp: "2017-07-10T18:10:44Z",
-				version: "2",
-				changeset: "50183238",
-				user: "imagoiq_",
-				uid: "1856092",
-				"addr:housenumber": "26",
-				"addr:street": "Rue de l'Industrie",
-				building: "yes",
-				id: "way/460537622"
-			},
-			geometry: {
-				type: "Polygon",
-				coordinates: [
-					[
-						[
-							6.649562,
-							46.7804299
-						],
-						[
-							6.6496854,
-							46.7803983
-						],
-						[
-							6.649637,
-							46.7803097
-						],
-						[
-							6.6495136,
-							46.7803413
-						],
-						[
-							6.649562,
-							46.7804299
-						]
-					]
-				]
-			}
-		},
-		{
-			type: "Feature",
-			id: "way/460537624",
-			properties: {
-				timestamp: "2017-07-10T18:10:44Z",
-				version: "2",
-				changeset: "50183238",
-				user: "imagoiq_",
-				uid: "1856092",
-				"addr:housenumber": "22",
-				"addr:street": "Rue de l'Industrie",
-				building: "yes",
-				id: "way/460537624"
-			},
-			geometry: {
-				type: "Polygon",
-				coordinates: [
-					[
-						[
-							6.6495349,
-							46.7802081
-						],
-						[
-							6.6495727,
-							46.7802778
-						],
-						[
-							6.6497023,
-							46.7802448
-						],
-						[
-							6.6496645,
-							46.7801751
-						],
-						[
-							6.6495349,
-							46.7802081
-						]
-					]
-				]
-			}
-		},
-		{
-			type: "Feature",
-			id: "way/460537625",
-			properties: {
-				timestamp: "2017-07-10T18:10:44Z",
-				version: "2",
-				changeset: "50183238",
-				user: "imagoiq_",
-				uid: "1856092",
-				"addr:housenumber": "24",
-				"addr:street": "Rue de l'Industrie",
-				building: "yes",
-				id: "way/460537625"
-			},
-			geometry: {
-				type: "Polygon",
-				coordinates: [
-					[
-						[
-							6.6501452,
-							46.7801243
-						],
-						[
-							6.65011,
-							46.7800678
-						],
-						[
-							6.6499851,
-							46.7800984
-						],
-						[
-							6.6500228,
-							46.7801554
-						],
-						[
-							6.6501452,
-							46.7801243
-						]
-					]
-				]
-			}
-		},
-		{
-			type: "Feature",
-			id: "way/466647269",
-			properties: {
-				timestamp: "2017-07-06T19:39:33Z",
-				version: "2",
-				changeset: "50092730",
-				user: "Rémi Bovard",
-				uid: "129299",
-				"addr:city": "Yverdon-les-Bains",
-				"addr:country": "CH",
-				"addr:housenumber": "27",
-				"addr:postcode": "1400",
-				"addr:street": "Avenue Haldimand",
-				building: "yes",
-				id: "way/466647269"
-			},
-			geometry: {
-				type: "Polygon",
-				coordinates: [
-					[
-						[
-							6.6455163,
-							46.7794657
-						],
-						[
-							6.6454404,
-							46.7793236
-						],
-						[
-							6.645303,
-							46.7793581
-						],
-						[
-							6.645379,
-							46.7795001
-						],
-						[
-							6.6455163,
-							46.7794657
-						]
-					]
-				]
-			}
-		},
-		{
-			type: "Feature",
-			id: "way/466647272",
-			properties: {
-				timestamp: "2017-07-06T19:39:33Z",
-				version: "2",
-				changeset: "50092730",
-				user: "Rémi Bovard",
-				uid: "129299",
-				"addr:city": "Yverdon-les-Bains",
-				"addr:country": "CH",
-				"addr:housenumber": "33",
-				"addr:postcode": "1400",
-				"addr:street": "Avenue Haldimand",
-				building: "yes",
-				id: "way/466647272"
-			},
-			geometry: {
-				type: "Polygon",
-				coordinates: [
-					[
-						[
-							6.6457718,
-							46.7794016
-						],
-						[
-							6.6459018,
-							46.779369
-						],
-						[
-							6.6458259,
-							46.779227
-						],
-						[
-							6.6456959,
-							46.7792596
-						],
-						[
-							6.6457718,
-							46.7794016
-						]
-					]
-				]
-			}
-		},
-		{
-			type: "Feature",
-			id: "way/466647275",
-			properties: {
-				timestamp: "2017-07-06T19:39:33Z",
-				version: "2",
-				changeset: "50092730",
-				user: "Rémi Bovard",
-				uid: "129299",
-				"addr:city": "Yverdon-les-Bains",
-				"addr:country": "CH",
-				"addr:housenumber": "35",
-				"addr:postcode": "1400",
-				"addr:street": "Avenue Haldimand",
-				building: "yes",
-				id: "way/466647275"
-			},
-			geometry: {
-				type: "Polygon",
-				coordinates: [
-					[
-						[
-							6.6459018,
-							46.779369
-						],
-						[
-							6.6460279,
-							46.7793374
-						],
-						[
-							6.6459519,
-							46.7791954
-						],
-						[
-							6.6458259,
-							46.779227
-						],
-						[
-							6.6459018,
-							46.779369
-						]
-					]
-				]
-			}
-		},
-		{
-			type: "Feature",
-			id: "way/467902542",
-			properties: {
-				timestamp: "2017-01-23T07:56:39Z",
-				version: "1",
-				changeset: "45388605",
-				user: "fredjunod",
-				uid: "84054",
-				building: "yes",
-				id: "way/467902542"
-			},
-			geometry: {
-				type: "Polygon",
-				coordinates: [
-					[
-						[
-							6.6471888,
-							46.7789177
-						],
-						[
-							6.6472514,
-							46.7790587
-						],
-						[
-							6.6473348,
-							46.7792525
-						],
-						[
-							6.6478533,
-							46.7791257
-						],
-						[
-							6.6476946,
-							46.7788121
-						],
-						[
-							6.6471888,
-							46.7789177
-						]
-					]
-				]
-			}
-		},
-		{
-			type: "Feature",
-			id: "way/467902543",
-			properties: {
-				timestamp: "2017-01-23T07:56:39Z",
-				version: "1",
-				changeset: "45388605",
-				user: "fredjunod",
-				uid: "84054",
-				building: "yes",
-				id: "way/467902543"
-			},
-			geometry: {
-				type: "Polygon",
-				coordinates: [
-					[
-						[
-							6.647379,
-							46.7793431
-						],
-						[
-							6.6472159,
-							46.7793662
-						],
-						[
-							6.6473351,
-							46.7796619
-						],
-						[
-							6.6467399,
-							46.7798135
-						],
-						[
-							6.6468,
-							46.7799025
-						],
-						[
-							6.6475288,
-							46.7797203
-						],
-						[
-							6.647379,
-							46.7793431
-						]
-					]
-				]
-			}
-		},
-		{
-			type: "Feature",
-			id: "way/467902544",
-			properties: {
-				timestamp: "2017-01-23T07:56:39Z",
-				version: "1",
-				changeset: "45388605",
-				user: "fredjunod",
-				uid: "84054",
-				building: "yes",
-				id: "way/467902544"
-			},
-			geometry: {
-				type: "Polygon",
-				coordinates: [
-					[
-						[
-							6.6483501,
-							46.7787905
-						],
-						[
-							6.6479136,
-							46.7789203
-						],
-						[
-							6.6479896,
-							46.779069
-						],
-						[
-							6.6482812,
-							46.7789856
-						],
-						[
-							6.6485079,
-							46.7793794
-						],
-						[
-							6.647617,
-							46.7795977
-						],
-						[
-							6.6476526,
-							46.7796894
-						],
-						[
-							6.6487139,
-							46.7794269
-						],
-						[
-							6.6483501,
-							46.7787905
-						]
-					]
-				]
-			}
-		},
-		{
-			type: "Feature",
-			id: "way/506516210",
-			properties: {
-				timestamp: "2017-07-10T17:49:39Z",
-				version: "1",
-				changeset: "50182738",
-				user: "imagoiq_",
-				uid: "1856092",
-				building: "yes",
-				id: "way/506516210"
-			},
-			geometry: {
-				type: "Polygon",
-				coordinates: [
-					[
-						[
-							6.6458409,
-							46.7830208
-						],
-						[
-							6.6458137,
-							46.7830395
-						],
-						[
-							6.6458182,
-							46.7830612
-						],
-						[
-							6.6458364,
-							46.7830752
-						],
-						[
-							6.6458772,
-							46.7830721
-						],
-						[
-							6.6459,
-							46.7830535
-						],
-						[
-							6.6459,
-							46.7830239
-						],
-						[
-							6.6459181,
-							46.7829368
-						],
-						[
-							6.6458863,
-							46.7829368
-						],
-						[
-							6.6458704,
-							46.7830146
-						],
-						[
-							6.6458409,
-							46.7830208
-						]
-					]
-				]
-			}
-		},
-		{
-			type: "Feature",
-			id: "way/506519623",
-			properties: {
-				timestamp: "2017-07-10T18:10:42Z",
-				version: "1",
-				changeset: "50183238",
-				user: "imagoiq_",
-				uid: "1856092",
-				building: "yes",
-				id: "way/506519623"
-			},
-			geometry: {
-				type: "Polygon",
-				coordinates: [
-					[
-						[
-							6.6494945,
-							46.7801179
-						],
-						[
-							6.6495273,
-							46.7801784
-						],
-						[
-							6.6501647,
-							46.7800165
-						],
-						[
-							6.6502076,
-							46.7801102
-						],
-						[
-							6.6507065,
-							46.7800037
-						],
-						[
-							6.6505134,
-							46.7797961
-						],
-						[
-							6.6501888,
-							46.7798586
-						],
-						[
-							6.6501995,
-							46.7798861
-						],
-						[
-							6.6495424,
-							46.7800478
-						],
-						[
-							6.6495719,
-							46.7800992
-						],
-						[
-							6.6494945,
-							46.7801179
-						]
-					]
-				]
-			}
-		},
-		{
-			type: "Feature",
-			id: "way/887024618",
-			properties: {
-				timestamp: "2021-03-14T10:14:49Z",
-				version: "8",
-				changeset: "100982685",
-				user: "swiss_knight",
-				uid: "10123181",
-				building: "yes",
-				name: "Centre Saint-Roch",
-				short_name: "Centre St-Roch",
-				website: "https://www.st-roch.ch",
-				id: "way/887024618"
-			},
-			geometry: {
-				type: "Polygon",
-				coordinates: [
-					[
-						[
-							6.6444828,
-							46.7812987
-						],
-						[
-							6.6445367,
-							46.7813675
-						],
-						[
-							6.6444908,
-							46.7813844
-						],
-						[
-							6.6447658,
-							46.7817352
-						],
-						[
-							6.6448269,
-							46.7817127
-						],
-						[
-							6.6448549,
-							46.7817484
-						],
-						[
-							6.6461579,
-							46.7812694
-						],
-						[
-							6.6463371,
-							46.7812035
-						],
-						[
-							6.6463513,
-							46.7812216
-						],
-						[
-							6.6463797,
-							46.7812579
-						],
-						[
-							6.6464123,
-							46.7812458
-						],
-						[
-							6.6467282,
-							46.7816437
-						],
-						[
-							6.6469104,
-							46.7815767
-						],
-						[
-							6.6473242,
-							46.7814246
-						],
-						[
-							6.6472934,
-							46.7813853
-						],
-						[
-							6.6473975,
-							46.7813471
-						],
-						[
-							6.6474913,
-							46.7813126
-						],
-						[
-							6.6475194,
-							46.7813485
-						],
-						[
-							6.6479396,
-							46.7811941
-						],
-						[
-							6.6479689,
-							46.7811833
-						],
-						[
-							6.6479993,
-							46.7811721
-						],
-						[
-							6.6480907,
-							46.781288
-						],
-						[
-							6.648263,
-							46.7812237
-						],
-						[
-							6.6480791,
-							46.7809927
-						],
-						[
-							6.6480688,
-							46.7809797
-						],
-						[
-							6.6480424,
-							46.780946
-						],
-						[
-							6.6480149,
-							46.780911
-						],
-						[
-							6.64796,
-							46.780841
-						],
-						[
-							6.6479322,
-							46.7808055
-						],
-						[
-							6.6479044,
-							46.78077
-						],
-						[
-							6.6478397,
-							46.7806875
-						],
-						[
-							6.647857,
-							46.7806812
-						],
-						[
-							6.6478439,
-							46.7806644
-						],
-						[
-							6.6478313,
-							46.7806484
-						],
-						[
-							6.6478165,
-							46.7806538
-						],
-						[
-							6.6478024,
-							46.780659
-						],
-						[
-							6.6477637,
-							46.7806097
-						],
-						[
-							6.6477288,
-							46.7805651
-						],
-						[
-							6.6476943,
-							46.7805211
-						],
-						[
-							6.6476572,
-							46.7805347
-						],
-						[
-							6.6475477,
-							46.780395
-						],
-						[
-							6.6474425,
-							46.7804336
-						],
-						[
-							6.6461319,
-							46.7809154
-						],
-						[
-							6.6462415,
-							46.7810552
-						],
-						[
-							6.6460463,
-							46.7811269
-						],
-						[
-							6.645801,
-							46.7808141
-						],
-						[
-							6.6444828,
-							46.7812987
-						]
-					]
+					7.0811386,
+					46.5833289
 				]
 			}
 		}
 	];
 
-	const map = leafletSrc.map('map').setView([46.78104, 6.64707], 17);
+	const map = leafletSrc.map('map').setView([46.58462, 7.08356], 13);
 
 	leafletSrc.tileLayer(
-	  'https://stamen-tiles-{s}.a.ssl.fastly.net/toner-lite/{z}/{x}/{y}{r}.{ext}',
+	  'https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}{r}.png',
 	  {
-	    attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+	    attribution: '&copy; <a href="https://stadiamaps.com/">Stadia Maps</a>, &copy; <a href="https://openmaptiles.org/">OpenMapTiles</a> &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors',
 	    subdomains: 'abcd',
 	    minZoom: 0,
 	    maxZoom: 20,
 	    ext: 'png',
-	  })
-	    .addTo(map);
+	    bounds: [[45, 5], [48, 11]]
+	  }).addTo(map);
 
-	const icon = leafletSrc.icon({
-	  iconUrl: 'https://heig-datavis-2021.surge.sh/carte-leaflet/arbre.png',
+	leafletSrc.icon({
+	  iconUrl: 'https://cdn.iconscout.com/icon/free/png-256/restaurant-1495593-1267764.png',
 	  iconSize: [30, 30],
 	  iconAnchor: [15, 30],
 	});
 
-	arbres.map(d => {
-	  const [lon, lat] = d;
-	  leafletSrc.marker([lat, lon], { icon }).addTo(map);
-	});
+
+	/*
+	restaurants.map(d => {
+	  const [lon, lat] = d
+	  L.marker([lat, lon], { icon })
+	  
+	  .addTo(map)
+	})
+	*/
+
 
 	leafletSrc.geoJSON(
-	  batiments,
+	  restaurants,
 	  {
-	    style: feature =>
-	      feature.properties['name'] === 'Centre Saint-Roch'
-	        ? { color: 'indianred' }
-	        : { color: 'steelblue' },
 	    onEachFeature: (feature, layer) =>
-	      layer.bindPopup(feature.properties.name || feature.properties['addr:street'] || feature.properties.uid)
-	      
+	      layer.bindPopup(feature.properties.name || feature.properties['addr:street'] || feature.properties.uid)  
 	  },
 	).addTo(map);
 

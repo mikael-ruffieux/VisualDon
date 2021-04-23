@@ -1,0 +1,587 @@
+[
+    {
+        "type": "Feature",
+        "id": "node/355018403",
+        "properties": {
+            "addr:city": "Bulle",
+            "addr:housenumber": "65",
+            "addr:postcode": "1630",
+            "addr:street": "Grand-Rue",
+            "amenity": "restaurant",
+            "cuisine": "italian",
+            "name": "Pasta'Lina",
+            "opening_hours": "09:00-23:30",
+            "id": "node/355018403"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.0579088,
+                46.6208989
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "node/355018408",
+        "properties": {
+            "amenity": "restaurant",
+            "name": "Hotel du Tonnelier",
+            "tourism": "hotel",
+            "wheelchair": "no",
+            "id": "node/355018408"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.0574242,
+                46.6190922
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "node/355018409",
+        "properties": {
+            "amenity": "restaurant",
+            "name": "Hotel de Ville",
+            "source": "survey",
+            "id": "node/355018409"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.0570751,
+                46.6179965
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "node/355018411",
+        "properties": {
+            "amenity": "restaurant",
+            "name": "Gruyerien",
+            "tourism": "attraction",
+            "id": "node/355018411"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.0569553,
+                46.6177515
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "node/355018415",
+        "properties": {
+            "amenity": "restaurant",
+            "name": "Crêperie-Restaurant Marco Polo",
+            "source": "survey",
+            "wheelchair": "yes",
+            "id": "node/355018415"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.0576386,
+                46.6187206
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "node/355018417",
+        "properties": {
+            "amenity": "restaurant",
+            "name": "Cafe de la Promenade",
+            "source": "survey",
+            "id": "node/355018417"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.0579154,
+                46.619188
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "node/355357551",
+        "properties": {
+            "amenity": "restaurant",
+            "name": "Le Fribourgeois",
+            "source": "survey",
+            "id": "node/355357551"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.056269,
+                46.6175084
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "node/1419971397",
+        "properties": {
+            "amenity": "restaurant",
+            "name": "Café l'Industriel",
+            "id": "node/1419971397"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.0582261,
+                46.6209003
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "node/2342468041",
+        "properties": {
+            "amenity": "restaurant",
+            "cuisine": "french;local",
+            "diet:vegetarian": "yes",
+            "name": "Auberge de la Couronne",
+            "opening_hours": "Tu 07:30-18:00; We,Th 07:30-23:00; Fr 07:30-24:00, Sa 08:00-24:00, Su 08:00-19:00",
+            "phone": "+41 (0)26 921 21 19",
+            "website": "https://aubergelacouronneenney.com/",
+            "id": "node/2342468041"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.0836144,
+                46.5656681
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "node/2345436372",
+        "properties": {
+            "addr:city": "Le Pâquier",
+            "addr:housenumber": "1",
+            "addr:postcode": "1661",
+            "addr:street": "Route de la Gare",
+            "amenity": "restaurant",
+            "cuisine": "chinese",
+            "name": "Le jardin de chine",
+            "id": "node/2345436372"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.055963,
+                46.5939126
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "node/2402332065",
+        "properties": {
+            "amenity": "restaurant",
+            "name": "Aérodrome de la Gruyère",
+            "id": "node/2402332065"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.0932485,
+                46.5945221
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "node/3008217019",
+        "properties": {
+            "amenity": "restaurant",
+            "name": "La Pierre à Catillion",
+            "website": "https://www.moleson.ch/",
+            "id": "node/3008217019"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.0378718,
+                46.5616336
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "node/3435643159",
+        "properties": {
+            "amenity": "restaurant",
+            "id": "node/3435643159"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.0727218,
+                46.5824326
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "node/4099014505",
+        "properties": {
+            "amenity": "restaurant",
+            "changing_table": "yes",
+            "changing_table:description": "in the chalet",
+            "changing_table:location": "unisex_toilet",
+            "cuisine": "fondue",
+            "name": "Le Chalet de Gruyères",
+            "outdoor_seating": "yes",
+            "smoking": "outside",
+            "toilets:wheelchair": "no",
+            "wheelchair": "limited",
+            "id": "node/4099014505"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.0819729,
+                46.5841073
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "node/4147691289",
+        "properties": {
+            "addr:city": "Bulle",
+            "addr:housenumber": "16",
+            "addr:postcode": "1630",
+            "addr:street": "Route de Riaz",
+            "amenity": "restaurant",
+            "name": "Paris-Bangkok",
+            "opening_hours": "Mo-Su 18:30-22:00",
+            "id": "node/4147691289"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.0584807,
+                46.6221642
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "node/4156399173",
+        "properties": {
+            "addr:city": "Bulle",
+            "addr:housenumber": "3",
+            "addr:postcode": "1630",
+            "addr:street": "Rue Nicolas-Glasson",
+            "amenity": "restaurant",
+            "cuisine": "burger",
+            "name": "Fry Burger",
+            "id": "node/4156399173"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.0554837,
+                46.6176991
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "node/4327465896",
+        "properties": {
+            "amenity": "restaurant",
+            "name": "Café de la Gare",
+            "id": "node/4327465896"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.0562959,
+                46.61788
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "node/4366987753",
+        "properties": {
+            "addr:postcode": "1653",
+            "amenity": "restaurant",
+            "cuisine": "french",
+            "delivery": "no",
+            "name": "Restaurant de la Tour",
+            "opening_hours": "Th-Mo 09:00-23:00",
+            "phone": "+41 26 921 08 85",
+            "smoking": "outside",
+            "takeaway": "no",
+            "website": "http://www.restodelatour.ch",
+            "id": "node/4366987753"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.1296322,
+                46.6139129
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "node/4826476323",
+        "properties": {
+            "addr:housenumber": "43",
+            "addr:street": "Grand-Rue",
+            "amenity": "restaurant",
+            "cuisine": "tapas",
+            "name": "Restaurant Le 43",
+            "name:fr": "Restaurant Le 43",
+            "id": "node/4826476323"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.0576358,
+                46.6199309
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "node/4958634622",
+        "properties": {
+            "addr:housenumber": "5",
+            "addr:street": "Rue Saint-Denis",
+            "amenity": "restaurant",
+            "name": "Restaurant de l'Écu",
+            "name:fr": "Restaurant de l'Écu",
+            "id": "node/4958634622"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.057637,
+                46.6152478
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "node/4985662521",
+        "properties": {
+            "addr:housenumber": "89",
+            "addr:postcode": "1630",
+            "addr:street": "Rue de Vevey",
+            "amenity": "restaurant",
+            "cuisine": "chinese",
+            "name": "Chanaan aux Trois Trèfles",
+            "name:fr": "Chanaan aux Trois Trèfles",
+            "phone": "+41 26 912 72 78",
+            "website": "http://www.chanaan.ch",
+            "id": "node/4985662521"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.0514706,
+                46.6149777
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "node/5771419353",
+        "properties": {
+            "addr:city": "Broc",
+            "addr:housenumber": "1",
+            "addr:postcode": "1636",
+            "addr:street": "La Gîte à Conrad",
+            "amenity": "restaurant",
+            "name": "Au Creux du feu",
+            "phone": "+41 79 755 88 07",
+            "id": "node/5771419353"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.1374059,
+                46.606777
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "node/5771419453",
+        "properties": {
+            "addr:postcode": "1636",
+            "amenity": "restaurant",
+            "cuisine": "local",
+            "email": "info@Boudji.ch",
+            "name": "Chez Boudji",
+            "opening_hours": "Mo-Su 10:00-16:00, 17:00-23:00",
+            "phone": "+41 26 921 90 50",
+            "website": "http://www.boudji.ch",
+            "id": "node/5771419453"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.1340354,
+                46.6091104
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "node/5839901185",
+        "properties": {
+            "addr:postcode": "1630",
+            "addr:street": "Rue Hans Liebherr",
+            "amenity": "restaurant",
+            "cuisine": "local",
+            "name": "Cantine Liebherr Machines Bulle SA",
+            "opening_hours": "Mo-Fr 08:00-17:00",
+            "phone": "+41 26 913 31 11",
+            "id": "node/5839901185"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.0334985,
+                46.6230097
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "node/6419477836",
+        "properties": {
+            "amenity": "restaurant",
+            "name": "Le Thai break",
+            "id": "node/6419477836"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.0549033,
+                46.6161015
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "node/6419478115",
+        "properties": {
+            "amenity": "restaurant",
+            "cuisine": "pizza",
+            "name": "Olympia",
+            "id": "node/6419478115"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.0544056,
+                46.6161572
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "node/6864945245",
+        "properties": {
+            "amenity": "restaurant",
+            "name": "Les Halles",
+            "website": "www.halles.ch",
+            "id": "node/6864945245"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.05844,
+                46.619712
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "node/7036721690",
+        "properties": {
+            "amenity": "restaurant",
+            "name": "Hotel du Cheval Blanc",
+            "tourism": "hotel",
+            "id": "node/7036721690"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.0570007,
+                46.6168354
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "node/7625244086",
+        "properties": {
+            "amenity": "restaurant",
+            "name": "Auberge des montagnards",
+            "id": "node/7625244086"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.1023114,
+                46.5604319
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "node/7886916886",
+        "properties": {
+            "amenity": "restaurant",
+            "cuisine": "thai",
+            "name": "Kalasin",
+            "id": "node/7886916886"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.057689,
+                46.6221035
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "node/8658881517",
+        "properties": {
+            "addr:housenumber": "20",
+            "addr:postcode": "1663",
+            "addr:street": "Rue du Bourg",
+            "amenity": "restaurant",
+            "name": "Gro",
+            "name:fr": "Gruyere Traditions CH",
+            "website": "https://www.gruyere-traditions.ch/",
+            "id": "node/8658881517"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.0811386,
+                46.5833289
+            ]
+        }
+    }
+]
