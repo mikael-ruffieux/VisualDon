@@ -14,7 +14,7 @@ geoMercator, geoPath, etc. : Toute la sous-librairie d3-geo.
 
 4. À quoi sert le format `topojson`? En quoi est-il différent du `geojson`?
 
-
+topoJSON est une extension de geoJSON, qui encode les données sous forme d'arc, et non de points. Elle permet un traitement plus compact des données pour des opérations issues de la topographie.
 
 5. À quoi sert `turf`? Décrivez ce que font trois fonctions de cette libraire
 
