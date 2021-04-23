@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2021-04-23T13:06:28Z"/>
+
+  <node id="26862780" lat="46.5496077" lon="7.2262726">
+    <tag k="ele" v="2252"/>
+    <tag k="name" v="Dent de Savigny"/>
+    <tag k="natural" v="peak"/>
+    <tag k="wikidata" v="Q141470"/>
+  </node>
+  <node id="413194527" lat="46.5433640" lon="7.1298036">
+    <tag k="ele" v="1966"/>
+    <tag k="name" v="Le Van"/>
+    <tag k="natural" v="peak"/>
+    <tag k="wikidata" v="Q22390101"/>
+  </node>
+  <node id="459849241" lat="46.5463192" lon="7.1257474">
+    <tag k="ele" v="1907"/>
+    <tag k="name" v="Les Merlas"/>
+    <tag k="natural" v="peak"/>
+    <tag k="source" v="camptocamp.org"/>
+    <tag k="wikidata" v="Q22413801"/>
+  </node>
+  <node id="459849250" lat="46.5470678" lon="7.1686006">
+    <tag k="ele" v="2340"/>
+    <tag k="name" v="Dent de Folliéran"/>
+    <tag k="natural" v="peak"/>
+    <tag k="source" v="camptocamp.org"/>
+    <tag k="wikidata" v="Q5259382"/>
+  </node>
+  <node id="459849255" lat="46.5508962" lon="7.1747879">
+    <tag k="ele" v="2353"/>
+    <tag k="name" v="Dent de Brenleire"/>
+    <tag k="natural" v="peak"/>
+    <tag k="source" v="camptocamp.org"/>
+    <tag k="summit:cross" v="yes"/>
+    <tag k="summit:register" v="yes"/>
+    <tag k="wikidata" v="Q870025"/>
+  </node>
+  <node id="459849257" lat="46.5653069" lon="7.1701175">
+    <tag k="ele" v="1884"/>
+    <tag k="name" v="Plan Tissiniva"/>
+    <tag k="natural" v="peak"/>
+    <tag k="source" v="camptocamp.org"/>
+  </node>
+  <node id="459849258" lat="46.5844492" lon="7.1301202">
+    <tag k="ele" v="1830"/>
+    <tag k="name" v="Dent du Chamois"/>
+    <tag k="natural" v="peak"/>
+    <tag k="source" v="camptocamp.org"/>
+    <tag k="wikidata" v="Q3023319"/>
+  </node>
+  <node id="459849268" lat="46.5943910" lon="7.1780922">
+    <tag k="ele" v="1639"/>
+    <tag k="name" v="Haut-Crêt nord"/>
+    <tag k="natural" v="peak"/>
+    <tag k="source" v="camptocamp.org"/>
+  </node>
+  <node id="459849271" lat="46.5827198" lon="7.2110807">
+    <tag k="alt_name" v="Pointe de Tesse"/>
+    <tag k="ele" v="1771"/>
+    <tag k="name" v="Le Verdy"/>
+    <tag k="natural" v="peak"/>
+    <tag k="source" v="camptocamp.org"/>
+    <tag k="wikidata" v="Q22390215"/>
+  </node>
+  <node id="459849291" lat="46.5763133" lon="7.2215790">
+    <tag k="ele" v="2151"/>
+    <tag k="name" v="Hochmatt"/>
+    <tag k="natural" v="peak"/>
+    <tag k="source" v="camptocamp.org"/>
+    <tag k="wikidata" v="Q2359220"/>
+  </node>
+  <node id="459850004" lat="46.5489446" lon="7.0171352">
+    <tag k="ele" v="2002"/>
+    <tag k="name" v="Le Moléson"/>
+    <tag k="natural" v="peak"/>
+    <tag k="source" v="camptocamp.org"/>
+    <tag k="wikidata" v="Q16586"/>
+  </node>
+  <node id="767196223" lat="46.5535632" lon="7.2370656">
+    <tag k="ele" v="2232"/>
+    <tag k="name" v="Dent de Ruth"/>
+    <tag k="natural" v="peak"/>
+    <tag k="wikidata" v="Q136873"/>
+  </node>
+  <node id="1140515018" lat="46.6760352" lon="7.1839627">
+    <tag k="ele" v="1719"/>
+    <tag k="name" v="La Berra"/>
+    <tag k="natural" v="peak"/>
+    <tag k="wikidata" v="Q827053"/>
+  </node>
+  <node id="1389693347" lat="46.6841642" lon="7.0402724">
+    <tag k="ele" v="1204"/>
+    <tag k="name" v="Gibloux"/>
+    <tag k="natural" v="peak"/>
+    <tag k="wikidata" v="Q677991"/>
+    <tag k="wikipedia" v="fr:Gibloux"/>
+  </node>
+  <node id="1412018239" lat="46.6919602" lon="7.1856891">
+    <tag k="ele" v="1633"/>
+    <tag k="man_made" v="cross"/>
+    <tag k="name" v="Käsenberg/Cousimbert"/>
+    <tag k="name:de" v="Käsenberg"/>
+    <tag k="name:fr" v="Cousimbert"/>
+    <tag k="name:gsw" v="Chäseberg"/>
+    <tag k="natural" v="peak"/>
+    <tag k="wikidata" v="Q573659"/>
+  </node>
+  <node id="2866858103" lat="46.6687865" lon="7.2395664">
+    <tag k="ele" v="1616"/>
+    <tag k="name" v="La Patta"/>
+    <tag k="natural" v="peak"/>
+    <tag k="wikidata" v="Q22655477"/>
+  </node>
+  <node id="2907701162" lat="46.6919412" lon="7.2289724">
+    <tag k="ele" v="1442"/>
+    <tag k="name" v="Kapberg"/>
+    <tag k="natural" v="peak"/>
+    <tag k="wikidata" v="Q22533540"/>
+  </node>
+  <node id="3138253199" lat="46.6386706" lon="7.2141130">
+    <tag k="ele" v="1383"/>
+    <tag k="natural" v="peak"/>
+  </node>
+  <node id="3788991304" lat="46.6263978" lon="7.2077370">
+    <tag k="ele" v="1626"/>
+    <tag k="name" v="Vounetse"/>
+    <tag k="natural" v="peak"/>
+    <tag k="wikidata" v="Q22431446"/>
+  </node>
+  <node id="4317915891" lat="46.5885756" lon="7.1274651">
+    <tag k="ele" v="1829"/>
+    <tag k="name" v="Dent de Broc"/>
+    <tag k="natural" v="peak"/>
+    <tag k="wikidata" v="Q3023303"/>
+    <tag k="wikipedia" v="en:Dent de Broc"/>
+  </node>
+  <node id="4634695279" lat="46.6148945" lon="7.2352700">
+    <tag k="ele" v="2011"/>
+    <tag k="name" v="Vanil d'Orseire"/>
+    <tag k="natural" v="peak"/>
+  </node>
+  <node id="4634695281" lat="46.6080536" lon="7.2251092">
+    <tag k="name" v="Laubspitz"/>
+    <tag k="natural" v="peak"/>
+    <tag k="wikidata" v="Q22371913"/>
+  </node>
+  <node id="4634695517" lat="46.6200725" lon="7.2104459">
+    <tag k="ele" v="1812"/>
+    <tag k="name" v="Dent de Vounetse"/>
+    <tag k="natural" v="peak"/>
+    <tag k="wikidata" v="Q22622933"/>
+  </node>
+  <node id="4634695518" lat="46.6162234" lon="7.2047470">
+    <tag k="name" v="Pointe sur le Roc"/>
+    <tag k="natural" v="peak"/>
+    <tag k="wikidata" v="Q22543836"/>
+  </node>
+  <node id="4634695519" lat="46.6140596" lon="7.1859424">
+    <tag k="ele" v="1238"/>
+    <tag k="name" v="Mont Chupiaô"/>
+    <tag k="natural" v="peak"/>
+  </node>
+  <node id="4634695520" lat="46.6145295" lon="7.1920109">
+    <tag k="ele" v="1463"/>
+    <tag k="name" v="Brenlox"/>
+    <tag k="natural" v="peak"/>
+  </node>
+  <node id="4634717942" lat="46.6233228" lon="7.2166066">
+    <tag k="ele" v="1806"/>
+    <tag k="name" v="Tour Ronde"/>
+    <tag k="natural" v="peak"/>
+    <tag k="wikidata" v="Q22702343"/>
+  </node>
+  <node id="4661422229" lat="46.6336058" lon="7.1349586">
+    <tag k="ele" v="1482"/>
+    <tag k="name" v="Mont Bifé"/>
+    <tag k="natural" v="peak"/>
+    <tag k="wikidata" v="Q22540855"/>
+  </node>
+  <node id="4661422231" lat="46.6391590" lon="7.1383234">
+    <tag k="ele" v="1562"/>
+    <tag k="name" v="Vanil des Cours"/>
+    <tag k="natural" v="peak"/>
+    <tag k="wikidata" v="Q7914918"/>
+  </node>
+  <node id="4895265730" lat="46.5526004" lon="7.0504492">
+    <tag k="ele" v="1670"/>
+    <tag k="name" v="Vudalla"/>
+    <tag k="natural" v="peak"/>
+    <tag k="wikidata" v="Q22585393"/>
+  </node>
+  <node id="5520722128" lat="46.5550719" lon="7.1819416">
+    <tag k="ele" v="2107"/>
+    <tag k="name" v="Vanil du Croset"/>
+    <tag k="natural" v="peak"/>
+  </node>
+  <node id="5520722129" lat="46.5584039" lon="7.1881256">
+    <tag k="ele" v="1974"/>
+    <tag k="name" v="Vanille de l'Ardille"/>
+    <tag k="natural" v="peak"/>
+  </node>
+  <node id="5523504160" lat="46.5757372" lon="7.1396293">
+    <tag k="ele" v="1908"/>
+    <tag k="name" v="Dent du Bourgo"/>
+    <tag k="natural" v="peak"/>
+    <tag k="wikidata" v="Q3023316"/>
+  </node>
+  <node id="5525026740" lat="46.6043941" lon="7.1632512">
+    <tag k="ele" v="1436"/>
+    <tag k="name" v="Vanil de la Monse"/>
+    <tag k="natural" v="peak"/>
+    <tag k="wikidata" v="Q22409407"/>
+  </node>
+  <node id="5527865006" lat="46.5666405" lon="7.1227312">
+    <tag k="ele" v="1577"/>
+    <tag k="name" v="Le Paradis"/>
+    <tag k="natural" v="peak"/>
+    <tag k="wikidata" v="Q22386694"/>
+  </node>
+  <node id="5527904103" lat="46.5744049" lon="7.2304687">
+    <tag k="ele" v="2146"/>
+    <tag k="name" v="Cheval Blanc"/>
+    <tag k="natural" v="peak"/>
+    <tag k="wikidata" v="Q22490318"/>
+  </node>
+  <node id="6169508828" lat="46.5799500" lon="6.9731700">
+    <tag k="ele" v="1412"/>
+    <tag k="name" v="Les Alpettes"/>
+    <tag k="natural" v="peak"/>
+    <tag k="wikidata" v="Q22703135"/>
+  </node>
+  <node id="6534228233" lat="46.6724074" lon="7.1978072">
+    <tag k="ele" v="1688"/>
+    <tag k="natural" v="peak"/>
+  </node>
+  <node id="7633331855" lat="46.6208837" lon="7.2397888">
+    <tag k="ele" v="1992"/>
+    <tag k="natural" v="peak"/>
+  </node>
+  <node id="7633331856" lat="46.6220636" lon="7.2390109">
+    <tag k="ele" v="1957"/>
+    <tag k="natural" v="peak"/>
+  </node>
+  <node id="7633331857" lat="46.6243764" lon="7.2341253">
+    <tag k="ele" v="1854"/>
+    <tag k="natural" v="peak"/>
+  </node>
+
+</osm>

@@ -1,0 +1,742 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/26862780",
+  "properties": {
+    "ele": "2252",
+    "name": "Dent de Savigny",
+    "natural": "peak",
+    "wikidata": "Q141470",
+    "id": "node/26862780"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2262726,
+      46.5496077
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/413194527",
+  "properties": {
+    "ele": "1966",
+    "name": "Le Van",
+    "natural": "peak",
+    "wikidata": "Q22390101",
+    "id": "node/413194527"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1298036,
+      46.543364
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/459849241",
+  "properties": {
+    "ele": "1907",
+    "name": "Les Merlas",
+    "natural": "peak",
+    "source": "camptocamp.org",
+    "wikidata": "Q22413801",
+    "id": "node/459849241"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1257474,
+      46.5463192
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/459849250",
+  "properties": {
+    "ele": "2340",
+    "name": "Dent de Folliéran",
+    "natural": "peak",
+    "source": "camptocamp.org",
+    "wikidata": "Q5259382",
+    "id": "node/459849250"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1686006,
+      46.5470678
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/459849255",
+  "properties": {
+    "ele": "2353",
+    "name": "Dent de Brenleire",
+    "natural": "peak",
+    "source": "camptocamp.org",
+    "summit:cross": "yes",
+    "summit:register": "yes",
+    "wikidata": "Q870025",
+    "id": "node/459849255"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1747879,
+      46.5508962
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/459849257",
+  "properties": {
+    "ele": "1884",
+    "name": "Plan Tissiniva",
+    "natural": "peak",
+    "source": "camptocamp.org",
+    "id": "node/459849257"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1701175,
+      46.5653069
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/459849258",
+  "properties": {
+    "ele": "1830",
+    "name": "Dent du Chamois",
+    "natural": "peak",
+    "source": "camptocamp.org",
+    "wikidata": "Q3023319",
+    "id": "node/459849258"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1301202,
+      46.5844492
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/459849268",
+  "properties": {
+    "ele": "1639",
+    "name": "Haut-Crêt nord",
+    "natural": "peak",
+    "source": "camptocamp.org",
+    "id": "node/459849268"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1780922,
+      46.594391
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/459849271",
+  "properties": {
+    "alt_name": "Pointe de Tesse",
+    "ele": "1771",
+    "name": "Le Verdy",
+    "natural": "peak",
+    "source": "camptocamp.org",
+    "wikidata": "Q22390215",
+    "id": "node/459849271"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2110807,
+      46.5827198
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/459849291",
+  "properties": {
+    "ele": "2151",
+    "name": "Hochmatt",
+    "natural": "peak",
+    "source": "camptocamp.org",
+    "wikidata": "Q2359220",
+    "id": "node/459849291"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.221579,
+      46.5763133
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/459850004",
+  "properties": {
+    "ele": "2002",
+    "name": "Le Moléson",
+    "natural": "peak",
+    "source": "camptocamp.org",
+    "wikidata": "Q16586",
+    "id": "node/459850004"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0171352,
+      46.5489446
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/767196223",
+  "properties": {
+    "ele": "2232",
+    "name": "Dent de Ruth",
+    "natural": "peak",
+    "wikidata": "Q136873",
+    "id": "node/767196223"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2370656,
+      46.5535632
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1140515018",
+  "properties": {
+    "ele": "1719",
+    "name": "La Berra",
+    "natural": "peak",
+    "wikidata": "Q827053",
+    "id": "node/1140515018"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1839627,
+      46.6760352
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1389693347",
+  "properties": {
+    "ele": "1204",
+    "name": "Gibloux",
+    "natural": "peak",
+    "wikidata": "Q677991",
+    "wikipedia": "fr:Gibloux",
+    "id": "node/1389693347"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0402724,
+      46.6841642
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1412018239",
+  "properties": {
+    "ele": "1633",
+    "man_made": "cross",
+    "name": "Käsenberg/Cousimbert",
+    "name:de": "Käsenberg",
+    "name:fr": "Cousimbert",
+    "name:gsw": "Chäseberg",
+    "natural": "peak",
+    "wikidata": "Q573659",
+    "id": "node/1412018239"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1856891,
+      46.6919602
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2866858103",
+  "properties": {
+    "ele": "1616",
+    "name": "La Patta",
+    "natural": "peak",
+    "wikidata": "Q22655477",
+    "id": "node/2866858103"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2395664,
+      46.6687865
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2907701162",
+  "properties": {
+    "ele": "1442",
+    "name": "Kapberg",
+    "natural": "peak",
+    "wikidata": "Q22533540",
+    "id": "node/2907701162"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2289724,
+      46.6919412
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3138253199",
+  "properties": {
+    "ele": "1383",
+    "natural": "peak",
+    "id": "node/3138253199"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.214113,
+      46.6386706
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3788991304",
+  "properties": {
+    "ele": "1626",
+    "name": "Vounetse",
+    "natural": "peak",
+    "wikidata": "Q22431446",
+    "id": "node/3788991304"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.207737,
+      46.6263978
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4317915891",
+  "properties": {
+    "ele": "1829",
+    "name": "Dent de Broc",
+    "natural": "peak",
+    "wikidata": "Q3023303",
+    "wikipedia": "en:Dent de Broc",
+    "id": "node/4317915891"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1274651,
+      46.5885756
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4634695279",
+  "properties": {
+    "ele": "2011",
+    "name": "Vanil d'Orseire",
+    "natural": "peak",
+    "id": "node/4634695279"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.23527,
+      46.6148945
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4634695281",
+  "properties": {
+    "name": "Laubspitz",
+    "natural": "peak",
+    "wikidata": "Q22371913",
+    "id": "node/4634695281"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2251092,
+      46.6080536
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4634695517",
+  "properties": {
+    "ele": "1812",
+    "name": "Dent de Vounetse",
+    "natural": "peak",
+    "wikidata": "Q22622933",
+    "id": "node/4634695517"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2104459,
+      46.6200725
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4634695518",
+  "properties": {
+    "name": "Pointe sur le Roc",
+    "natural": "peak",
+    "wikidata": "Q22543836",
+    "id": "node/4634695518"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.204747,
+      46.6162234
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4634695519",
+  "properties": {
+    "ele": "1238",
+    "name": "Mont Chupiaô",
+    "natural": "peak",
+    "id": "node/4634695519"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1859424,
+      46.6140596
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4634695520",
+  "properties": {
+    "ele": "1463",
+    "name": "Brenlox",
+    "natural": "peak",
+    "id": "node/4634695520"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1920109,
+      46.6145295
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4634717942",
+  "properties": {
+    "ele": "1806",
+    "name": "Tour Ronde",
+    "natural": "peak",
+    "wikidata": "Q22702343",
+    "id": "node/4634717942"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2166066,
+      46.6233228
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4661422229",
+  "properties": {
+    "ele": "1482",
+    "name": "Mont Bifé",
+    "natural": "peak",
+    "wikidata": "Q22540855",
+    "id": "node/4661422229"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1349586,
+      46.6336058
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4661422231",
+  "properties": {
+    "ele": "1562",
+    "name": "Vanil des Cours",
+    "natural": "peak",
+    "wikidata": "Q7914918",
+    "id": "node/4661422231"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1383234,
+      46.639159
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4895265730",
+  "properties": {
+    "ele": "1670",
+    "name": "Vudalla",
+    "natural": "peak",
+    "wikidata": "Q22585393",
+    "id": "node/4895265730"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0504492,
+      46.5526004
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5520722128",
+  "properties": {
+    "ele": "2107",
+    "name": "Vanil du Croset",
+    "natural": "peak",
+    "id": "node/5520722128"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1819416,
+      46.5550719
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5520722129",
+  "properties": {
+    "ele": "1974",
+    "name": "Vanille de l'Ardille",
+    "natural": "peak",
+    "id": "node/5520722129"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1881256,
+      46.5584039
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5523504160",
+  "properties": {
+    "ele": "1908",
+    "name": "Dent du Bourgo",
+    "natural": "peak",
+    "wikidata": "Q3023316",
+    "id": "node/5523504160"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1396293,
+      46.5757372
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5525026740",
+  "properties": {
+    "ele": "1436",
+    "name": "Vanil de la Monse",
+    "natural": "peak",
+    "wikidata": "Q22409407",
+    "id": "node/5525026740"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1632512,
+      46.6043941
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5527865006",
+  "properties": {
+    "ele": "1577",
+    "name": "Le Paradis",
+    "natural": "peak",
+    "wikidata": "Q22386694",
+    "id": "node/5527865006"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1227312,
+      46.5666405
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5527904103",
+  "properties": {
+    "ele": "2146",
+    "name": "Cheval Blanc",
+    "natural": "peak",
+    "wikidata": "Q22490318",
+    "id": "node/5527904103"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2304687,
+      46.5744049
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6169508828",
+  "properties": {
+    "ele": "1412",
+    "name": "Les Alpettes",
+    "natural": "peak",
+    "wikidata": "Q22703135",
+    "id": "node/6169508828"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.97317,
+      46.57995
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6534228233",
+  "properties": {
+    "ele": "1688",
+    "natural": "peak",
+    "id": "node/6534228233"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1978072,
+      46.6724074
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7633331855",
+  "properties": {
+    "ele": "1992",
+    "natural": "peak",
+    "id": "node/7633331855"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2397888,
+      46.6208837
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7633331856",
+  "properties": {
+    "ele": "1957",
+    "natural": "peak",
+    "id": "node/7633331856"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2390109,
+      46.6220636
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7633331857",
+  "properties": {
+    "ele": "1854",
+    "natural": "peak",
+    "id": "node/7633331857"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2341253,
+      46.6243764
+    ]
+  }
+}
+]
+}

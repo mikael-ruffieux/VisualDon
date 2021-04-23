@@ -1,6 +1,7 @@
 import L from 'leaflet'
 import restaurants from './restaurants.json'
-import batiments from './batiments.json'
+import fontaines from './fontaines.json'
+import montagnes from './montagnes.json'
 
 const map = L.map('map').setView([46.58462, 7.08356], 13)
 
@@ -16,21 +17,10 @@ L.tileLayer(
   }).addTo(map)
 
 const icon = L.icon({
-  iconUrl: 'https://cdn.iconscout.com/icon/free/png-256/restaurant-1495593-1267764.png',
-  iconSize: [30, 30],
-  iconAnchor: [15, 30],
+  iconUrl: 'https://image.flaticon.com/icons/png/512/892/892899.png',
+  iconSize: [50, 50],
+  iconAnchor: [25, 50],
 })
-
-
-/*
-restaurants.map(d => {
-  const [lon, lat] = d
-  L.marker([lat, lon], { icon })
-  
-  .addTo(map)
-})
-*/
-
 
 L.geoJSON(
   restaurants,
@@ -39,3 +29,27 @@ L.geoJSON(
       layer.bindPopup(feature.properties.name || feature.properties['addr:street'] || feature.properties.uid)  
   },
 ).addTo(map)
+
+fontaines.map(d => {
+  const [lon, lat] = d
+  L.marker([lat, lon], { icon }).addTo(map)
+})
+
+// geoJSON layout with custom icon
+function createCustomIcon (feature, latlng) {
+  const peakIcon = L.icon({
+    iconUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Mountain-Icon_%28white%29.svg/480px-Mountain-Icon_%28white%29.svg.png',
+    iconSize: [50, 50],
+    iconAnchor: [25, 50],
+    popupAnchor:  [0, -30]
+  })
+  return L.marker(latlng, { icon: peakIcon }).bindPopup(`<b>${feature.properties.name}</b><br/>${feature.properties.ele}m`)
+}
+
+// create an options object that specifies which function will called on each feature
+let myLayerOptions = {
+  pointToLayer: createCustomIcon
+}
+
+// create the GeoJSON layer
+L.geoJSON(montagnes, myLayerOptions).addTo(map)

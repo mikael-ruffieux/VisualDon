@@ -1,0 +1,51 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/4083307938",
+  "properties": {
+    "amenity": "drinking_water",
+    "id": "node/4083307938"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1008585,
+      46.5879707
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6483524267",
+  "properties": {
+    "amenity": "drinking_water",
+    "id": "node/6483524267"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0742216,
+      46.5753353
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7334464885",
+  "properties": {
+    "amenity": "drinking_water",
+    "name": "Point d'eau",
+    "id": "node/7334464885"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1200897,
+      46.6031891
+    ]
+  }
+}
+]
+}
