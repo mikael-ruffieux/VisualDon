@@ -16,5 +16,5 @@ cl(temp1, 'col-sm-4')
       prix: price[0].textContent.trim(),
       etoiles: ratings[0].getElementsByTagName('p')[0].dataset.rating,
     }
-  })
+})
 ```

@@ -1,0 +1,39 @@
+<html>
+  <body>
+    <canvas id="mon-dessin" width="500" height="300"></canvas>
+    <canvas id="mon-dessin2" width="500" height="300"></canvas>
+    <canvas id="mon-dessin3" width="500" height="300"></canvas>
+    <script>
+        const canvas = document.getElementById('mon-dessin')
+        const ctx = canvas.getContext('2d')
+
+        // dessinez ici
+        ctx.fillStyle = 'red'
+        ctx.fillRect(10, 10, 50, 50)
+
+        ctx.fillStyle = 'rgba(0, 0, 200, 0.5)'
+        ctx.fillRect(30, 30, 50, 50)
+
+        const ctx2 = document.getElementById('mon-dessin2').getContext('2d');
+        for (var i = 0; i < 6; i++) {
+            for (var j = 0; j < 6; j++) {
+            ctx2.fillStyle = 'rgb(' + Math.floor(255 - 42.5 * i) + ', ' +
+                            Math.floor(255 - 42.5 * j) + ', 0)';
+            ctx2.fillRect(j * 25, i * 25, 25, 25);
+            }
+        }
+
+        const ctx3 = document.getElementById('mon-dessin3').getContext('2d');
+        for (var i = 0; i < 15; i++) {
+            for (var j = 0; j < 15; j++) {
+                ctx3.strokeStyle = 'rgb(0, ' + Math.floor(255 - 17 * i) + ', ' +
+                                Math.floor(255 - 17 * j) + ')';
+                ctx3.beginPath();
+                ctx3.arc(12.5 + j * 25, 12.5 + i * 25, 10, 0, Math.PI * 2, true);
+                ctx3.stroke();
+            }
+        }
+
+    </script>
+  </body>
+</html>
