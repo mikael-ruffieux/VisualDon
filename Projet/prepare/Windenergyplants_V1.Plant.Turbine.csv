@@ -16,9 +16,9 @@ turbine_14,1248,1996,2013,Vestas,V44,44,45,4,16,25,600,operationalStatus_stillge
 turbine_15,1257,1998,2013,Vestas,V47,47,45,4,16,25,660,operationalStatus_stillgelegt,facility_MTC,2567948.1526977713,1225743.6945986217
 turbine_16,1255,2001,2016,Vestas,V52,52,50,4,16,25,850,operationalStatus_stillgelegt,facility_MTC,2571386.1688677943,1227511.6378713057
 turbine_17,1274,2004,2016,Vestas,V66,66,67,4,16,25,1750,operationalStatus_stillgelegt,facility_MTC,2565803.0948022367,1223888.7589529683
-turbine_18,1350,1994,,"Bonus, Dänemark",MK III,24,30,3,15,25,150,operationalStatus_normalbetrieb,facility_OGR,2597100.369715936,1231260.4122750135
+turbine_18,1350,1994,,"Bonus, DÃ¤nemark",MK III,24,30,3,15,25,150,operationalStatus_normalbetrieb,facility_OGR,2597100.369715936,1231260.4122750135
 turbine_20,632,2002,,Aventa,AV-7,12,18,2,6,14,6.5,operationalStatus_normalbetrieb,facility_RUT,2607190.3078911337,1232287.3550700704
-turbine_21,951,1993,,Südwind,N715,7,18,4,12,30,15,operationalStatus_normalbetrieb,facility_SCH,2627581.4240166685,1212076.0877252207
+turbine_21,951,1993,,SÃ¼dwind,N715,7,18,4,12,30,15,operationalStatus_normalbetrieb,facility_SCH,2627581.4240166685,1212076.0877252207
 turbine_22,2000,1990,,-,-,12,22,5,0,0,30,operationalStatus_normalbetrieb,facility_SIM,2645089.700185784,1121879.6204336414
 turbine_23,1010,1986,,Husumer Schiffswerft,HSW 30,12,20,4,11,30,28,operationalStatus_normalbetrieb,facility_SOO,2622165.504977952,1245915.2972901703
 turbine_24,2695,2002,2010,Aventa,AV-7,12,18,2,6,14,6.5,operationalStatus_stillgelegt,facility_STM,2781350.9588127127,1152949.6468857261

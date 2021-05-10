@@ -47,6 +47,7 @@ Premières idées de visualisations :
 
 - Utiliser la visualisation de Rosling pour afficher l'évolution, sur une carte, de la construction des éoliennes
 - À côté ou en dessous, afficher une jauge qui représente la production moyenne du parc éolien suisse
+- Diagrammes "donut" pour la distribution de la production, en fonction du producteur, et/ou du type d'infrastructure
 
 **Inspirations**
 - [Bar race](https://github.com/idris-maps/heig-datavis-2021/tree/master/20210416#graphique-de-type-bar-race)
@@ -56,4 +57,12 @@ Premières idées de visualisations :
 **Outils :** 
 - Leaflet pour la carte
 - D3 pour la barre de progression 
+
+## 10 mai
+
+- Création du projet Rollup
+- Préparation des données, transformation des fichiers CSV en JSON *(via la fonction csvToJSON)*
+
+**Formule de conversion de coordonnées suisses vers des coordonnées internationnales**
+
 

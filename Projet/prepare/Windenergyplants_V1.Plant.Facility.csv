@@ -1,45 +1,45 @@
 xtf_id,name,operator,website,type,operationalStatus,ratedPower,x,y
 facility_BEG,Berg,Technische Gemeindebetriebe Elektra,http://www.berg-tg.ch,facilityType_small,operationalStatus_normalbetrieb,6.5,2731128.8418347235,1271648.5450638824
 facility_BER,Beringen SH,"EKS AG, Schaffhausen",,facilityType_small,operationalStatus_stillgelegt,3.0,2685501.143304388,1283019.693279132
-facility_BRU,Br¸tten 2,Urs Arter,,facilityType_small,operationalStatus_normalbetrieb,6.5,2692040.9764632857,1259078.8337028702
-facility_CHU,Ch¸rstein (G‰bris),Appenzell. Ver. zur Fˆrderung umweltfreundl. En.,http://www.appenzeller-energie.ch,facilityType_small,operationalStatus_normalbetrieb,80.0,2753193.540256478,1250437.6384445291
-facility_COL,Collonges,RhÙnEole SA,http://www.rhoneole.ch,facilityType_big,operationalStatus_normalbetrieb,2000.0,2568999.350192574,1112120.260908145
-facility_CTI,Chli Titlis,Elektrizit‰tswerk Nidwalden,,facilityType_small,operationalStatus_stillgelegt,30.0,2675100.57105117,1180479.7692706678
+facility_BRU,Br√ºtten 2,Urs Arter,,facilityType_small,operationalStatus_normalbetrieb,6.5,2692040.9764632857,1259078.8337028702
+facility_CHU,Ch√ºrstein (G√§bris),Appenzell. Ver. zur F√∂rderung umweltfreundl. En.,http://www.appenzeller-energie.ch,facilityType_small,operationalStatus_normalbetrieb,80.0,2753193.540256478,1250437.6384445291
+facility_COL,Collonges,Rh√¥nEole SA,http://www.rhoneole.ch,facilityType_big,operationalStatus_normalbetrieb,2000.0,2568999.350192574,1112120.260908145
+facility_CTI,Chli Titlis,Elektrizit√§tswerk Nidwalden,,facilityType_small,operationalStatus_stillgelegt,30.0,2675100.57105117,1180479.7692706678
 facility_DIE,Diegenstal,Genossenschaft Windenergieanlage Diegenstal,http://www.bauer-fritz.ch,facilityType_small,operationalStatus_normalbetrieb,30.0,2653290.7224926897,1227578.1016170552
 facility_FEL,Feldmoos/Rengg,WindPower AG,,facilityType_windpark,operationalStatus_normalbetrieb,1850.0,2649313.62256124,1204521.9661266939
-facility_GUE,G¸tsch,EW Ursern,http://www.ew-ursern.ch/Windkraft.10.0.html,facilityType_windpark,operationalStatus_normalbetrieb,3300.0,2690145.420818921,1167674.6302455517
+facility_GUE,G√ºtsch,EW Ursern,http://www.ew-ursern.ch/Windkraft.10.0.html,facilityType_windpark,operationalStatus_normalbetrieb,3300.0,2690145.420818921,1167674.6302455517
 facility_HET,Hettlingen ZH,Genossenschaft SolVent,,facilityType_small,operationalStatus_stillgelegt,2.0,2695001.0097399456,1265659.7941228584
 facility_ALP,Alpboden-Haldigrat,Haldigrat AG,,facilityType_small,operationalStatus_normalbetrieb,20.0,2675813.70130236,1193420.769778985
 facility_HOR,Horn,Envergate Energy AG,,facilityType_small,operationalStatus_normalbetrieb,15.0,2753069.6310384087,1262143.5424160305
-facility_SUP,Sch¸pfheim,Kantonsschule Sch¸pfheim,,facilityType_small,operationalStatus_normalbetrieb,10.0,2644347.545150123,1200631.9542539993
-facility_LCV,Le Cerneux-Veusil,"Jura Energie, Jean Oppliger S‡rl",http://www.jura-energie.ch,facilityType_small,operationalStatus_normalbetrieb,6.5,2562625.0835047713,1225414.758879442
-facility_LFE,La FerriËre,"Jura Energie, Jean Oppliger S‡rl",http://www.jura-energie.ch,facilityType_small,operationalStatus_normalbetrieb,6.5,2562521.0339249973,1223630.758873628
+facility_SUP,Sch√ºpfheim,Kantonsschule Sch√ºpfheim,,facilityType_small,operationalStatus_normalbetrieb,10.0,2644347.545150123,1200631.9542539993
+facility_LCV,Le Cerneux-Veusil,"Jura Energie, Jean Oppliger S≈ïrl",http://www.jura-energie.ch,facilityType_small,operationalStatus_normalbetrieb,6.5,2562625.0835047713,1225414.758879442
+facility_LFE,La Ferriƒçre,"Jura Energie, Jean Oppliger S≈ïrl",http://www.jura-energie.ch,facilityType_small,operationalStatus_normalbetrieb,6.5,2562521.0339249973,1223630.758873628
 facility_MAR,Marthalen,Genosol Martella,http://www.genosol.ch,facilityType_small,operationalStatus_normalbetrieb,6.5,2691455.134620456,1276802.7621499912
 facility_MTC,Mt. Crosin,JUVENT SA,http://www.juvent.ch,facilityType_windpark,operationalStatus_normalbetrieb,37200.0,2567900.1449172385,1225300.7045913136
 facility_OGR,Oberer Grenchenberg,ADEV Windkraft AG,http://www.adev.ch/,facilityType_medium,operationalStatus_normalbetrieb,150.0,2597100.369715936,1231260.4122750135
-facility_RUT,R¸ttenen,Toni Marti,,facilityType_small,operationalStatus_normalbetrieb,6.5,2607190.3078911337,1232287.3550700704
+facility_RUT,R√ºttenen,Toni Marti,,facilityType_small,operationalStatus_normalbetrieb,6.5,2607190.3078911337,1232287.3550700704
 facility_SCH,Schaber Emmental,Lukas Meister,http://www.clevergie.ch/portfolio/wyssachenbe/,facilityType_small,operationalStatus_normalbetrieb,15.0,2627581.4240166685,1212076.0877252207
 facility_HOC,Hochstuckli,Envergate Energy AG,,facilityType_small,operationalStatus_stillgelegt,10.0,2693357.700447049,1213799.8217599003
-facility_SIM,Simplon Passhˆhe,jetstream Sempione GmbH,,facilityType_small,operationalStatus_stillgelegt,30.0,2645089.700185784,1121879.6204336414
-facility_SOO,"Sool, Langenbruck",÷kozentrum Langenbruck,,facilityType_small,operationalStatus_normalbetrieb,28.0,2622165.504977952,1245915.2972901703
+facility_SIM,Simplon Passh√∂he,jetstream Sempione GmbH,,facilityType_small,operationalStatus_stillgelegt,30.0,2645089.700185784,1121879.6204336414
+facility_SOO,"Sool, Langenbruck",√ñkozentrum Langenbruck,,facilityType_small,operationalStatus_normalbetrieb,28.0,2622165.504977952,1245915.2972901703
 facility_STM,St. Moritz,Aventa,,facilityType_small,operationalStatus_stillgelegt,6.5,2781350.9588127127,1152949.6468857261
-facility_SWM,Schwengimatt,Nicole und J¸rg Lehmann,http://www.schwengimatt.ch,facilityType_small,operationalStatus_normalbetrieb,6.5,2618438.445676604,1238295.2810145586
-facility_TRA,Tramelan,"Jura Energie, Jean Oppliger S‡rl",http://www.jura-energie.ch,facilityType_small,operationalStatus_normalbetrieb,6.5,2575433.23388892,1232030.6051847981
+facility_SWM,Schwengimatt,Nicole und J√ºrg Lehmann,http://www.schwengimatt.ch,facilityType_small,operationalStatus_normalbetrieb,6.5,2618438.445676604,1238295.2810145586
+facility_TRA,Tramelan,"Jura Energie, Jean Oppliger S≈ïrl",http://www.jura-energie.ch,facilityType_small,operationalStatus_normalbetrieb,6.5,2575433.23388892,1232030.6051847981
 facility_WIT,Winterthur Taggenberg 1 und 2,Aventa,,facilityType_small,operationalStatus_normalbetrieb,13.0,2695648.0089056287,1263995.7940148076
 facility_WIW,Winterthur Wiesendangerstrasse,Aventa,,facilityType_small,operationalStatus_normalbetrieb,6.5,2699991.943403035,1265435.742787773
-facility_BRT,Br¸tten 1,GS Engineering / Walter B¸chi,,facilityType_small,operationalStatus_normalbetrieb,6.5,2694097.966567842,1259056.8219030607
-facility_LAJ,Lajoux,JËrÙme Willemin,,facilityType_small,operationalStatus_normalbetrieb,13.0,2578606.28494302,1237566.5636612952
+facility_BRT,Br√ºtten 1,GS Engineering / Walter B√ºchi,,facilityType_small,operationalStatus_normalbetrieb,6.5,2694097.966567842,1259056.8219030607
+facility_LAJ,Lajoux,Jƒçr√¥me Willemin,,facilityType_small,operationalStatus_normalbetrieb,13.0,2578606.28494302,1237566.5636612952
 facility_STB,St. Brais,ADEV Windkraft AG,http://www.adev.ch/,facilityType_windpark,operationalStatus_normalbetrieb,4000.0,2574690.283180896,1239200.6008802103
-facility_MTG,Martigny,RhÙnEole SA,http://www.rhoneole.ch,facilityType_big,operationalStatus_normalbetrieb,2050.0,2570138.2222330663,1108435.2068784935
+facility_MTG,Martigny,Rh√¥nEole SA,http://www.rhoneole.ch,facilityType_big,operationalStatus_normalbetrieb,2050.0,2570138.2222330663,1108435.2068784935
 facility_FEU,Feusisberg,Envergate Energy AG,,facilityType_small,operationalStatus_normalbetrieb,15.0,2698124.792701188,1226405.856632872
 facility_PEU,Peuchapatte,Eole Jura SA,http://www.alpiq.ch,facilityType_windpark,operationalStatus_normalbetrieb,6900.0,2563955.1162895174,1228024.7561306017
-facility_VIL,Vilters,Bernhard W‰lti,,facilityType_small,operationalStatus_normalbetrieb,6.5,2755274.693742405,1211501.7707129356
+facility_VIL,Vilters,Bernhard W√§lti,,facilityType_small,operationalStatus_normalbetrieb,6.5,2755274.693742405,1211501.7707129356
 facility_GRI,Gries,GriesWind AG,http://www.swisswinds.com,facilityType_windpark,operationalStatus_normalbetrieb,9360.0,2671977.0874390407,1146165.6913124993
 facility_CHA,"Charrat VS, Adonis",ValEole SA,http://www.valeole.ch,facilityType_big,operationalStatus_normalbetrieb,3000.0,2577337.280352426,1108892.2377621948
 facility_SCR,Schmiedrued,Anton Suter,,facilityType_small,operationalStatus_normalbetrieb,10.0,2649247.725935968,1234858.0945704202
 facility_HAL,Haldenstein,Calandawind,http://www.calandawind.ch,facilityType_big,operationalStatus_normalbetrieb,3000.0,2760010.8453908064,1195797.632248905
 facility_LUT,Lutersarni,Centralschweizerische Kraftwerke AG (CKW),http://www.ckw.ch,facilityType_big,operationalStatus_normalbetrieb,2300.0,2650922.6542131216,1205069.977662904
 facility_GOL,Goldau,Wind Energie Goldau AG,,facilityType_small,operationalStatus_normalbetrieb,20.0,2684900.6382414126,1210599.78574202
-facility_ALL,Allenwinden,Bernhard W‰lti,,facilityType_small,operationalStatus_normalbetrieb,6.5,2689589.1429695077,1282466.6848064533
-facility_LOT,Lˆtschenpass,Beat Dietrich,https://www.loetschenpass.ch/,facilityType_small,operationalStatus_normalbetrieb,5.0,2621333.681788503,1140523.9446979216
+facility_ALL,Allenwinden,Bernhard W√§lti,,facilityType_small,operationalStatus_normalbetrieb,6.5,2689589.1429695077,1282466.6848064533
+facility_LOT,L√∂tschenpass,Beat Dietrich,https://www.loetschenpass.ch/,facilityType_small,operationalStatus_normalbetrieb,5.0,2621333.681788503,1140523.9446979216
 facility_GOT,San Gottardo,Azienda Elettrica Ticinese,https://www.aet.ch,facilityType_windpark,operationalStatus_normalbetrieb,11750.0,2685943.315653926,1156992.6902073394

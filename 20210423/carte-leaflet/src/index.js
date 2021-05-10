@@ -3,7 +3,7 @@ import restaurants from './restaurants.json'
 import fontaines from './fontaines.json'
 import montagnes from './montagnes.json'
 
-const map = L.map('map').setView([46.58462, 7.08356], 13)
+const map = L.map('map').setView([46.58462, 7.08356], 9)
 
 L.tileLayer(
   'https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}{r}.png',

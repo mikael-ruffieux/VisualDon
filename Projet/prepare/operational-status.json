@@ -1,0 +1,23 @@
+[
+    {
+        "xtf_id": "operationalStatus_normalbetrieb",
+        "DE": "Im Normalbetrieb",
+        "FR": "En exploitation normale",
+        "IT": "In servizio normale"
+    },
+    {
+        "xtf_id": "operationalStatus_ausserbetrieb",
+        "DE": "Ausser Betrieb",
+        "FR": "Hors service",
+        "IT": "Fuori servizio"
+    },
+    {
+        "xtf_id": "operationalStatus_stillgelegt",
+        "DE": "Stillgelegt",
+        "FR": "Exploitation abandonnée",
+        "IT": "Esercizio cessato"
+    },
+    {
+        "xtf_id": ""
+    }
+]
