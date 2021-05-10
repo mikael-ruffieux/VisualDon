@@ -7,93 +7,16 @@
     <title>Projet VisualDon - Mikael</title>
 
     <link rel="stylesheet" href="leaflet.css" />
-    <style>
-        html, body {
-          margin: 0;
-          width: 0;
-        }
-
-        #map {
-          width: 90vw;
-          height: 90vh;
-          position: absolute;
-          top: 0;
-          left: 0;
-        }
-
-        #production {
-          background-color: red;
-          position: absolute;
-          top: 0; 
-          right: 0;
-          width: 10vw;
-          height: 90vh;
-        }
-
-        #slider {
-          position: absolute;
-          bottom: 0;
-          left:0;
-          background-color: green;
-          width: 90vw;
-          height: 10vh;
-        }
-        
-        #year {
-          position: absolute;
-          bottom: 0;
-          right: 0;
-          background-color: yellow;
-          width: 10vw;
-          height: 10vh;
-          font-size: 50px;
-          text-align: right;
-        }
-
-        /* The slider itself */
-        .slider {
-          -webkit-appearance: none;  /* Override default CSS styles */
-          appearance: none;
-          width: 86vw; /* Full-width */
-          height: 25px; /* Specified height */
-          background: #d3d3d3; /* Grey background */
-          outline: none; /* Remove outline */
-          opacity: 0.7; /* Set transparency (for mouse-over effects on hover) */
-          -webkit-transition: .2s; /* 0.2 seconds transition on hover */
-          transition: opacity .2s;
-          margin: 0 2vw;
-          margin-top: 25px;
-        }
-
-        /* Mouse-over effects */
-        .slider:hover {
-          opacity: 1; /* Fully shown on mouse-over */
-        }
-
-        .slider::-webkit-slider-thumb {
-          -webkit-appearance: none; /* Override default look */
-          appearance: none;
-          width: 25px; /* Set a specific slider handle width */
-          height: 25px; /* Slider handle height */
-          background: #04AA6D; /* Green background */
-          cursor: pointer; /* Cursor on hover */
-        }
-
-        .slider::-moz-range-thumb {
-          width: 25px; /* Set a specific slider handle width */
-          height: 25px; /* Slider handle height */
-          background: #04AA6D; /* Green background */
-          cursor: pointer; /* Cursor on hover */
-        }
-      </style>
+    <link rel="stylesheet" href="style.css" />
 </head>
 <body>
     <div id="map"></div>
     <div id="production"></div>
+    <div id="production-label"></div>
     <div id="slider">
-      <input type="range" min="1990" max="2020" value="1990" class="slider" id="myRange">
+      <input type="range" min="1986" max="2021" value="1986" class="slider" id="myRange">
     </div>
-    <div id="year">2020</div>
+    <div id="year"></div>
     <script src="bundle.js"></script>
 </body>
 </html>
