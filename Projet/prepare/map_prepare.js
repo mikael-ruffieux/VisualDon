@@ -1,31 +1,13 @@
-// The MIT License (MIT)
-// 
-// Copyright (c) 2014 Federal Office of Topography swisstopo, Wabern, CH
-// Copyright (c) 2016 Sacha Bron https://github.com/BinaryBrain
-// Copyright (c) 2016 Basile Vu https://github.com/Flagoul
-// 
-// Permission is hereby granted, free of charge, to any person obtaining a copy
-//	of this software and associated documentation files (the "Software"), to deal
-//	in the Software without restriction, including without limitation the rights
-//	to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-//	copies of the Software, and to permit persons to whom the Software is
-//	furnished to do so, subject to the following conditions:
-// 
-// The above copyright notice and this permission notice shall be included in
-//	all copies or substantial portions of the Software.
-// 
-// THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-//	IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-//	FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-//	AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-//	LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-//	OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-//	THE SOFTWARE.
-// 
-	
-// Source: http://www.swisstopo.admin.ch/internet/swisstopo/en/home/topics/survey/sys/refsys/projections.html (see PDFs under "Documentation")
-// Updated 9 dec 2014
-// Please validate your results with NAVREF on-line service: http://www.swisstopo.admin.ch/internet/swisstopo/en/home/apps/calc/navref.html (difference ~ 1-2m)
+/* 
+Elements à sélectionner : 
+- id de la turbine
+- année de construction / destruction
+- facility
+- position x y
+- rated power (kW)
+*/
+
+const data = require('./turbines.json');
 
 var Swisstopo = {
 	WGStoCH: function (lat, lng) {
@@ -109,7 +91,7 @@ var Swisstopo = {
 	CHtoWGSlng: function (y, x) {
 		// Converts military to civil and	to unit = 1000km
 		// Auxiliary values (% Bern)
-		var y_aux = (y - 2600000)/1000000;
+		var y_aux = (y - 2600000)/1000000; //modification du code original
 		var x_aux = (x - 1200000)/1000000;
 
 		// Process lng
@@ -139,4 +121,18 @@ var Swisstopo = {
 	}
 }
 
-console.log(Swisstopo.CHtoWGSlat(600000));
+let result = [];
+
+data.forEach(elt => {
+  result.push({
+    id: elt.xtf_id,
+    buildingYear: elt.yearOfConstruction,
+    dismantlingYear: elt.yearOfDismantling,
+    longitude: Swisstopo.CHtoWGSlng(elt.x, elt.y),
+    latitude: Swisstopo.CHtoWGSlat(elt.x, elt.y),
+    ratedPower: elt.ratedPower,
+    manufacturer: elt.manufacturer
+  });
+});
+
+console.log(JSON.stringify(result));
