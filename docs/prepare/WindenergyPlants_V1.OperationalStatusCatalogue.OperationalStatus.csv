@@ -1,0 +1,4 @@
+xtf_id,DE,FR,IT
+operationalStatus_normalbetrieb,Im Normalbetrieb,En exploitation normale,In servizio normale
+operationalStatus_ausserbetrieb,Ausser Betrieb,Hors service,Fuori servizio
+operationalStatus_stillgelegt,Stillgelegt,Exploitation abandonnée,Esercizio cessato

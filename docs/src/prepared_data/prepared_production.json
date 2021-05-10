@@ -1,0 +1,2966 @@
+[
+    {
+        "year": "1997",
+        "yearlyProduction": 1956895,
+        "production": [
+            {
+                "xtf_id": "production_BER_1997",
+                "year": "1997",
+                "production": "1113",
+                "facility": "facility_BER"
+            },
+            {
+                "xtf_id": "production_CHU_1997",
+                "year": "1997",
+                "production": "38654",
+                "facility": "facility_CHU"
+            },
+            {
+                "xtf_id": "production_HET_1997",
+                "year": "1997",
+                "production": "1028",
+                "facility": "facility_HET"
+            },
+            {
+                "xtf_id": "production_MTC_1997",
+                "year": "1997",
+                "production": "1785000",
+                "facility": "facility_MTC"
+            },
+            {
+                "xtf_id": "production_OGR_1997",
+                "year": "1997",
+                "production": "113000",
+                "facility": "facility_OGR"
+            },
+            {
+                "xtf_id": "production_SCH_1997",
+                "year": "1997",
+                "production": "5559",
+                "facility": "facility_SCH"
+            },
+            {
+                "xtf_id": "production_SOO_1997",
+                "year": "1997",
+                "production": "12541",
+                "facility": "facility_SOO"
+            }
+        ]
+    },
+    {
+        "year": "1998",
+        "yearlyProduction": 2685711,
+        "production": [
+            {
+                "xtf_id": "production_BER_1998",
+                "year": "1998",
+                "production": "1792",
+                "facility": "facility_BER"
+            },
+            {
+                "xtf_id": "production_CHU_1998",
+                "year": "1998",
+                "production": "50324",
+                "facility": "facility_CHU"
+            },
+            {
+                "xtf_id": "production_DIE_1998",
+                "year": "1998",
+                "production": "2951",
+                "facility": "facility_DIE"
+            },
+            {
+                "xtf_id": "production_HET_1998",
+                "year": "1998",
+                "production": "990",
+                "facility": "facility_HET"
+            },
+            {
+                "xtf_id": "production_MTC_1998",
+                "year": "1998",
+                "production": "2490000",
+                "facility": "facility_MTC"
+            },
+            {
+                "xtf_id": "production_OGR_1998",
+                "year": "1998",
+                "production": "125000",
+                "facility": "facility_OGR"
+            },
+            {
+                "xtf_id": "production_SCH_1998",
+                "year": "1998",
+                "production": "3728",
+                "facility": "facility_SCH"
+            },
+            {
+                "xtf_id": "production_SOO_1998",
+                "year": "1998",
+                "production": "10926",
+                "facility": "facility_SOO"
+            }
+        ]
+    },
+    {
+        "year": "1999",
+        "yearlyProduction": 3218171,
+        "production": [
+            {
+                "xtf_id": "production_BER_1999",
+                "year": "1999",
+                "production": "1923",
+                "facility": "facility_BER"
+            },
+            {
+                "xtf_id": "production_CHU_1999",
+                "year": "1999",
+                "production": "23660",
+                "facility": "facility_CHU"
+            },
+            {
+                "xtf_id": "production_DIE_1999",
+                "year": "1999",
+                "production": "2585",
+                "facility": "facility_DIE"
+            },
+            {
+                "xtf_id": "production_HET_1999",
+                "year": "1999",
+                "production": "1392",
+                "facility": "facility_HET"
+            },
+            {
+                "xtf_id": "production_MTC_1999",
+                "year": "1999",
+                "production": "3045000",
+                "facility": "facility_MTC"
+            },
+            {
+                "xtf_id": "production_OGR_1999",
+                "year": "1999",
+                "production": "130200",
+                "facility": "facility_OGR"
+            },
+            {
+                "xtf_id": "production_SCH_1999",
+                "year": "1999",
+                "production": "4521",
+                "facility": "facility_SCH"
+            },
+            {
+                "xtf_id": "production_SOO_1999",
+                "year": "1999",
+                "production": "8890",
+                "facility": "facility_SOO"
+            }
+        ]
+    },
+    {
+        "year": "2000",
+        "yearlyProduction": 2954494,
+        "production": [
+            {
+                "xtf_id": "production_BER_2000",
+                "year": "2000",
+                "production": "1814",
+                "facility": "facility_BER"
+            },
+            {
+                "xtf_id": "production_CHU_2000",
+                "year": "2000",
+                "production": "18086",
+                "facility": "facility_CHU"
+            },
+            {
+                "xtf_id": "production_HET_2000",
+                "year": "2000",
+                "production": "829",
+                "facility": "facility_HET"
+            },
+            {
+                "xtf_id": "production_MTC_2000",
+                "year": "2000",
+                "production": "2795000",
+                "facility": "facility_MTC"
+            },
+            {
+                "xtf_id": "production_OGR_2000",
+                "year": "2000",
+                "production": "120700",
+                "facility": "facility_OGR"
+            },
+            {
+                "xtf_id": "production_SOO_2000",
+                "year": "2000",
+                "production": "18065",
+                "facility": "facility_SOO"
+            }
+        ]
+    },
+    {
+        "year": "2001",
+        "yearlyProduction": 3971128,
+        "production": [
+            {
+                "xtf_id": "production_BER_2001",
+                "year": "2001",
+                "production": "2600",
+                "facility": "facility_BER"
+            },
+            {
+                "xtf_id": "production_BRT_2001",
+                "year": "2001",
+                "production": "4351",
+                "facility": "facility_BRT"
+            },
+            {
+                "xtf_id": "production_CHU_2001",
+                "year": "2001",
+                "production": "34594",
+                "facility": "facility_CHU"
+            },
+            {
+                "xtf_id": "production_DIE_2001",
+                "year": "2001",
+                "production": "1650",
+                "facility": "facility_DIE"
+            },
+            {
+                "xtf_id": "production_HET_2001",
+                "year": "2001",
+                "production": "1147",
+                "facility": "facility_HET"
+            },
+            {
+                "xtf_id": "production_MTC_2001",
+                "year": "2001",
+                "production": "3777000",
+                "facility": "facility_MTC"
+            },
+            {
+                "xtf_id": "production_OGR_2001",
+                "year": "2001",
+                "production": "129404",
+                "facility": "facility_OGR"
+            },
+            {
+                "xtf_id": "production_SOO_2001",
+                "year": "2001",
+                "production": "20382",
+                "facility": "facility_SOO"
+            }
+        ]
+    },
+    {
+        "year": "2002",
+        "yearlyProduction": 5345988,
+        "production": [
+            {
+                "xtf_id": "production_BER_2002",
+                "year": "2002",
+                "production": "2950",
+                "facility": "facility_BER"
+            },
+            {
+                "xtf_id": "production_BRT_2002",
+                "year": "2002",
+                "production": "11200",
+                "facility": "facility_BRT"
+            },
+            {
+                "xtf_id": "production_BRU_2002",
+                "year": "2002",
+                "production": "5146",
+                "facility": "facility_BRU"
+            },
+            {
+                "xtf_id": "production_CHU_2002",
+                "year": "2002",
+                "production": "21298",
+                "facility": "facility_CHU"
+            },
+            {
+                "xtf_id": "production_HET_2002",
+                "year": "2002",
+                "production": "446",
+                "facility": "facility_HET"
+            },
+            {
+                "xtf_id": "production_MAR_2002",
+                "year": "2002",
+                "production": "6490",
+                "facility": "facility_MAR"
+            },
+            {
+                "xtf_id": "production_MTC_2002",
+                "year": "2002",
+                "production": "5162089",
+                "facility": "facility_MTC"
+            },
+            {
+                "xtf_id": "production_OGR_2002",
+                "year": "2002",
+                "production": "108922",
+                "facility": "facility_OGR"
+            },
+            {
+                "xtf_id": "production_RUT_2002",
+                "year": "2002",
+                "production": "4302",
+                "facility": "facility_RUT"
+            },
+            {
+                "xtf_id": "production_SOO_2002",
+                "year": "2002",
+                "production": "18436",
+                "facility": "facility_SOO"
+            },
+            {
+                "xtf_id": "production_STM_2002",
+                "year": "2002",
+                "production": "449",
+                "facility": "facility_STM"
+            },
+            {
+                "xtf_id": "production_WIT_2002",
+                "year": "2002",
+                "production": "1271",
+                "facility": "facility_WIT"
+            },
+            {
+                "xtf_id": "production_WIW_2002",
+                "year": "2002",
+                "production": "2989",
+                "facility": "facility_WIW"
+            }
+        ]
+    },
+    {
+        "year": "2003",
+        "yearlyProduction": 4540006,
+        "production": [
+            {
+                "xtf_id": "production_BEG_2003",
+                "year": "2003",
+                "production": "2647",
+                "facility": "facility_BEG"
+            },
+            {
+                "xtf_id": "production_BER_2003",
+                "year": "2003",
+                "production": "2250",
+                "facility": "facility_BER"
+            },
+            {
+                "xtf_id": "production_BRT_2003",
+                "year": "2003",
+                "production": "8329",
+                "facility": "facility_BRT"
+            },
+            {
+                "xtf_id": "production_BRU_2003",
+                "year": "2003",
+                "production": "10850",
+                "facility": "facility_BRU"
+            },
+            {
+                "xtf_id": "production_CHU_2003",
+                "year": "2003",
+                "production": "9144",
+                "facility": "facility_CHU"
+            },
+            {
+                "xtf_id": "production_HET_2003",
+                "year": "2003",
+                "production": "987",
+                "facility": "facility_HET"
+            },
+            {
+                "xtf_id": "production_MAR_2003",
+                "year": "2003",
+                "production": "11429",
+                "facility": "facility_MAR"
+            },
+            {
+                "xtf_id": "production_MTC_2003",
+                "year": "2003",
+                "production": "4350180",
+                "facility": "facility_MTC"
+            },
+            {
+                "xtf_id": "production_OGR_2003",
+                "year": "2003",
+                "production": "82954",
+                "facility": "facility_OGR"
+            },
+            {
+                "xtf_id": "production_RUT_2003",
+                "year": "2003",
+                "production": "9221",
+                "facility": "facility_RUT"
+            },
+            {
+                "xtf_id": "production_SCH_2003",
+                "year": "2003",
+                "production": "2982",
+                "facility": "facility_SCH"
+            },
+            {
+                "xtf_id": "production_SOO_2003",
+                "year": "2003",
+                "production": "14333",
+                "facility": "facility_SOO"
+            },
+            {
+                "xtf_id": "production_STM_2003",
+                "year": "2003",
+                "production": "8122",
+                "facility": "facility_STM"
+            },
+            {
+                "xtf_id": "production_WIT_2003",
+                "year": "2003",
+                "production": "19232",
+                "facility": "facility_WIT"
+            },
+            {
+                "xtf_id": "production_WIW_2003",
+                "year": "2003",
+                "production": "7346",
+                "facility": "facility_WIW"
+            }
+        ]
+    },
+    {
+        "year": "2004",
+        "yearlyProduction": 6312057,
+        "production": [
+            {
+                "xtf_id": "production_BEG_2004",
+                "year": "2004",
+                "production": "7076",
+                "facility": "facility_BEG"
+            },
+            {
+                "xtf_id": "production_BER_2004",
+                "year": "2004",
+                "production": "2294",
+                "facility": "facility_BER"
+            },
+            {
+                "xtf_id": "production_BRT_2004",
+                "year": "2004",
+                "production": "7322",
+                "facility": "facility_BRT"
+            },
+            {
+                "xtf_id": "production_BRU_2004",
+                "year": "2004",
+                "production": "11241",
+                "facility": "facility_BRU"
+            },
+            {
+                "xtf_id": "production_CHU_2004",
+                "year": "2004",
+                "production": "5572",
+                "facility": "facility_CHU"
+            },
+            {
+                "xtf_id": "production_GUE_2004",
+                "year": "2004",
+                "production": "150000",
+                "facility": "facility_GUE"
+            },
+            {
+                "xtf_id": "production_HET_2004",
+                "year": "2004",
+                "production": "1399",
+                "facility": "facility_HET"
+            },
+            {
+                "xtf_id": "production_LCV_2004",
+                "year": "2004",
+                "production": "4262",
+                "facility": "facility_LCV"
+            },
+            {
+                "xtf_id": "production_MAR_2004",
+                "year": "2004",
+                "production": "12664",
+                "facility": "facility_MAR"
+            },
+            {
+                "xtf_id": "production_MTC_2004",
+                "year": "2004",
+                "production": "5940644",
+                "facility": "facility_MTC"
+            },
+            {
+                "xtf_id": "production_OGR_2004",
+                "year": "2004",
+                "production": "108000",
+                "facility": "facility_OGR"
+            },
+            {
+                "xtf_id": "production_RUT_2004",
+                "year": "2004",
+                "production": "10075",
+                "facility": "facility_RUT"
+            },
+            {
+                "xtf_id": "production_SOO_2004",
+                "year": "2004",
+                "production": "11960",
+                "facility": "facility_SOO"
+            },
+            {
+                "xtf_id": "production_STM_2004",
+                "year": "2004",
+                "production": "10857",
+                "facility": "facility_STM"
+            },
+            {
+                "xtf_id": "production_WIT_2004",
+                "year": "2004",
+                "production": "20850",
+                "facility": "facility_WIT"
+            },
+            {
+                "xtf_id": "production_WIW_2004",
+                "year": "2004",
+                "production": "7841",
+                "facility": "facility_WIW"
+            }
+        ]
+    },
+    {
+        "year": "2005",
+        "yearlyProduction": 8256607,
+        "production": [
+            {
+                "xtf_id": "production_BER_2005",
+                "year": "2005",
+                "production": "1860",
+                "facility": "facility_BER"
+            },
+            {
+                "xtf_id": "production_BRT_2005",
+                "year": "2005",
+                "production": "4939",
+                "facility": "facility_BRT"
+            },
+            {
+                "xtf_id": "production_BRU_2005",
+                "year": "2005",
+                "production": "10104",
+                "facility": "facility_BRU"
+            },
+            {
+                "xtf_id": "production_CHU_2005",
+                "year": "2005",
+                "production": "7374",
+                "facility": "facility_CHU"
+            },
+            {
+                "xtf_id": "production_FEL_2005",
+                "year": "2005",
+                "production": "105000",
+                "facility": "facility_FEL"
+            },
+            {
+                "xtf_id": "production_GUE_2005",
+                "year": "2005",
+                "production": "567570",
+                "facility": "facility_GUE"
+            },
+            {
+                "xtf_id": "production_LCV_2005",
+                "year": "2005",
+                "production": "7549",
+                "facility": "facility_LCV"
+            },
+            {
+                "xtf_id": "production_LFE_2005",
+                "year": "2005",
+                "production": "4160",
+                "facility": "facility_LFE"
+            },
+            {
+                "xtf_id": "production_MAR_2005",
+                "year": "2005",
+                "production": "10001",
+                "facility": "facility_MAR"
+            },
+            {
+                "xtf_id": "production_MTC_2005",
+                "year": "2005",
+                "production": "7384112",
+                "facility": "facility_MTC"
+            },
+            {
+                "xtf_id": "production_OGR_2005",
+                "year": "2005",
+                "production": "99400",
+                "facility": "facility_OGR"
+            },
+            {
+                "xtf_id": "production_SOO_2005",
+                "year": "2005",
+                "production": "5712",
+                "facility": "facility_SOO"
+            },
+            {
+                "xtf_id": "production_STM_2005",
+                "year": "2005",
+                "production": "7722",
+                "facility": "facility_STM"
+            },
+            {
+                "xtf_id": "production_SWM_2005",
+                "year": "2005",
+                "production": "6230",
+                "facility": "facility_SWM"
+            },
+            {
+                "xtf_id": "production_TRA_2005",
+                "year": "2005",
+                "production": "10024",
+                "facility": "facility_TRA"
+            },
+            {
+                "xtf_id": "production_WIT_2005",
+                "year": "2005",
+                "production": "18182",
+                "facility": "facility_WIT"
+            },
+            {
+                "xtf_id": "production_WIW_2005",
+                "year": "2005",
+                "production": "6668",
+                "facility": "facility_WIW"
+            }
+        ]
+    },
+    {
+        "year": "2006",
+        "yearlyProduction": 15304441,
+        "production": [
+            {
+                "xtf_id": "production_BER_2006",
+                "year": "2006",
+                "production": "1430",
+                "facility": "facility_BER"
+            },
+            {
+                "xtf_id": "production_BRT_2006",
+                "year": "2006",
+                "production": "7371",
+                "facility": "facility_BRT"
+            },
+            {
+                "xtf_id": "production_BRU_2006",
+                "year": "2006",
+                "production": "10754",
+                "facility": "facility_BRU"
+            },
+            {
+                "xtf_id": "production_CHU_2006",
+                "year": "2006",
+                "production": "43622",
+                "facility": "facility_CHU"
+            },
+            {
+                "xtf_id": "production_COL_2006",
+                "year": "2006",
+                "production": "4388954",
+                "facility": "facility_COL"
+            },
+            {
+                "xtf_id": "production_DIE_2006",
+                "year": "2006",
+                "production": "3733",
+                "facility": "facility_DIE"
+            },
+            {
+                "xtf_id": "production_FEL_2006",
+                "year": "2006",
+                "production": "646000",
+                "facility": "facility_FEL"
+            },
+            {
+                "xtf_id": "production_GUE_2006",
+                "year": "2006",
+                "production": "802000",
+                "facility": "facility_GUE"
+            },
+            {
+                "xtf_id": "production_LCV_2006",
+                "year": "2006",
+                "production": "8271",
+                "facility": "facility_LCV"
+            },
+            {
+                "xtf_id": "production_LFE_2006",
+                "year": "2006",
+                "production": "9157",
+                "facility": "facility_LFE"
+            },
+            {
+                "xtf_id": "production_MAR_2006",
+                "year": "2006",
+                "production": "9780",
+                "facility": "facility_MAR"
+            },
+            {
+                "xtf_id": "production_MTC_2006",
+                "year": "2006",
+                "production": "9176106",
+                "facility": "facility_MTC"
+            },
+            {
+                "xtf_id": "production_OGR_2006",
+                "year": "2006",
+                "production": "110900",
+                "facility": "facility_OGR"
+            },
+            {
+                "xtf_id": "production_SOO_2006",
+                "year": "2006",
+                "production": "14959",
+                "facility": "facility_SOO"
+            },
+            {
+                "xtf_id": "production_STM_2006",
+                "year": "2006",
+                "production": "10563",
+                "facility": "facility_STM"
+            },
+            {
+                "xtf_id": "production_SWM_2006",
+                "year": "2006",
+                "production": "13449",
+                "facility": "facility_SWM"
+            },
+            {
+                "xtf_id": "production_TRA_2006",
+                "year": "2006",
+                "production": "19188",
+                "facility": "facility_TRA"
+            },
+            {
+                "xtf_id": "production_WIT_2006",
+                "year": "2006",
+                "production": "20510",
+                "facility": "facility_WIT"
+            },
+            {
+                "xtf_id": "production_WIW_2006",
+                "year": "2006",
+                "production": "7694",
+                "facility": "facility_WIW"
+            }
+        ]
+    },
+    {
+        "year": "2007",
+        "yearlyProduction": 16020341,
+        "production": [
+            {
+                "xtf_id": "production_BER_2007",
+                "year": "2007",
+                "production": "1702",
+                "facility": "facility_BER"
+            },
+            {
+                "xtf_id": "production_BRT_2007",
+                "year": "2007",
+                "production": "12955",
+                "facility": "facility_BRT"
+            },
+            {
+                "xtf_id": "production_BRU_2007",
+                "year": "2007",
+                "production": "11634",
+                "facility": "facility_BRU"
+            },
+            {
+                "xtf_id": "production_CHU_2007",
+                "year": "2007",
+                "production": "49560",
+                "facility": "facility_CHU"
+            },
+            {
+                "xtf_id": "production_COL_2007",
+                "year": "2007",
+                "production": "4289149",
+                "facility": "facility_COL"
+            },
+            {
+                "xtf_id": "production_DIE_2007",
+                "year": "2007",
+                "production": "16215",
+                "facility": "facility_DIE"
+            },
+            {
+                "xtf_id": "production_FEL_2007",
+                "year": "2007",
+                "production": "895000",
+                "facility": "facility_FEL"
+            },
+            {
+                "xtf_id": "production_GUE_2007",
+                "year": "2007",
+                "production": "757735",
+                "facility": "facility_GUE"
+            },
+            {
+                "xtf_id": "production_LAJ_2007",
+                "year": "2007",
+                "production": "9325",
+                "facility": "facility_LAJ"
+            },
+            {
+                "xtf_id": "production_LCV_2007",
+                "year": "2007",
+                "production": "10334",
+                "facility": "facility_LCV"
+            },
+            {
+                "xtf_id": "production_LFE_2007",
+                "year": "2007",
+                "production": "11039",
+                "facility": "facility_LFE"
+            },
+            {
+                "xtf_id": "production_MAR_2007",
+                "year": "2007",
+                "production": "11575",
+                "facility": "facility_MAR"
+            },
+            {
+                "xtf_id": "production_MTC_2007",
+                "year": "2007",
+                "production": "9695410",
+                "facility": "facility_MTC"
+            },
+            {
+                "xtf_id": "production_OGR_2007",
+                "year": "2007",
+                "production": "153768",
+                "facility": "facility_OGR"
+            },
+            {
+                "xtf_id": "production_SOO_2007",
+                "year": "2007",
+                "production": "18014",
+                "facility": "facility_SOO"
+            },
+            {
+                "xtf_id": "production_STM_2007",
+                "year": "2007",
+                "production": "7900",
+                "facility": "facility_STM"
+            },
+            {
+                "xtf_id": "production_SWM_2007",
+                "year": "2007",
+                "production": "14972",
+                "facility": "facility_SWM"
+            },
+            {
+                "xtf_id": "production_TRA_2007",
+                "year": "2007",
+                "production": "19372",
+                "facility": "facility_TRA"
+            },
+            {
+                "xtf_id": "production_WIT_2007",
+                "year": "2007",
+                "production": "24899",
+                "facility": "facility_WIT"
+            },
+            {
+                "xtf_id": "production_WIW_2007",
+                "year": "2007",
+                "production": "9783",
+                "facility": "facility_WIW"
+            }
+        ]
+    },
+    {
+        "year": "2008",
+        "yearlyProduction": 18481578,
+        "production": [
+            {
+                "xtf_id": "production_BER_2008",
+                "year": "2008",
+                "production": "1973",
+                "facility": "facility_BER"
+            },
+            {
+                "xtf_id": "production_BRT_2008",
+                "year": "2008",
+                "production": "11342",
+                "facility": "facility_BRT"
+            },
+            {
+                "xtf_id": "production_BRU_2008",
+                "year": "2008",
+                "production": "11200",
+                "facility": "facility_BRU"
+            },
+            {
+                "xtf_id": "production_CHU_2008",
+                "year": "2008",
+                "production": "32960",
+                "facility": "facility_CHU"
+            },
+            {
+                "xtf_id": "production_COL_2008",
+                "year": "2008",
+                "production": "4761814",
+                "facility": "facility_COL"
+            },
+            {
+                "xtf_id": "production_DIE_2008",
+                "year": "2008",
+                "production": "13554",
+                "facility": "facility_DIE"
+            },
+            {
+                "xtf_id": "production_FEL_2008",
+                "year": "2008",
+                "production": "708000",
+                "facility": "facility_FEL"
+            },
+            {
+                "xtf_id": "production_GUE_2008",
+                "year": "2008",
+                "production": "874329",
+                "facility": "facility_GUE"
+            },
+            {
+                "xtf_id": "production_LAJ_2008",
+                "year": "2008",
+                "production": "15877",
+                "facility": "facility_LAJ"
+            },
+            {
+                "xtf_id": "production_LCV_2008",
+                "year": "2008",
+                "production": "9048",
+                "facility": "facility_LCV"
+            },
+            {
+                "xtf_id": "production_LFE_2008",
+                "year": "2008",
+                "production": "10246",
+                "facility": "facility_LFE"
+            },
+            {
+                "xtf_id": "production_MAR_2008",
+                "year": "2008",
+                "production": "12541",
+                "facility": "facility_MAR"
+            },
+            {
+                "xtf_id": "production_MTC_2008",
+                "year": "2008",
+                "production": "8916591",
+                "facility": "facility_MTC"
+            },
+            {
+                "xtf_id": "production_MTG_2008",
+                "year": "2008",
+                "production": "2865375",
+                "facility": "facility_MTG"
+            },
+            {
+                "xtf_id": "production_OGR_2008",
+                "year": "2008",
+                "production": "142528",
+                "facility": "facility_OGR"
+            },
+            {
+                "xtf_id": "production_SOO_2008",
+                "year": "2008",
+                "production": "21863",
+                "facility": "facility_SOO"
+            },
+            {
+                "xtf_id": "production_STM_2008",
+                "year": "2008",
+                "production": "10442",
+                "facility": "facility_STM"
+            },
+            {
+                "xtf_id": "production_SWM_2008",
+                "year": "2008",
+                "production": "13598",
+                "facility": "facility_SWM"
+            },
+            {
+                "xtf_id": "production_TRA_2008",
+                "year": "2008",
+                "production": "18632",
+                "facility": "facility_TRA"
+            },
+            {
+                "xtf_id": "production_WIT_2008",
+                "year": "2008",
+                "production": "20663",
+                "facility": "facility_WIT"
+            },
+            {
+                "xtf_id": "production_WIW_2008",
+                "year": "2008",
+                "production": "9002",
+                "facility": "facility_WIW"
+            }
+        ]
+    },
+    {
+        "year": "2009",
+        "yearlyProduction": 22602262,
+        "production": [
+            {
+                "xtf_id": "production_BER_2009",
+                "year": "2009",
+                "production": "219",
+                "facility": "facility_BER"
+            },
+            {
+                "xtf_id": "production_BRT_2009",
+                "year": "2009",
+                "production": "9480",
+                "facility": "facility_BRT"
+            },
+            {
+                "xtf_id": "production_BRU_2009",
+                "year": "2009",
+                "production": "9846",
+                "facility": "facility_BRU"
+            },
+            {
+                "xtf_id": "production_CHU_2009",
+                "year": "2009",
+                "production": "33416",
+                "facility": "facility_CHU"
+            },
+            {
+                "xtf_id": "production_COL_2009",
+                "year": "2009",
+                "production": "4942000",
+                "facility": "facility_COL"
+            },
+            {
+                "xtf_id": "production_DIE_2009",
+                "year": "2009",
+                "production": "8151",
+                "facility": "facility_DIE"
+            },
+            {
+                "xtf_id": "production_FEL_2009",
+                "year": "2009",
+                "production": "555000",
+                "facility": "facility_FEL"
+            },
+            {
+                "xtf_id": "production_GUE_2009",
+                "year": "2009",
+                "production": "835415",
+                "facility": "facility_GUE"
+            },
+            {
+                "xtf_id": "production_LAJ_2009",
+                "year": "2009",
+                "production": "14500",
+                "facility": "facility_LAJ"
+            },
+            {
+                "xtf_id": "production_LCV_2009",
+                "year": "2009",
+                "production": "7854",
+                "facility": "facility_LCV"
+            },
+            {
+                "xtf_id": "production_LFE_2009",
+                "year": "2009",
+                "production": "8298",
+                "facility": "facility_LFE"
+            },
+            {
+                "xtf_id": "production_MAR_2009",
+                "year": "2009",
+                "production": "10191",
+                "facility": "facility_MAR"
+            },
+            {
+                "xtf_id": "production_MTC_2009",
+                "year": "2009",
+                "production": "8516724",
+                "facility": "facility_MTC"
+            },
+            {
+                "xtf_id": "production_MTG_2009",
+                "year": "2009",
+                "production": "5116828",
+                "facility": "facility_MTG"
+            },
+            {
+                "xtf_id": "production_OGR_2009",
+                "year": "2009",
+                "production": "125753",
+                "facility": "facility_OGR"
+            },
+            {
+                "xtf_id": "production_SOO_2009",
+                "year": "2009",
+                "production": "12986",
+                "facility": "facility_SOO"
+            },
+            {
+                "xtf_id": "production_STB_2009",
+                "year": "2009",
+                "production": "2331988",
+                "facility": "facility_STB"
+            },
+            {
+                "xtf_id": "production_STM_2009",
+                "year": "2009",
+                "production": "11009",
+                "facility": "facility_STM"
+            },
+            {
+                "xtf_id": "production_SWM_2009",
+                "year": "2009",
+                "production": "11913",
+                "facility": "facility_SWM"
+            },
+            {
+                "xtf_id": "production_TRA_2009",
+                "year": "2009",
+                "production": "15793",
+                "facility": "facility_TRA"
+            },
+            {
+                "xtf_id": "production_WIT_2009",
+                "year": "2009",
+                "production": "18380",
+                "facility": "facility_WIT"
+            },
+            {
+                "xtf_id": "production_WIW_2009",
+                "year": "2009",
+                "production": "6518",
+                "facility": "facility_WIW"
+            }
+        ]
+    },
+    {
+        "year": "2010",
+        "yearlyProduction": 36654220,
+        "production": [
+            {
+                "xtf_id": "production_BRT_2010",
+                "year": "2010",
+                "production": "7220",
+                "facility": "facility_BRT"
+            },
+            {
+                "xtf_id": "production_BRU_2010",
+                "year": "2010",
+                "production": "5980",
+                "facility": "facility_BRU"
+            },
+            {
+                "xtf_id": "production_CHU_2010",
+                "year": "2010",
+                "production": "38049",
+                "facility": "facility_CHU"
+            },
+            {
+                "xtf_id": "production_COL_2010",
+                "year": "2010",
+                "production": "4818937",
+                "facility": "facility_COL"
+            },
+            {
+                "xtf_id": "production_DIE_2010",
+                "year": "2010",
+                "production": "9285",
+                "facility": "facility_DIE"
+            },
+            {
+                "xtf_id": "production_FEL_2010",
+                "year": "2010",
+                "production": "568000",
+                "facility": "facility_FEL"
+            },
+            {
+                "xtf_id": "production_GUE_2010",
+                "year": "2010",
+                "production": "1589326",
+                "facility": "facility_GUE"
+            },
+            {
+                "xtf_id": "production_LAJ_2010",
+                "year": "2010",
+                "production": "10664",
+                "facility": "facility_LAJ"
+            },
+            {
+                "xtf_id": "production_LCV_2010",
+                "year": "2010",
+                "production": "7479",
+                "facility": "facility_LCV"
+            },
+            {
+                "xtf_id": "production_LFE_2010",
+                "year": "2010",
+                "production": "8014",
+                "facility": "facility_LFE"
+            },
+            {
+                "xtf_id": "production_MAR_2010",
+                "year": "2010",
+                "production": "7420",
+                "facility": "facility_MAR"
+            },
+            {
+                "xtf_id": "production_MTC_2010",
+                "year": "2010",
+                "production": "16742419",
+                "facility": "facility_MTC"
+            },
+            {
+                "xtf_id": "production_MTG_2010",
+                "year": "2010",
+                "production": "5435800",
+                "facility": "facility_MTG"
+            },
+            {
+                "xtf_id": "production_OGR_2010",
+                "year": "2010",
+                "production": "109918",
+                "facility": "facility_OGR"
+            },
+            {
+                "xtf_id": "production_PEU_2010",
+                "year": "2010",
+                "production": "1095000",
+                "facility": "facility_PEU"
+            },
+            {
+                "xtf_id": "production_SCR_2010",
+                "year": "2010",
+                "production": "9215",
+                "facility": "facility_SCR"
+            },
+            {
+                "xtf_id": "production_SOO_2010",
+                "year": "2010",
+                "production": "15763",
+                "facility": "facility_SOO"
+            },
+            {
+                "xtf_id": "production_STB_2010",
+                "year": "2010",
+                "production": "6125712",
+                "facility": "facility_STB"
+            },
+            {
+                "xtf_id": "production_SWM_2010",
+                "year": "2010",
+                "production": "10940",
+                "facility": "facility_SWM"
+            },
+            {
+                "xtf_id": "production_TRA_2010",
+                "year": "2010",
+                "production": "14583",
+                "facility": "facility_TRA"
+            },
+            {
+                "xtf_id": "production_WIT_2010",
+                "year": "2010",
+                "production": "17928",
+                "facility": "facility_WIT"
+            },
+            {
+                "xtf_id": "production_WIW_2010",
+                "year": "2010",
+                "production": "6568",
+                "facility": "facility_WIW"
+            }
+        ]
+    },
+    {
+        "year": "2011",
+        "yearlyProduction": 69834993,
+        "production": [
+            {
+                "xtf_id": "production_BRT_2011",
+                "year": "2011",
+                "production": "5324",
+                "facility": "facility_BRT"
+            },
+            {
+                "xtf_id": "production_BRU_2011",
+                "year": "2011",
+                "production": "6378",
+                "facility": "facility_BRU"
+            },
+            {
+                "xtf_id": "production_CHU_2011",
+                "year": "2011",
+                "production": "26661",
+                "facility": "facility_CHU"
+            },
+            {
+                "xtf_id": "production_COL_2011",
+                "year": "2011",
+                "production": "4462659",
+                "facility": "facility_COL"
+            },
+            {
+                "xtf_id": "production_DIE_2011",
+                "year": "2011",
+                "production": "7585",
+                "facility": "facility_DIE"
+            },
+            {
+                "xtf_id": "production_FEL_2011",
+                "year": "2011",
+                "production": "696000",
+                "facility": "facility_FEL"
+            },
+            {
+                "xtf_id": "production_GUE_2011",
+                "year": "2011",
+                "production": "3122163",
+                "facility": "facility_GUE"
+            },
+            {
+                "xtf_id": "production_LAJ_2011",
+                "year": "2011",
+                "production": "10915",
+                "facility": "facility_LAJ"
+            },
+            {
+                "xtf_id": "production_LCV_2011",
+                "year": "2011",
+                "production": "6687",
+                "facility": "facility_LCV"
+            },
+            {
+                "xtf_id": "production_LFE_2011",
+                "year": "2011",
+                "production": "7791",
+                "facility": "facility_LFE"
+            },
+            {
+                "xtf_id": "production_MAR_2011",
+                "year": "2011",
+                "production": "9883",
+                "facility": "facility_MAR"
+            },
+            {
+                "xtf_id": "production_MTC_2011",
+                "year": "2011",
+                "production": "38985881",
+                "facility": "facility_MTC"
+            },
+            {
+                "xtf_id": "production_MTG_2011",
+                "year": "2011",
+                "production": "4815151",
+                "facility": "facility_MTG"
+            },
+            {
+                "xtf_id": "production_OGR_2011",
+                "year": "2011",
+                "production": "77284",
+                "facility": "facility_OGR"
+            },
+            {
+                "xtf_id": "production_PEU_2011",
+                "year": "2011",
+                "production": "11600000",
+                "facility": "facility_PEU"
+            },
+            {
+                "xtf_id": "production_SCH_2011",
+                "year": "2011",
+                "production": "2150",
+                "facility": "facility_SCH"
+            },
+            {
+                "xtf_id": "production_SCR_2011",
+                "year": "2011",
+                "production": "8422",
+                "facility": "facility_SCR"
+            },
+            {
+                "xtf_id": "production_SOO_2011",
+                "year": "2011",
+                "production": "11310",
+                "facility": "facility_SOO"
+            },
+            {
+                "xtf_id": "production_STB_2011",
+                "year": "2011",
+                "production": "5922364",
+                "facility": "facility_STB"
+            },
+            {
+                "xtf_id": "production_SWM_2011",
+                "year": "2011",
+                "production": "10755",
+                "facility": "facility_SWM"
+            },
+            {
+                "xtf_id": "production_TRA_2011",
+                "year": "2011",
+                "production": "14760",
+                "facility": "facility_TRA"
+            },
+            {
+                "xtf_id": "production_WIT_2011",
+                "year": "2011",
+                "production": "17292",
+                "facility": "facility_WIT"
+            },
+            {
+                "xtf_id": "production_WIW_2011",
+                "year": "2011",
+                "production": "7578",
+                "facility": "facility_WIW"
+            }
+        ]
+    },
+    {
+        "year": "2012",
+        "yearlyProduction": 88158885,
+        "production": [
+            {
+                "xtf_id": "production_BRT_2012",
+                "year": "2012",
+                "production": "9500",
+                "facility": "facility_BRT"
+            },
+            {
+                "xtf_id": "production_BRU_2012",
+                "year": "2012",
+                "production": "10462",
+                "facility": "facility_BRU"
+            },
+            {
+                "xtf_id": "production_CHA_2012",
+                "year": "2012",
+                "production": "2112244",
+                "facility": "facility_CHA"
+            },
+            {
+                "xtf_id": "production_CHU_2012",
+                "year": "2012",
+                "production": "38619",
+                "facility": "facility_CHU"
+            },
+            {
+                "xtf_id": "production_COL_2012",
+                "year": "2012",
+                "production": "5016480",
+                "facility": "facility_COL"
+            },
+            {
+                "xtf_id": "production_DIE_2012",
+                "year": "2012",
+                "production": "6756",
+                "facility": "facility_DIE"
+            },
+            {
+                "xtf_id": "production_FEL_2012",
+                "year": "2012",
+                "production": "1160000",
+                "facility": "facility_FEL"
+            },
+            {
+                "xtf_id": "production_GRI_2012",
+                "year": "2012",
+                "production": "2100000",
+                "facility": "facility_GRI"
+            },
+            {
+                "xtf_id": "production_GUE_2012",
+                "year": "2012",
+                "production": "4176834",
+                "facility": "facility_GUE"
+            },
+            {
+                "xtf_id": "production_LAJ_2012",
+                "year": "2012",
+                "production": "12386",
+                "facility": "facility_LAJ"
+            },
+            {
+                "xtf_id": "production_LCV_2012",
+                "year": "2012",
+                "production": "9308",
+                "facility": "facility_LCV"
+            },
+            {
+                "xtf_id": "production_LFE_2012",
+                "year": "2012",
+                "production": "9362",
+                "facility": "facility_LFE"
+            },
+            {
+                "xtf_id": "production_MAR_2012",
+                "year": "2012",
+                "production": "12185",
+                "facility": "facility_MAR"
+            },
+            {
+                "xtf_id": "production_MTC_2012",
+                "year": "2012",
+                "production": "45677108",
+                "facility": "facility_MTC"
+            },
+            {
+                "xtf_id": "production_MTG_2012",
+                "year": "2012",
+                "production": "5149042",
+                "facility": "facility_MTG"
+            },
+            {
+                "xtf_id": "production_OGR_2012",
+                "year": "2012",
+                "production": "126612",
+                "facility": "facility_OGR"
+            },
+            {
+                "xtf_id": "production_PEU_2012",
+                "year": "2012",
+                "production": "15300000",
+                "facility": "facility_PEU"
+            },
+            {
+                "xtf_id": "production_SCH_2012",
+                "year": "2012",
+                "production": "5550",
+                "facility": "facility_SCH"
+            },
+            {
+                "xtf_id": "production_SCR_2012",
+                "year": "2012",
+                "production": "9835",
+                "facility": "facility_SCR"
+            },
+            {
+                "xtf_id": "production_SOO_2012",
+                "year": "2012",
+                "production": "20590",
+                "facility": "facility_SOO"
+            },
+            {
+                "xtf_id": "production_STB_2012",
+                "year": "2012",
+                "production": "7137076",
+                "facility": "facility_STB"
+            },
+            {
+                "xtf_id": "production_SWM_2012",
+                "year": "2012",
+                "production": "13206",
+                "facility": "facility_SWM"
+            },
+            {
+                "xtf_id": "production_TRA_2012",
+                "year": "2012",
+                "production": "17148",
+                "facility": "facility_TRA"
+            },
+            {
+                "xtf_id": "production_WIT_2012",
+                "year": "2012",
+                "production": "19963",
+                "facility": "facility_WIT"
+            },
+            {
+                "xtf_id": "production_WIW_2012",
+                "year": "2012",
+                "production": "8619",
+                "facility": "facility_WIW"
+            }
+        ]
+    },
+    {
+        "year": "2013",
+        "yearlyProduction": 85843991,
+        "production": [
+            {
+                "xtf_id": "production_BEG_2013",
+                "year": "2013",
+                "production": "4155",
+                "facility": "facility_BEG"
+            },
+            {
+                "xtf_id": "production_BRT_2013",
+                "year": "2013",
+                "production": "8035",
+                "facility": "facility_BRT"
+            },
+            {
+                "xtf_id": "production_BRU_2013",
+                "year": "2013",
+                "production": "10470",
+                "facility": "facility_BRU"
+            },
+            {
+                "xtf_id": "production_CHA_2013",
+                "year": "2013",
+                "production": "6877309",
+                "facility": "facility_CHA"
+            },
+            {
+                "xtf_id": "production_CHU_2013",
+                "year": "2013",
+                "production": "35061",
+                "facility": "facility_CHU"
+            },
+            {
+                "xtf_id": "production_COL_2013",
+                "year": "2013",
+                "production": "4768362",
+                "facility": "facility_COL"
+            },
+            {
+                "xtf_id": "production_DIE_2013",
+                "year": "2013",
+                "production": "6304",
+                "facility": "facility_DIE"
+            },
+            {
+                "xtf_id": "production_FEL_2013",
+                "year": "2013",
+                "production": "986000",
+                "facility": "facility_FEL"
+            },
+            {
+                "xtf_id": "production_GRI_2013",
+                "year": "2013",
+                "production": "2000000",
+                "facility": "facility_GRI"
+            },
+            {
+                "xtf_id": "production_GUE_2013",
+                "year": "2013",
+                "production": "5027086",
+                "facility": "facility_GUE"
+            },
+            {
+                "xtf_id": "production_LAJ_2013",
+                "year": "2013",
+                "production": "12535",
+                "facility": "facility_LAJ"
+            },
+            {
+                "xtf_id": "production_LCV_2013",
+                "year": "2013",
+                "production": "6995",
+                "facility": "facility_LCV"
+            },
+            {
+                "xtf_id": "production_LFE_2013",
+                "year": "2013",
+                "production": "7598",
+                "facility": "facility_LFE"
+            },
+            {
+                "xtf_id": "production_LUT_2013",
+                "year": "2013",
+                "production": "820792",
+                "facility": "facility_LUT"
+            },
+            {
+                "xtf_id": "production_MAR_2013",
+                "year": "2013",
+                "production": "11417",
+                "facility": "facility_MAR"
+            },
+            {
+                "xtf_id": "production_MTC_2013",
+                "year": "2013",
+                "production": "40898337",
+                "facility": "facility_MTC"
+            },
+            {
+                "xtf_id": "production_MTG_2013",
+                "year": "2013",
+                "production": "5250103",
+                "facility": "facility_MTG"
+            },
+            {
+                "xtf_id": "production_OGR_2013",
+                "year": "2013",
+                "production": "81140",
+                "facility": "facility_OGR"
+            },
+            {
+                "xtf_id": "production_PEU_2013",
+                "year": "2013",
+                "production": "13100000",
+                "facility": "facility_PEU"
+            },
+            {
+                "xtf_id": "production_SCH_2013",
+                "year": "2013",
+                "production": "1184",
+                "facility": "facility_SCH"
+            },
+            {
+                "xtf_id": "production_SCR_2013",
+                "year": "2013",
+                "production": "8825",
+                "facility": "facility_SCR"
+            },
+            {
+                "xtf_id": "production_SOO_2013",
+                "year": "2013",
+                "production": "10492",
+                "facility": "facility_SOO"
+            },
+            {
+                "xtf_id": "production_STB_2013",
+                "year": "2013",
+                "production": "5857928",
+                "facility": "facility_STB"
+            },
+            {
+                "xtf_id": "production_SWM_2013",
+                "year": "2013",
+                "production": "11435",
+                "facility": "facility_SWM"
+            },
+            {
+                "xtf_id": "production_TRA_2013",
+                "year": "2013",
+                "production": "14945",
+                "facility": "facility_TRA"
+            },
+            {
+                "xtf_id": "production_WIT_2013",
+                "year": "2013",
+                "production": "19475",
+                "facility": "facility_WIT"
+            },
+            {
+                "xtf_id": "production_WIW_2013",
+                "year": "2013",
+                "production": "8008",
+                "facility": "facility_WIW"
+            }
+        ]
+    },
+    {
+        "year": "2014",
+        "yearlyProduction": 100943292,
+        "production": [
+            {
+                "xtf_id": "production_BEG_2014",
+                "year": "2014",
+                "production": "3509",
+                "facility": "facility_BEG"
+            },
+            {
+                "xtf_id": "production_BRT_2014",
+                "year": "2014",
+                "production": "7463",
+                "facility": "facility_BRT"
+            },
+            {
+                "xtf_id": "production_BRU_2014",
+                "year": "2014",
+                "production": "8828",
+                "facility": "facility_BRU"
+            },
+            {
+                "xtf_id": "production_CHA_2014",
+                "year": "2014",
+                "production": "6586736",
+                "facility": "facility_CHA"
+            },
+            {
+                "xtf_id": "production_CHU_2014",
+                "year": "2014",
+                "production": "30691",
+                "facility": "facility_CHU"
+            },
+            {
+                "xtf_id": "production_COL_2014",
+                "year": "2014",
+                "production": "4948598",
+                "facility": "facility_COL"
+            },
+            {
+                "xtf_id": "production_DIE_2014",
+                "year": "2014",
+                "production": "5681",
+                "facility": "facility_DIE"
+            },
+            {
+                "xtf_id": "production_FEL_2014",
+                "year": "2014",
+                "production": "884000",
+                "facility": "facility_FEL"
+            },
+            {
+                "xtf_id": "production_GRI_2014",
+                "year": "2014",
+                "production": "1805000",
+                "facility": "facility_GRI"
+            },
+            {
+                "xtf_id": "production_GUE_2014",
+                "year": "2014",
+                "production": "5388769",
+                "facility": "facility_GUE"
+            },
+            {
+                "xtf_id": "production_HAL_2014",
+                "year": "2014",
+                "production": "4340000",
+                "facility": "facility_HAL"
+            },
+            {
+                "xtf_id": "production_LAJ_2014",
+                "year": "2014",
+                "production": "12696",
+                "facility": "facility_LAJ"
+            },
+            {
+                "xtf_id": "production_LCV_2014",
+                "year": "2014",
+                "production": "7080",
+                "facility": "facility_LCV"
+            },
+            {
+                "xtf_id": "production_LFE_2014",
+                "year": "2014",
+                "production": "7016",
+                "facility": "facility_LFE"
+            },
+            {
+                "xtf_id": "production_LUT_2014",
+                "year": "2014",
+                "production": "2397000",
+                "facility": "facility_LUT"
+            },
+            {
+                "xtf_id": "production_MAR_2014",
+                "year": "2014",
+                "production": "8956",
+                "facility": "facility_MAR"
+            },
+            {
+                "xtf_id": "production_MTC_2014",
+                "year": "2014",
+                "production": "50453110",
+                "facility": "facility_MTC"
+            },
+            {
+                "xtf_id": "production_MTG_2014",
+                "year": "2014",
+                "production": "4925756",
+                "facility": "facility_MTG"
+            },
+            {
+                "xtf_id": "production_OGR_2014",
+                "year": "2014",
+                "production": "114652",
+                "facility": "facility_OGR"
+            },
+            {
+                "xtf_id": "production_PEU_2014",
+                "year": "2014",
+                "production": "12900000",
+                "facility": "facility_PEU"
+            },
+            {
+                "xtf_id": "production_SCH_2014",
+                "year": "2014",
+                "production": "4308",
+                "facility": "facility_SCH"
+            },
+            {
+                "xtf_id": "production_SCR_2014",
+                "year": "2014",
+                "production": "7915",
+                "facility": "facility_SCR"
+            },
+            {
+                "xtf_id": "production_SOO_2014",
+                "year": "2014",
+                "production": "14895",
+                "facility": "facility_SOO"
+            },
+            {
+                "xtf_id": "production_STB_2014",
+                "year": "2014",
+                "production": "6033356",
+                "facility": "facility_STB"
+            },
+            {
+                "xtf_id": "production_SWM_2014",
+                "year": "2014",
+                "production": "11803",
+                "facility": "facility_SWM"
+            },
+            {
+                "xtf_id": "production_TRA_2014",
+                "year": "2014",
+                "production": "13513",
+                "facility": "facility_TRA"
+            },
+            {
+                "xtf_id": "production_WIT_2014",
+                "year": "2014",
+                "production": "15518",
+                "facility": "facility_WIT"
+            },
+            {
+                "xtf_id": "production_WIW_2014",
+                "year": "2014",
+                "production": "6443",
+                "facility": "facility_WIW"
+            }
+        ]
+    },
+    {
+        "year": "2015",
+        "yearlyProduction": 109741516,
+        "production": [
+            {
+                "xtf_id": "production_BEG_2015",
+                "year": "2015",
+                "production": "5187",
+                "facility": "facility_BEG"
+            },
+            {
+                "xtf_id": "production_BRT_2015",
+                "year": "2015",
+                "production": "7490",
+                "facility": "facility_BRT"
+            },
+            {
+                "xtf_id": "production_BRU_2015",
+                "year": "2015",
+                "production": "9915",
+                "facility": "facility_BRU"
+            },
+            {
+                "xtf_id": "production_CHA_2015",
+                "year": "2015",
+                "production": "6713791",
+                "facility": "facility_CHA"
+            },
+            {
+                "xtf_id": "production_CHU_2015",
+                "year": "2015",
+                "production": "39019",
+                "facility": "facility_CHU"
+            },
+            {
+                "xtf_id": "production_COL_2015",
+                "year": "2015",
+                "production": "4600926",
+                "facility": "facility_COL"
+            },
+            {
+                "xtf_id": "production_DIE_2015",
+                "year": "2015",
+                "production": "6273",
+                "facility": "facility_DIE"
+            },
+            {
+                "xtf_id": "production_FEL_2015",
+                "year": "2015",
+                "production": "1196000",
+                "facility": "facility_FEL"
+            },
+            {
+                "xtf_id": "production_GRI_2015",
+                "year": "2015",
+                "production": "1727777",
+                "facility": "facility_GRI"
+            },
+            {
+                "xtf_id": "production_GUE_2015",
+                "year": "2015",
+                "production": "5060297",
+                "facility": "facility_GUE"
+            },
+            {
+                "xtf_id": "production_HAL_2015",
+                "year": "2015",
+                "production": "4278000",
+                "facility": "facility_HAL"
+            },
+            {
+                "xtf_id": "production_LCV_2015",
+                "year": "2015",
+                "production": "6816",
+                "facility": "facility_LCV"
+            },
+            {
+                "xtf_id": "production_LFE_2015",
+                "year": "2015",
+                "production": "9084",
+                "facility": "facility_LFE"
+            },
+            {
+                "xtf_id": "production_LUT_2015",
+                "year": "2015",
+                "production": "2740000",
+                "facility": "facility_LUT"
+            },
+            {
+                "xtf_id": "production_MAR_2015",
+                "year": "2015",
+                "production": "10749",
+                "facility": "facility_MAR"
+            },
+            {
+                "xtf_id": "production_MTC_2015",
+                "year": "2015",
+                "production": "56951099",
+                "facility": "facility_MTC"
+            },
+            {
+                "xtf_id": "production_MTG_2015",
+                "year": "2015",
+                "production": "5040636",
+                "facility": "facility_MTG"
+            },
+            {
+                "xtf_id": "production_OGR_2015",
+                "year": "2015",
+                "production": "120836",
+                "facility": "facility_OGR"
+            },
+            {
+                "xtf_id": "production_PEU_2015",
+                "year": "2015",
+                "production": "14436000",
+                "facility": "facility_PEU"
+            },
+            {
+                "xtf_id": "production_SCH_2015",
+                "year": "2015",
+                "production": "19487",
+                "facility": "facility_SCH"
+            },
+            {
+                "xtf_id": "production_SCR_2015",
+                "year": "2015",
+                "production": "10300",
+                "facility": "facility_SCR"
+            },
+            {
+                "xtf_id": "production_SOO_2015",
+                "year": "2015",
+                "production": "15595",
+                "facility": "facility_SOO"
+            },
+            {
+                "xtf_id": "production_STB_2015",
+                "year": "2015",
+                "production": "6677880",
+                "facility": "facility_STB"
+            },
+            {
+                "xtf_id": "production_SWM_2015",
+                "year": "2015",
+                "production": "11906",
+                "facility": "facility_SWM"
+            },
+            {
+                "xtf_id": "production_TRA_2015",
+                "year": "2015",
+                "production": "14806",
+                "facility": "facility_TRA"
+            },
+            {
+                "xtf_id": "production_VIL_2015",
+                "year": "2015",
+                "production": "5922",
+                "facility": "facility_VIL"
+            },
+            {
+                "xtf_id": "production_WIT_2015",
+                "year": "2015",
+                "production": "17533",
+                "facility": "facility_WIT"
+            },
+            {
+                "xtf_id": "production_WIW_2015",
+                "year": "2015",
+                "production": "8192",
+                "facility": "facility_WIW"
+            }
+        ]
+    },
+    {
+        "year": "2016",
+        "yearlyProduction": 108639458,
+        "production": [
+            {
+                "xtf_id": "production_BEG_2016",
+                "year": "2016",
+                "production": "5832",
+                "facility": "facility_BEG"
+            },
+            {
+                "xtf_id": "production_BRT_2016",
+                "year": "2016",
+                "production": "8922",
+                "facility": "facility_BRT"
+            },
+            {
+                "xtf_id": "production_BRU_2016",
+                "year": "2016",
+                "production": "9960",
+                "facility": "facility_BRU"
+            },
+            {
+                "xtf_id": "production_CHA_2016",
+                "year": "2016",
+                "production": "7047061",
+                "facility": "facility_CHA"
+            },
+            {
+                "xtf_id": "production_COL_2016",
+                "year": "2016",
+                "production": "4333173",
+                "facility": "facility_COL"
+            },
+            {
+                "xtf_id": "production_DIE_2016",
+                "year": "2016",
+                "production": "5791",
+                "facility": "facility_DIE"
+            },
+            {
+                "xtf_id": "production_FEL_2016",
+                "year": "2016",
+                "production": "1081000",
+                "facility": "facility_FEL"
+            },
+            {
+                "xtf_id": "production_GOL_2016",
+                "year": "2016",
+                "production": "25176",
+                "facility": "facility_GOL"
+            },
+            {
+                "xtf_id": "production_GRI_2016",
+                "year": "2016",
+                "production": "2361082",
+                "facility": "facility_GRI"
+            },
+            {
+                "xtf_id": "production_GUE_2016",
+                "year": "2016",
+                "production": "5071268",
+                "facility": "facility_GUE"
+            },
+            {
+                "xtf_id": "production_HAL_2016",
+                "year": "2016",
+                "production": "4372000",
+                "facility": "facility_HAL"
+            },
+            {
+                "xtf_id": "production_LCV_2016",
+                "year": "2016",
+                "production": "7376",
+                "facility": "facility_LCV"
+            },
+            {
+                "xtf_id": "production_LFE_2016",
+                "year": "2016",
+                "production": "8073",
+                "facility": "facility_LFE"
+            },
+            {
+                "xtf_id": "production_LUT_2016",
+                "year": "2016",
+                "production": "2787260",
+                "facility": "facility_LUT"
+            },
+            {
+                "xtf_id": "production_MAR_2016",
+                "year": "2016",
+                "production": "13062",
+                "facility": "facility_MAR"
+            },
+            {
+                "xtf_id": "production_MTC_2016",
+                "year": "2016",
+                "production": "57170910",
+                "facility": "facility_MTC"
+            },
+            {
+                "xtf_id": "production_MTG_2016",
+                "year": "2016",
+                "production": "4596768",
+                "facility": "facility_MTG"
+            },
+            {
+                "xtf_id": "production_OGR_2016",
+                "year": "2016",
+                "production": "119460",
+                "facility": "facility_OGR"
+            },
+            {
+                "xtf_id": "production_PEU_2016",
+                "year": "2016",
+                "production": "13366135",
+                "facility": "facility_PEU"
+            },
+            {
+                "xtf_id": "production_SCH_2016",
+                "year": "2016",
+                "production": "20619",
+                "facility": "facility_SCH"
+            },
+            {
+                "xtf_id": "production_SCR_2016",
+                "year": "2016",
+                "production": "9100",
+                "facility": "facility_SCR"
+            },
+            {
+                "xtf_id": "production_SOO_2016",
+                "year": "2016",
+                "production": "11682",
+                "facility": "facility_SOO"
+            },
+            {
+                "xtf_id": "production_STB_2016",
+                "year": "2016",
+                "production": "6141928",
+                "facility": "facility_STB"
+            },
+            {
+                "xtf_id": "production_SWM_2016",
+                "year": "2016",
+                "production": "12215",
+                "facility": "facility_SWM"
+            },
+            {
+                "xtf_id": "production_TRA_2016",
+                "year": "2016",
+                "production": "14084",
+                "facility": "facility_TRA"
+            },
+            {
+                "xtf_id": "production_VIL_2016",
+                "year": "2016",
+                "production": "13119",
+                "facility": "facility_VIL"
+            },
+            {
+                "xtf_id": "production_WIT_2016",
+                "year": "2016",
+                "production": "18109",
+                "facility": "facility_WIT"
+            },
+            {
+                "xtf_id": "production_WIW_2016",
+                "year": "2016",
+                "production": "8293",
+                "facility": "facility_WIW"
+            }
+        ]
+    },
+    {
+        "year": "2017",
+        "yearlyProduction": 132592356,
+        "production": [
+            {
+                "xtf_id": "production_BEG_2017",
+                "year": "2017",
+                "production": "5434",
+                "facility": "facility_BEG"
+            },
+            {
+                "xtf_id": "production_BRU_2017",
+                "year": "2017",
+                "production": "10408",
+                "facility": "facility_BRU"
+            },
+            {
+                "xtf_id": "production_CHA_2017",
+                "year": "2017",
+                "production": "7052745",
+                "facility": "facility_CHA"
+            },
+            {
+                "xtf_id": "production_COL_2017",
+                "year": "2017",
+                "production": "4395713",
+                "facility": "facility_COL"
+            },
+            {
+                "xtf_id": "production_DIE_2017",
+                "year": "2017",
+                "production": "12406",
+                "facility": "facility_DIE"
+            },
+            {
+                "xtf_id": "production_FEL_2017",
+                "year": "2017",
+                "production": "1240000",
+                "facility": "facility_FEL"
+            },
+            {
+                "xtf_id": "production_GOL_2017",
+                "year": "2017",
+                "production": "20000",
+                "facility": "facility_GOL"
+            },
+            {
+                "xtf_id": "production_GRI_2017",
+                "year": "2017",
+                "production": "7792916",
+                "facility": "facility_GRI"
+            },
+            {
+                "xtf_id": "production_GUE_2017",
+                "year": "2017",
+                "production": "5046885",
+                "facility": "facility_GUE"
+            },
+            {
+                "xtf_id": "production_HAL_2017",
+                "year": "2017",
+                "production": "4137628",
+                "facility": "facility_HAL"
+            },
+            {
+                "xtf_id": "production_LCV_2017",
+                "year": "2017",
+                "production": "7649",
+                "facility": "facility_LCV"
+            },
+            {
+                "xtf_id": "production_LFE_2017",
+                "year": "2017",
+                "production": "8080",
+                "facility": "facility_LFE"
+            },
+            {
+                "xtf_id": "production_LUT_2017",
+                "year": "2017",
+                "production": "3190630",
+                "facility": "facility_LUT"
+            },
+            {
+                "xtf_id": "production_MAR_2017",
+                "year": "2017",
+                "production": "12554",
+                "facility": "facility_MAR"
+            },
+            {
+                "xtf_id": "production_MTC_2017",
+                "year": "2017",
+                "production": "74041716",
+                "facility": "facility_MTC"
+            },
+            {
+                "xtf_id": "production_MTG_2017",
+                "year": "2017",
+                "production": "5195469",
+                "facility": "facility_MTG"
+            },
+            {
+                "xtf_id": "production_OGR_2017",
+                "year": "2017",
+                "production": "117242",
+                "facility": "facility_OGR"
+            },
+            {
+                "xtf_id": "production_PEU_2017",
+                "year": "2017",
+                "production": "13186281",
+                "facility": "facility_PEU"
+            },
+            {
+                "xtf_id": "production_SCH_2017",
+                "year": "2017",
+                "production": "21447",
+                "facility": "facility_SCH"
+            },
+            {
+                "xtf_id": "production_SCR_2017",
+                "year": "2017",
+                "production": "8200",
+                "facility": "facility_SCR"
+            },
+            {
+                "xtf_id": "production_SOO_2017",
+                "year": "2017",
+                "production": "14735",
+                "facility": "facility_SOO"
+            },
+            {
+                "xtf_id": "production_STB_2017",
+                "year": "2017",
+                "production": "7002574",
+                "facility": "facility_STB"
+            },
+            {
+                "xtf_id": "production_SWM_2017",
+                "year": "2017",
+                "production": "12262",
+                "facility": "facility_SWM"
+            },
+            {
+                "xtf_id": "production_TRA_2017",
+                "year": "2017",
+                "production": "14830",
+                "facility": "facility_TRA"
+            },
+            {
+                "xtf_id": "production_VIL_2017",
+                "year": "2017",
+                "production": "14594",
+                "facility": "facility_VIL"
+            },
+            {
+                "xtf_id": "production_WIT_2017",
+                "year": "2017",
+                "production": "21534",
+                "facility": "facility_WIT"
+            },
+            {
+                "xtf_id": "production_WIW_2017",
+                "year": "2017",
+                "production": "8424",
+                "facility": "facility_WIW"
+            }
+        ]
+    },
+    {
+        "year": "2018",
+        "yearlyProduction": 121753440,
+        "production": [
+            {
+                "xtf_id": "production_ALL_2018",
+                "year": "2018",
+                "production": "10188",
+                "facility": "facility_ALL"
+            },
+            {
+                "xtf_id": "production_BEG_2018",
+                "year": "2018",
+                "production": "4473",
+                "facility": "facility_BEG"
+            },
+            {
+                "xtf_id": "production_BRT_2018",
+                "year": "2018",
+                "production": "7348",
+                "facility": "facility_BRT"
+            },
+            {
+                "xtf_id": "production_BRU_2018",
+                "year": "2018",
+                "production": "11575",
+                "facility": "facility_BRU"
+            },
+            {
+                "xtf_id": "production_CHA_2018",
+                "year": "2018",
+                "production": "6705182",
+                "facility": "facility_CHA"
+            },
+            {
+                "xtf_id": "production_COL_2018",
+                "year": "2018",
+                "production": "4882881",
+                "facility": "facility_COL"
+            },
+            {
+                "xtf_id": "production_DIE_2018",
+                "year": "2018",
+                "production": "18600",
+                "facility": "facility_DIE"
+            },
+            {
+                "xtf_id": "production_FEL_2018",
+                "year": "2018",
+                "production": "895000",
+                "facility": "facility_FEL"
+            },
+            {
+                "xtf_id": "production_GOL_2018",
+                "year": "2018",
+                "production": "15483",
+                "facility": "facility_GOL"
+            },
+            {
+                "xtf_id": "production_GRI_2018",
+                "year": "2018",
+                "production": "5266116",
+                "facility": "facility_GRI"
+            },
+            {
+                "xtf_id": "production_GUE_2018",
+                "year": "2018",
+                "production": "5053040",
+                "facility": "facility_GUE"
+            },
+            {
+                "xtf_id": "production_HAL_2018",
+                "year": "2018",
+                "production": "4920000",
+                "facility": "facility_HAL"
+            },
+            {
+                "xtf_id": "production_LCV_2018",
+                "year": "2018",
+                "production": "7656",
+                "facility": "facility_LCV"
+            },
+            {
+                "xtf_id": "production_LFE_2018",
+                "year": "2018",
+                "production": "6457",
+                "facility": "facility_LFE"
+            },
+            {
+                "xtf_id": "production_LUT_2018",
+                "year": "2018",
+                "production": "2462570",
+                "facility": "facility_LUT"
+            },
+            {
+                "xtf_id": "production_MAR_2018",
+                "year": "2018",
+                "production": "9930",
+                "facility": "facility_MAR"
+            },
+            {
+                "xtf_id": "production_MTC_2018",
+                "year": "2018",
+                "production": "66966872",
+                "facility": "facility_MTC"
+            },
+            {
+                "xtf_id": "production_MTG_2018",
+                "year": "2018",
+                "production": "5034476",
+                "facility": "facility_MTG"
+            },
+            {
+                "xtf_id": "production_OGR_2018",
+                "year": "2018",
+                "production": "100140",
+                "facility": "facility_OGR"
+            },
+            {
+                "xtf_id": "production_PEU_2018",
+                "year": "2018",
+                "production": "12480000",
+                "facility": "facility_PEU"
+            },
+            {
+                "xtf_id": "production_SCR_2018",
+                "year": "2018",
+                "production": "9160",
+                "facility": "facility_SCR"
+            },
+            {
+                "xtf_id": "production_SOO_2018",
+                "year": "2018",
+                "production": "5191",
+                "facility": "facility_SOO"
+            },
+            {
+                "xtf_id": "production_STB_2018",
+                "year": "2018",
+                "production": "6813852",
+                "facility": "facility_STB"
+            },
+            {
+                "xtf_id": "production_SWM_2018",
+                "year": "2018",
+                "production": "8187",
+                "facility": "facility_SWM"
+            },
+            {
+                "xtf_id": "production_TRA_2018",
+                "year": "2018",
+                "production": "12519",
+                "facility": "facility_TRA"
+            },
+            {
+                "xtf_id": "production_VIL_2018",
+                "year": "2018",
+                "production": "17784",
+                "facility": "facility_VIL"
+            },
+            {
+                "xtf_id": "production_WIT_2018",
+                "year": "2018",
+                "production": "20514",
+                "facility": "facility_WIT"
+            },
+            {
+                "xtf_id": "production_WIW_2018",
+                "year": "2018",
+                "production": "8246",
+                "facility": "facility_WIW"
+            }
+        ]
+    },
+    {
+        "year": "2019",
+        "yearlyProduction": 145903943,
+        "production": [
+            {
+                "xtf_id": "production_ALL_2019",
+                "year": "2019",
+                "production": "11229",
+                "facility": "facility_ALL"
+            },
+            {
+                "xtf_id": "production_BEG_2019",
+                "year": "2019",
+                "production": "6424",
+                "facility": "facility_BEG"
+            },
+            {
+                "xtf_id": "production_BRT_2019",
+                "year": "2019",
+                "production": "10857",
+                "facility": "facility_BRT"
+            },
+            {
+                "xtf_id": "production_BRU_2019",
+                "year": "2019",
+                "production": "11216",
+                "facility": "facility_BRU"
+            },
+            {
+                "xtf_id": "production_CHA_2019",
+                "year": "2019",
+                "production": "6685021",
+                "facility": "facility_CHA"
+            },
+            {
+                "xtf_id": "production_COL_2019",
+                "year": "2019",
+                "production": "4707831",
+                "facility": "facility_COL"
+            },
+            {
+                "xtf_id": "production_DIE_2019",
+                "year": "2019",
+                "production": "14400",
+                "facility": "facility_DIE"
+            },
+            {
+                "xtf_id": "production_FEL_2019",
+                "year": "2019",
+                "production": "1439000",
+                "facility": "facility_FEL"
+            },
+            {
+                "xtf_id": "production_GRI_2019",
+                "year": "2019",
+                "production": "6827176",
+                "facility": "facility_GRI"
+            },
+            {
+                "xtf_id": "production_GUE_2019",
+                "year": "2019",
+                "production": "6132085",
+                "facility": "facility_GUE"
+            },
+            {
+                "xtf_id": "production_HAL_2019",
+                "year": "2019",
+                "production": "4639000",
+                "facility": "facility_HAL"
+            },
+            {
+                "xtf_id": "production_LCV_2019",
+                "year": "2019",
+                "production": "8611",
+                "facility": "facility_LCV"
+            },
+            {
+                "xtf_id": "production_LFE_2019",
+                "year": "2019",
+                "production": "7907",
+                "facility": "facility_LFE"
+            },
+            {
+                "xtf_id": "production_LUT_2019",
+                "year": "2019",
+                "production": "3376744",
+                "facility": "facility_LUT"
+            },
+            {
+                "xtf_id": "production_MAR_2019",
+                "year": "2019",
+                "production": "11751",
+                "facility": "facility_MAR"
+            },
+            {
+                "xtf_id": "production_MTC_2019",
+                "year": "2019",
+                "production": "82923044",
+                "facility": "facility_MTC"
+            },
+            {
+                "xtf_id": "production_MTG_2019",
+                "year": "2019",
+                "production": "5166660",
+                "facility": "facility_MTG"
+            },
+            {
+                "xtf_id": "production_OGR_2019",
+                "year": "2019",
+                "production": "118423",
+                "facility": "facility_OGR"
+            },
+            {
+                "xtf_id": "production_PEU_2019",
+                "year": "2019",
+                "production": "15329165",
+                "facility": "facility_PEU"
+            },
+            {
+                "xtf_id": "production_SCR_2019",
+                "year": "2019",
+                "production": "9430",
+                "facility": "facility_SCR"
+            },
+            {
+                "xtf_id": "production_SOO_2019",
+                "year": "2019",
+                "production": "3377",
+                "facility": "facility_SOO"
+            },
+            {
+                "xtf_id": "production_STB_2019",
+                "year": "2019",
+                "production": "8393372",
+                "facility": "facility_STB"
+            },
+            {
+                "xtf_id": "production_SWM_2019",
+                "year": "2019",
+                "production": "12589",
+                "facility": "facility_SWM"
+            },
+            {
+                "xtf_id": "production_TRA_2019",
+                "year": "2019",
+                "production": "14639",
+                "facility": "facility_TRA"
+            },
+            {
+                "xtf_id": "production_VIL_2019",
+                "year": "2019",
+                "production": "15375",
+                "facility": "facility_VIL"
+            },
+            {
+                "xtf_id": "production_WIT_2019",
+                "year": "2019",
+                "production": "20885",
+                "facility": "facility_WIT"
+            },
+            {
+                "xtf_id": "production_WIW_2019",
+                "year": "2019",
+                "production": "7732",
+                "facility": "facility_WIW"
+            }
+        ]
+    },
+    {
+        "year": "2020",
+        "yearlyProduction": 144482935,
+        "production": [
+            {
+                "xtf_id": "production_ALL_2020",
+                "year": "2020",
+                "production": "11540",
+                "facility": "facility_ALL"
+            },
+            {
+                "xtf_id": "production_BEG_2020",
+                "year": "2020",
+                "production": "5302",
+                "facility": "facility_BEG"
+            },
+            {
+                "xtf_id": "production_BRT_2020",
+                "year": "2020",
+                "production": "10007",
+                "facility": "facility_BRT"
+            },
+            {
+                "xtf_id": "production_BRU_2020",
+                "year": "2020",
+                "production": "11305",
+                "facility": "facility_BRU"
+            },
+            {
+                "xtf_id": "production_CHA_2020",
+                "year": "2020",
+                "production": "6818140",
+                "facility": "facility_CHA"
+            },
+            {
+                "xtf_id": "production_COL_2020",
+                "year": "2020",
+                "production": "4633189",
+                "facility": "facility_COL"
+            },
+            {
+                "xtf_id": "production_DIE_2020",
+                "year": "2020",
+                "production": "20928",
+                "facility": "facility_DIE"
+            },
+            {
+                "xtf_id": "production_FEL_2020",
+                "year": "2020",
+                "production": "1291000",
+                "facility": "facility_FEL"
+            },
+            {
+                "xtf_id": "production_GRI_2020",
+                "year": "2020",
+                "production": "5769647",
+                "facility": "facility_GRI"
+            },
+            {
+                "xtf_id": "production_GUE_2020",
+                "year": "2020",
+                "production": "4695444",
+                "facility": "facility_GUE"
+            },
+            {
+                "xtf_id": "production_HAL_2020",
+                "year": "2020",
+                "production": "4541000",
+                "facility": "facility_HAL"
+            },
+            {
+                "xtf_id": "production_LCV_2020",
+                "year": "2020",
+                "production": "9241",
+                "facility": "facility_LCV"
+            },
+            {
+                "xtf_id": "production_LFE_2020",
+                "year": "2020",
+                "production": "7974",
+                "facility": "facility_LFE"
+            },
+            {
+                "xtf_id": "production_LUT_2020",
+                "year": "2020",
+                "production": "3068870",
+                "facility": "facility_LUT"
+            },
+            {
+                "xtf_id": "production_MAR_2020",
+                "year": "2020",
+                "production": "11758",
+                "facility": "facility_MAR"
+            },
+            {
+                "xtf_id": "production_MTC_2020",
+                "year": "2020",
+                "production": "84737283",
+                "facility": "facility_MTC"
+            },
+            {
+                "xtf_id": "production_MTG_2020",
+                "year": "2020",
+                "production": "5077822",
+                "facility": "facility_MTG"
+            },
+            {
+                "xtf_id": "production_OGR_2020",
+                "year": "2020",
+                "production": "118339",
+                "facility": "facility_OGR"
+            },
+            {
+                "xtf_id": "production_PEU_2020",
+                "year": "2020",
+                "production": "15537763",
+                "facility": "facility_PEU"
+            },
+            {
+                "xtf_id": "production_SCR_2020",
+                "year": "2020",
+                "production": "9710",
+                "facility": "facility_SCR"
+            },
+            {
+                "xtf_id": "production_SOO_2020",
+                "year": "2020",
+                "production": "0",
+                "facility": "facility_SOO"
+            },
+            {
+                "xtf_id": "production_STB_2020",
+                "year": "2020",
+                "production": "8024472",
+                "facility": "facility_STB"
+            },
+            {
+                "xtf_id": "production_SWM_2020",
+                "year": "2020",
+                "production": "13505",
+                "facility": "facility_SWM"
+            },
+            {
+                "xtf_id": "production_TRA_2020",
+                "year": "2020",
+                "production": "16215",
+                "facility": "facility_TRA"
+            },
+            {
+                "xtf_id": "production_VIL_2020",
+                "year": "2020",
+                "production": "12881",
+                "facility": "facility_VIL"
+            },
+            {
+                "xtf_id": "production_WIT_2020",
+                "year": "2020",
+                "production": "20631",
+                "facility": "facility_WIT"
+            },
+            {
+                "xtf_id": "production_WIW_2020",
+                "year": "2020",
+                "production": "8969",
+                "facility": "facility_WIW"
+            }
+        ]
+    }
+]
