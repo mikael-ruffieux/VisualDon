@@ -31,7 +31,6 @@ html, body {
     font-size: 60px;
     line-height: 90%;
     font-weight: 600;
-    max-width: 60%;
   }
 
   .blue-dot::after {
