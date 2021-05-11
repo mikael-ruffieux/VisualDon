@@ -1,95 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
 :root {
     --full-width : 100vw;
     --big-width : 75vw;
     --small-width: 25vw;
 
-    --big-height: 82vh;
+    --big-height: 60vh;
     --medium-height: 10vh;
     --small-height: 5vh;
 
     --left-margin: 80vw;
+
+    --faded-black: 
 }
 
 html, body {
     margin: 0;
-    width: 0;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 100vw;
+    min-height: 100vh;
+    font-family: 'Poppins', sans-serif;
+  }
+
+  #intro {
+    z-index: 100;
+  }
+
+  #intro h1 {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-size: 60px;
+    line-height: 90%;
+    font-weight: 600;
+    max-width: 60%;
+  }
+
+  .blue-dot::after {
+    content: ".";
+    color: blue;
   }
 
   #map {
     width: var(--full-width);
     height: var(--big-height);
-    position: absolute;
-    top: 0;
-    left: 0;
+    display: block;
   }
 
-  #production {
-    position: absolute;
-    bottom: var(--medium-height); 
-    left: 0;
-    width: var(--big-width);
-    height: var(--small-height);
-  }
 
-  #production-label {
-    position: absolute;
-    bottom: var(--medium-height); 
-    right: 0;
-    width: var(--small-width);
-    height: var(--small-height);
-    left: var(--left-margin);
-  }
-
-  #slider {
-    position: absolute;
-    bottom: 0;
-    left:0;
-    width: var(--big-width);
-    height: var(--medium-height);
-  }
-  
   #year {
-    position: absolute;
-    bottom: 0;
-    right: 0;
-    left: var(--left-margin);
-    width: var(--small-width);
-    height: var(--medium-height);
-    font-size: 50px;
+    font-size: 30px;
+    font-weight: 600;
   }
 
-  /* The slider itself */
+  #legendes h3 {
+    font-size: 18px;
+  }
+
+  #legendes img {
+    max-height: 40px;
+  }
+
   .slider {
-    -webkit-appearance: none;  /* Override default CSS styles */
-    appearance: none;
-    width: var(--big-width); 
+    width: 100%; 
     height: 25px; 
-    background: #d3d3d3; 
-    outline: none; /* Remove outline */
-    opacity: 0.7; /* Set transparency (for mouse-over effects on hover) */
-    -webkit-transition: .2s; /* 0.2 seconds transition on hover */
-    transition: opacity .2s;
-    margin-top: 25px;
-  }
-
-  /* Mouse-over effects */
-  .slider:hover {
-    opacity: 1; /* Fully shown on mouse-over */
-  }
-
-  .slider::-webkit-slider-thumb {
-    -webkit-appearance: none; /* Override default look */
-    appearance: none;
-    width: 25px; /* Set a specific slider handle width */
-    height: 25px; /* Slider handle height */
-    background: blue; /* Green background */
-    cursor: pointer; /* Cursor on hover */
-  }
-
-  .slider::-moz-range-thumb {
-    width: 25px; /* Set a specific slider handle width */
-    height: 25px; /* Slider handle height */
-    background: blue; /* Green background */
-    cursor: pointer; /* Cursor on hover */
+    margin-top: 10px
   }

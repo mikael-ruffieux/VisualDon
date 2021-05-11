@@ -1,5 +1,5 @@
 import L from 'leaflet';
-import {axisLeft,select,scaleLinear,max, Adder} from 'd3';
+import {select,max} from 'd3';
 import map_data from './prepared_data/prepared_map_v2.json';
 import production_data from './prepared_data/prepared_production.json';
 
@@ -55,7 +55,7 @@ function moveProgressBar(value){
 
 
 // ##### Map ######
-const map = L.map('map').setView([46.79845, 8.23188], 8);
+const map = L.map('map').setView([46.79845, 8.23188], 7);
 
 function isDismantled (currentYear, yearOfDismantling) {
 	if(yearOfDismantling == "" || currentYear < yearOfDismantling) {
@@ -67,7 +67,7 @@ function isDismantled (currentYear, yearOfDismantling) {
 
 L.tileLayer('https://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png', {
 	maxZoom: 19,
-	attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Tiles style by <a href="https://www.hotosm.org/" target="_blank">Humanitarian OpenStreetMap Team</a> hosted by <a href="https://openstreetmap.fr/" target="_blank">OpenStreetMap France</a>'
+	attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
 }).addTo(map);
 
 const iconDown = L.icon({
@@ -103,7 +103,7 @@ function displayTurbines (year) {
 				L.marker([turbine.latitude, turbine.longitude], {
 					icon: isDismantled(year, turbine.yearOfDismantling) ? iconDown : iconUp,
 					title: turbine.id,
-				}).addTo(layerGroup).bindPopup("Puissance: " + turbine.ratedPower + " kW<br>Fabriquant: " + turbine.manufacturer);
+				}).addTo(layerGroup).bindPopup("Puissance: " + turbine.ratedPower + " kW<br>Fabriquant: " + turbine.manufacturer + "<br>Statut : " + (isDismantled(year, turbine.yearOfDismantling) ? "Hors service" :"En exploitation"));
 			}
 		});
 	}
@@ -133,7 +133,7 @@ slider.addEventListener("input", () => updateData(slider.value));
 slider.addEventListener("change", () => updateData(slider.value));
 
 // Animation
-
+/*
 setInterval(() => {
 	let range = document.getElementById("myRange");
 
@@ -146,3 +146,4 @@ setInterval(() => {
 	}
 	updateData(range.value)
 }, 1000);
+*/

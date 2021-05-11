@@ -1,22 +1,71 @@
 <!DOCTYPE html>
 <html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Projet VisualDon - Mikael</title>
 
-    <link rel="stylesheet" href="leaflet.css" />
-    <link rel="stylesheet" href="style.css" />
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Projet VisualDon - Mikael</title>
+
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+	<link rel="stylesheet" href="leaflet.css" />
+	<link rel="stylesheet" href="style.css" />
 </head>
+
 <body>
-    <div id="map"></div>
-    <div id="production"></div>
-    <div id="production-label"></div>
-    <div id="slider">
-      <input type="range" min="1986" max="2021" value="1986" class="slider" id="myRange">
-    </div>
-    <div id="year"></div>
-    <script src="bundle.js"></script>
+	<div id="intro" class="container">
+		<div class="row">
+			<div class="col-12">
+				<h1 class="blue-dot">Évolution du parc éolien suisse</h1>
+				<p>Depuis la construction de la première éolienne sur le territoire helvétique,
+					 en <b>1986</b>, à aujourd'hui, le parc éolien suisse a beaucoup évolué, et
+					 la production d'électricité éolienne compose une part de plus en plus 
+					 grande du <b><a href="https://www.kernenergie.ch/fr/le-mix-electrique-suisse-_content---1--1069.html" target="_blank" title="Vers un aperçu du mix énergétique suisse">mix énergétique du pays</b></a>.<br>
+					 <small><i>(Même si en 2020, cela ne représente que ~0.25% du mix)</i></small></p>
+
+				<p>Découvrez à travers ce graphique l'évolution du <b>parc éolien suisse</b> et de la <b>production d'énergie éolienne</b>.</p>
+			</div>
+		</div>
+	</div>
+
+	<div id="map"></div>
+
+	<div class="container">
+		<div class="row mt-3">
+			<div class="col-9">
+				<div id="production"></div>
+			</div>
+			<div class="col-3">
+				<div id="production-label"></div>
+			</div>
+		</div>
+		<div class="row mt-1">
+			<div class="col-9">
+				<div id="slider">
+					<input type="range" min="1986" max="2021" value="1986" class="slider" id="myRange">
+				</div>
+			</div>
+			<div class="col-3">
+				<div id="year"></div>
+			</div>
+		</div>
+		<div class="row my-3" id="legendes">
+			<div class="col-12">
+				<h3>Légendes</h3>
+			</div>
+			<div class="col-6">
+				<img src="https://www.shareicon.net/data/512x512/2015/09/07/97540_wind_512x512.png" alt="Eolienne bleue">
+				<span>Installation éolienne en fonction</span>
+			</div>
+			<div class="col-6">
+				<img src="https://pics.freeicons.io/uploads/icons/png/6505515751548329636-512.png" alt="Eolienne noire">
+				<span>Installation éolienne démantelée</span>
+			</div>
+		</div>
+	</div>
+
+	
+	<script src="bundle.js"></script>
 </body>
+
 </html>
