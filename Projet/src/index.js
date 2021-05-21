@@ -62,7 +62,7 @@ function moveProgressBar(value){
 
 
 // ##### Map ######
-const map = L.map('map').setView([46.79845, 8.23188], 7);
+const map = L.map('map').setView([46.79845, 8.23188], 8);
 
 function isDismantled (currentYear, yearOfDismantling) {
 	if(yearOfDismantling == "" || currentYear < yearOfDismantling) {
