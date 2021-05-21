@@ -46,11 +46,18 @@ progress.transition()
 	.attr('width', 10);
 
 function moveProgressBar(value){
-	document.getElementById("production-label").innerHTML = "<b>Production annuelle</b><br>" + kwToGw(value).toFixed(4) + " GWh";
+	if(value == 0 ) {
+		document.getElementById("production-label").innerHTML = "<b>Production annuelle</b><br>[not available]";
+		progress.transition()
+			.duration(1000)
+			.attr('width', 0);
+	} else {
+		document.getElementById("production-label").innerHTML = "<b>Production annuelle</b><br>" + kwToGw(value).toFixed(4) + " GWh";
 
-	progress.transition()
-		.duration(1000)
-		.attr('width', kwToPx(value));
+		progress.transition()
+			.duration(1000)
+			.attr('width', kwToPx(value));
+	}
 }
 
 
@@ -74,12 +81,14 @@ const iconDown = L.icon({
   iconUrl: 'https://pics.freeicons.io/uploads/icons/png/6505515751548329636-512.png',
   iconSize: [50, 50],
   iconAnchor: [25, 50],
+  popupAnchor: [0, -50],
 });
 
 const iconUp = L.icon({
 	iconUrl: 'https://www.shareicon.net/data/512x512/2015/09/07/97540_wind_512x512.png',
 	iconSize: [50, 50],
 	iconAnchor: [25, 50],
+	popupAnchor: [0, -50],
   });
 
 var layerGroup = L.layerGroup().addTo(map);
@@ -120,7 +129,7 @@ function updateData(newYear) {
 	try {
 		moveProgressBar(production_data.filter(d => d.year == newYear)[0].yearlyProduction);
 	} catch (error) {
-		document.getElementById("production-label").innerHTML = "<b>Production annuelle</b><br>[not available]";
+		moveProgressBar(0);
 	}
 }
 
@@ -133,17 +142,34 @@ slider.addEventListener("input", () => updateData(slider.value));
 slider.addEventListener("change", () => updateData(slider.value));
 
 // Animation
-/*
+
+let pauseBtn = document.getElementById("pause");
+let playBtn = document.getElementById("play");
+let isPaused = false;
+
+// Pause 
+pauseBtn.addEventListener("click", () => {
+	pauseBtn.classList = "d-none";
+	playBtn.classList = "";
+	isPaused = true;
+});
+
+// Play
+playBtn.addEventListener("click", () => {
+	playBtn.classList = "d-none";
+	pauseBtn.classList = "";
+	isPaused = false;
+});
+
 setInterval(() => {
-	let range = document.getElementById("myRange");
-
-	console.log(range.value);
-
-	if(parseInt(range.value) < 2020) {
-		range.value = parseInt(range.value) + 1;
-	} else {
-		range.value = 1986;
+	if(!isPaused) {
+		let range = document.getElementById("myRange");
+	
+		if(parseInt(range.value) < 2020) {
+			range.value = parseInt(range.value) + 1;
+		} else {
+			range.value = 1986;
+		}
+		updateData(range.value);
 	}
-	updateData(range.value)
 }, 1000);
-*/

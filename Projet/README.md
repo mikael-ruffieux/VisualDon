@@ -1,5 +1,10 @@
 # Projet
 
+## 21 mai
+
+- Corrections de petits bugs d'affichage et de mise à jour des données
+- Ajout du bouton play/pause du slider
+
 ## 11 mai
 
 - Désactivation du `setInterval`, un peu "too much" ;

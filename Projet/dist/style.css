@@ -58,8 +58,36 @@ html, body {
     max-height: 40px;
   }
 
+  .slider-line {
+    display: flex;
+  }
+
+  #slider {
+    width: 100%;
+    margin-left: 10px;
+  }
+
   .slider {
     width: 100%; 
     height: 25px; 
     margin-top: 10px
+  }
+
+  #play, #pause {
+    width: 45px;
+    height: 45px;
+    background-color: transparent;
+    border: none;
+    background-repeat: no-repeat;
+    background-position-x: left;
+    background-position-y: center;
+    padding: 0;
+  }
+
+  #play {
+    background-image: url(./play-button.svg);
+  }
+
+  #pause {
+    background-image: url(./pause-button.svg);
   }
