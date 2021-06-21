@@ -1,9 +1,24 @@
-# Projet
+# Projet VisualDon - Mikaël Ruffieux
+
+## Description du projet
+
+L'application est disponible à l'adresse suivante : <a href="http://visualdon.redox-prod.ch/dist/index.html" targe="_blank">http://visualdon.redox-prod.ch/dist/index.html</a>.
+
+Le projet recense la production d'électricité éolienne en Suisse, ainsi que les années et emplacements de construction d'installations éoliennes sur le territoire entre les années 1987 et 2020.
+
+Les données proviennent de [opendata.swiss](https://opendata.swiss/fr/dataset/windenergieanlagen).
+
+Ce projet est réalisé dans le cadre du cours de [Visualisation de données](https://github.com/idris-maps/heig-datavis-2021), enseigné par M. Anders Bengston.
+
+## 21 juin
+
+- Corrections finales ;
+- Compilation du code (avec `npm run build`).
 
 ## 21 mai
 
-- Corrections de petits bugs d'affichage et de mise à jour des données
-- Ajout du bouton play/pause du slider
+- Corrections de petits bugs d'affichage et de mise à jour des données ;
+- Ajout du bouton play/pause du slider, réactivation du `setInterval`.
 
 ## 11 mai
 

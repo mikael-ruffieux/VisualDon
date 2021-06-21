@@ -1,7 +1,7 @@
 {
   "name": "webmobui",
   "version": "1.0.0",
-  "description": "WebMobUI IM",
+  "description": "VisualDon",
   "main": "index.js",
   "scripts": {
     "preview": "live-server dist/",
